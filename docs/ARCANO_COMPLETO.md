@@ -1824,7 +1824,6 @@ Os Aba, com sua capacidade de se multiplicarem e de se adaptarem às mais divers
 | Os Humanos Aba (1 ponto) Victory • Adaptabilidade. Escolha uma vantagem que possua. Você pode usá-la por metade do custo em PM.  |
 | :---- |
 
-| Full body pose, standing middle aged man with gray hair, mustache in full medieval armor, with shield resting on the ground, sword in hand, metal boots, white background, magic the gathering style |
 | :---- |
 
 # **Os Elfos Abaré** {#os-elfos-abaré}
@@ -1861,7 +1860,6 @@ Embora sejam uma visão rara em muitas partes do mundo, a natureza errante dos m
 | Meio Elfo (1 ponto) Victory • Carismático. Meio-abarés têm facilidade para influenciar pessoas. • Sentido Visão . Meio-abaré têm visão aguçada. Sempre que testar Percepção relacionado à visão (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Fracote. Meio-abarés são mais fracos que os humanos normais.  |
 | :---- |
 
-| Full body pose, detailed, intricate, female elf, standing with white hair, dark skin, tattoos, clothes made from plants, magical wooden sword, feet in slippers, white background, magic the gathering style Full body pose, detailed, intricate, female elf, standing with white hair, dark skin, tribal tattoo, with wooden armor, wooden sword, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Os Anões Akitã** {#os-anões-akitã}
@@ -1914,7 +1912,6 @@ Navegando entre dois mundos, mas plenamente aceitos em nenhum, os Meio-Akitãs r
 
  
 
-| Full body pose, detailed, intricate, male D\&D dwarf, broad shoulders, standing brown hair, long beard, beard with braid, fair skin, with full metal armor with sharp lines, large shield on arm, double axe, detailed feet , white background, magic the gathering style full body pose, detailed, intricate, color image, bald D\&D man, broad shoulders, standing, bald, no beard, with tattoos on head, light skin, in gladiator armor with sharp lines, large shield on arm, axe double, detailed feet, white background, magic meeting style, magic the gathering style Full body pose, detailed, intricate, color image, male D\&D half-dwarf, no beard, broad shoulders, standing, bald, unshaven, with head tattoos, fair skin, in full metal armor with sharp lines, large shield on arm, double axe, detailed feet, white background, magic the gathering style Full body pose, detailed, intricate, color image, female D\&D half-dwarf, broad shoulders, standing, bald, with tattoos on head, light skin, with bikini plate armor, large shield on arm, double axe, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Os Halflings Kaapora** {#os-halflings-kaapora}
@@ -1953,7 +1950,6 @@ Gnomos que se estabelecem em terras humanas frequentemente ocupam posições com
 | Gnomo Piquira (1 ponto) Victory • Inventivos. Piquiras são muito bons em tecnologia. Sempre que testar Máquinas (mesmo que não tenha a perícia), o atributo correspondente tem \+1. Além disso, você recebe Sentido (Olfato). • Pequenos Desejos. Piquiras são conhecidos por usar pequenos truques e magias menores o tempo todo. Eles podem usar a Técnica *Pequenos Desejos* mesmo sem ter a perícia Mística, ou a vantagem Magia. • Diferente. Piquiras não podem usar roupas, armas ou equipamentos feitos para humanos. |
 | :---- |
 
-| Full body pose, colorful, detailed, intricate, male world of warcraft gnome, short stature, inventor, round glasses, short hair, tools in hand, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Os Kemonos Yawara (1 ponto)** {#os-kemonos-yawara-(1-ponto)}
@@ -2000,7 +1996,6 @@ Nos impérios humanos, os meio-orcs geralmente encontram trabalho como brutamont
 | Meio-Orc (1 ponto) Victory • Intimidador. Meio-Abaités são assustadores e despertam o medo nas pessoas. Você sempre tem Ganho em testes de Influência para assustar, intimidar ou amedrontar alguém. • Subterrâneo. Você recebe Sentido (Infravisão). Você também tem Ganho em testes de R para evitar ou cancelar doenças e venenos, sejam naturais ou mágicos. • Tapado. Você não está entre os mais inteligentes. • Atenção. Este arquétipo corresponde ao Meio-abaité, porque recomendamos que personagens de jogadores não sejam Orcs, criaturas vis e assassinos cruéis, mas se mesmo assim você quiser jogar com um Abaité, adicione a este arquétipo, as vantagens e desvantagens:  • Brutal. Abaités são fortes e brutais. Escolha uma vantagem entre Forte ou Vigoroso.  • Intimidador. Meio-Abaités são assustadores e despertam o medo nas pessoas. Você sempre tem Ganho em testes de Influência para assustar, intimidar ou amedrontar alguém. • Subterrâneo. Você recebe Sentido (Infravisão). Você também tem Ganho em testes de R para evitar ou cancelar doenças e venenos, sejam naturais ou mágicos. • Tapado. Você não está entre os mais inteligentes. • Infame. Ninguém gosta de ter assassinos cruéis por perto. |
 | :---- |
 
-| Full body pose, detailed, intricate, male warcraft orc, very strong, standing, bald, with tattoos on head, red skin, with leather armor, double axe, detailed feet, white background, magic the gathering style Full body pose, detailed, intricate, male D\&D orc, red skin, very strong, standing, tribal tattoos, with leather armor, double axe, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Licantropos** {#licantropos}
@@ -2037,7 +2032,6 @@ Nas pequenas aldeias itinerantes Anaitis, especialmente aquelas próximas aos Mo
 | Meio-Gigantes Anaiti (1 ponto) Victory • Destruidor. Quase nada causa mais estrago que um Anaiti. Em combate violento, quando consegue um acerto crítico em um teste para atacar um oponente Perto, você pode pagar 1PM para somar seu Poder mais uma vez. Você só pode usar esse poder uma vez por ataque, mesmo que consiga mais de um crítico. • Gigante. Você recebe Forte e pode pagar 1PM para conseguir um crítico com 5 ou 6 nos dados em testes de Poder para esforço físico (levantar peso, derrubar uma porta…), testes de iniciativa, e testes de Habilidade para correr ou perseguir um alvo. • Intimidador. Quase nada é tão assustador quanto um Anaiti. Você sempre tem Ganho em testes de Influência para assustar, intimidar ou amedrontar alguém. • Diferente. Quase nada é tão grande quanto um Anaiti. • Tapado. Você não é a mais esperta das pessoas. |
 | :---- |
 
-| Full body pose, detailed, intricate, color image, male D\&D small giant, strong, barbarian, improvised armor, giant sword, detailed feet, white background, magic the gathering style Full body pose, detailed, intricate, color image, female D\&D small giant, strong, big tits, barbarian, holding warhammer, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Os Auçá (1 Ponto)** {#os-auçá-(1-ponto)}
@@ -2073,7 +2067,6 @@ Os Abaquar, não envelhecem nem adoecem mas quando seu tempo de vida chega ao fi
 | Abaquar (3 pontos) Victory • Memória Póstuma. Escolha uma perícia qualquer. Sempre que testá-la (mesmo que não tenha a perícia), o atributo correspondente tem \+1. • Teratismo. Os Abaquar têm poderes passados de suas vidas passadas. Você tem desconto de 1 ponto na compra de vantagens, um Truque ou Técnica Comum (veja em “Recompensas”) à sua escolha. • Vôo. Todos os Abaquar podem voar, devido a sua descendência de anjos. • Antipático. Você é um Abaquar, já viveu muitas vidas, tem muitas mágoas e ressentimentos reprimidos ou é apenas um velho rabugento e não tem mais paciência para agradar os outros, de qualquer forma, você é antipático. |
 | :---- |
 
-| Full body pose, angel, with white eyes, long hair, color image in full medieval armor, with shield resting on the ground, sword in hand, metal boots, white background, magic the gathering style |
 | :---- |
 
 # **As Icamiabas** {#as-icamiabas}
@@ -2130,7 +2123,6 @@ As Tribus dos Reptantes ficam em sua grande maioria na Terra Selvagem, disputand
 | Reptante (1 ponto) Victory • Talento. Reptantes têm certas aptidões físicas ou mentais, dependendo de sua herança réptil. Escolha uma vantagem entre Ágil, Carismático, Forte, Gênio, Resoluto ou Vigoroso. • Camuflagem. Reptantes têm movimentos lentos, coloração igual ao ambiente e muita paciência. Você sempre tem Ganho em testes para se esconder. • Fraqueza (Frio). Você fica lerdo no frio. Leva um casaquinho. |
 | :---- |
 
-| Reptantes full body pose, detailed, color image, lizard man from D\&D, in leather armor with sharp lines, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Minotauros** {#minotauros}
@@ -2142,7 +2134,6 @@ Os corpos de minotauros têm forma e construção semelhantes aos de um ogro. Su
 | Minotauro (1 ponto) Victory |
 | :---- |
 
-| minotauro full body pose, detailed, intricate, color image, D\&D minotaur bull man, large and strong, in leather armor with sharp lines, double great axe, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # 
@@ -2166,7 +2157,6 @@ Embora os Gnóis não sejam necessariamente maus, o desejo pela caça e a sede d
 | Gnól (1 ponto) Victory • Ágil. Gnóis são esguios e rápidos. • Percepção Apurada. Gnols têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Vigoroso. Por seus hábitos de comer carniça e coisas podres, eles são muito mais resistentes. • Infame. Ninguém gosta de ter assassinos cruéis por perto. |
 | :---- |
 
-| gnoll full body pose, detailed, intricate, color image, Gnoll hyena woman from D\&D, slim, in leather armor with sharp lines, prehistoric spear, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **Goblinoides** {#goblinoides}
@@ -2195,7 +2185,6 @@ Bugbears, como outros goblinóides, têm a reputação de serem estúpidos e bru
 
 Bugbears são frequentemente encontrados na companhia de outros goblinóides, particularmente goblins, já que tribos compostas principalmente de hobgoblins e bugbears tendem a ser exterminados rapidamente por  outros espécies como precaução. Alguns bugbears também operam de forma independente, embora as tribos governadas por hobgoblins fossem mais bem organizadas e menos selvagens. Isto acontecia em parte porque os bugbears tem pouca paciência para a diplomacia ou a negociação, preferindo soluções violentas aos conflitos, a menos que fossem obviamente dominados
 
-| goblinoides full body pose, detailed, color image, green litle goblin from D\&D, in leather armor with sharp lines, detailed feet, white background, magic the gathering style |
 | :---- |
 
 # **IMPÉRIO**
@@ -17836,8 +17825,6 @@ A Aura Mística de Vulcazar
 
 Essa magia simplesmente permite ao mago emanar uma aura tão poderosa que não pode ser dissipada por nenhuma magia\! Muito útil para escapar de autoridades arcanas, como fez seu criador uma vez...
 
-
-
 Com base nos documentos fornecidos, os personagens do cenário de Arcano estão divididos entre estudantes, membros da Ordem, figuras lendárias e habitantes de diversas regiões. Segue a lista detalhada:
 
 Protagonistas e Estudantes (Time do Drago)
@@ -18173,8 +18160,6 @@ O único ruído era o zumbido baixo das máquinas que nunca desligavam, quase im
 Por ali a luz artificial era permanente, já que o sol raramente alcançava aqueles níveis baixos, bloqueado pelas torres.
 As filas dobravam esquinas, e depois outras esquinas. Num canto isolado da praça, um grupo de guardas espancava um homem com ferocidade. As pessoas nas filas ao lado desviavam o olhar.
 
-
-
 Havia várias filas, começando em pontos diferentes. Misty caminhou até o início da mais próxima. Era um ponto de distribuição de comida. A mulher entregou sua caderneta; um funcionário devolveu um saco com suprimentos; o fiscal anotou algo na caderneta, devolveu-a e falou, impessoal:
 — Crédito social baixo. Redução de vinte por cento na ração familiar semanal. Próximo!
 Ela recolheu o saco murcho e apressou o passo, forçando a filha. Uma criança ao lado dela com pernas e braços magros e a barriga estufada. A criança puxou a mão da mãe.
@@ -18289,8 +18274,6 @@ Os líderes do movimento pediram ao Senado os mesmos direitos dos trabalhadores 
 — Entendi. Outra coisa: por que todos falam dos Cem Anos? O que é isso?
 — Ninguém sabe! — Ele deu de ombros. — As únicas informações que temos foram transmitidas de forma oral desde a criação do Império. Dizem que o Império nasceu a partir de atrocidades indizíveis. Tudo isso que conhecemos hoje foi fundado sobre os ossos do nossosantepassados. As pessoas chamam esse período de Cem Anos de Silêncio.
 O que será que eles fizeram? Talvez isso explicasse por que a mana deste mundo mudara tanto em míseros mil anos.
-
-
 
 — Eu quero entrar em contato com os líderes desta sua rebelião.
 Rugion foi até a porta, girou a tranca com um clique seco, e puxou as cortinas um pouco mais fechadas, embora já estivessem cobrindo quase toda a fresta da janela. Só então voltou à mesa, onde a única lamparina acesa tremia entre os dois, escondendo o resto do cômodo na penumbra.
@@ -20138,7 +20121,6 @@ Que o mestre de seu mestre também conheceu.
 E que incontáveis gerações chamaram de lar.
 Depois disso, nunca mais houve um ritual de passagem, o único mestre do Templo da Sabedoria  conhece desde de ontem, hoje e até o fim dos tempos  será Escuridão.
 Fim?
-
 
 # A SAGA DAS TREVAS
 
