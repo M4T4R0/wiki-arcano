@@ -1,6 +1,5 @@
 site_name: Wiki Arcano & Airy
 site_url: https://M4T4R0.github.io/wiki-arcano/
-docs_dir: '.'
 theme:
   name: material
   palette:
