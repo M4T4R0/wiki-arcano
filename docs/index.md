@@ -26,9 +26,10 @@
 | Livro | Link |
 |-------|------|
 | Nimbus e os Cavaleiros de Cenferum | [PT-BR](https://github.com/M4T4R0/r2d2-brain/blob/main/projects/Literatura/knowledge/doc_b26712126093_Nimbus%20e%20os%20Cavaleiros%20de%20Cenferum.md) / [English](https://github.com/M4T4R0/r2d2-brain/blob/main/projects/Literatura/knowledge/doc_4adef6103ab9_Nimbus%20e%20os%20Cavaleiros%20de%20Cenferum%20Tradu%C3%A7%C3%A3o%20Ingl%C3%AAs.md) |
-| O Insano Amor de Ádvena | Publicado 2016 |
-| O Alfaiate Valente (steampunk) | Conto publicado |
-| A Cidade dos Ladrões (Contos de Arcano) | Conto publicado |
+| O Alfaiate Valente (steampunk) | [Amazon](https://www.amazon.com.br/Alfaiate-Valente-Um-Conto-Steampunk-ebook/dp/B09Q28TNBY) |
+| A Cidade dos Ladrões (Contos de Arcano) | [ElevenReader](https://elevenreader.io/audiobooks/a-cidade-dos-ladroes-audiobook/mntdZ7neAGdFFhbHtPlZ) |
+| O Andarilho e a Floresta (Contos de Arcano) | [ElevenReader](https://elevenreader.io/audiobooks/o-andarilho-e-a-floresta-audiobook/v1AvKUEaKpLJ2sotVnup) |
+| Dicas para seu Primeiro Livro | [Wattpad](https://www.wattpad.com/story/83787452-dicas-para-o-seu-primeiro-livro) |
 
 ---
 

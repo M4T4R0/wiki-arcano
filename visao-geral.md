@@ -115,7 +115,6 @@
 | Obra | Protagonista | Status |
 |---|---|---|
 | **Nimbus e os Cavaleiros de Cenferum** | Nimbus (órfão, sonha ser cavaleiro) | Livro 1 publicado |
-| **O Insano Amor de Ádvena** | Ádvena (capitã misantropa) | Publicado 2016 |
 | **O Alfaiate Valente** | Releitura steampunk | Conto publicado |
 | **A Cidade dos Ladrões** | Sargaen, Azeron (mago foragido) | Contos de Arcano |
 
