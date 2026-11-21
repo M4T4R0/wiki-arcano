@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Sangue Gigante**
-> **Personagens nascidos em Terra Selvagem**: *Sangue Gigante* (+1 Poder; crítico 5-6 c/ 1 PM).
+> **Personagens nascidos em [terra selvagem](terra-selvagem.md)**: *Sangue Gigante* (+1 Poder; crítico 5-6 c/ 1 PM).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Sangue Gigante**
-> **Personagens nascidos em Terra Selvagem**: *Sangue Gigante* (+1 Poder; crítico 5-6 c/ 1 PM).
+> **Personagens nascidos em [terra selvagem](terra-selvagem.md)**: *Sangue Gigante* (+1 Poder; crítico 5-6 c/ 1 PM).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Sudoeste](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

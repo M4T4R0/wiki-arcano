@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **— (Requer Manto especial)**
-> **Personagens nascidos em Sam-Mael**: — (Requer Manto especial).
+> **Personagens nascidos em [sam-mael](sam-mael.md)**: — (Requer Manto especial).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **— (Requer Manto especial)**
-> **Personagens nascidos em Sam-Mael**: — (Requer Manto especial).
+> **Personagens nascidos em [sam-mael](sam-mael.md)**: — (Requer Manto especial).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Céus (Ilha Voadora)](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

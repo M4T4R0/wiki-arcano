@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Casas nas Colinas**
-> **Personagens nascidos em Anama**: *Casas nas Colinas* (+1 Furtividade/Sobrevivência colinas).
+> **Personagens nascidos em [anama](anama.md)**: *Casas nas Colinas* (+1 Furtividade/Sobrevivência colinas).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Casas nas Colinas**
-> **Personagens nascidos em Anama**: *Casas nas Colinas* (+1 Furtividade/Sobrevivência colinas).
+> **Personagens nascidos em [anama](anama.md)**: *Casas nas Colinas* (+1 Furtividade/Sobrevivência colinas).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Deserto Leste](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

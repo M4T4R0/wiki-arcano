@@ -1,7 +1,7 @@
 ### Huck Hor (Comandante da Cavalaria)
-> *Citado: "Kaluana, cidade militar e produtiva, entregue a Huck Hor, comandante da cavalaria."*
+> *Citado: "[kaluana](../../factions/reinos/kaluana.md), cidade militar e produtiva, entregue a Huck Hor, comandante da cavalaria."*
 - **Classe**: Guerreiro / Comandante
-- **Domínio**: Kaluana
+- **Domínio**: [kaluana](../../factions/reinos/kaluana.md)
 - **Especialidade**: Cavalaria
 
 ---

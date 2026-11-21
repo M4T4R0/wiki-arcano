@@ -5,7 +5,7 @@
 ---
 
 ## Papel
-Possível retorno / seita em Moacuba
+Possível retorno / seita em [moacuba](../../factions/reinos/moacuba.md)
 
 ## Notas
 Rumores de culto nas sombras

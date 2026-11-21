@@ -21,14 +21,14 @@
 
 ## 🧙 Arcanos Imperiais
 
-> *Polícia secreta mágica; regulação, caça às Trevas, portal Ypy-Jurubatiba.*
+> *Polícia secreta mágica; regulação, caça às Trevas, portal Ypy-[jurubatiba](../factions/reinos/jurubatiba.md).*
 
 | Item | Tipo | Efeito | Quem Usa |
 |------|------|--------|----------|
 | **Armadura Arcana** | Armadura | PdF 4; runas de proteção; -1 PM para conjurar | Todos Arcanos |
 | **Armadura do Gram-Mestre** | Armadura | PdF 5; -2 PM magia; 1×/cena: *Cúpula de Energia* (grátis) | Gram-Mestres (7) |
 | **Armadura do Arqui-Mestre** | Armadura | PdF 6; -3 PM; 1×/dia: *Anti-Magia* (área 20m) | Arqui-Mestre (1) |
-| **Manto de Sam-Mael** | Manto | **Imune a sucção de PM** em Sam-Mael (10 conhecidos) | Arqui-Mestre, Gram-Mestres, hóspedes |
+| **Manto de [sam-mael](../factions/reinos/sam-mael.md)** | Manto | **Imune a sucção de PM** em [sam-mael](../factions/reinos/sam-mael.md) (10 conhecidos) | Arqui-Mestre, Gram-Mestres, hóspedes |
 | **Círculo de Teleporte (Ypy↔Jurubatiba)** | Portal | Permanente; guardado 24/7; 10 min viagem | Arcanos / Autorizados |
 | **Grimório de Regulação** | Livro | Licenças, registro grimórios, proibições, caça Trevas | Arcanos (todos) |
 | **Detector de Trevas** | Item | Aponta usuário de Trevas (meta 20 - Pts Trevas) | Inquisidores / Caçadores |
@@ -87,7 +87,7 @@
 | **Treinador (200)** | Escudo do Treinador + Armadura Padrão | PdF +2; ensina *Escudo Como Arma* |
 | **Senhor do Escudo (1.300)** | Escudo Padrão + Armadura Padrão | PdF +2; *Escudo Como Arma* + *Escudo Protetor* |
 
-> **Sede**: Kisé (Forte da Última Esperança) + Ypy (Cidadela Imperial)
+> **Sede**: [kisé](../factions/reinos/kise.md) (Forte da Última Esperança) + Ypy (Cidadela Imperial)
 
 ---
 
@@ -117,7 +117,7 @@
 |------|--------|------|
 | **Exoesqueleto Natural** | PdF = F + 2; Regeneração 1PV/rodada | Sem placas; mobilidade total |
 | **Machado de Guerra Livre** | +1 FA; +1 Furtividade | Mais leve; furtivo |
-| **Armadura de Furtividade** | PdF +1; +2 Furtividade; camuflagem pântano | Pântanos de Naur'Ush |
+| **Armadura de Furtividade** | PdF +1; +2 Furtividade; camuflagem pântano | Pântanos de [naur'ush](../factions/reinos/naurush.md) |
 | **Túneis de Fuga** | Rede subterrânea; escapa cerco | Só Auçá Livres conhecem |
 
 ---
@@ -165,7 +165,7 @@
 | Facção | Armas | Armaduras | Escudos | Itens Especiais |
 |--------|-------|-----------|---------|-----------------|
 | **Senhores do Escudo** | — | ✅ (PdF 5-6) | ✅ (Lendários) | Muralha, Escudo Protetor |
-| **Arcanos Imperiais** | ✅ (Rúnicas) | ✅ (Arcanas) | — | Portal, Detector Trevas, Manto Sam-Mael |
+| **Arcanos Imperiais** | ✅ (Rúnicas) | ✅ (Arcanas) | — | Portal, Detector Trevas, Manto [sam-mael](../factions/reinos/sam-mael.md) |
 | **Guilda ERA** | ✅ (Aluguel) | ✅ (Aluguel) | — | Bússola Mana, Mapa Vivo, Contratos |
 | **Exército Imperial** | ✅ (Padrão) | ✅ (Padrão/Elite) | ✅ (Padrão) | Engenheiros, Magos de Batalha |
 | **Auçá Imperiais** | ✅ (Machados) | ✅ (Placas + Exoesqueleto) | — | Armadura de Cerco |

@@ -7,15 +7,15 @@
 
 | Nome | Papel | Notas |
 |------|-------|-------|
-| **Vlad Dracul** | Possível retorno / seita em Moacuba | Rumores de culto nas sombras |
-| **Homem Leão** | Líder dos Yawara (Arquipélago Acag) | Traços animais |
-| **Faraós de Ybi** | Dinastias mortas-vivas | Aprenderam mumificação de Karnos Minor |
-| **Paladinos de Aisó** | Ordem religiosa/militar | "A Luz nas Sombras" (Ano 96) |
-| **Guarda Açã** | Prisioneiros que se revoltaram em Ypiturui | Auçá / simpatizantes Auçá Livres |
-| **Casa Agar** | Nobreza de Kisé | Forte influência; manipula construção da Parte Nova |
-| **Casa Kalan** | Comércio Aba-Auçá | Espionagem, chantagem, artefato mental? |
-| **Casa Kalan** | Controle comércio | Manipula ambos lados |
-| **Alquimista/Arquimago Misty As-La** | Criador da Infestação | Ver acima |
+| **[vlad dracul](vlad-dracul.md)** | Possível retorno / seita em [moacuba](../../factions/reinos/moacuba.md) | Rumores de culto nas sombras |
+| **[homem leão](homem-leão.md)** | Líder dos Yawara (Arquipélago Acag) | Traços animais |
+| **[faraós de ybi](faraós-de-ybi.md)** | Dinastias mortas-vivas | Aprenderam mumificação de Karnos Minor |
+| **[paladinos de aisó](paladinos-de-aisó.md)ó](../../factions/reinos/aiso.md)** | Ordem religiosa/militar | "A Luz nas Sombras" (Ano 96) |
+| **[guarda açã](guarda-açã.md)** | Prisioneiros que se revoltaram em [ypiturui](../../factions/reinos/ypiturui.md) | Auçá / simpatizantes Auçá Livres |
+| **[casa agar](casa-agar.md)** | Nobreza de [kisé](../../factions/reinos/kise.md) | Forte influência; manipula construção da Parte Nova |
+| **[casa kalan](casa-kalan.md)** | Comércio Aba-Auçá | Espionagem, chantagem, artefato mental? |
+| **[casa kalan](casa-kalan.md)** | Controle comércio | Manipula ambos lados |
+| **[alquimista/arquimago misty as-la](alquimistaarquimago-misty-as-la.md)** | Criador da Infestação | Ver acima |
 
 ---
 
@@ -38,6 +38,6 @@
 | 🔴 Alta | **Sidius (Acemira)** | Líder Auçá; xenofóbico, perigoso |
 | 🟡 Média | **Elros Palantír** | Abaré com ficha parcial; aliado/inimigo mágico |
 | 🟡 Média | **Belero Leroy (Oráculo de Moá)** | Vampiro mago; fonte de segredos |
-| 🟡 Média | **Purpleskull Arc** | Mestre das sombras; governante de Nambiquara |
+| 🟡 Média | **Purpleskull Arc** | Mestre das sombras; governante de [nambiquara](../../factions/reinos/nambiquara.md) |
 | 🟢 Baixa | **Arthur Áureo** | General/Imperador jovem; herói trágico |
-| 🟢 Baixa | **Ror** | General Auçá rebelde; fundador de Naur'Ush |
+| 🟢 Baixa | **Ror** | General Auçá rebelde; fundador de [naur'ush](../../factions/reinos/naurush.md) |

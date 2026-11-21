@@ -104,7 +104,7 @@
 | **Escudo do Mestre** | +2 PdF; 1×/cena: **Muralha de Escudos** (área 5m; +2 PdF a aliados) |
 
 > **Ordem**: 1 Mestre + 200 Treinadores + 1.300 Senhores do Escudo ativos.
-> **Patrono**: Ordem dos Senhores do Escudo (Kisé/Ypy).
+> **Patrono**: [ordem dos senhores do escudo](../factions/ordem-senhores-escudo.md) (Kisé/Ypy).
 
 ---
 
@@ -145,12 +145,12 @@
 
 | Forja | Localização | Especialidade | Mestre |
 |-------|-------------|---------------|--------|
-| **Grande Forja de Kaluana** | Kaluana | Espadas, armaduras, balistas, selas | Mestre Ferreiro-Chefe (40 anos) |
+| **Grande Forja de [kaluana](../factions/reinos/kaluana.md)** | [kaluana](../factions/reinos/kaluana.md) | Espadas, armaduras, balistas, selas | Mestre Ferreiro-Chefe (40 anos) |
 | **Forja Imperial (Ypy)** | Ypy | Armaduras de elite, runas, portal | Artesãos Imperiais |
-| **Urgrosh (Loja/Forja)** | Kisé | Armas anãs, Urgrosh, equipamento de fronteira | Artesãos Anões |
-| **Forja de Andirá** | Andirá (Mundo Interior) | Ferro puro, aço anão, cutelaria | Mestre de Minas / Ferreiro |
-| **Forja de Aratama** | Aratama | Cutelaria, ourivesaria, lâminas de montanha | Mestre Ferreiro |
-| **Forja dos Senhores do Escudo** | Kisé/Ypy | Escudos, acessórios, armaduras de defesa | Mestre do Escudo |
+| **Urgrosh (Loja/Forja)** | [kisé](../factions/reinos/kise.md) | Armas anãs, Urgrosh, equipamento de fronteira | Artesãos Anões |
+| **Forja de [andirá](../factions/reinos/andira.md)** | [andirá](../factions/reinos/andira.md) (Mundo Interior) | Ferro puro, aço anão, cutelaria | Mestre de Minas / Ferreiro |
+| **Forja de [aratama](../factions/reinos/aratama.md)** | [aratama](../factions/reinos/aratama.md) | Cutelaria, ourivesaria, lâminas de montanha | Mestre Ferreiro |
+| **Forja dos Senhores do Escudo** | [kisé](../factions/reinos/kise.md)/Ypy | Escudos, acessórios, armaduras de defesa | Mestre do Escudo |
 
 ---
 

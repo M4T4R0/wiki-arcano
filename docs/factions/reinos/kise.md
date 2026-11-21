@@ -1,20 +1,20 @@
 # Kisé — Posto Militar do Norte
 
-> **Guarnição militar estratégica** — Cidade gêmea de Irundyna, escudo do Império contra a Infestação.
+> **Guarnição militar estratégica** — Cidade gêmea de [irundyna](irundyna.md), escudo do Império contra a Infestação.
 
 ---
 
 ## 📍 Localização
 - **Região**: Norte do Império Aba, fronteira com a Infestação
 - **Coordenadas**: Rio Tupã divide a cidade (Parte Velha / Parte Nova)
-- **Distância**: ~2h a cavalo de Ypy; 30 min de Irundyna
+- **Distância**: ~2h a cavalo de Ypy; 30 min de [irundyna](irundyna.md)
 - **Clima**: Temperado frio; nevoeiros matinais; vento norte constante
 
 ---
 
 ## 🏛️ Governo e Política
 - **Regente nominal**: Governador militar indicado por Ypy
-- **Poder real**: **Casa Agar** (nobreza local, forte influência na capital)
+- **Poder real**: **[casa agar](../../npcs/individual/casa-agar.md)** (nobreza local, forte influência na capital)
 - **Tipo**: Governo militar-civil híbrido; lei marcial frequente
 - **Tensão**: Parte Velha (pobres) vs Parte Nova (ricos/nobres) — segregação oficial
 
@@ -25,7 +25,7 @@
 - **Função**: Escudo norte — contenção de Abaité/Anaiti + monitoramento Infestação
 - **Fortificações**: Muralhas duplas, torres de vigia, balistas, fossos
 - **Patrulhas**: Constantes até a Grande Muralha (norte)
-- **Comandante**: Indicado por Ypy; geralmente leal à Casa Agar
+- **Comandante**: Indicado por Ypy; geralmente leal à [casa agar](../../npcs/individual/casa-agar.md)
 
 ---
 
@@ -38,7 +38,7 @@
 - **Reforma**: "Adiada deliberadamente" por interesses da nobreza
 
 ### Parte Nova (Margem Leste do Tupã)
-- **População**: Nobres, oficiais altos, ricos comerciantes, Casa Agar
+- **População**: Nobres, oficiais altos, ricos comerciantes, [casa agar](../../npcs/individual/casa-agar.md)
 - **Infraestrutura**: Planejada, larga, pavimentada, esgotos, iluminação mágica
 - **Acesso**: **Proibido para pobres** — guardas nas pontes barram entrada
 - **Edifícios**: Mansões, academias de oficiais, jardins, palácios
@@ -66,7 +66,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Guarnição Militar**
-> **Personagens nascidos em Kisé**: **+1 em testes de Poder e Resistência**.
+> **Personagens nascidos em [kisé](kise.md)**: **+1 em testes de Poder e Resistência**.
 > *Reflete o ambiente militarizado e as condições duras da fronteira norte.*
 
 ---
@@ -74,9 +74,9 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Governador Militar** | Comandante | Indicado por Ypy; leal à Casa Agar |
-| **Casa Agar** | Nobres locais | Controlam Parte Nova; influência em Ypy; manipulam construção |
-| **Comandante da Guarda** | Chefe da segurança | Controla acesso às pontes; leal à Casa Agar |
+| **Governador Militar** | Comandante | Indicado por Ypy; leal à [casa agar](../../npcs/individual/casa-agar.md) |
+| **[casa agar](../../npcs/individual/casa-agar.md)** | Nobres locais | Controlam Parte Nova; influência em Ypy; manipulam construção |
+| **Comandante da Guarda** | Chefe da segurança | Controla acesso às pontes; leal à [casa agar](../../npcs/individual/casa-agar.md) |
 | **Líder Revolta** | Oposição (oculto) | Organiza sabotagens na Parte Velha; procurado |
 
 ---
@@ -97,18 +97,18 @@
 ## 🎯 Ganchos de Aventura
 1. **Sabotagem na Ponte Nova** — Alguém minou os alicerces; investigação na Parte Nova
 2. **Refugiados com Segredo** — Grupo foge do norte carregando algo (mapa? artefato? criança especial?)
-3. **Espionagem Casa Agar vs Kalan** — PC recrutado como informante duplo
+3. **Espionagem [casa agar](../../npcs/individual/casa-agar.md) vs Kalan** — PC recrutado como informante duplo
 4. **Revolta Iminente** — Fome + repressão = explosão; PCs podem mediar ou esmagar
-5. **Infestação Avança** — Patrulha não retorna; algo cruzou a Muralha perto de Kisé
+5. **Infestação Avança** — Patrulha não retorna; algo cruzou a Muralha perto de [kisé](kise.md)
 
 ---
 
 ## 📜 História Recente
-- **-29 anos**: Repopulação de **Norvaen** (antigo nome) + Aslareth → **Kisé** + **Irundyna**
+- **-29 anos**: Repopulação de **Norvaen** (antigo nome) + Aslareth → **[kisé](kise.md)** + **[irundyna](irundyna.md)**
 - **Fundação**: Posto militar estratégico pelo Exército Imperial
-- **Anos 347, 352**: **Cercos de Kisé** — Abaité + Anaiti + Orcs; rompidos pelo Exército
+- **Anos 347, 352**: **Cercos de [kisé](kise.md)** — Abaité + Anaiti + Orcs; rompidos pelo Exército
 - **Ano 352**: **Parte Nova finalizada** — segregação oficial; euforia vira ressentimento
-- **Ano 355**: **Conspiração Casa Agar** — Documentos forjados ligando família a orcs; exército interveio
+- **Ano 355**: **Conspiração [casa agar](../../npcs/individual/casa-agar.md)** — Documentos forjados ligando família a orcs; exército interveio
 - **Atual**: Cidade tensa; Infestação avança no norte; patrulhas não retornam
 
 ---

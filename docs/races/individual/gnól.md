@@ -1,6 +1,6 @@
 # **Gnól** 
 
-Gnóis são humanóides que se assemelham a híbridos humano-hena. São carnívoros, conhecidos por sua cultura selvagem. Vivem na Terra Selvagem, e disputam Território com as raças monstruosas de lá.
+Gnóis são humanóides que se assemelham a híbridos humano-hena. São carnívoros, conhecidos por sua cultura selvagem. Vivem na [terra selvagem](../../factions/reinos/terra-selvagem.md), e disputam Território com as raças monstruosas de lá.
 
 Os Gnóis são extremamente altos, e magros para sua altura. Em parte por causa de sua altura e musculatura magra, os Gnóis são muito rápidos em comparação com muitas  outros espécies.
 

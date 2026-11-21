@@ -16,17 +16,17 @@ Não há registro de quem foi o primeiro a tentar reproduzir o ritual. Os fragme
 
 As tentativas, ao que se sabe, foram numerosas. E catastróficas.
 
-Um fragmento queimado, recuperado séculos depois nas ruínas de um posto militar abandonado, menciona "a falha de Karsten", sem qualquer outro contexto além de uma única frase manchada de sangue seco: que os deuses nos perdoem pelo que saiu daquele espelho. Outro registro, este preservado por acidente entre os arquivos pessoais de um escriba de Moacuba, fala de uma "praga de rostos repetidos" que teria assolado uma vila inteira por meses, até que tudo, vila e tentativa, fosse simplesmente apagado dos registros seguintes.
+Um fragmento queimado, recuperado séculos depois nas ruínas de um posto militar abandonado, menciona "a falha de Karsten", sem qualquer outro contexto além de uma única frase manchada de sangue seco: que os deuses nos perdoem pelo que saiu daquele espelho. Outro registro, este preservado por acidente entre os arquivos pessoais de um escriba de [moacuba](../factions/reinos/moacuba.md), fala de uma "praga de rostos repetidos" que teria assolado uma vila inteira por meses, até que tudo, vila e tentativa, fosse simplesmente apagado dos registros seguintes.
 
 O que se sabe com mais certeza é o resultado final: em algum momento daquele século sem nome, alguém conseguiu. O ritual foi refinado, a falha original corrigida, e o método transformado de experimento desesperado em ferramenta replicável.
 
-Quando Áureo I finalmente emergiu das cinzas daquele caos para unificar os povos Aba contra as ameaças que pressionavam suas fronteiras, ele não trazia consigo sangue real, linhagem antiga ou direito ancestral ao trono. Trazia apenas vitórias militares e a lealdade dos generais que o haviam acompanhado. Era, em todos os sentidos que importavam à nobreza emergente daquela época, um homem comum que havia subido pela força.
+Quando Áureo I finalmente emergiu das cinzas daquele caos para unificar [os povos](../races/individual/os-povos.md) Aba contra as ameaças que pressionavam suas fronteiras, ele não trazia consigo sangue real, linhagem antiga ou direito ancestral ao trono. Trazia apenas vitórias militares e a lealdade dos generais que o haviam acompanhado. Era, em todos os sentidos que importavam à nobreza emergente daquela época, um homem comum que havia subido pela força.
 
 E foi exatamente essa ausência, a falta de mito fundador, de sangue divino, de qualquer coisa que separasse Áureo I do último soldado em suas fileiras, que levou aqueles que o cercavam a recorrer, pela primeira vez com sucesso documentado, ao conhecimento que vinham reunindo às escondidas durante todo aquele século de caos.
 
 Não há prova definitiva de que o próprio Áureo I soubesse o que seus conselheiros mais próximos haviam construído nos bastidores. Os poucos historiadores que se atreveram a investigar a questão, e que em sua maioria desapareceram ou sofreram acidentes convenientes pouco depois de publicar suas suspeitas, sugerem que a verdade pode ser ainda mais perturbadora do que a simples substituição de um imperador por uma cópia: que talvez o próprio Áureo I, em algum momento entre sua morte "natural" e o surgimento conveniente de Arthur Áureo, tenha sido o primeiro teste bem-sucedido daquilo que mais tarde se tornaria rotina dinástica.
 
-É por isso, dizem os poucos que ainda sussurram sobre o assunto nos cantos mais discretos das tabernas de Moacuba, que o Império jamais permitiu que a Era do Esquecimento fosse verdadeiramente esquecida, apenas silenciada. Porque desenterrar aquele século não significaria apenas revelar um segredo incômodo sobre a linhagem imperial. Significaria revelar que não existe, e talvez nunca tenha existido, linhagem alguma. Apenas um espelho, um ritual aperfeiçoado a sangue e erro, e a vontade fria de homens sem reino de criar, do nada, um deus para governar em seu nome.
+É por isso, dizem os poucos que ainda sussurram sobre o assunto nos cantos mais discretos das tabernas de [moacuba](../factions/reinos/moacuba.md), que o Império jamais permitiu que a Era do Esquecimento fosse verdadeiramente esquecida, apenas silenciada. Porque desenterrar aquele século não significaria apenas revelar um segredo incômodo sobre a linhagem imperial. Significaria revelar que não existe, e talvez nunca tenha existido, linhagem alguma. Apenas um espelho, um ritual aperfeiçoado a sangue e erro, e a vontade fria de homens sem reino de criar, do nada, um deus para governar em seu nome.
 
 **O ESPELHO SANGRAL: DE PROTEÇÃO A INSTRUMENTO DE DOUTRINAÇÃO**
 
@@ -90,17 +90,17 @@ A resposta, perdida nos arquivos que o próprio Império se encarregaria de sepu
 
 **\-4.000.000 Anos:** Vários Anjos resolvem abandonar o Plano Superior e se tornam Anjos caídos para combater o domínio dos Demônios.
 
-**\-1.000.000 Anos:** A maioria dos Anjos Caídos se miscigenaram com as vários espécies de Airy e esquecem da sua origem Celestial, e agora se consideram os Abaquar, Os Senhores do Vôo e futuramente extremamente poderosos usuários de magia.
+**\-1.000.000 Anos:** A maioria dos Anjos Caídos se miscigenaram com as vários espécies de Airy e esquecem da sua origem Celestial, e agora se consideram [os abaquar](../races/individual/os-abaquar.md), Os Senhores do Vôo e futuramente extremamente poderosos usuários de magia.
 
-**\-500.000 Anos:** Os Dragões tomam os Abaquar como escravos, os considerando o Espécie mais apto para os ajudar na luta contra os Demônios. Os Abaquar aprendem com seus mestres novamente uso da Magia ( conhecimento sobre a magia lhes foi retirado pelos deuses quando eles se tornaram Anjos Caídos).
+**\-500.000 Anos:** Os Dragões tomam [os abaquar](../races/individual/os-abaquar.md) como escravos, os considerando o Espécie mais apto para os ajudar na luta contra os Demônios. [os abaquar](../races/individual/os-abaquar.md) aprendem com seus mestres novamente uso da Magia ( conhecimento sobre a magia lhes foi retirado pelos deuses quando eles se tornaram Anjos Caídos).
 
-**\-130.000 Anos:** Alguns Dragões consideram os seus servos Abaquar como iguais os libertam da escravidão, os poucos Abaquar libertos criam as suas primeiras cidades surge a civilização dos Abaquar. Mas até hoje os dragões consideram os Abaquar seus servos.
+**\-130.000 Anos:** Alguns Dragões consideram os seus servos Abaquar como iguais os libertam da escravidão, os poucos Abaquar libertos criam as suas primeiras cidades surge a civilização dos Abaquar. Mas até hoje os dragões consideram [os abaquar](../races/individual/os-abaquar.md) seus servos.
 
-**\-110.000 Anos:** Os Abaquar superam os seus mestres no uso da magia e se tornam os mais poderosos utilizadores de magia de Airy. E através de grande esforço e sacrifício de muitos de seu Espécie conseguem aprisionar os Demônios mais poderosos de volta nos Planos Inferiores, e migram para as Montanhas Atã. Os Dragões após expulsarem ou forçar os Demônios mais fracos a se esconderem nas profundezas de Airy, migram para o Continente Além Mar (A terra dos Dragões) e ignoram os espécies menores.
+**\-110.000 Anos:** [os abaquar](../races/individual/os-abaquar.md) superam os seus mestres no uso da magia e se tornam os mais poderosos utilizadores de magia de Airy. E através de grande esforço e sacrifício de muitos de seu Espécie conseguem aprisionar os Demônios mais poderosos de volta nos Planos Inferiores, e migram para as Montanhas Atã. Os Dragões após expulsarem ou forçar os Demônios mais fracos a se esconderem nas profundezas de Airy, migram para o Continente Além Mar (A terra dos Dragões) e ignoram os espécies menores.
 
 # A Era dos Gigantes:
 
-**\-100.000 Anos:** Os Gigantes se levantam de onde hoje é a Terra Selvagem em meio às ruínas da guerra entre Demônios e Dragões, e estabelecem uma vasta e poderosa civilização que ocupa toda Airy. Eles escravizam os Abaré (Elfos), (que são usados como servos pessoais) e os Akitã (Anões) (que são usados como mão de Obra para a criação das suas cidades), e inadvertidamente forçam a evolução das primeiros espécies menores. Os Abaquar nas Cordilheiras Voadoras não são afetados pelo domínio dos Gigantes.
+**\-100.000 Anos:** Os Gigantes se levantam de onde hoje é a [terra selvagem](../factions/reinos/terra-selvagem.md) em meio às ruínas da guerra entre Demônios e Dragões, e estabelecem uma vasta e poderosa civilização que ocupa toda Airy. Eles escravizam os Abaré (Elfos), (que são usados como servos pessoais) e os Akitã (Anões) (que são usados como mão de Obra para a criação das suas cidades), e inadvertidamente forçam a evolução das primeiros espécies menores. [os abaquar](../races/individual/os-abaquar.md) nas Cordilheiras Voadoras não são afetados pelo domínio dos Gigantes.
 
 **\-90.000 Anos:** Os Dragões ensinam para os Gigantes o uso da magia, e começam a se relacionar com eles em condição de igualdade, começam a surgir relações amorosas entre as dois espécies e fruto dessa união surgem os Meio-Dragões/Meio-Gigantes, que futuramente irão se tornar os Anaiti.
 
@@ -110,23 +110,23 @@ A resposta, perdida nos arquivos que o próprio Império se encarregaria de sepu
 
 **\-77.000 Anos:** O Dragão Lich Caci migra para a ilha de Sobá e torna toda a ilha em seu covil.
 
-**\-75.000 Anos:** O grande número de Meio-Dragões/Meio-Gigantes entre os Gigantes forma um tipo de divisão entre os dois espécies que se desentendem, os Anaití se julgam superiores aos Gigantes normais e assim surge o Espécie dos Anaití. A maioria deste novo Espécie migra para o local onde hoje é conhecido como Terra Selvagem, e começam a criar as suas cidades, igualmente extraordinárias as dos Gigantes.
+**\-75.000 Anos:** O grande número de Meio-Dragões/Meio-Gigantes entre os Gigantes forma um tipo de divisão entre os dois espécies que se desentendem, os Anaití se julgam superiores aos Gigantes normais e assim surge o Espécie dos Anaití. A maioria deste novo Espécie migra para o local onde hoje é conhecido como [terra selvagem](../factions/reinos/terra-selvagem.md), e começam a criar as suas cidades, igualmente extraordinárias as dos Gigantes.
 
 **\-70.000 Anos:** Após algumas gerações dos Anaití começa a degenerar perdendo a grande inteligência herdada dos Dragões e o grande tamanho herdado dos Gigantes e gradualmente vão regredindo a um estado mais primitivo, se esquecendo da sua antiga e majestosa condição anterior.
 
-**\-20.000 Anos:** Os Demônios abrem um novo portal para Airy, os Gigantes usando a magia ensinada pelos Dragões conseguem fechar o portal, e expulsar os Demônios de volta para os planos Inferiores, ao preço de quase todo o seu Espécie ser destruído. Ocorre o Primeiro Cataclisma em Airy, resultado de um ritual mágico que pretendia proteger as principais cidades dos Gigantes mas que dá errado e arrancam as cidades do continente e criam a ilha que hoje é conhecida como Tiba, o ritual mágico também destrói grande parte do lado Oeste do continente de Airy.
+**\-20.000 Anos:** Os Demônios abrem um novo portal para Airy, os Gigantes usando a magia ensinada pelos Dragões conseguem fechar o portal, e expulsar os Demônios de volta para os planos Inferiores, ao preço de quase todo o seu Espécie ser destruído. Ocorre o Primeiro Cataclisma em Airy, resultado de um ritual mágico que pretendia proteger as principais cidades dos Gigantes mas que dá errado e arrancam as cidades do continente e criam a ilha que hoje é conhecida como [tiba](../factions/reinos/tiba.md), o ritual mágico também destrói grande parte do lado Oeste do continente de Airy.
 
-**\-19.050 Anos:** Os Abaré que não foram enviados para Tiba. Se valendo que os gigantes estão enfraquecidos e se rebelam. Os gigantes em desespero resolvem usar a Magia criada pelos Dragões, mas os Abaré que haviam aprendido a magia observando os seus mestre massacram os poucos gigantes remanescentes juntamente com a ajuda dos Akitã. Os Aba começam a criar as primeiras tribos organizadas onde hoje é o império Aba.
+**\-19.050 Anos:** Os Abaré que não foram enviados para [tiba](../factions/reinos/tiba.md). Se valendo que os gigantes estão enfraquecidos e se rebelam. Os gigantes em desespero resolvem usar a Magia criada pelos Dragões, mas os Abaré que haviam aprendido a magia observando os seus mestre massacram os poucos gigantes remanescentes juntamente com a ajuda dos Akitã. Os Aba começam a criar as primeiras tribos organizadas onde hoje é o império Aba.
 
 # Era dos Akitã e Abaré \- A Aurora dos Abaré e Akytã:
 
-**\-19.000 Anos:** Os gigantes sobreviventes migraram para Tiba, e os poucos que ficam no grande continente voltam a um estado primitivo e a viver como monstros em meio às ruínas de sua antiga civilização. Os Abaré e Akitã agora livres povoam o local que hoje é conhecido como Terra Selvagem. Andando juntas e trocando conhecimentos os dois Espécie criam duas grandes civilizações, criando cidades extraordinárias. A maioria dos Abaré e dos Akitã em Tibá são exilados da ilha para o continente.
+**\-19.000 Anos:** Os gigantes sobreviventes migraram para [tiba](../factions/reinos/tiba.md), e os poucos que ficam no grande continente voltam a um estado primitivo e a viver como monstros em meio às ruínas de sua antiga civilização. Os Abaré e Akitã agora livres povoam o local que hoje é conhecido como [terra selvagem](../factions/reinos/terra-selvagem.md). Andando juntas e trocando conhecimentos os dois Espécie criam duas grandes civilizações, criando cidades extraordinárias. A maioria dos Abaré e dos Akitã em Tibá são exilados da ilha para o continente.
 
 **\-17.000 Anos:** Os Akitã e Abaré dominam todo o mundo conhecido, todas os Espécie inteligentes de Airy são obrigados a servir os estes dois espécies.
 
-**\-7.000 Anos:** Os Gigantes fazem um levante e tentam dominar novamente Airy, os Akitã e Abaré usando as suas forças compostas pelos outros Espécie menores massacram novamente os Gigantes. Depois dessa guerra os Gigantes não primitivos estão praticamente extintos, sobrando poucos membros da espécie escondidos em Tiba. Após esse levante dos Gigantes as sociedades dos Akitã e Abaré têm um período de milênios de paz e prosperidade no local onde hoje é conhecido como Terra Selvagem. Mas um período de paz nunca dura para sempre.
+**\-7.000 Anos:** Os Gigantes fazem um levante e tentam dominar novamente Airy, os Akitã e Abaré usando as suas forças compostas pelos outros Espécie menores massacram novamente os Gigantes. Depois dessa guerra os Gigantes não primitivos estão praticamente extintos, sobrando poucos membros da espécie escondidos em [tiba](../factions/reinos/tiba.md). Após esse levante dos Gigantes as sociedades dos Akitã e Abaré têm um período de milênios de paz e prosperidade no local onde hoje é conhecido como [terra selvagem](../factions/reinos/terra-selvagem.md). Mas um período de paz nunca dura para sempre.
 
-**\-3.000 Anos:** A Guerra do Bigorna e do Martelo: Ocorre uma guerra sangrenta entre os Abaré e Akitã, no local que hoje é conhecido como Terra selvagem, ambas os Espécie procuravam expandir seus territórios, os Akitã estavam presos entre as terras Abarés e o mar e os orgulhosos Abaré não estavam dispostos a ceder as suas terras para os Akitã.
+**\-3.000 Anos:** A Guerra do Bigorna e do Martelo: Ocorre uma guerra sangrenta entre os Abaré e Akitã, no local que hoje é conhecido como [terra selvagem](../factions/reinos/terra-selvagem.md), ambas os Espécie procuravam expandir seus territórios, os Akitã estavam presos entre as terras Abarés e o mar e os orgulhosos Abaré não estavam dispostos a ceder as suas terras para os Akitã.
 
 **\-1.500 Anos:** Após mais de mil anos de guerras os Akitã finalmente expulsam os Abaré das suas terras. Os Abaré humilhados partem para a Floresta Proibida onde constroem cidades grandiosas nas copas das árvores, local onde julgavam que os Akitã não se interessaram em ocupar, o povo Akitã enfraquecido pela guerra contra os Abaré é atacado e expulso das suas terras pelas tribos Abaité que haviam se unificado por uma única bandeira. Os Akitã sem lugar para onde ir se refugiam nas cavernas do Mundo Interior, uma série de cavernas que passa por baixo de todo o continente.
 
@@ -138,7 +138,7 @@ As tribos Aba, outrora nômades, iniciam a fundação de vilarejos estáveis. Al
 
 **\-1.300 anos — O Último Refúgio dos Akitã**
 
-Após sua expulsão da superfície, os Akitã se refugiam no Mundo Interior e fundam a cidade de Andirá — a última cidadela do orgulho anão. Enquanto isso, os Aba vivem constantes guerras tribais. Novos líderes guerreiros emergem, tentando unificar os clãs sob uma única bandeira.
+Após sua expulsão da superfície, os Akitã se refugiam no Mundo Interior e fundam a cidade de [andirá](../factions/reinos/andira.md) — a última cidadela do orgulho anão. Enquanto isso, os Aba vivem constantes guerras tribais. Novos líderes guerreiros emergem, tentando unificar os clãs sob uma única bandeira.
 
 **\-1.230 anos — A Redescoberta da Magia**
 
@@ -150,7 +150,7 @@ O arquimago Karnos Minor conquista a imortalidade por meio da mumificação ritu
 
 **\-1.150 anos — A Criação do Primeiro Vampiro**
 
-Vlad Dracul, M\]ago das Trevas Aba, realiza pactos com demônios dos Planos Inferiores em busca da imortalidade. O preço é alto: ele torna-se o primeiro vampiro de Airy, amaldiçoado a viver nas sombras e nutrir-se de sangue. Seu paradeiro torna-se um mistério, e seu nome um sussurro temido nas noites sem lua.
+[vlad dracul](../npcs/individual/vlad-dracul.md), M\]ago das Trevas Aba, realiza pactos com demônios dos Planos Inferiores em busca da imortalidade. O preço é alto: ele torna-se o primeiro vampiro de Airy, amaldiçoado a viver nas sombras e nutrir-se de sangue. Seu paradeiro torna-se um mistério, e seu nome um sussurro temido nas noites sem lua.
 
 **\-1.001 anos — O Ressurreito**
 

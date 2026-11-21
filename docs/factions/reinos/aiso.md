@@ -1,6 +1,6 @@
 # Aisó — Cidade dos Paladinos
 
-> **Mãos que Curam** — Última cidade fundada por **Baley Ell** (curandeiro do Imperador). Centro da ordem **Paladinos de Aisó** ("A Luz nas Sombras"). Bondade que esconde ambições místicas.
+> **Mãos que Curam** — Última cidade fundada por **Baley Ell** (curandeiro do Imperador). Centro da ordem **[paladinos de aisó](../../npcs/individual/paladinos-de-aisó.md)ó](aiso.md)** ("A Luz nas Sombras"). Bondade que esconde ambições místicas.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## 🏛️ Governo e Política
 - **Regente nominal**: Descendentes de **Baley Ell** (linhagem de curandeiros)
-- **Poder real**: **Paladinos de Aisó** (ordem religiosa-militar)
+- **Poder real**: **[paladinos de aisó](../../npcs/individual/paladinos-de-aisó.md)ó](aiso.md)** (ordem religiosa-militar)
 - **Tipo**: Teocracia militar benevolente / Estado de bem-estar
 - **Lealdade**: **Imperador** (oficialmente) / **Código dos Paladinos** (na prática)
 - **Estrutura**:
@@ -65,7 +65,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Mãos que Curam**
-> **Personagens nascidos em Aisó**: **Cura Divina custa 1 PM a menos**.
+> **Personagens nascidos em [aisó](aiso.md)**: **Cura Divina custa 1 PM a menos**.
 > *Nascer onde a cura é religião facilita o fluxo da vida.*
 
 ---
@@ -102,7 +102,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Mãos que Curam**
-> **Personagens nascidos em Aisó**: **Cura Divina custa 1 PM a menos**.
+> **Personagens nascidos em [aisó](aiso.md)**: **Cura Divina custa 1 PM a menos**.
 > *Nascer onde a cura é religião facilita o fluxo da vida.*
 
 ---
@@ -116,7 +116,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Mãos que Curam**
-> **Personagens nascidos em Aisó**: **Cura Divina custa 1 PM a menos**.
+> **Personagens nascidos em [aisó](aiso.md)**: **Cura Divina custa 1 PM a menos**.
 > *Nascer onde a cura é religião facilita o fluxo da vida.*
 
 ---
@@ -127,4 +127,4 @@
 - [Kaluana](kaluana.md) — Recebe paladinos como capelães de batalhão
 - [Baley Ell](../../npcs/index.md#baley-ell-curandeiro-do-imperador) — NPC fundador
 - [Paladinos de Aisó](../ordem-arcanos-imperiais.md) — Facção relacionada
-- [Trevas](../magic/trevas.md) — O que os Paladinos combatem
+- [Trevas](../../magic/trevas.md) — O que os Paladinos combatem

@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Comércio Marítimo**
-> **Personagens nascidos em Landé**: *Comércio Marítimo* (+1 Negociação).
+> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo* (+1 Negociação).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Comércio Marítimo**
-> **Personagens nascidos em Landé**: *Comércio Marítimo* (+1 Negociação).
+> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo* (+1 Negociação).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Deserto Leste](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

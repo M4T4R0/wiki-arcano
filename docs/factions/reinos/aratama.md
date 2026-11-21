@@ -13,7 +13,7 @@
 ---
 
 ## 🏛️ Governo e Política
-- **Regente**: **Senhor de Aratama** (título hereditário; confirmação imperial)
+- **Regente**: **Senhor de [aratama](aratama.md)** (título hereditário; confirmação imperial)
 - **Tipo**: Monarquia feudal tradicional; vassalo do Império
 - **Lealdade**: **Imperador** (juramento renovado a cada geração)
 - **Estrutura**:
@@ -37,7 +37,7 @@
 ---
 
 ## ⚔️ Defesa
-- **Posição estratégica**: Controla passes de montanha para Terra Selvagem
+- **Posição estratégica**: Controla passes de montanha para [terra selvagem](terra-selvagem.md)
 - **Guarda da Montanha**: 500+ guerreiros; especialistas em emboscada/terreno
 - **Fortificações**: Castelo inacessível (caminho único, defensável); torres de sinalização
 - **Tradição**: *"Nenhum inimigo viu o interior do castelo e viveu para contar"*
@@ -47,7 +47,7 @@
 ## ⛏️ Economia
 | Recurso | Detalhes |
 |---------|----------|
-| **Minério de Ferro** | Alta qualidade; exportado para Kaluana/Andirá |
+| **Minério de Ferro** | Alta qualidade; exportado para [kaluana](kaluana.md)/[andirá](andira.md) |
 | **Prata/Gemas** | Veios profundos; ourivesaria local renomada |
 | **Cabras/Lã** | Rebanhos em terraços; queijo, lã, carne |
 | **Batata/Cevada** | Base alimentar; excedente exportado |
@@ -56,17 +56,17 @@
 ---
 
 ## 🌟 Vantagem Regional: **Raízes da Montanha** (Implícita)
-> **Personagens nascidos em Aratama**: **+1 em testes de Ofício (pedra/metal) e Resistência a venenos**.
-> *Viver nas montanhas endurece corpo e ofício.* *(Similar a Andirá, mas mais sutil)*
+> **Personagens nascidos em [aratama](aratama.md)**: **+1 em testes de Ofício (pedra/metal) e Resistência a venenos**.
+> *Viver nas montanhas endurece corpo e ofício.* *(Similar a [andirá](andira.md), mas mais sutil)*
 
 ---
 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Senhor de Aratama** | Governante | Linhagem antiga; "o ferro não enferruja, o senhor não curva" |
+| **Senhor de [aratama](aratama.md)** | Governante | Linhagem antiga; "o ferro não enferruja, o senhor não curva" |
 | **Mestre de Minas** | Chefe de mineração | Conhece cada veio; "a montanha fala quem sabe ouvir" |
-| **Mestre Ferreiro** | Cutelaria/Ourivesaria | Lâminas de Aratama = afiadas como dente de dragão |
+| **Mestre Ferreiro** | Cutelaria/Ourivesaria | Lâminas de [aratama](aratama.md) = afiadas como dente de dragão |
 | **Ancião Chefe** | Conselho de Tradições | "Quem esquece a raiz, cai no vento" |
 
 ---
@@ -87,12 +87,12 @@
 2. **Sucessão Contestada** — Senhor morre sem herdeiro claro; clãs disputam; Império observa
 3. **Rota de Contrabando** — Passagem secreta usada por Abaité/Anaité; PCs descobrem/fecham
 3. **Artefato Antigo** — Escavação revela ruína pré-Império (Gigantes? Abaquar?); Senhor esconde
-3. **Ameaça Abaité** — Horda se aproxima do passe; Aratama pede ajuda; Império responde?
+3. **Ameaça Abaité** — Horda se aproxima do passe; [aratama](aratama.md) pede ajuda; Império responde?
 
 ---
 
 ## 🌟 Vantagem Regional: **Raízes da Montanha**
-> **Personagens nascidos em Aratama**: **+1 em testes de Ofício (pedra/metal) e Resistência a venenos**.
+> **Personagens nascidos em [aratama](aratama.md)**: **+1 em testes de Ofício (pedra/metal) e Resistência a venenos**.
 > *Viver nas montanhas endurece corpo e ofício.*
 
 ---
@@ -105,7 +105,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Raízes da Montanha**
-> **Personagens nascidos em Aratama**: **+1 em testes de Ofício (pedra/metal) e Resistência a venenos**.
+> **Personagens nascidos em [aratama](aratama.md)**: **+1 em testes de Ofício (pedra/metal) e Resistência a venenos**.
 > *Viver nas montanhas endurece corpo e ofício.*
 
 ---

@@ -28,12 +28,12 @@
 
 | Região | Características |
 |---|---|
-| **Império Aba** | Maior potência, teocracia militarista, capital Sam-Mael. |
+| **Império Aba** | Maior potência, teocracia militarista, capital [sam-mael](factions/reinos/sam-mael.md). |
 | **Área da Infestação** | Além da Muralha. Trevas livres, monstros, ruínas, mutantes. |
 | **Floresta Ka'aqwy** | Lar dos **Abaré** (elfos das copas). Magia natural, simbiose com a floresta. |
-| **Deserto Açu** | Lar dos **Kaapora** (halflings nômades) e **Mbaê**. Ruínas antigas. |
+| **Deserto Açu** | Lar dos **Kaapora** (halflings nômades) e **[mbaê](factions/reinos/mbae.md)**. Ruínas antigas. |
 | **Mundo Interior** | Subterrâneo vasto, lar dos **Anões Akitã**, **Abaquar**, **Piquira**. |
-| **Reinos Vassalos** | Ypy, Kisé, Moacuba, Aratama, Aisó, Camuá, Jurubatiba, Kaluana, Nambiquara, Poranga, Ypiturui. |
+| **Reinos Vassalos** | Ypy, [kisé](factions/reinos/kise.md), [moacuba](factions/reinos/moacuba.md), [aratama](factions/reinos/aratama.md), [aisó](factions/reinos/aiso.md), [camuá](factions/reinos/camua.md), [jurubatiba](factions/reinos/jurubatiba.md), [kaluana](factions/reinos/kaluana.md), [nambiquara](factions/reinos/nambiquara.md), Poranga, [ypiturui](factions/reinos/ypiturui.md). |
 | **Estados Tampões** | Área da Infestação, Terra dos Pistoleiros, Terra de Ninguém, Território Pacificado, Vale dos Condenados. |
 
 ---
@@ -51,15 +51,15 @@
 | **Orcs Abaité** | Guerreiros tribais, honra acima de tudo | **Brutal** (+1 Dano corpo a corpo) |
 | **Meio-Elfos** | Entre dois mundos, diplomatas natos | **Adaptável** (escolhe 1 vantagem) |
 | **Meio-Orcs** | Força bruta + inteligência humana | **Imponente** (Intimidação +1) |
-| **Licantropos** | Forma humana + forma besta (lua cheia) | **Fera** (forma besta: F+2, R+1) |
+| **[licantropos](races/individual/licantropos.md)** | Forma humana + forma besta (lua cheia) | **Fera** (forma besta: F+2, R+1) |
 | **Meio-Gigantes Anaiti** | Altos, fortes, cultura de honra | **Titânico** (PV +5, Tamanho Grande) |
 | **Aucá** | Povo das águas, nadadores natos | **Aquático** (nadar = mover, respira água) |
 | **Abaquar** | Povo das raízes, vive nas raízes das árvores-mãe | **Raízes** (cura 1 PV/rodada em solo natural) |
 | **Icamiabas** | Amazonas guerreiras, matriarcais | **Amazona** (+1 Ataque vs homens) |
-| **Reptantes** | Répteis humanóides, sangue frio | **Sangue Frio** (resiste a frio/calor) |
-| **Minotauros** | Touros humanóides, força bruta | **Investida** (carga = F+2, derruba) |
+| **[reptantes](races/individual/reptantes.md)** | Répteis humanóides, sangue frio | **Sangue Frio** (resiste a frio/calor) |
+| **[minotauros](races/individual/minotauros.md)** | Touros humanóides, força bruta | **Investida** (carga = F+2, derruba) |
 | **Gnolls** | Hienas humanóides, matilha | **Matilha** (+1 Ataque se aliado adjacente) |
-| **Goblinoides** | Pequenos, astutos, numerosos | **Enxame** (ação extra se 3+ aliados) |
+| **[goblinoides](races/individual/goblinoides.md)** | Pequenos, astutos, numerosos | **Enxame** (ação extra se 3+ aliados) |
 
 ---
 
@@ -67,10 +67,10 @@
 
 | Facção | Objetivo | Base | Símbolo |
 |---|---|---|---|
-| **Império Aba** | Ordem, expansão, controle da Mana | Sam-Mael | Sol negro sobre espada |
-| **Ordem dos Arcanos Imperiais** | Regular Mana, caçar Trevas, proteger Muralha | Sam-Mael (Quartel Sam-Mael) | Escudo com runa de Mana |
-| **Cavaleiros de Cenferum** | Elite de combate, elite da Ordem | Sam-Mael (Quartel Sam-Mael) | Espada envolta em Mana azul |
-| **Cidades Livres** | Autonomia, comércio livre, neutralidade | Vul, Fortuna, Jurubatiba, etc. | Mão aberta com moeda |
+| **Império Aba** | Ordem, expansão, controle da Mana | [sam-mael](factions/reinos/sam-mael.md) | Sol negro sobre espada |
+| **Ordem dos Arcanos Imperiais** | Regular Mana, caçar Trevas, proteger Muralha | [sam-mael](factions/reinos/sam-mael.md) (Quartel Sam-Mael) | Escudo com runa de Mana |
+| **Cavaleiros de Cenferum** | Elite de combate, elite da Ordem | [sam-mael](factions/reinos/sam-mael.md) (Quartel Sam-Mael) | Espada envolta em Mana azul |
+| **Cidades Livres** | Autonomia, comércio livre, neutralidade | Vul, [fortuna](factions/reinos/fortuna.md), [jurubatiba](factions/reinos/jurubatiba.md), etc. | Mão aberta com moeda |
 | **Magos das Trevas de Vul** | Conhecimento proibido, pesquisam Trevas | Vul (cidade subterrânea) | Olho negro com runa vermelha |
 | **Reinos Vassalos** | Lealdade ao Império, autonomia local | Capitais regionais | Brasão imperial + brasão local |
 | **Estados Tampões** | Contenção da Infestação, sacrifício | Fronteira da Muralha | Muralha partida |
@@ -98,14 +98,14 @@
 
 | Local | Tipo | Importância |
 |---|---|---|
-| **Sam-Mael** | Capital Imperial / Quartel General dos Arcanos | Coração político/militar |
+| **[sam-mael](factions/reinos/sam-mael.md)** | Capital Imperial / Quartel General dos Arcanos | Coração político/militar |
 | **Muralha** | Barreira física+mágica (600km) | Fronteira da civilização |
-| **Sam-Mael (Quartel)** | Quartel-general dos Cavaleiros de Cenferum | Treinamento, quartel-general |
+| **[sam-mael](factions/reinos/sam-mael.md) (Quartel)** | Quartel-general dos Cavaleiros de Cenferum | Treinamento, quartel-general |
 | **Área da Infestação** | Além da Muralha, Trevas livres | Ameaça existencial |
 | **Floresta Ka'aqwy** | Lar dos Abaré, magia natural | Recurso estratégico (madeira, ervas) |
 | **Vul** | Cidade dos Magos das Trevas | Conhecimento proibido |
-| **Sam-Mael (Templo do Conhecimento)** | Arquivo central, biblioteca imperial | Lore, história, mapas |
-| **Cidades Livres (Vul, Fortuna, Jurubatiba, etc.)** | Comércio livre, neutras | Refúgio, comércio, espionagem |
+| **[sam-mael](factions/reinos/sam-mael.md) (Templo do Conhecimento)** | Arquivo central, biblioteca imperial | Lore, história, mapas |
+| **Cidades Livres (Vul, [fortuna](factions/reinos/fortuna.md), [jurubatiba](factions/reinos/jurubatiba.md), etc.)** | Comércio livre, neutras | Refúgio, comércio, espionagem |
 | **Mundo Interior** | Subterrâneo vasto, Anões, Abaquar | Recursos minerais, refúgio |
 
 ---

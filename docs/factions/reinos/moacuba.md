@@ -35,7 +35,7 @@
 - **Identidade**: **Belero Leroy** — Ex-mago imperial → vampiro → Oráculo
 - **Poder**: "Sussurra segredos que nem os mortos deveriam ouvir"
 - **Método**: Rede de espiões + magia divinatória + vampirismo (sangue = memória)
-- **Culto**: **Vlad Dracul** — Rumores de seita nas sombras de Moacuba
+- **Culto**: **[vlad dracul](../../npcs/individual/vlad-dracul.md)** — Rumores de seita nas sombras de [moacuba](moacuba.md)
 - **Acesso**: Só com permissão; "pagamento" em segredos ou sangue
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Olhos do Oráculo**
-> **Personagens nascidos em Moacuba**: **+1 em testes de Percepção e Investigação**.
+> **Personagens nascidos em [moacuba](moacuba.md)**: **+1 em testes de Percepção e Investigação**.
 > *Crescer ouvindo sussurros aguça os sentidos para o oculto.*
 
 ---
@@ -62,7 +62,7 @@
 | Nome | Papel | Detalhes |
 |------|-------|----------|
 | **Belero Leroy / Oráculo de Moá** | Governante | Mago Vampiro; imortal; "sussurra segredos que nem os mortos deveriam ouvir" |
-| **Vlad Dracul** | Figura de culto | Rumores de retorno; seita nas sombras de Moacuba |
+| **[vlad dracul](../../npcs/individual/vlad-dracul.md)** | Figura de culto | Rumores de retorno; seita nas sombras de [moacuba](moacuba.md) |
 | **Olhos de Moá** | Rede de espiões | Informantes em toda cidade imperial; usam máscaras brancas |
 | **Servos do Oráculo** | Servos leais | Meio-vampiros; guardam catacumbas; silenciosos |
 
@@ -81,16 +81,16 @@
 
 ## 🎯 Ganchos de Aventura
 1. **Segredo Roubado** — Alguém roubou um segredo do Oráculo antes do "pagamento"; caçada nas sombras
-2. **Vlad Dracul Retorna** — Seita ativa; rituais noturnos; PCs investigam ou se infiltram
+2. **[vlad dracul](../../npcs/individual/vlad-dracul.md) Retorna** — Seita ativa; rituais noturnos; PCs investigam ou se infiltram
 3. **Segredo Imperial** — PC precisa de informação que só Oráculo tem; preço: trair um aliado
-4. **Vampirismo Secreto** — Alguém em Ypy/Kisé foi transformado; rastro leva a Moacuba
-4. **Arquivo Roubado** — Ladrão levou fichas de chantagem da Casa Kalan; Oráculo quer de volta
+4. **Vampirismo Secreto** — Alguém em Ypy/[kisé](kise.md) foi transformado; rastro leva a [moacuba](moacuba.md)
+4. **Arquivo Roubado** — Ladrão levou fichas de chantagem da [casa kalan](../../npcs/individual/casa-kalan.md); Oráculo quer de volta
 
 ---
 
 ## 📜 História Recente
 - **-8 anos**: Fundação por **Belero Leroy** (ganhou terras por serviços obscuros a Áureo I)
-- **Transformação**: Belero era mago imperial → vampiro (rito proibido) → exilado → fundou Moacuba
+- **Transformação**: Belero era mago imperial → vampiro (rito proibido) → exilado → fundou [moacuba](moacuba.md)
 - **Era do Esquecimento**: "Praga de rostos repetidos" assolou vila vizinha; apagada dos registros
 - **Atual**: Centro de inteligência *de facto* do Império; nobres e generais consultam (secretamente)
 
@@ -101,4 +101,4 @@
 - [Nambiquara](nambiquara.md) — Rival em espionagem (Purpleskull Arc)
 - [Jurubatiba](jurubatiba.md) — Arcanos Imperiais (monitoram Moacuba)
 - [Belero Leroy](../../npcs/index.md#belero-leroy-oraulo-de-moa) — NPC principal
-- [Trevas](../magic/trevas.md) — Vampirismo = uso de Trevas?
+- [Trevas](../../magic/trevas.md) — Vampirismo = uso de Trevas?

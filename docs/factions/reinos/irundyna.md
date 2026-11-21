@@ -1,12 +1,12 @@
 # Irundyna — Epicentro da Infestação
 
-> **Antiga Aslareth** — Cidade gêmea de Kisé, agora epicentro da corrupção. Solo pulsante, torre de obsidiana viva, realidade distorcida.
+> **Antiga Aslareth** — Cidade gêmea de [kisé](kise.md), agora epicentro da corrupção. Solo pulsante, torre de obsidiana viva, realidade distorcida.
 
 ---
 
 ## 📍 Localização
 - **Região**: Norte do Império Aba, **dentro da Área Infestada**
-- **Coordenadas**: 30 min a norte de Kisé; margem leste do Rio Tupã
+- **Coordenadas**: 30 min a norte de [kisé](kise.md); margem leste do Rio Tupã
 - **Status**: **Zona de exclusão** — entrada proibida por Decreto Imperial
 - **Clima**: Anômalo — ar fede a éter, temperatura instável, chuva de cinzas
 
@@ -14,9 +14,9 @@
 
 ## 🏛️ História
 - **Fundação**: -29 anos (repopulação de **Aslareth**, antiga capital cultural)
-- **Nome original**: Aslareth → renomeada Irundyna após corrupção
+- **Nome original**: Aslareth → renomeada [irundyna](irundyna.md) após corrupção
 - **Ano 253**: **Mal** ergue **torre de obsidiana viva** no centro da cidade
-- **Ano 256**: Barreira arcana falha; **Infestação desperta** em Irundyna
+- **Ano 256**: Barreira arcana falha; **Infestação desperta** em [irundyna](irundyna.md)
 - **Atual**: Cidade **condenada**; realidade distorcida; ninguém entra e sai são
 
 ---
@@ -43,7 +43,7 @@
 
 ## ⚔️ Militar / Contenção
 - **Zona de Exclusão Imperial**: Decreto proíbe entrada; pena de morte
-- **Patrulhas de Kisé**: Monitoram fronteira (30 min ao sul); atiram para matar
+- **Patrulhas de [kisé](kise.md)**: Monitoram fronteira (30 min ao sul); atiram para matar
 - **Barreira Arcana**: Erguida por Alarion + 3 Generais (Ano 256); **falhando**
 - **Arcanos Imperiais**: Monitoram à distância; tentam rituais de selamento (falharam)
 
@@ -61,7 +61,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Nenhuma (Corrompida)**
-> **Personagens nascidos em Irundyna (antes da queda)**: *Memória da Muralha* — +1 em testes defensivos em ruínas.
+> **Personagens nascidos em [irundyna](irundyna.md) (antes da queda)**: *Memória da Muralha* — +1 em testes defensivos em ruínas.
 > **Nascer lá AGORA**: Impossível — zona morta.
 
 ---
@@ -82,15 +82,15 @@
 | **Praça Central** | Onde Mal ergueu a torre; solo negro; nada cresce |
 | **Templo Corrompido** | Antigo templo da Mana; agora altar das Trevas |
 | **Ruínas do Palácio** | Onde governantes de Aslareth morreram; tesouros? |
-| **Fronteira Sul** | Onde barreira arcana falha; patrulhas de Kisé atiram |
+| **Fronteira Sul** | Onde barreira arcana falha; patrulhas de [kisé](kise.md) atiram |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Ritual de Selamento** — Arcanos precisam de componentes raros + PCs para ritual na torre
-2. **Resgate Impossível** — Alguém importante foi levado para Irundyna vivo (refém dos Infestados)
+2. **Resgate Impossível** — Alguém importante foi levado para [irundyna](irundyna.md) vivo (refém dos Infestados)
 3. **Artefato na Torre** — Componente para selar Infestação está no topo da torre
-4. **Espião Infestado** — Alguém em Kisé/Ypy é secretamente Infestado; rastro leva à torre
+4. **Espião Infestado** — Alguém em [kisé](kise.md)/Ypy é secretamente Infestado; rastro leva à torre
 5. **Mal Ainda Vive** — Rumores: Mal não morreu; regenera na torre; precisa ser morto de verdade
 
 ---
@@ -98,7 +98,7 @@
 ## ⚠️ Regras Especiais (Para Mestre)
 | Regra | Efeito |
 |-------|--------|
-| **Entrar em Irundyna** | Teste de Resistência (Difícil) a cada hora — falha = 1 Ponto de Trevas |
+| **Entrar em [irundyna](irundyna.md)** | Teste de Resistência (Difícil) a cada hora — falha = 1 Ponto de Trevas |
 | **Magia na cidade** | Custo -1 PM (Trevas subsidiam) + **1 Ponto de Trevas** automático por conjuração |
 | **Dormir na cidade** | Pesadelos; não recupera PM; teste de Resistência ou ganha 1 Trevas |
 | **Sair da cidade** | Teste de Resistência (Muito Difícil) — falha = carrega Infestação (doença) |
@@ -108,6 +108,6 @@
 ## 🔗 Links Relacionados
 - [Kisé](kise.md) — Cidade gêmea (30 min sul; base de contenção)
 - [Ypy](ypy.md) — Capital (2h sul; comando imperial)
-- [Área Infestada](../geografia/area-infestada.md) — Visão geral da região
+- [Área Infestada](../../geografia/area-infestada.md) — Visão geral da região
 - [Mal / Escuridão](../../npcs/index.md#mal-entidade-da-torre) — NPC principal
 - [Trevas](../../magic/trevas.md) — Mecânica de corrupção

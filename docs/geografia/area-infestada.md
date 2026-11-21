@@ -10,9 +10,9 @@
 |---------|---------|
 | **Localização** | Oeste do continente Airy, além da Grande Muralha |
 | **Dimensões** | >1.000 km de comprimento × ~10 km de largura |
-| **Origem** | Ano 253: *Mal* (Misty As-La) ergue torre de obsidiana em Irundyna; Ano 256: barreira falha |
-| **Expansão** | ~100 m/semana pela brecha de Ypiturui (contido por artilharia/magia) |
-| **Fronteira Sul** | Barreira arcana (falhando); patrulhas de Kisé/Ypy |
+| **Origem** | Ano 253: *Mal* (Misty As-La) ergue torre de obsidiana em [irundyna](../factions/reinos/irundyna.md); Ano 256: barreira falha |
+| **Expansão** | ~100 m/semana pela brecha de [ypiturui](../factions/reinos/ypiturui.md) (contido por artilharia/magia) |
+| **Fronteira Sul** | Barreira arcana (falhando); patrulhas de [kisé](../factions/reinos/kise.md)/Ypy |
 
 ---
 
@@ -104,11 +104,11 @@
 | Marco | Descrição |
 |-------|-----------|
 | **Torre de Obsidiana Viva** | Epicentro (Irundyna); cresce 1m/semana; pulsa com Trevas; fonte da corrupção |
-| **Necrotopia** | Antiga Aslareth/Irundyna; maior cidade morta-viva; capital de *Mal* |
+| **Necrotopia** | Antiga Aslareth/[irundyna](../factions/reinos/irundyna.md); maior cidade morta-viva; capital de *Mal* |
 | **Floresta Morta** | Organismo morto-vivo consciente; geografia mutável; caça/desorienta invasores |
-| **Irundyna (Aslareth)** | Epicentro original; torre de obsidiana; solo corrompido |
-| **Ypiturui** | Brecha na Grande Muralha (3 km); Infestação avança 100m/semana |
-| **Grande Muralha** | 500 km; brecha em Ypiturui; barricadas (sul) vs Auçá (norte) |
+| **[irundyna](../factions/reinos/irundyna.md) (Aslareth)** | Epicentro original; torre de obsidiana; solo corrompido |
+| **[ypiturui](../factions/reinos/ypiturui.md)** | Brecha na Grande Muralha (3 km); Infestação avança 100m/semana |
+| **Grande Muralha** | 500 km; brecha em [ypiturui](../factions/reinos/ypiturui.md); barricadas (sul) vs Auçá (norte) |
 | **Cortina** | Barreira mágica na fronteira; angústia ao cruzar; 10% PM/turno sugados |
 
 ---
@@ -128,7 +128,7 @@
 - **Única espécie imune** aos efeitos da Infestação
 - Exoesqueleto natural + regeneração fraca (1 PV/rodada)
 - Comercializam matéria infestada sem morrer/transformar
-- **Naur'Ush** (Auçá Livres) usam túneis sob a Infestação
+- **[naur'ush](../factions/reinos/naurush.md)** (Auçá Livres) usam túneis sob a Infestação
 
 ---
 
@@ -158,9 +158,9 @@
 | **Mal / Entidade na Torre** | Expansão total; corrupção total | Torre de Obsidiana (Irundyna) |
 | **Algozes / Feiticeiros** | Expandir corrupção; servir Mal | Torre / Necrotopia |
 | **Infestados (Mente-Colmeia)** | Expandir; consumir; converter | Toda a área |
-| **Auçá Livres (Naur'Ush)** | Sobrevivência; liberdade; comércio | Túneis subterrâneos / Naur'Ush |
-| **Império (Kisé/Ypy)** | Conter; selar brecha; proteger sul | Kisé (artilharia) + Ypy (comando) |
-| **Auçá Imperiais / Livres (Norte)** | Controlar brecha; acesso Naur'Ush | Ypiturui (norte) |
+| **Auçá Livres (Naur'Ush)** | Sobrevivência; liberdade; comércio | Túneis subterrâneos / [naur'ush](../factions/reinos/naurush.md) |
+| **Império (Kisé/Ypy)** | Conter; selar brecha; proteger sul | [kisé](../factions/reinos/kise.md) (artilharia) + Ypy (comando) |
+| **Auçá Imperiais / Livres (Norte)** | Controlar brecha; acesso [naur'ush](../factions/reinos/naurush.md) | [ypiturui](../factions/reinos/ypiturui.md) (norte) |
 
 ---
 
@@ -168,9 +168,9 @@
 
 1. **Ritual de Selamento** — Arcanos preparam 4º ritual; precisam componente na brecha (PCs escoltam)
 2. **Componente na Torre** — Artefato de selamento no topo da Torre de Obsidiana; infiltração suicida
-3. **Espião Infestado** — Alguém em Kisé/Ypy passa info; caçada em zona de guerra
+3. **Espião Infestado** — Alguém em [kisé](../factions/reinos/kise.md)/Ypy passa info; caçada em zona de guerra
 3. **Criança da Brecha** — Nasceu na brecha; imune? Facções querem estudar/sequestrar
-3. **Auçá Desertor** — Auçá Imperial foge para Naur'Ush; leva segredos dos rituais de controle
+3. **Auçá Desertor** — Auçá Imperial foge para [naur'ush](../factions/reinos/naurush.md); leva segredos dos rituais de controle
 
 ---
 
@@ -181,7 +181,7 @@
 - [Kisé](../factions/reinos/kise.md) — Base de contenção sul
 - [Naur'Ush](../factions/reinos/naurush.md) — Auçá Livres subterrâneos
 - [Terras dos Auçá](../factions/reinos/terras-auca.md) — Auçá Imperiais vs Livres
-- [Estados Tampões](estados-tampoees.md) — Contexto geopolítico
+- [Estados Tampões](../factions/estados-tampoees.md) — Contexto geopolítico
 - [Trevas](../magic/trevas.md) — Mecânica de corrupção/Pontos de Trevas
 - [Mal / Escuridão](../../npcs/index.md#mal-entidade-da-torre) — Entidade principal
 

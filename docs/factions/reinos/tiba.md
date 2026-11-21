@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Ruínas Gigantes**
-> **Personagens nascidos em Tiba**: *Ruínas Gigantes* (+1 Ofício ruínas).
+> **Personagens nascidos em [tiba](tiba.md)**: *Ruínas Gigantes* (+1 Ofício ruínas).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Ruínas Gigantes**
-> **Personagens nascidos em Tiba**: *Ruínas Gigantes* (+1 Ofício ruínas).
+> **Personagens nascidos em [tiba](tiba.md)**: *Ruínas Gigantes* (+1 Ofício ruínas).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Oeste/Além-mar](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

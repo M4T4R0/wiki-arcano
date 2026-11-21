@@ -36,7 +36,7 @@
 > **Lenda**: Purpleskull Arc jogou cartas contra **Áureo I** (Imperador fundador).
 > **Aposta**: O domínio de uma cidade recém-fundada.
 > **Resultado**: Purpleskull **ganhou** — dizem que trapaceou com magia das sombras.
-> **Resultado**: Áureo I honrou a aposta (orgulho) → Nambiquara nasceu.
+> **Resultado**: Áureo I honrou a aposta (orgulho) → [nambiquara](nambiquara.md) nasceu.
 
 ---
 
@@ -54,7 +54,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Mestre das Sombras**
-> **Personagens nascidos em Nambiquara**: **+1 em testes de Furtividade e Blefar**.
+> **Personagens nascidos em [nambiquara](nambiquara.md)**: **+1 em testes de Furtividade e Blefar**.
 > *Crescer entre mentiras e becos ensina a mentir com a cara limpa.*
 
 ---
@@ -84,7 +84,7 @@
 1. **Dívida de Sangue** — PC deve um favor à Guilda; cobrança: assassinar um nobre em Ypy
 2. **Segredo Roubado** — Alguém roubou o "Ás de Purpleskull" (segredo que derruba o Império)
 3. **Traição Interna** — Facção na Guilda quer derrubar Purpleskull; PCs escolhem lado
-4. **Rota de Contrabando** — Artefato proibido precisa cruzar o Império; rota passa por Nambiquara
+4. **Rota de Contrabando** — Artefato proibido precisa cruzar o Império; rota passa por [nambiquara](nambiquara.md)
 4. **Aposta Mortal** — Purpleskull desafia PC para jogo de cartas; aposta: segredo vs vida
 
 ---
@@ -93,12 +93,12 @@
 - **-7 anos**: Fundação via aposta contra Áureo I
 - **Anos 1-30**: Expansão da Guilda; controle total da cidade; neutralidade rentável
 - **Atual**: **Purpleskull Arc** envelhece (aparenta 60, magia o mantém jovem); sucessão incerta
-- **Rivalidade**: **Moacuba** (Oráculo) vs **Nambiquara** (Sombras) — guerra fria de espionagem
+- **Rivalidade**: **[moacuba](moacuba.md)** (Oráculo) vs **[nambiquara](nambiquara.md)** (Sombras) — guerra fria de espionagem
 
 ---
 
 ## 🌟 Vantagem Regional: **Mestre das Sombras**
-> **Personagens nascidos em Nambiquara**: **+1 em testes de Furtividade e Blefar**.
+> **Personagens nascidos em [nambiquara](nambiquara.md)**: **+1 em testes de Furtividade e Blefar**.
 > *Crescer entre mentiras e becos ensina a mentir com a cara limpa.*
 
 ---

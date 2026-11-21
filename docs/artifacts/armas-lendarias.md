@@ -29,7 +29,7 @@
 | **Espada de Poder Avançada** | +2 FA; gasta 1 PM → ataque ignora armadura; 1×/cena: teleporte curto (OR) | Gram-Mestres, Arqui-Mestre |
 | **Espada de Poder Suprema** | +3 FA; ignora toda armadura; 1×/dia: **Corte Dimensional** (abre fenda planar) | Arqui-Mestre, Ahriman |
 
-> **Fabricação**: Requer runas de OR (Espaço) + Fogo; forja em Jurubatiba ou Kaluana; custo altíssimo.
+> **Fabricação**: Requer runas de OR (Espaço) + Fogo; forja em [jurubatiba](../factions/reinos/jurubatiba.md) ou [kaluana](../factions/reinos/kaluana.md); custo altíssimo.
 
 ---
 
@@ -53,15 +53,15 @@
 | Propriedade | Detalhe |
 |-------------|---------|
 | **Tipo** | Espada longa / Machado de guerra |
-| **Bônus** | **+2 FA contra Orcs/Abaité/Anaiti/Licantropos** |
+| **Bônus** | **+2 FA contra Orcs/Abaité/Anaiti/[licantropos](../races/individual/licantropos.md)** |
 | **Efeito Especial** | Crítico contra alvos above → **Morte Instantânea** (teste R Difícil ou morre) |
-| **Origem** | Forjada em Kaluana durante a Guerra dos Orcs; abençoada por Huck Hor |
+| **Origem** | Forjada em [kaluana](../factions/reinos/kaluana.md) durante a Guerra dos Orcs; abençoada por Huck Hor |
 | **Portador** | Lauriel (Caçadora de Orcs, Rank A Guilda ERA) |
 
 ---
 
 ### Bastão de Baley Ell (Relíquia de Aisó)
-> *Relíquia do fundador dos Paladinos de Aisó; foco de cura divina.*
+> *Relíquia do fundador dos [paladinos de aisó](../npcs/individual/paladinos-de-aisó.md)ó](../factions/reinos/aiso.md); foco de cura divina.*
 
 | Propriedade | Detalhe |
 |-------------|---------|
@@ -69,7 +69,7 @@
 | **Poder** | **Cura Divina custa 1 PM a menos** (para portador e aliados adjacentes) |
 | **Poder Secundário** | 1×/dia: **Ressurreição** (alvo morto há < 1 hora; teste R Médio) |
 | **Origem** | Feito por Baley Ell; contém fragmento de sua alma |
-| **Localização** | Relicário de Aisó (acesso restrito: voto de silêncio) |
+| **Localização** | Relicário de [aisó](../factions/reinos/aiso.md) (acesso restrito: voto de silêncio) |
 
 ---
 
@@ -80,7 +80,7 @@
 |-------------|---------|
 | **Tipo** | Bastão / Bengala (1M) |
 | **Poder** | **Aura Indissipável** (1 PM): emana aura que **não pode ser dissipada** por nenhuma magia |
-| **Uso** | Escapa de autoridades arcanas, detectar magia, anti-magia, Sam-Mael |
+| **Uso** | Escapa de autoridades arcanas, detectar magia, anti-magia, [sam-mael](../factions/reinos/sam-mael.md) |
 | **Criador** | Vulcazar (Meio-Dragão/Meio-Orc; líder de horda na Terra Selvagem) |
 | **Custo** | 1 PM; duração = 1 cena |
 
@@ -127,8 +127,8 @@
 |------|------|-----------------|--------|
 | **Arco de Beluhga** | Arco longo | Dano Gelo + Lento; Crítico = Congelamento | Norte gelado |
 | **Arco de Fogo (Yby)** | Arco composto | Flechas de Fogo (dano + queimadura) | Reino Yby |
-| **Besta de Kaluana** | Besta pesada | Projéteis perfuram armadura (ignora 1 PdF) | Kaluana |
-| **Funda Kaapora** | Funda | Pedras arremessadas = dano Longe (H); Malandro (+1 Manha) | Anama (Kaapora) |
+| **Besta de [kaluana](../factions/reinos/kaluana.md)** | Besta pesada | Projéteis perfuram armadura (ignora 1 PdF) | [kaluana](../factions/reinos/kaluana.md) |
+| **Funda Kaapora** | Funda | Pedras arremessadas = dano Longe (H); Malandro (+1 Manha) | [anama](../factions/reinos/anama.md) (Kaapora) |
 | **Arma de Arremesso Kaapora** | Arremesso | Qualquer objeto = arma Longe; 2PM = Ganho ataque | Kaapora |
 
 ---
@@ -137,9 +137,9 @@
 
 | Arma | Tipo | Efeito | Origem |
 |------|------|--------|--------|
-| **Urgrosh** | Machado/lança (Anão) | 2M; Perto + Longe; +1 FA contra Grandes | Andirá (Anões) |
+| **Urgrosh** | Machado/lança (Anão) | 2M; Perto + Longe; +1 FA contra Grandes | [andirá](../factions/reinos/andira.md) (Anões) |
 | **Lança de Justa** | Lança (Justa) | Ponta roma; quebra no impacto; desmonta cavaleiro | Torneios / Ypy |
-| **Glaive de Kaluana** | Glaive | 2M; Alcance +1; carga de cavalaria +2 FA | Kaluana |
+| **Glaive de [kaluana](../factions/reinos/kaluana.md)** | Glaive | 2M; Alcance +1; carga de cavalaria +2 FA | [kaluana](../factions/reinos/kaluana.md) |
 | **Glaive dos Senhores do Escudo** | Glaive + Escudo | Escudo acoplado = arma (dano 2×F); Escudo Protetor | Ordem dos Senhores do Escudo |
 
 ---

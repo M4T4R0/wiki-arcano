@@ -31,23 +31,23 @@ Extraído do ARCANO_COMPLETO.md — mecânicas específicas do cenário.
 | Reino/Cidade | Vantagem Regional | Efeito |
 |--------------|-------------------|--------|
 | **Ypy** (Capital) | *Coração do Império* | +1 em Influência e Manha na capital |
-| **Kisé** | *Guarnição Militar* | +1 em Poder e Resistência |
-| **Moacuba** | *Olhos do Oráculo* | +1 em Percepção e Investigação |
-| **Nambiquara** | *Mestre das Sombras* | +1 em Furtividade e Blefar |
-| **Jurubatiba** | *Coração Arcano* | -1 PM para conjurar; +1 em testes de Magia |
-| **Kaluana** | *Oficina de Guerra* | +1 em Ofício (armas/armaduras) e Cavalgar |
-| **Aisó** | *Mãos que Curam* | Cura Divina custa 1 PM a menos |
-| **Camuá** | *Amizade Inesperada* | +1 em Blefar e Manha |
-| **Andirá** (Akitã) | *Raízes da Pedra* | +1 em Ofício (pedra/metal); Resistência a venenos |
-| **Elfin** (Abaré) | *Entre Folhas* | +1 em Furtividade e Percepção em florestas |
-| **Araxá** (Abaquar) | *Sangue Angelical* | Imune a envelhecimento mágico e doenças |
-| **Avista** (Piquira) | *Tecnologia Perdida* | +1 em Ofício (engenharia/artefatos) |
-| **Fortuna** (Piratas) | *Código dos Livres* | +1 em Blefar e Manha; imune a leis imperiais |
-| **Anama** (Kaapora) | *Casas nas Colinas* | +1 em Furtividade e Sobrevivência em colinas |
+| **[kisé](../factions/reinos/kise.md)** | *Guarnição Militar* | +1 em Poder e Resistência |
+| **[moacuba](../factions/reinos/moacuba.md)** | *Olhos do Oráculo* | +1 em Percepção e Investigação |
+| **[nambiquara](../factions/reinos/nambiquara.md)** | *Mestre das Sombras* | +1 em Furtividade e Blefar |
+| **[jurubatiba](../factions/reinos/jurubatiba.md)** | *Coração Arcano* | -1 PM para conjurar; +1 em testes de Magia |
+| **[kaluana](../factions/reinos/kaluana.md)** | *Oficina de Guerra* | +1 em Ofício (armas/armaduras) e Cavalgar |
+| **[aisó](../factions/reinos/aiso.md)** | *Mãos que Curam* | Cura Divina custa 1 PM a menos |
+| **[camuá](../factions/reinos/camua.md)** | *Amizade Inesperada* | +1 em Blefar e Manha |
+| **[andirá](../factions/reinos/andira.md)** (Akitã) | *Raízes da Pedra* | +1 em Ofício (pedra/metal); Resistência a venenos |
+| **[elfin](../factions/reinos/elfin.md)** (Abaré) | *Entre Folhas* | +1 em Furtividade e Percepção em florestas |
+| **[araxá](../factions/reinos/araxa.md)** (Abaquar) | *Sangue Angelical* | Imune a envelhecimento mágico e doenças |
+| **[avista](../factions/reinos/avista.md)** (Piquira) | *Tecnologia Perdida* | +1 em Ofício (engenharia/artefatos) |
+| **[fortuna](../factions/reinos/fortuna.md)** (Piratas) | *Código dos Livres* | +1 em Blefar e Manha; imune a leis imperiais |
+| **[anama](../factions/reinos/anama.md)** (Kaapora) | *Casas nas Colinas* | +1 em Furtividade e Sobrevivência em colinas |
 | **Ybi** (Faraós) | *Sangue de Areia* | Resistência a calor extremo; imune a envelhecimento natural |
-| **Naur'Ush** (Auçá Livres) | *Liberdade Subterrânea* | +1 em Furtividade e Sobrevivência subterrânea |
-| **Ypiturui** (Queda) | *Memória da Muralha* | +1 em testes defensivos em ruínas |
-| **Terra Selvagem** (Anaiti) | *Sangue Gigante* | +1 em Poder; pode pagar 1 PM para crítico em 5-6 (como Anaiti) |
+| **[naur'ush](../factions/reinos/naurush.md)** (Auçá Livres) | *Liberdade Subterrânea* | +1 em Furtividade e Sobrevivência subterrânea |
+| **[ypiturui](../factions/reinos/ypiturui.md)** (Queda) | *Memória da Muralha* | +1 em testes defensivos em ruínas |
+| **[terra selvagem](../factions/reinos/terra-selvagem.md)** (Anaiti) | *Sangue Gigante* | +1 em Poder; pode pagar 1 PM para crítico em 5-6 (como Anaiti) |
 
 ---
 
@@ -55,9 +55,9 @@ Extraído do ARCANO_COMPLETO.md — mecânicas específicas do cenário.
 
 | Raça | Vantagem Regional Citada |
 |------|--------------------------|
-| **Elfin (Abaré)** | *Tatuagem Rúnica (0)* + (Roubo de Vida, Teleportação) |
+| **[elfin](../factions/reinos/elfin.md) (Abaré)** | *Tatuagem Rúnica (0)* + (Roubo de Vida, Teleportação) |
 | **Lauré** | *Vitalidade de Lauré* — PVs = R×7 (em vez de R×5) |
-| **Ypiturui** | *Arena de Ypiturui* — +1 PM/turno; pode invocar Arena em qualquer lugar |
+| **[ypiturui](../factions/reinos/ypiturui.md)** | *Arena de [ypiturui](../factions/reinos/ypiturui.md)* — +1 PM/turno; pode invocar Arena em qualquer lugar |
 
 ---
 
@@ -169,7 +169,7 @@ Extraído do ARCANO_COMPLETO.md — mecânicas específicas do cenário.
 | Raças (todas) | ~170-2100 | Kits raciais completos |
 | Trevas / Corrupção | ~6938 | Mecânica completa |
 | Males da Magia | ~5596 | Infestação, contaminação |
-| Sam-Mael | ~8918 | Magia nula, mantos |
+| [sam-mael](../factions/reinos/sam-mael.md) | ~8918 | Magia nula, mantos |
 | NPCs com fichas | ~3186, 6665, 6673, 10073 | Kits sugeridos |
 | Vantagens de raça | ~1824-2100 | Aba, Kaapora, Anaiti, Auçá, Icamiaba, etc. |
 | Vantagens gerais | ~2991-4600 | Lista alfabética |
@@ -182,9 +182,9 @@ Extraído do ARCANO_COMPLETO.md — mecânicas específicas do cenário.
 2. **Uso de Trevas** → tentação mecânica (Ganho imediato vs corrupção longa)
 3. **Viagem entre regiões** → Vantagem Regional da **origem** permanece; nova região não dá nova vantagem
 4. **Arcanos Imperiais** → detectam Trevas (meta 20 - Pontos de Trevas)
-5. **Sam-Mael** → aventura sem magia; precisa de manto especial
+5. **[sam-mael](../factions/reinos/sam-mael.md)** → aventura sem magia; precisa de manto especial
 6. **Lauré** → PVs = R×7 (muito mais resistentes)
-7. **Ypiturui** → +1 PM/turno + invocação de Arena
+7. **[ypiturui](../factions/reinos/ypiturui.md)** → +1 PM/turno + invocação de Arena
 
 ---
 

@@ -1,11 +1,11 @@
 # Naur'Ush — Auçá Livres (Subterrânea)
 
-> **Região**: Terra Selvagem | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Região**: [terra selvagem](terra-selvagem.md) | **Fundação**: Antiga/Variada | **Clima**: Variado
 
 ---
 
 ## 📍 Localização
-- **Região**: Terra Selvagem
+- **Região**: [terra selvagem](terra-selvagem.md)
 - **Detalhes**: Pântanos, subterrânea
 - **Clima**: Variado conforme geografia
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Liberdade Subterrânea**
-> **Personagens nascidos em Naur'Ush**: *Liberdade Subterrânea* (+1 Furtividade/Sobrevivência sub.).
+> **Personagens nascidos em [naur'ush](naurush.md)**: *Liberdade Subterrânea* (+1 Furtividade/Sobrevivência sub.).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Liberdade Subterrânea**
-> **Personagens nascidos em Naur'Ush**: *Liberdade Subterrânea* (+1 Furtividade/Sobrevivência sub.).
+> **Personagens nascidos em [naur'ush](naurush.md)**: *Liberdade Subterrânea* (+1 Furtividade/Sobrevivência sub.).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Terra Selvagem](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

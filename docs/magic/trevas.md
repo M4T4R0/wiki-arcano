@@ -275,19 +275,19 @@ Lauriel Lyunar foi treinado por seu pai que era um Soldado Imperial,antes que se
 
 Lauriel encontrou um desprezível Jogral meio-orc que era vaiado na Taverna Mico Caolho, apesar de ser um meio-orc a canção do Jogral chamou sua atenção assim como também a de alguns outros, após seguir e ter uma conversa com o Jogral ele se juntou a um grupo de escolhidos para sair em busca de uma espada mágica capaz de matar o general de todos os orcs, com isso Lauriel resolveu deixar o Jogral vivo e investigar tal história, após um viagem na MecanauCoruja passando pela terra dos mortos e enfrentar armadilhas mortais, um Espirito Guardião decidia quem era digno de entrar na caverna do saber, Lauriel foi um dos únicos a terem acesso a histórica Durandhal a matadora de Orcs e foi com ela que ele travou sua batalha contra o Jogral que nesse meio tempo revelou ser o general orc que estava a usar a equipe para obter a Durandhal e então destruí la, a batalha foi voraz e houve a derrota e sacrifício do espírito guardião de nome Monserá além da traição e fuga de um dos companheiros, aquele que hoje é conhecido como Tenebroso, houve também o ataque de um dos melhores guerreiros do general orc, chamado de Matanza ele parecia não ser orc e até parecia conhecer Lauriel, entre dúvidas e mistérios Lauriel resolveu atacar e não ceder aos truques daquele Jogral, a batalha estava no seu fim e já ferido e cansado Lauriel estava sem muitas opções, pois o Jogral General e o Matanza eram uma dupla implacável além de ter vários truques para sempre lhes salvar dos melhores golpes do Lauriel, foi então que surpreendidos todos foram resgatados pela MecanauCoruja que surgiu a disparar nos inimigos, na Coruja o combate continuava através dos canhões da nave, mesmo assim os truques do general salvaram a si e seu Protetor, em meio ao desespero Rocca usa de todos os seus poderes para lançar junto a si um enorme poder derivado das rochas que acabou por ruir o pico das montanhas e soterrar a todos, após isso mesmo depois de procurar muito não se acharam os corpos de ninguém, apenas alguns Pertences de Rocca, o destino de todos permeia em um profundo mistério que torna as conclusões sobre a missão vagas como o céu.
 
-Após a expedição em busca da Espada matadora de orcs... Lauriel ganha a Rank A na Guilda ERA e ganha o Título de Lauriel Caçador de Orcs (Orc Slayer). 
+Após a expedição em busca da Espada matadora de orcs... Lauriel ganha a Rank A na [guilda era](../factions/guilda-era.md) e ganha o Título de Lauriel Caçador de Orcs (Orc Slayer). 
 
-Após se associar a guilda ERA, Lauriel aceitou diversas missões, além disso nas épocas sem missões ele desbravou o continente de Airy como um andarilho para aproveitar melhor o tempo e suas experiências por onde passava sem deixar os orcs em seu caminho livres de sua perseguição. Durante sua jornada solitária pelo Império ele buscou aperfeiçoar suas técnicas de combate e cumpriu sua palavra, ele aprendeu a técnica usada contra ele na grande batalha contra o general orc na montanha hoje chamada de Rocca, devido a sua companheira onde lá Jazem lembranças daqueles que se foram. Desde o sacrifício de Monserá a aparência de Lauriel assim como suas Habilidades mudaram de forma devido a energia que lhe foi absorvida naquele fatídico dia onde se perderam companheiros de boa índole.
+Após se associar a [guilda era](../factions/guilda-era.md), Lauriel aceitou diversas missões, além disso nas épocas sem missões ele desbravou o continente de Airy como um andarilho para aproveitar melhor o tempo e suas experiências por onde passava sem deixar os orcs em seu caminho livres de sua perseguição. Durante sua jornada solitária pelo Império ele buscou aperfeiçoar suas técnicas de combate e cumpriu sua palavra, ele aprendeu a técnica usada contra ele na grande batalha contra o general orc na montanha hoje chamada de Rocca, devido a sua companheira onde lá Jazem lembranças daqueles que se foram. Desde o sacrifício de Monserá a aparência de Lauriel assim como suas Habilidades mudaram de forma devido a energia que lhe foi absorvida naquele fatídico dia onde se perderam companheiros de boa índole.
 
-Lauriel está a voltar de sua Expedição pessoal em busca de aprendizados sobre técnicas combativas, ele está a ir ver seu velho amigo Verus Veridius e aceitar uma das várias missões do ERA em Kisé.”
+Lauriel está a voltar de sua Expedição pessoal em busca de aprendizados sobre técnicas combativas, ele está a ir ver seu velho amigo Verus Veridius e aceitar uma das várias missões do ERA em [kisé](../factions/reinos/kise.md).”
 
-Durante sua expedição Lauriel conheceu um anão bom de briga no bar, que após uma pancadaria que foi resultado da falta de respeito com os forasteiros, ambos acabaram por beber em comemoração aos oponentes caídos, assim o anão acabou falando (consequência da bebida  ) que saiu de kisé há alguns anos pois era visto como fraco por seus conhecidos, o anão desde cedo aparentemente vez ou outra demonstrava aptidão para a magia e os dons da cura, visto como um anão fraco a anão decidiu sair de cidade em cidade tendo em vista aprimorar seus conhecimentos e ganhar experiência, como o tempo ele aprendeu a se defender melhor com seu martelo a até acabou por desenvolver magias com ajuda de algumas pessoas que ele conheceu no caminho, ele decidiu viajar junto de Lauriel já que ambos não tinham rumam e tinham o mesmo objetivo, aprimorar suas técnicas, assim ambos ganharam boas experiencias juntos nessa jornada e até se auxiliaram, quando Lauriel perdeu uma aposta para o anão ele então o ensinou a flanquear os inimigos e assim desferir golpes nos pontos fracos dos inimigos distraídos. Aparentemente o anão parece querer continuar sua jornada com o Lauriel e vez ou outra parece mostrar interesse no ERA, talvez ele queira mostrar que o anão antes dito fraquinho hoje é um grande combatente, Além disso Lauriel o meio-elfo e o Anão desejam mostrar do que são capazes quando lutam juntos como uma equipe.
+Durante sua expedição Lauriel conheceu um anão bom de briga no bar, que após uma pancadaria que foi resultado da falta de respeito com os forasteiros, ambos acabaram por beber em comemoração aos oponentes caídos, assim o anão acabou falando (consequência da bebida  ) que saiu de [kisé](../factions/reinos/kise.md) há alguns anos pois era visto como fraco por seus conhecidos, o anão desde cedo aparentemente vez ou outra demonstrava aptidão para a magia e os dons da cura, visto como um anão fraco a anão decidiu sair de cidade em cidade tendo em vista aprimorar seus conhecimentos e ganhar experiência, como o tempo ele aprendeu a se defender melhor com seu martelo a até acabou por desenvolver magias com ajuda de algumas pessoas que ele conheceu no caminho, ele decidiu viajar junto de Lauriel já que ambos não tinham rumam e tinham o mesmo objetivo, aprimorar suas técnicas, assim ambos ganharam boas experiencias juntos nessa jornada e até se auxiliaram, quando Lauriel perdeu uma aposta para o anão ele então o ensinou a flanquear os inimigos e assim desferir golpes nos pontos fracos dos inimigos distraídos. Aparentemente o anão parece querer continuar sua jornada com o Lauriel e vez ou outra parece mostrar interesse no ERA, talvez ele queira mostrar que o anão antes dito fraquinho hoje é um grande combatente, Além disso Lauriel o meio-elfo e o Anão desejam mostrar do que são capazes quando lutam juntos como uma equipe.
 
 **Enzo Herói dos Ventos**
 
 Enzo nasceu na encosta das Montanhas Benite, numa família de camponeses sem muitas posses. Quando era bem pequeno um evento bem estranho mudou sua vida. Ao brincar com seus amigos ele acabou empurrando um deles para bem longe com o vento. Após isso seus pais o enviaram para um templo temendo que isso fosse uma maldição, ou coisa do gênero. Com o passar do tempo, ele entendeu que a maldição que seus pais falaram na verdade era um dom, e as pessoas que cuidavam dele o mandaram para a ilha continente de Lauré a fim de treinar suas habilidades. Era um templo dos herdeiros da Coruja. Após um árduo treino, Enzo se tornou o que é hoje, um “projeto de herói” que usa seu dom para ajudar as pessoas.
 
-Atualmente Enzo se aposentou como aventureiro voltou para Kisé e se casou com Mica, a ajuda a tocar o negócio de família da sua esposa, a Tradicional loja de Poções da Madame Alince, infelizmente a Alince já morreu a centenas de anos mas seus descendentes continuam com o negócio da Família.
+Atualmente Enzo se aposentou como aventureiro voltou para [kisé](../factions/reinos/kise.md) e se casou com Mica, a ajuda a tocar o negócio de família da sua esposa, a Tradicional loja de Poções da Madame Alince, infelizmente a Alince já morreu a centenas de anos mas seus descendentes continuam com o negócio da Família.
 
 # **Moacuba** 
 
@@ -318,7 +318,7 @@ Moacuba é definida por sua identidade como o centro intelectual do Império, a 
 
 A região é influenciada por grupos com agendas de preservação e segredo.
 
-* **A Ordem dos Senhores do Escudo:**  
+* **A [ordem dos senhores do escudo](../factions/ordem-senhores-escudo.md):**  
   * **Tipo/Agente:** **Militares / Lorde**.  
   * **Traços:** **Disciplinado** e **Tenaz**.  
   * **Vantagens:** **Posição** e **Recursos** (especialistas em defesa).  
@@ -359,9 +359,9 @@ Belero por sua incrível contribuição ao império de Áureo I, “ganhou” um
 
 Esse foi o pontapé inicial para surgir a cidade do conhecimento, Belero era muito inteligente e logo tratou de criar bibliotecas, escolas, uma população instruída era melhor que um bando de bárbaros estúpidos, Belero sempre falou.
 
-Hoje em dia Mocuba é considerada o berço da ciência e tecnologia de Airy (mas nada comparado à cidade dos Piquira (Gnomos) “Avista”, localizada nas Cordilheiras Atã). Piquira (Gnomos) por seu grande conhecimento, e talvez com a possibilidade de descobrirem alguns segredos do povo dos Akitã (Anões), (um Gnomo nunca revela a localização da sua cidade, nem detalhes da sua tecnologia). Infelizmente Mocuba também é conhecida por sua burocracia.
+Hoje em dia Mocuba é considerada o berço da ciência e tecnologia de Airy (mas nada comparado à cidade dos Piquira (Gnomos) “[avista](../factions/reinos/avista.md)”, localizada nas Cordilheiras Atã). Piquira (Gnomos) por seu grande conhecimento, e talvez com a possibilidade de descobrirem alguns segredos do povo dos Akitã (Anões), (um Gnomo nunca revela a localização da sua cidade, nem detalhes da sua tecnologia). Infelizmente Mocuba também é conhecida por sua burocracia.
 
-A cidade é também considerada o berço dos Bardos, Artistas e Afins (Claro que não se compara com Aratama, o reino dos Bardos).
+A cidade é também considerada o berço dos Bardos, Artistas e Afins (Claro que não se compara com [aratama](../factions/reinos/aratama.md), o reino dos Bardos).
 
 Pontos Importantes
 
@@ -428,7 +428,7 @@ Adremalech, também conhecida como a Cidade da Morte, é uma metrópole de taman
 
 **Facções**
 
-**A ordem dos Senhores do Escudo**
+**A [ordem dos senhores do escudo](../factions/ordem-senhores-escudo.md)**
 
 **1\. Tipo e Agente**
 
@@ -479,7 +479,7 @@ Quando o Império se formou em Ypy se tornou a capital, surgiu a necessidade de 
 
 Ele treinou um grupo dentro da guarda que logo se tornou o maior poder de defesa da capital e logo ganhou notoriedade e atraiu guerreiros de todo o mundo procurando o conhecimento sobre as técnicas de defesa da Ordem.
 
-Hoje a Ordem dos Senhores do Escudo é uma das maiores e mais respeitadas organizações de Airy.
+Hoje a [ordem dos senhores do escudo](../factions/ordem-senhores-escudo.md) é uma das maiores e mais respeitadas organizações de Airy.
 
 **Tipo:** Especializada em Combate.
 
@@ -501,7 +501,7 @@ Cargos da Organização
 
 **Senhores do Escudo:** 1300 membros. Encarregados de Defender a Cidade e executar as missões especiais dos senhores do Escudo.
 
-Patrono: Ordem dos Senhores do Escudo
+Patrono: [ordem dos senhores do escudo](../factions/ordem-senhores-escudo.md)
 
 Defesa Incrível: o Patrono lhe confiou uma armadura que pode anular um acerto crítico por combate. Quando atingido desta forma, o personagem sofre apenas dano normal.
 
@@ -523,11 +523,11 @@ O fundador de Moacuba ainda vive, ele é um mago vampiro extremamente poderoso q
 
 **Dante o Espadachim**
 
-A história de Dante começou a desenrolar quando o mesmo começou a participar das lutas da Arena de Moacuba. Antes disso o mesmo era um garoto visivelmente normal que arrumava umas confusões nos arredores da periferia de Moacuba. Como um capricho do destino esse garoto acabou indo parar numa das lutas dentro da arena, nada importante no início. O garoto sem sombra não era nenhum lutador excepcional mas viram que ele tinha talento, e “investiram” na carreira de lutador dele. Mas onde ele se encontrou foi na arte das espadas, e essa conexão com esse tipo de luta, o levou a figurar como um lutador até que famoso da arena. Mas com o tempo ele começou a desejar mais, ele quer se tornar o melhor espadachim de Airy, mas ele sabe que para isso acontecer, seus dias como guerreiro dentro da arena terão que acabar. Numa de suas andanças por Airy, mais precisamente perto da terra selvagem ele salvou um rapaz das garras de selvagens, ele viria jantar deles. Após esse ato, o desconhecido rapaz começou a andar com Dante e meses depois eles viraram amigos, sempre um olhando pelo outro, o nome dele é Lucius, um medimago da cidade de Jurubitiba. Dante não se importou em saber o porquê de Lucius estar tão longe de sua cidade e até hoje ele não se importa, para Dante o homem tem que se provar é no presente, o passado pouco importa. Hoje ele é muito famoso nas arenas do Império, seja pelo de não ter sua sombra, e muitos pensarem que ele possa ser algum demônio, ou seja pelo fato dele ser bom no que faz, mas o que ninguém pode negar que ele deixou sua marca na Arena de Moacuba.
+A história de Dante começou a desenrolar quando o mesmo começou a participar das lutas da Arena de Moacuba. Antes disso o mesmo era um garoto visivelmente normal que arrumava umas confusões nos arredores da periferia de Moacuba. Como um capricho do destino esse garoto acabou indo parar numa das lutas dentro da arena, nada importante no início. O garoto sem sombra não era nenhum lutador excepcional mas viram que ele tinha talento, e “investiram” na carreira de lutador dele. Mas onde ele se encontrou foi na arte das espadas, e essa conexão com esse tipo de luta, o levou a figurar como um lutador até que famoso da arena. Mas com o tempo ele começou a desejar mais, ele quer se tornar o melhor espadachim de Airy, mas ele sabe que para isso acontecer, seus dias como guerreiro dentro da arena terão que acabar. Numa de suas andanças por Airy, mais precisamente perto da [terra selvagem](../factions/reinos/terra-selvagem.md) ele salvou um rapaz das garras de selvagens, ele viria jantar deles. Após esse ato, o desconhecido rapaz começou a andar com Dante e meses depois eles viraram amigos, sempre um olhando pelo outro, o nome dele é Lucius, um medimago da cidade de Jurubitiba. Dante não se importou em saber o porquê de Lucius estar tão longe de sua cidade e até hoje ele não se importa, para Dante o homem tem que se provar é no presente, o passado pouco importa. Hoje ele é muito famoso nas arenas do Império, seja pelo de não ter sua sombra, e muitos pensarem que ele possa ser algum demônio, ou seja pelo fato dele ser bom no que faz, mas o que ninguém pode negar que ele deixou sua marca na Arena de Moacuba.
 
 **Hawke Stark**
 
-Hawke Stark, nasceu na cidade de Moacuba. Filho de Jaime Stark e Leliana Stark, nobres da cidade, era uma das casas mais poderosas da cidade. Porém, os nobres da cidade, tinham rivalidades com o clã Stark. Um dia, em sua infância, Hawke voltava de mais um dia de estudos, financiados por seus pais. Era noite. Ao entrar em sua casa, seus pais estavam mortos, coberto de sangue. Hawke, em total desespero, foi ao encontro de seus pais, se manchando de sangue, e retirando a adaga do corpo de sua mãe. No mesmo instante, pessoas gritam, e em suas costas, algumas pessoas estão dentro da casa, gritando desesperados. A guarda da cidade chega, e veem a adaga nas mãos ensanguentadas de Hawke. Eles vão atrás de Hawke, enquanto ele fugia, pela janela, e pulando entre os telhados. Ele conseguiu despistar a guarda da cidade facilmente. Sua casa estava desonrada. Todas as riquezas da casa Stark foi retiradas, e dada a casa mais rica da cidade. Hawke fugiu para Nambiquara, e ali cresceu. Aprendendo a viver da ladinagem e do furto, teve uma vida dura. Quando cresceu, se envolveu com uma turma de ladrões, e acabou sendo capturado pela guarda local, porém, com muita dificuldade. Na prisão, um guarda o libertou. Hawke ficou confuso, mas saiu com o guarda. Fora da prisão, o guarda mudou sua forma, se revelando um Doppelganger. Ele disse que fazia parte de uma organização, e estavam procurando pessoas como Hawke. Sem muitas opções, Hawke aceitou, e se juntou à oculta Irmandade Negra, um grupo de assassinos profissionais, Doppelgangers. Ninguém sabe onde é a localização do esconderijo da Irmandade Negra, nem mesmo os próprios membros. Mas todos sabem como contatá-los, através de um ritual, com ossos e magia das trevas. Ao entrar na irmandade, Hawke recebeu o a.k.a Arrow, e recebeu um arco, Dracarys, o assassino de ?????. Anos de treino, finalmente chegou a iniciação de Arrow. O líder da irmandade, Cyrus, estava presente em sua iniciação. Ele fez um ritual, e ganhou a habilidade de Doppelganger. Logo após a iniciação, Arrow e seu amigo que o salvou, Fenris, saíram para uma perigosa e importante missão de assassinato. Porém, a missão acabou falhando, e Fenris acabou morto. Logo depois desse ocorrido, Cyrus expulsou Arrow da Irmandade.
+Hawke Stark, nasceu na cidade de Moacuba. Filho de Jaime Stark e Leliana Stark, nobres da cidade, era uma das casas mais poderosas da cidade. Porém, os nobres da cidade, tinham rivalidades com o clã Stark. Um dia, em sua infância, Hawke voltava de mais um dia de estudos, financiados por seus pais. Era noite. Ao entrar em sua casa, seus pais estavam mortos, coberto de sangue. Hawke, em total desespero, foi ao encontro de seus pais, se manchando de sangue, e retirando a adaga do corpo de sua mãe. No mesmo instante, pessoas gritam, e em suas costas, algumas pessoas estão dentro da casa, gritando desesperados. A guarda da cidade chega, e veem a adaga nas mãos ensanguentadas de Hawke. Eles vão atrás de Hawke, enquanto ele fugia, pela janela, e pulando entre os telhados. Ele conseguiu despistar a guarda da cidade facilmente. Sua casa estava desonrada. Todas as riquezas da casa Stark foi retiradas, e dada a casa mais rica da cidade. Hawke fugiu para [nambiquara](../factions/reinos/nambiquara.md), e ali cresceu. Aprendendo a viver da ladinagem e do furto, teve uma vida dura. Quando cresceu, se envolveu com uma turma de ladrões, e acabou sendo capturado pela guarda local, porém, com muita dificuldade. Na prisão, um guarda o libertou. Hawke ficou confuso, mas saiu com o guarda. Fora da prisão, o guarda mudou sua forma, se revelando um Doppelganger. Ele disse que fazia parte de uma organização, e estavam procurando pessoas como Hawke. Sem muitas opções, Hawke aceitou, e se juntou à oculta Irmandade Negra, um grupo de assassinos profissionais, Doppelgangers. Ninguém sabe onde é a localização do esconderijo da Irmandade Negra, nem mesmo os próprios membros. Mas todos sabem como contatá-los, através de um ritual, com ossos e magia das trevas. Ao entrar na irmandade, Hawke recebeu o a.k.a Arrow, e recebeu um arco, Dracarys, o assassino de ?????. Anos de treino, finalmente chegou a iniciação de Arrow. O líder da irmandade, Cyrus, estava presente em sua iniciação. Ele fez um ritual, e ganhou a habilidade de Doppelganger. Logo após a iniciação, Arrow e seu amigo que o salvou, Fenris, saíram para uma perigosa e importante missão de assassinato. Porém, a missão acabou falhando, e Fenris acabou morto. Logo depois desse ocorrido, Cyrus expulsou Arrow da Irmandade.
 
 **Vallem Ark**
 
@@ -553,13 +553,13 @@ O Reino das artes de onde geralmente se originam os melhores bardos e trovadores
 
 **1\. Pessoas (Cultura e Recursos)**
 
-Aratama é o "Reino das Artes", um lugar onde a performance é a base da vida social.
+[aratama](../factions/reinos/aratama.md) é o "Reino das Artes", um lugar onde a performance é a base da vida social.
 
 * **Cultura:**  
   * **Caráter:** **Artístico** e **Esforçado**. A população dedica-se à música, poesia e festividades constantes.  
   * **Ambição:** **Reconhecimento** e **Paz**. O reino busca ser amado e respeitado pela sua classe criativa, evitando o conflito direto que assola outras fronteiras.  
 * **Recursos:**  
-  * **Abundância:** **Conhecimento** (especialmente artístico e lendas) e **Têxteis/Instrumentos**. Aratama é o berço de bardos cujas canções inspiram multidões.  
+  * **Abundância:** **Conhecimento** (especialmente artístico e lendas) e **Têxteis/Instrumentos**. [aratama](../factions/reinos/aratama.md) é o berço de bardos cujas canções inspiram multidões.  
   * **Escassez:** **Armas** e **Estabilidade**. Devido à sua natureza festiva e pacifista, o reino é vulnerável à infiltração de organizações criminosas como a Rilícia.
 
 **2\. Facções Dominantes**
@@ -579,7 +579,7 @@ Conforme o guia, as facções afetam diretamente a vida na região.
 
 **3\. Topografia e Marcos**
 
-Aratama situa-se em uma zona de transição perto de florestas e colinas.
+[aratama](../factions/reinos/aratama.md) situa-se em uma zona de transição perto de florestas e colinas.
 
 * **Terreno Dominante:** **Vales** (Fácil) e **Colinas** (Difícil).  
 * **Marcos (Landmarks):**  
@@ -591,7 +591,7 @@ Aratama situa-se em uma zona de transição perto de florestas e colinas.
 
 Distribuídos conforme a Tabela de PDIs do Guia do *Warden*:
 
-* **Coração (H):** **Cidadela de Aratama.** Um assentamento **Imerso em Tradição** e **Famoso por seus Festivais**.  
+* **Coração (H):** **Cidadela de [aratama](../factions/reinos/aratama.md).** Um assentamento **Imerso em Tradição** e **Famoso por seus Festivais**.  
 * **Entreposto:** **Sede do Jornal Nossa Airy.** Um local de **Informação** e **Rebelião Silenciosa** contra a propaganda imperial.  
 * **Curiosidade:** **A Grande Festa (Sazonal).** Um evento que transforma a cidade em um **Baile de Máscaras** onde todos são iguais.  
 * **Covil:** **Esconderijo da Rilícia.** Localizado em becos escuros ou subsolos, caracterizado por **Saídas Ocultas** e **Maquinaria Estranha** para falsificações.  
@@ -601,24 +601,24 @@ Distribuídos conforme a Tabela de PDIs do Guia do *Warden*:
 
 Conectores entre os pontos de interesse:
 
-* **Estrada Real (Padrão):** Rota que liga a Ypy e Camuá, marcada por **Peregrinos Frequentes** e **Patrulhas da Guarda da Cidade**.  
+* **Estrada Real (Padrão):** Rota que liga a Ypy e [camuá](../factions/reinos/camua.md), marcada por **Peregrinos Frequentes** e **Patrulhas da Guarda da Cidade**.  
 * **Caminho Oculto:** **Túneis da Rilícia.** Conectam a prefeitura aos subúrbios, sendo **Confusos para Navegar** e usados para transações ilícitas.  
-* **Caminho Condicional:** **Trilhas de Aratama.** Devido ao relevo, muitas rotas tornam-se **Subidas Íngremes** ou exigem autorização para passar por distritos nobres elevados.
+* **Caminho Condicional:** **Trilhas de [aratama](../factions/reinos/aratama.md).** Devido ao relevo, muitas rotas tornam-se **Subidas Íngremes** ou exigem autorização para passar por distritos nobres elevados.
 
-O Fundador da cidade Namish Onn era um dos Generais de Áureo I e também o seu Bardo Real, quando recebeu o título de nobreza e as terras onde hoje é Aratama, Namish não teve outra ideia a não ser festas, muitas festas, a maior foi na fundação de seu castelo, que demorou 8 anos para ser construído, no dia da sua organização aconteceu a maior festa que o munda já havia visto Namish convidou todos do exército de Áureo I, e a festa durou mais de um mês, milhares de pessoas cantando e se divertindo durante um mês, foi incrível para o agora Rei Namish. Com o passar do tempo Namish se aposentou e a velhice começou a lhe bater a porta e receoso de que a felicidade e as festas abandonassem o seu reino ele optou por passar seu conhecimento de bardo adiante e criou a Real Academia de Artes Imperial, a primeira escola que ensinava artes das mais diversas bardos e artistas de todo o mundo.
+O Fundador da cidade Namish Onn era um dos Generais de Áureo I e também o seu Bardo Real, quando recebeu o título de nobreza e as terras onde hoje é [aratama](../factions/reinos/aratama.md), Namish não teve outra ideia a não ser festas, muitas festas, a maior foi na fundação de seu castelo, que demorou 8 anos para ser construído, no dia da sua organização aconteceu a maior festa que o munda já havia visto Namish convidou todos do exército de Áureo I, e a festa durou mais de um mês, milhares de pessoas cantando e se divertindo durante um mês, foi incrível para o agora Rei Namish. Com o passar do tempo Namish se aposentou e a velhice começou a lhe bater a porta e receoso de que a felicidade e as festas abandonassem o seu reino ele optou por passar seu conhecimento de bardo adiante e criou a Real Academia de Artes Imperial, a primeira escola que ensinava artes das mais diversas bardos e artistas de todo o mundo.
 
-O próprio Rei era o diretor e professor da sua escola, e ensinou tanto os seus filhos como o povo, quem quisesse aprender era bem vindo, depois de realizado seu sonho Namish morreu de Morte natural em avançada idade tocando o seu instrumento em uma das suas tão adoradas festas, como era de sua vontade a festa não acabou, mas sim continuou por mais vários dias no seu velório, e se tornou uma tradição, em Aratama  não se chora a morte de alguém mas sim se faz uma festa em sua homenagem.
+O próprio Rei era o diretor e professor da sua escola, e ensinou tanto os seus filhos como o povo, quem quisesse aprender era bem vindo, depois de realizado seu sonho Namish morreu de Morte natural em avançada idade tocando o seu instrumento em uma das suas tão adoradas festas, como era de sua vontade a festa não acabou, mas sim continuou por mais vários dias no seu velório, e se tornou uma tradição, em [aratama](../factions/reinos/aratama.md)  não se chora a morte de alguém mas sim se faz uma festa em sua homenagem.
 
 Após a sua morte, os filhos de Namish assumiram o controle da escola do rei, e ela ainda existe formando os mais famosos Bardos de Airy.
 
-| SERVOS DOS DEUSES EM AIRY Servos dos deuses verdadeiros (Clérigos e Paladinos) são raros em Airy, Não que templos em honra aos deuses não existem, eles existem e muitos, onde supostos clérigos seguem seus estudos e ludibriam a população os forçando a acreditar em falsos deuses. Mas entre muitos charlatões há sempre algumas exceções a regra, alguns são tão leais aos deuses antigos que realmente se tornam Clérigos e Paladinos, mas identificá-los é muito difícil e eles geralmente são confundidos como simples clérigos sem poder. Mas muito raramente surgem boatos de devotos dos deuses em locais isolados que curam e até mesmo ressuscitar alguém, vale a pena conferir boatos desses pois as vezes eles são reais e talvez eles possam trazer de volta a vida um amigo. Mas em compensação em Airy a medicina e a magia se tornaram muito avançadas, e personagens como Clérigos e Paladinos podem ser substituídos por Medimagos e Médicos de Combate, e até por Médicos normais. COMO OS DEUSES SÃO CULTUADOS ENTÃO? Há os semideuses que são cultuados em regiões remotas de Airy, mas eles geralmente não dão nenhum poder aos seus seguidores, mas representam bem isso. Mas os Deuses Antigos ainda são cultuados, todas as cidades tem um altar ou um templo para esses deuses, em cada região eles são cultuados por nomes diferentes, mas sempre associados a seus ideais, deuses também não tem sexo são seres axexuados então em determinadas regiões eles são cultuados como mulheres em outras como homens, mas sempre relacionados a mesma coisa. DEUS DA ORDEM: Seu domínio é a Ordem, e tudo relacionado a coisas boas. Em cada região ele é chamado de um nome. ANGATUPRI: Na região de Jurubatiba, Ypy. Nambiquara, Ypiturui e Kaluana. ANHUM: Na região de Kisé, Aratama e Camuá. YUSHÃ: Na região de Moacuba, Aisó, e Poranga. XUNDARUÁ: No Arquipélago Acag, em Fortuna e no mar. DEUS DO CAUS: Seu domínio é o caos, a desordem, e a neutralidade, e o contrário da Ordem. KATXURÉU: Na região de Jurubatiba, Ypy. Nambiquara, Ypiturui e Kaluana. MARÃ: Na região de Kisé, Aratama e Camuá. NHARÁ: Na região de Moacuba, Aisó, e Poranga. TENEMUR: No Arquipélago Acag, em Fortuna e no mar. TENEMUR, ANHUM |
+| SERVOS DOS DEUSES EM AIRY Servos dos deuses verdadeiros (Clérigos e Paladinos) são raros em Airy, Não que templos em honra aos deuses não existem, eles existem e muitos, onde supostos clérigos seguem seus estudos e ludibriam a população os forçando a acreditar em falsos deuses. Mas entre muitos charlatões há sempre algumas exceções a regra, alguns são tão leais aos deuses antigos que realmente se tornam Clérigos e Paladinos, mas identificá-los é muito difícil e eles geralmente são confundidos como simples clérigos sem poder. Mas muito raramente surgem boatos de devotos dos deuses em locais isolados que curam e até mesmo ressuscitar alguém, vale a pena conferir boatos desses pois as vezes eles são reais e talvez eles possam trazer de volta a vida um amigo. Mas em compensação em Airy a medicina e a magia se tornaram muito avançadas, e personagens como Clérigos e Paladinos podem ser substituídos por Medimagos e Médicos de Combate, e até por Médicos normais. COMO OS DEUSES SÃO CULTUADOS ENTÃO? Há os semideuses que são cultuados em regiões remotas de Airy, mas eles geralmente não dão nenhum poder aos seus seguidores, mas representam bem isso. Mas os Deuses Antigos ainda são cultuados, todas as cidades tem um altar ou um templo para esses deuses, em cada região eles são cultuados por nomes diferentes, mas sempre associados a seus ideais, deuses também não tem sexo são seres axexuados então em determinadas regiões eles são cultuados como mulheres em outras como homens, mas sempre relacionados a mesma coisa. DEUS DA ORDEM: Seu domínio é a Ordem, e tudo relacionado a coisas boas. Em cada região ele é chamado de um nome. ANGATUPRI: Na região de [jurubatiba](../factions/reinos/jurubatiba.md), Ypy. [nambiquara](../factions/reinos/nambiquara.md), [ypiturui](../factions/reinos/ypiturui.md) e [kaluana](../factions/reinos/kaluana.md). ANHUM: Na região de [kisé](../factions/reinos/kise.md), [aratama](../factions/reinos/aratama.md) e [camuá](../factions/reinos/camua.md). YUSHÃ: Na região de Moacuba, [aisó](../factions/reinos/aiso.md), e Poranga. XUNDARUÁ: No Arquipélago [acag](../factions/reinos/acag.md), em [fortuna](../factions/reinos/fortuna.md) e no mar. DEUS DO CAUS: Seu domínio é o caos, a desordem, e a neutralidade, e o contrário da Ordem. KATXURÉU: Na região de [jurubatiba](../factions/reinos/jurubatiba.md), Ypy. [nambiquara](../factions/reinos/nambiquara.md), [ypiturui](../factions/reinos/ypiturui.md) e [kaluana](../factions/reinos/kaluana.md). MARÃ: Na região de [kisé](../factions/reinos/kise.md), [aratama](../factions/reinos/aratama.md) e [camuá](../factions/reinos/camua.md). NHARÁ: Na região de Moacuba, [aisó](../factions/reinos/aiso.md), e Poranga. TENEMUR: No Arquipélago [acag](../factions/reinos/acag.md), em [fortuna](../factions/reinos/fortuna.md) e no mar. TENEMUR, ANHUM |
 | :---- |
 
 **A Grande Festa:** Durante um mês inteiro com início no Solstício de  Verão acontece a grande festa, que dura um mês inteiro (alguns prolongam um pouco mais), a cidade inteira para para essa grande festa e gente de todas as partes do mundo comparecem para prestigiar a maior festa do mundo. Nessa Festa tudo é liberado e todos são iguais, a grande maioria sai para as ruas para festejar com máscaras e fantasias, tornando as ruas da cidade um grande baile de máscaras, durante todo o mês, claro que para a segurança da população serviços básicos como segurança e saúde continuam funcionando normalmente.
 
 Real Academia Imperial de Arte: Esta é a única escola de artes do império, local que forma os mais famosos Bardos do mundo, muitos bardos formados aqui trabalham no Jornal O Império, que noticia fatos importantes para a nobreza mundial.
 
-Patrono: Aratama
+Patrono: [aratama](../factions/reinos/aratama.md)
 
 Canção da Batalha: um bardo surge e entoa uma Marcha de Batalha para você e seu grupo (Manual 3D\&T Alpha, pág. 102\) até o fim do combate com efeito mínimo, ou por dois turnos em efeito máximo.
 
@@ -636,7 +636,7 @@ Ouvir muitas histórias o deixou um um bom conhecedor de como o mundo funciona. 
 
 Contador de Histórias (Aratama)
 
-Todos os habitantes de Aratama são exímios contadores de histórias, recebendo gratuitamente a especialização Lábia ou Atuação. Além disso, para eles, testes dessas perícias sempre são considerados fáceis.
+Todos os habitantes de [aratama](../factions/reinos/aratama.md) são exímios contadores de histórias, recebendo gratuitamente a especialização Lábia ou Atuação. Além disso, para eles, testes dessas perícias sempre são considerados fáceis.
 
 História de Pescador (+1 Ponto)
 
@@ -684,7 +684,7 @@ Caso personagens de jogadores se envolvam com a facção (provavelmente como ant
 **6\. Simbologia e Localização**
 
 * **Símbolo:** Uma **espiral preta e branca**, muitas vezes tatuada no pescoço ou gravada na pele de seus membros.  
-* **Sede:** Originalmente em **Aratama**, mas possui células integradas à administração pública de várias cidades do Império.
+* **Sede:** Originalmente em **[aratama](../factions/reinos/aratama.md)**, mas possui células integradas à administração pública de várias cidades do Império.
 
 Guilda formada por ladrões, falsários e assassinos, guilda criminosa mais perigosa de Airy, seres de vários espécies excluídos fazem parte das suas fileiras. Se alguém dessa guilda entrar no seu caminho, simplesmente saia. Essa é a recomendação das autoridades.
 
@@ -694,7 +694,7 @@ Guilda formada por ladrões, falsários e assassinos, guilda criminosa mais peri
 
 **Geografia:** em todo império.
 
-**Sede:** Aratama
+**Sede:** [aratama](../factions/reinos/aratama.md)
 
 **Demografia:** Ladrões, Falsários, Assassinos.
 

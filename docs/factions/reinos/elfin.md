@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Entre Folhas**
-> **Personagens nascidos em Elfin**: *Entre Folhas* (+1 Furtividade/Percepção florestas).
+> **Personagens nascidos em [elfin](elfin.md)**: *Entre Folhas* (+1 Furtividade/Percepção florestas).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Entre Folhas**
-> **Personagens nascidos em Elfin**: *Entre Folhas* (+1 Furtividade/Percepção florestas).
+> **Personagens nascidos em [elfin](elfin.md)**: *Entre Folhas* (+1 Furtividade/Percepção florestas).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Norte](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

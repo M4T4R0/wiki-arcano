@@ -46,7 +46,7 @@
 ## 💰 Economia
 | Setor | Detalhes |
 |-------|----------|
-| **Cerveja/Destilados** | 50+ cervejarias; exporta para todo Império; "Cerveja de Camuá" = padrão de qualidade |
+| **Cerveja/Destilados** | 50+ cervejarias; exporta para todo Império; "Cerveja de [camuá](camua.md)" = padrão de qualidade |
 | **Comércio Fluvial** | Porto 24h; grãos (sul) ↔ manufaturados (norte) |
 | **Pousadas/Tavernas** | 200+; 10.000+ leitos; rota de caravanas |
 | **Jogos/Apostas** | Regulados; taxados; "Casa sempre ganha, mas paga bem" |
@@ -64,7 +64,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Amizade Inesperada**
-> **Personagens nascidos em Camuá**: **+1 em testes de Blefar e Manha**.
+> **Personagens nascidos em [camuá](camua.md)**: **+1 em testes de Blefar e Manha**.
 > *Crescer negociando over drinks ensina a ler pessoas e sair de encrencas falando.*
 
 ---
@@ -75,7 +75,7 @@
 | **Stigin Nato** | Fundador (falecido) | Taverneiro herói; estátua na praça; "o homem que segurou a lâmina com a bandeja" |
 | **Mestre-Cervejeiro Atual** | Presidente do Conselho | Rotativo 2 anos; "a melhor cerveja decide quem manda" |
 | **Mestre dos Jogos** | Chefe das apostas | Regula jogos; "a casa paga, mas não perdoa dívidas" |
-| **Mestre dos Barris** | Chefe da tanoaria | Barris de Camuá = padrão imperial; segredo da madeira |
+| **Mestre dos Barris** | Chefe da tanoaria | Barris de [camuá](camua.md) = padrão imperial; segredo da madeira |
 
 ---
 
@@ -87,21 +87,21 @@
 | **Mercado Fluvial** | Porto 24h; guindastes mágicos; alfândega rápida (taxa única) |
 | **Rua dos Barris** | 50+ tavernas; cada uma com cerveja exclusiva; competição amigável |
 | **Campo dos Caravaneiros** | 500+ vagas; ferraria, veterinário, capela, casa de banho |
-| **Cemitério dos Viajantes** | Fora da cidade; "quem morre em Camuá, descansa entre amigos" |
+| **Cemitério dos Viajantes** | Fora da cidade; "quem morre em [camuá](camua.md), descansa entre amigos" |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Receita Roubada** — Receita original da cerveja roubada; concorrente (Nambiquara?) lança "Cerveja Imperial" falsificada
-2. **Dívida de Jogo** — PC deve favor ao Mestre dos Jogos; cobrança: contrabandear algo para Nambiquara
-3. **Espião na Taverna** — Agente imperial/Moacuba/Nambiquara ouve segredos na Taverna Original; PCs detectam
-3. **Caravana Desaparecida** — Carga valiosa (artefato? pessoa?) sumiu entre Camuá e Kisé; rastro na Terra Selvagem
+2. **Dívida de Jogo** — PC deve favor ao Mestre dos Jogos; cobrança: contrabandear algo para [nambiquara](nambiquara.md)
+3. **Espião na Taverna** — Agente imperial/[moacuba](moacuba.md)/[nambiquara](nambiquara.md) ouve segredos na Taverna Original; PCs detectam
+3. **Caravana Desaparecida** — Carga valiosa (artefato? pessoa?) sumiu entre [camuá](camua.md) e [kisé](kise.md); rastro na [terra selvagem](terra-selvagem.md)
 3. **Festival da Cerveja** — Evento anual; 50.000 visitantes; oportunidade para infiltração/roubo/contato
 
 ---
 
 ## 🌟 Vantagem Regional: **Amizade Inesperada**
-> **Personagens nascidos em Camuá**: **+1 em testes de Blefar e Manha**.
+> **Personagens nascidos em [camuá](camua.md)**: **+1 em testes de Blefar e Manha**.
 > *Crescer negociando over drinks ensina a ler pessoas e sair de encrencas falando.*
 
 ---
@@ -114,7 +114,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Amizade Inesperada**
-> **Personagens nascidos em Camuá**: **+1 em testes de Blefar e Manha**.
+> **Personagens nascidos em [camuá](camua.md)**: **+1 em testes de Blefar e Manha**.
 > *Crescer negociando over drinks ensina a ler pessoas e sair de encrencas falando.*
 
 ---

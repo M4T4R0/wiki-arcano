@@ -25323,7 +25323,7 @@ Na manhã seguinte, decidido a testar mais a fundo seu Mecanar, Azeron vestiu a 
 
 — Uau\! Isso é um Mecanar legítimo? — Mack perguntou, os olhos arregalados de surpresa.
 
-— Claro, e custou uma fortuna. — Azeron respondeu, com um sorriso satisfeito.
+— Claro, e custou uma [fortuna](factions/reinos/fortuna.md). — Azeron respondeu, com um sorriso satisfeito.
 
 Ele então mostrou os planos detalhados das melhorias que Kale havia projetado para o Mecanar. Mack examinou os desenhos com fascínio.
 
@@ -25383,7 +25383,7 @@ Inicia a mensagem com seu pai muito provavelmente após acordar pela manhã, ain
 
 *“— AZERON\! — A voz de seu pai era feroz e cortante, quase rasgando o silêncio. — QUE CONTA É ESSA QUE ESTOU RECEBENDO?\!*
 
-*— Como você ousa gastar essa quantia absurda sem nem ao menos me consultar? Você enlouqueceu? Um cajado novo? Uma varinha?\! Não bastava o que você já tinha? Você acha que dinheiro cresce em árvores? Isso aqui é uma FORTUNA, Azeron\!*
+*— Como você ousa gastar essa quantia absurda sem nem ao menos me consultar? Você enlouqueceu? Um cajado novo? Uma varinha?\! Não bastava o que você já tinha? Você acha que dinheiro cresce em árvores? Isso aqui é uma [fortuna](factions/reinos/fortuna.md), Azeron\!*
 
 *— Não faço ideia de onde você tirou essa arrogância. Você está achando que sou algum político rico? Você sequer pensa antes de fazer essas escolhas idiotas? Estamos falando de milhares de Barões, uma década de mensalidades da universidade\! Como você pode ser tão irresponsável? O que passa pela sua cabeça?*
 
@@ -26051,15 +26051,15 @@ Azeron o fitou, esperando.
 
 — Transformam-se em formas híbridas. Meio homem, meio criatura.
 
-— Licantropos? — a palavra saiu como um sussurro rouco de Azeron.
+— [licantropos](races/individual/licantropos.md)? — a palavra saiu como um sussurro rouco de Azeron.
 
 Mack assentiu.
 
-— Mas nunca houve casos de licantropos dragões, claro que já foi testado, quem não iria tentar unir uma das criaturas mais adaptadas para sobreviver no mundo com uma das mais poderosas? Mas não ouve nenhum sucesso em nenhuma das tentativas. O que só nos resta uma conclusão.
+— Mas nunca houve casos de [licantropos](races/individual/licantropos.md) dragões, claro que já foi testado, quem não iria tentar unir uma das criaturas mais adaptadas para sobreviver no mundo com uma das mais poderosas? Mas não ouve nenhum sucesso em nenhuma das tentativas. O que só nos resta uma conclusão.
 
 — Gorgo conhece alguma técnica secreta de transplante inter-especies que funciona com dragões.
 
-— Exatamente. E, se os antigos estiverem certos sobre os licantropos... o primeiro passo é sempre nos sonhos.
+— Exatamente. E, se os antigos estiverem certos sobre os [licantropos](races/individual/licantropos.md)... o primeiro passo é sempre nos sonhos.
 
  — Já é quase lua cheia novamente, isso quer dizer que preciso me preparar. 
 
@@ -26419,7 +26419,7 @@ Só havia um único bandido nos portões da residência, ninguém em Carnago se 
 
 Azeron não demorou. Avançou um passo, depois outro, e então o guarda ficou Paralisado quando realizou um feitiço fluido com seu cajado.
 
-Azeron o tocou no peito do guarda indefeso, murmurou os Anti-Fonemas da Trevas, foi como reencontrar um velho amigo, a magia simplesmente aconteceu. Consumido pelas Trevas o homem caiu ao chão murcho como se tivesse sido drenado. Então serviu como combustível para a magia a seguir: As sombras ao seu redor começaram a acompanhar Azeron se arrastando pelas paredes como espectros obedientes. 
+Azeron o tocou no peito do guarda indefeso, murmurou os [anti-fonemas](magic/trevas.md) da Trevas, foi como reencontrar um velho amigo, a magia simplesmente aconteceu. Consumido pelas Trevas o homem caiu ao chão murcho como se tivesse sido drenado. Então serviu como combustível para a magia a seguir: As sombras ao seu redor começaram a acompanhar Azeron se arrastando pelas paredes como espectros obedientes. 
 
 O Mago das Trevas parou. A voz saiu de dentro, pequena e partida, como se arrastasse pedras na garganta.
 
@@ -26433,7 +26433,7 @@ Ao adentrar os corredores da mansão em ruínas, as sombras o acompanharam. Sua 
 
 Um dos moradores, talvez um vigia sonolento, caminhava distraído pelo corredor, sem notar que a escuridão vinha em sua direção. As lanternas se apagavam uma a uma, até que o breu o envolveu por completo. O morador sentiu um único fisgar na barriga. Sua última visão foi um olho reptiliano, luminoso e furioso, o fitando na escuridão. O corpo tombou contra a parede com um estalo surdo.
 
-Outro homem, logo atrás, tentou correr. Não conseguiu. As sombras o alcançaram, garras negras emergindo das paredes, do chão e do teto, rasgando a luz, disputando pedaços de carne enquanto o despedaçavam ainda vivo. Há muito tempo estavam famintas. Murmuravam numa língua que Azeron nunca conheceu, antiga, morta, os Anti-Fonemas das Trevas. Azeron as compreendia agora, como se fosse sua língua materna.
+Outro homem, logo atrás, tentou correr. Não conseguiu. As sombras o alcançaram, garras negras emergindo das paredes, do chão e do teto, rasgando a luz, disputando pedaços de carne enquanto o despedaçavam ainda vivo. Há muito tempo estavam famintas. Murmuravam numa língua que Azeron nunca conheceu, antiga, morta, os [anti-fonemas](magic/trevas.md) das Trevas. Azeron as compreendia agora, como se fosse sua língua materna.
 
 Mais inimigos surgiram, atraídos pelos gritos do companheiro. Quando viram aquele brilho na escuridão, o olho de Azeron delineando seu rosto em tons de vermelho… hesitaram. Havia algo monstruoso em seus traços, uma distorção de fúria e ódio.
 
@@ -26475,7 +26475,7 @@ O lampejo de humanidade se extinguiu.
 
 O olhar dele se tornou oco.
 
-Com a mão ainda pousada sobre o rosto do moribundo, Azeron murmurou palavras nascidas das profundezas, novamente os Anti-Fonemas das Trevas. O corpo do homem começou a se desfazer, reduzindo-se a cinzas que escorreram entre seus dedos.
+Com a mão ainda pousada sobre o rosto do moribundo, Azeron murmurou palavras nascidas das profundezas, novamente os [anti-fonemas](magic/trevas.md) das Trevas. O corpo do homem começou a se desfazer, reduzindo-se a cinzas que escorreram entre seus dedos.
 
 Naquele instante, todas as luzes em quilômetros ao redor se apagaram. O mundo inteiro pareceu prender o fôlego. Então, lentamente, os clarões retornaram — frágeis, trêmulos — enquanto a escuridão se concentrava em um único ponto: a palma da sua mão.
 
@@ -26567,7 +26567,7 @@ Na beira do circulo o final do raio de destruição, casas partidas ao meio com 
 
 Azeron nada responde e os dois se afastam dos destroços das ruínas silenciosas.
 
-Eles rumaram pelas vielas da periferia de Jurubatiba até uma escadaria de pedra antiga que descia até um portão de ferro retorcido preso entre dias colunas de concreto rachado, nas colunas velhos cartazes de desaparecidos colados e desbotados. No topo do portão um olho esculpido na pedra com uma pupila vazia, de onde água escorria constantemente deslocando em uma vasilha de pedra. 
+Eles rumaram pelas vielas da periferia de [jurubatiba](factions/reinos/jurubatiba.md) até uma escadaria de pedra antiga que descia até um portão de ferro retorcido preso entre dias colunas de concreto rachado, nas colunas velhos cartazes de desaparecidos colados e desbotados. No topo do portão um olho esculpido na pedra com uma pupila vazia, de onde água escorria constantemente deslocando em uma vasilha de pedra. 
 
 Quando empurrou o portão sem dificuldade o velho ascendeu a pedra elemental do fogo na ponta do seu cajado. Eles seguiram com o som de passos ecoando pela paredes.
 
@@ -26607,7 +26607,7 @@ No centro, o ponto de impacto: um círculo colossal de terra revirada, mais de u
 
 — Devemos sair daqui — murmurou Gorgo. — Os Arcanos sentirão o cheiro das Trevas. Já devem estar vindo atrás de você.
 
-Azeron não respondeu. Caminhou em silêncio, os passos ecoando como se o chão reconhecesse seu peso. Seguiram pelas vielas da periferia de Jurubatiba, até uma escadaria de pedra antiga que descia. No fim, um portão de ferro retorcido os aguardava, cravado entre duas colunas rachadas. Nelas, velhos cartazes de desaparecidos se misturavam a símbolos apagados. Acima do portão, um olho esculpido na pedra chorava um filete constante de água que caía numa bacia de pedra.
+Azeron não respondeu. Caminhou em silêncio, os passos ecoando como se o chão reconhecesse seu peso. Seguiram pelas vielas da periferia de [jurubatiba](factions/reinos/jurubatiba.md), até uma escadaria de pedra antiga que descia. No fim, um portão de ferro retorcido os aguardava, cravado entre duas colunas rachadas. Nelas, velhos cartazes de desaparecidos se misturavam a símbolos apagados. Acima do portão, um olho esculpido na pedra chorava um filete constante de água que caía numa bacia de pedra.
 
 O portão rangeu quando Gorgo o empurrou. A pedra elemental do fogo na ponta do seu cajado acendeu em chama tênue, e os dois adentraram o corredor úmido. O som dos passos reverberava como sussurros distantes.
 
@@ -26703,7 +26703,7 @@ Gorgo sorriu, satisfeito, e estendeu uma mão manchada de sombras.
 
 # 49
 
-Fora das catabumbas Gorgo escuta o potente som dos motores de um nave se aproximando, eles se intensificam e a nave de carga pousa de vagar no acostamento da rua naquele bairro de periferia dos prédios baixos de Jurubatiba. Era a mesma nave velha que havia levado ele, Azeron e os outros inúteis que morreram meses atrás até sua armadilha no covil da Fumegan. 
+Fora das catabumbas Gorgo escuta o potente som dos motores de um nave se aproximando, eles se intensificam e a nave de carga pousa de vagar no acostamento da rua naquele bairro de periferia dos prédios baixos de [jurubatiba](factions/reinos/jurubatiba.md). Era a mesma nave velha que havia levado ele, Azeron e os outros inúteis que morreram meses atrás até sua armadilha no covil da Fumegan. 
 
 Mordigueiro, roliço, lento e submisso, curvado, saiu do portão de carga com seu olhar vazio, rosto marcado pelas cicatrizes antigas das “correções” que recebeu, agora também tinha um tapa olho exatamente igual ao de Azeron, ele evitaca a todo custo ofender Gorgo.
 
@@ -26811,7 +26811,7 @@ Um rugido gutural de aprovação percorreu o grupo de guerra.
 
 Os orcs formaram um círculo em torno da carroça, entoando cânticos guturais em sua língua gutural. Olohorn ergueu seu cajado, uma ossada trançada com tendões secos e gravuras primitivas. Azeron sentiu a pulsação sombria nele, uma centelha das Trevas, mas fraca e impura, apenas fragmentos do verdadeiro Livro de Imamu, nada comparado ao que ele sabia agora.
 
-Gorgo aguardou. Fingiu acompanhar o ritual, os lábios movendo-se em falsa devoção. Mas suas palavras, inaudíveis, eram os Anti-Fonemas das Trevas. O selo do sarcófago brilhou em púrpura viva, e os orcs acreditaram que sua fé estava vencendo o impossível.
+Gorgo aguardou. Fingiu acompanhar o ritual, os lábios movendo-se em falsa devoção. Mas suas palavras, inaudíveis, eram os [anti-fonemas](magic/trevas.md) das Trevas. O selo do sarcófago brilhou em púrpura viva, e os orcs acreditaram que sua fé estava vencendo o impossível.
 
 — Mais alto\! — gritou Gorgo. — Estão quase conseguindo\!
 
@@ -26819,7 +26819,7 @@ Olohorn, em êxtase, ergueu a voz num frenesi selvagem.
 
 — Sempre tentamos e nunca conseguimos\! É um milagre de Sabnock\!
 
-O chão vibrou. O ar tornou-se espesso. As tochas se curvaram. Gorgo sussurrou mais Anti-Fonemas, e as Trevas responderam. Um tremor sacudiu o mausoléu. A tampa do sarcófago rangeu, movendo-se lentamente. O cheiro veio primeiro — carne queimada, metal oxidado e enxofre.
+O chão vibrou. O ar tornou-se espesso. As tochas se curvaram. Gorgo sussurrou mais [anti-fonemas](magic/trevas.md), e as Trevas responderam. Um tremor sacudiu o mausoléu. A tampa do sarcófago rangeu, movendo-se lentamente. O cheiro veio primeiro — carne queimada, metal oxidado e enxofre.
 
 As runas começaram a apagar uma a uma, como o som de ossos estalando. Os orcs berravam em euforia enquanto o chão tremia sob seus pés. Então, de repente, um vento glacial varreu o local, apagando todas as velas. O cântico cessou. O silêncio retornou, denso e cheio de expectativa. Apenas o brilho carmesim do último selo permanecia, pulsando como um coração profano.
 
@@ -27009,9 +27009,9 @@ Gorgo ergueu os braços. Sua voz se multipliciu, grave, distorcida, ecoando com 
 
 — Os Arcanos Imperiais ergueram suas muralhas com carne e sangue dos que serviram às Trevas… agora eu faço o mesmo.
 
-Ele levantiu o cálice com o sangue do xamã. Ao pronunciar os Anti-Fonemas das Trevas, o cristal negro começou a se dissolver, tornando-se fumaça escarlate. A nuvem se espalhou em círculos concêntricos, unindo-se à fumaça que saía do corpo de Olohorn — ambas se fundiram em um redemoinho ardente que subia até os céus da cidade e se solidificava em uma redoma invisível.
+Ele levantiu o cálice com o sangue do xamã. Ao pronunciar os [anti-fonemas](magic/trevas.md) das Trevas, o cristal negro começou a se dissolver, tornando-se fumaça escarlate. A nuvem se espalhou em círculos concêntricos, unindo-se à fumaça que saía do corpo de Olohorn — ambas se fundiram em um redemoinho ardente que subia até os céus da cidade e se solidificava em uma redoma invisível.
 
-Lá fora, as estrelas desapareceram. O céu sobre Jurubatiba se apagou como se o mundo tivesse sido submerso em um mar sem luz.
+Lá fora, as estrelas desapareceram. O céu sobre [jurubatiba](factions/reinos/jurubatiba.md) se apagou como se o mundo tivesse sido submerso em um mar sem luz.
 
 Gorgo observava o vazio morto e, voltando-se a Azeron, murmurou com um sorriso cansado:
 
@@ -27039,7 +27039,7 @@ Sem querer, dominado pela força que o possuía, Azeron ergueu-se. O cajado gêm
 
 Com um único gesto seu, as criaturas da Infestação, pequenas e enormes, começaram a cercá-lo; os mais fracos abriram caminho, os maiores curvaram-se como se reconhecessem a hierarquia imposta.  Orcs retorcidos foram os primeiro a lançar-se pela abertura, e pelos cultistas transformados em algo informe e obediente e por ultimo as criaturas mortas reerguidas pela Infestação.
 
-Eles desapareceram no corredor escuro, uma fila de sombras e ruídos entrelaçados, levando consigo a promessa de uma noite que mudaria Jurubatiba para sempre.
+Eles desapareceram no corredor escuro, uma fila de sombras e ruídos entrelaçados, levando consigo a promessa de uma noite que mudaria [jurubatiba](factions/reinos/jurubatiba.md) para sempre.
 
 \*\*\*
 
@@ -27207,7 +27207,7 @@ A voz ressoou grave novamente, quase inumana, carregada da autoridade das Palavr
 
 As pessoas estavam horrorizadas, a barreira mágica de Gorgo envolvia toda a cidade, todos estavam parados sem reação a observar o horizonte. Ninguém notou o garoto imundo saindo das profundezas. 
 
-Azeron surgiu cambaleante, coberto de fuligem, o corpo exausto vibrando com o frio que emanava do chão, como se o próprio mundo sugasse o calor da vida. Ele sabia o que era, a Infestação. Cada respiração trazia o cheiro metálico de ozônio e o pó flutuante, provocando náusea. Ele correu o mais rápido que pode por alguns quilômetros pelas ruas agora sem vida de Jurubatiba.
+Azeron surgiu cambaleante, coberto de fuligem, o corpo exausto vibrando com o frio que emanava do chão, como se o próprio mundo sugasse o calor da vida. Ele sabia o que era, a Infestação. Cada respiração trazia o cheiro metálico de ozônio e o pó flutuante, provocando náusea. Ele correu o mais rápido que pode por alguns quilômetros pelas ruas agora sem vida de [jurubatiba](factions/reinos/jurubatiba.md).
 
 Quando chegou à praça central, as runas gravadas no chão da praça central ainda pulsavam, como corações batendo sob pedra. Ele cambaleava, quase desabando pelo esforço repentino, mas a urgência o mantinha em pé.
 
@@ -28765,7 +28765,7 @@ Darius fechou os olhos por um instante, sentindo o peso da situação.
 
 — Talon, venha aqui — chamou Darius, a mão tremendo enquanto tentava alcançar a cintura. O esforço era visível; o corpo parecia feito de chumbo. Talon percebeu: ele queria seu grimório inseparável. Sem hesitar, Talon o segurou diante dos olhos do mestre.
 
-— Talon, este é o Tomo do Conhecimento — disse Darius, com a voz falhando. — Símbolo da lei e da justiça nesta cidade. Fique com ele. Agora, você é a lei em Jurubatiba.
+— Talon, este é o Tomo do Conhecimento — disse Darius, com a voz falhando. — Símbolo da lei e da justiça nesta cidade. Fique com ele. Agora, você é a lei em [jurubatiba](factions/reinos/jurubatiba.md).
 
 — Mestre… — Talon murmurou, segurando a mão de Darius junto ao livro. — Eu só o guardarei até o senhor melhorar.
 
@@ -28969,7 +28969,7 @@ Tom erguia paredes de pedra que caiam sobre os infestados e se desintegram segun
 
 Nenhuma criatura havia atravessado aquele quadrante, o grupo mantinha a linha com uma disciplina quase militar.
 
-Acima deles, a cúpula mágica que envolvia Jurubatiba tremia sob o bombardeio vindo de Sam Mael, a ilha voadora dos Arcanos. Mas, apesar das explosões que pintavam o céu, a barreira parecia impenetrável.
+Acima deles, a cúpula mágica que envolvia [jurubatiba](factions/reinos/jurubatiba.md) tremia sob o bombardeio vindo de Sam Mael, a ilha voadora dos Arcanos. Mas, apesar das explosões que pintavam o céu, a barreira parecia impenetrável.
 
 — Estão tentando  um ataque de força bruta — disse Sani, com a voz cansada. — Isso não vai funcionar. Há oito séculos, os demônios tentam destruir a cúpula da Área da Infestação, e ela nunca cedeu.
 
@@ -29523,7 +29523,7 @@ Vicenti lutou como pode, flagelado pela batalha, mas a força faltou.
 
 Talon virou‑se. Havia cansaço no rosto; havia Darius em cada fresta da decisão. Quando falou, a voz era aço recoberto de ternura:
 
-— Eles não serão punidos. — O sombrio sorriso que apareceu era mais tristeza que triunfo. — Agora eu sou a lei em Jurubatiba. Direi que Azeron fugiu quando Meri a Intocável encobriu sua saída. — Suspendeu a cabeça, cansado. Seu dever imperial foi momentaneamente ofuscado pela lealdade. — Vou, te dar alguns minutos, depois eu mesmo vou encabeçar as buscas por você, mas lembre-se. Esta será a primeira e a última vez que você será poupado, considere a última chance de redenção por ter erradicado as Trevas desta cidade. — ele virou de costas novamente — Desapareça antes que eu me arrependa desta decisão.
+— Eles não serão punidos. — O sombrio sorriso que apareceu era mais tristeza que triunfo. — Agora eu sou a lei em [jurubatiba](factions/reinos/jurubatiba.md). Direi que Azeron fugiu quando Meri a Intocável encobriu sua saída. — Suspendeu a cabeça, cansado. Seu dever imperial foi momentaneamente ofuscado pela lealdade. — Vou, te dar alguns minutos, depois eu mesmo vou encabeçar as buscas por você, mas lembre-se. Esta será a primeira e a última vez que você será poupado, considere a última chance de redenção por ter erradicado as Trevas desta cidade. — ele virou de costas novamente — Desapareça antes que eu me arrependa desta decisão.
 
 A pergunta saiu de Azeron como um fio: 
 
@@ -29607,7 +29607,7 @@ Quanto mais ele tenta compreender o que acontece em Sargaen, mais descobre que a
 Uma história de fantasia sombria sobre corrupção, poder, sacrifício e o preço de descobrir aquilo que jamais deveria ter sido encontrado.
 1-O Mendigo de Sargaen
 Próximo ao mercado da cidade, o mendigo acordou antes do sol. O frio ainda cortava o fôlego, e os ratos e pequenos dinossauros rastejantes encerravam sua vigília noturna. Sentia fome. Na verdade, nem sabia mais. O lugar alí era tão sombrio que até a luz parecia cinza, filtrada pela fumaça espessa e pelo pó oleoso que escorria das chaminés das fábricas precárias, misturando-se ao ar carregado do mercado adjacente, onde o barulho começava a despertar.
-Sargaen não era uma cidade para amadores. Suas ruas lamacentas tinham becos úmidos e vielas apodrecidas pelo sal e pela ferrugem, isto afastava qualquer traço da elite refinada de Jurubatiba, à apenas algumas dezenas de quilômetros dali.
+Sargaen não era uma cidade para amadores. Suas ruas lamacentas tinham becos úmidos e vielas apodrecidas pelo sal e pela ferrugem, isto afastava qualquer traço da elite refinada de [jurubatiba](factions/reinos/jurubatiba.md), à apenas algumas dezenas de quilômetros dali.
 Com o tempo, Sargaen tornou-se um porto marginal, entulhado, decadente, entregue ao comércio de quinquilharias e contrabandos. Servia de refúgio para toda espécie de desajustados, desde estivadores sem rumo, contrabandistas, mendigos, ladrões e sonhadores fracassados à procura de dinheiro fácil.
 Era por isso que o jovem mendigo estava ali.
 Ainda debilitado das suas “aventuras” anteriores, mal conseguia pagar um prato de comida, quanto mais um quarto em alguma pensão imunda. Dormia havia dias sob o alpendre apodrecido de uma construção abandonada, na parte esquecida do mercado, um labirinto de vielas, onde o esgoto escorria como sangue velho e o chão, saturado de lama, engolia os passos de quem ousasse passar.
@@ -29629,12 +29629,12 @@ Os Arcanos eram vistos como instrumentos da verdade imperial, os olhos e mãos d
 Um deles, impaciente, desceu da montaria e agarrou pelo ombro um comerciante que desmontava sua tenda.
 — Procuramos um jovem mago — disse o Arcano, com a voz seca e cortante. — Louro. Sem um braço. Foragido. Envolvido com as Trevas.
 O outro manteve o lenço no rosto, imóvel.
-As descrições se espalharam pelos becos como uma doença. Ninguém precisou ouvir o nome: bastava imaginar o rosto, o cabelo claro, o membro ausente, o rastro de mana sombria que um dia devastara Jurubatiba.
+As descrições se espalharam pelos becos como uma doença. Ninguém precisou ouvir o nome: bastava imaginar o rosto, o cabelo claro, o membro ausente, o rastro de mana sombria que um dia devastara [jurubatiba](factions/reinos/jurubatiba.md).
 Azeron os escutava de longe, sentado no chão de uma viela próxima, coberto por panos encardidos.
 Hoje, sua aparência não combinava com a descrição. Seu braço mecânico, um Mecanar, estava envolto em faixas sujas que simulavam um braço fino e atrofiado. Ele próprio havia raspado o cabelo dois dias antes por instinto; os fios dourados e queimados caíram na bacia turva de água, revelando a raiz ruiva. Nem ele se reconhecia mais no reflexo do espelho rachado que usava.
 O tempo o tornara outro, agora tinha um rosto magro, os olhos fundos.
 As Trevas estavam silenciosas adormecidas.
-Mas dias antes, os mendigos que o acolheram o haviam visto como ele realmente era, loiro, mutilado, queimado pelas magias da batalha em Jurubatiba.
+Mas dias antes, os mendigos que o acolheram o haviam visto como ele realmente era, loiro, mutilado, queimado pelas magias da batalha em [jurubatiba](factions/reinos/jurubatiba.md).
 Enquanto seus pensamentos vagavam, os Arcanos passaram perto. Um deles o olhou rapidamente, o bastante apenas para registrar um vulto sujo e trêmulo. Azeron tossiu, curvou o corpo, fingiu febre. O som que escapou de sua garganta, porém, era real.
 — Deixem esse — murmurou o outro Arcanos, desviando o olhar. — Só mais um pedinte imundo.
 Nenhum deles poderia imaginar que aquele mendigo fora um dia um jovem de família rica, um estudioso da mais prestigiada escola de magia do Império, e que agora se escondia entre os rejeitados, com o disfarce perfeito: a realidade do povo oprimido do Império.
@@ -29852,7 +29852,7 @@ O porto inteiro parecia ouvir, as janelas se fecharam com estalos, ao longe ele 
 — O mar vomitou você! — disse, com a voz áspera. — Saiba que  a floresta não vai fazer a mesma gentileza.
 Ele seguiu em silêncio, com os passos ecoando sobre a madeira úmida. O Mecanar rangia baixo, um lamento metálico. Sentia o peso dos olhares, um nojo instintivo, algo que não vinha do medo de estrangeiros, mas do faro de quem reconhece o toque das Trevas.
 A única taverna era um casebre de teto baixo com cheiro de cerveja azeda e fumaça fria. Ele entrou e as vozes sumiram. Ele fez algumas perguntas, e as respostas foram em sussurros, ou palavras quebradas.
-— Os Elfos Abaré não recebem ninguém — disse uma meio-elfa com olhos de lodo. — Tecem espinhos nos caminhos pra afastar os forasteiros.
+— [os elfos abaré](races/individual/os-elfos-abaré.md) não recebem ninguém — disse uma meio-elfa com olhos de lodo. — Tecem espinhos nos caminhos pra afastar os forasteiros.
 — A floresta tá doente — murmurou outro. — Dizem que ela se defende agora. Que as árvores andam. Que há olhos no chão.
 Um meio-elfo com uma cicatriz no rosto o fitou, detendo o olhar no cetro envolto em trapos.
 — Essas jóias... elas gritam. Você não ouve?
@@ -29909,7 +29909,7 @@ Aproximou-se, encontrou o cajado de metal escuro no chão. As veias negras pulsa
 — Impuro — rosnou um dos elfos. — A floresta o marcou e ele deve morrer. 
 O garoto ergueu o Mecanar, pronto para lutar. Os trapos rasgados revelavam engrenagens e válvulas pulsando.
 Mas Thia levantou a mão.
-— Baixem as lâminas. — A voz dela foi firme. — Este homem traz uma relíquia do Moldador. E o  destino dele deve ser julgado por Elfin, não aqui.
+— Baixem as lâminas. — A voz dela foi firme. — Este homem traz uma relíquia do Moldador. E o  destino dele deve ser julgado por [elfin](factions/reinos/elfin.md), não aqui.
 Os elfos hesitaram. O silêncio pesou e a floresta, por um instante, também pareceu ouvir.
 — Quem é você, e como tem em mãos um cetro com as jóias de poder do meu povo?
 — Eu me chamo Azeron.
@@ -29935,7 +29935,7 @@ O ar tinha mudado, agora tinha gosto de seiva doce e ácido ao mesmo tempo. O so
 Azeron caminhava algemado por raízes vivas que se contorciam em torno de seus pulsos, frias e úmidas como serpentes lentas. Os soldados Abaré o escoltavam em silêncio, com os rostos duros, e os olhos frios de ódio.
 Thia ia à frente, mais silenciosa do que todos. O vestido de folhas úmidas colava-se ao seu corpo sinuoso, e a cada passo, as lâminas de madeira viva em sua cintura rangiam baixo como se fossem sons da própria floresta.
 Um dos guardas lançou um olhar de repulsa para o Mecanar coberto de fuligem e trapos. O braço metálico ainda fumegava, exalando cheiro de ferro queimado e óleo velho. Com um puxão brusco, o elfo cravou a adaga na roupa, rasgando o tecido até expor as valvulas e engrenagens completamente.
-— Uma profanação — disse, cuspindo. — Obra dos hereges de Avista, sem dúvida. Criando monstruosidades com a magia que devia ser sagrada.
+— Uma profanação — disse, cuspindo. — Obra dos hereges de [avista](factions/reinos/avista.md), sem dúvida. Criando monstruosidades com a magia que devia ser sagrada.
 Ele cuspiu sobre o metal e empurrou Azeron, forçando-o a andar mais rápido.
 O caminho parecia uma ferida aberta, na floresta viva. As botas dos elfos mal produziam som sobre o chão coberto de musgo, ao contrário de Azeron que parecia um turbilhão na escuridão. 
 A floresta, porém, não dormia. Sombras se moviam nas bordas da visão; um estalo seco foi seguido por um silvo agudo. Um espinho do tamanho de uma flecha, lançado por um arco, atravessou o ar e se cravou no crânio de uma criatura oculta. O corpo caiu com um ruído úmido.
@@ -29995,7 +29995,7 @@ Azeron vestiu o manto de folhas que lhe deram, e falou.
 Virou-se para Thia, com o olhar firme sob a sombra do tapa-olho recolocado.
 — Agora que já me remendaram, façam o que pretendiam fazer. Quero ouvir o que os seus conselheiros têm a dizer sobre mim.
 ***
-5-O Caminho para Elfin
+5-O Caminho para [elfin](factions/reinos/elfin.md)
 O caminho parecia um milagre orgânico. A estrada elevada, feita de madeira viva e luz interna, serpenteava a centenas de metros de altura. As copas se entrelaçavam, formando pontes, túneis e plataformas suspensas. Flores luminescentes pendiam em lanternas naturais. O vento passava pelas folhas e deixava atrás de si um som que lembrava cânticos distantes.
 Azeron era escoltado entre os elfos. Haviam lhe dado roupas simples e um manto de folhas verde-claro. Apesar dos cuidados de Caranthir, seu corpo continuava pesado. Eles caminhavam por raízes trançadas que viravam degraus; folhas endurecidas formavam o piso; pétalas se abriam sob os pés dos Abaré como se os reconhecessem. Mas não para ele. Quando pisava, as flores se fechavam. As raízes hesitavam. O caminho rangia como um corpo tentando expulsar algo que o ferisse.
 Thia percebeu.
@@ -30022,7 +30022,7 @@ Não havia forjas cuspindo fumaça; apenas oficinas de madeira viva à céu aber
 Tudo estava conectado, cada ponte, cada galho, cada fio de luz, em uma teia de vida pulsante.
 Azeron sentiu o peso esmagador daquela harmonia. Nas cidades humanas, a arquitetura era uma cicatriz empurrada contra a terra à força; aqui, era um prolongamento da própria vida. 
 Não havia linhas retas, nem ângulos impostos. Cada casa, cada degrau, cada corrimão seguia curvas naturais da madeira, como se nada tivesse sido construído… apenas convencido a crescer.
-E, no centro daquela perfeição orgânica, ele era a dissonância gritante. O rangido do Mecanar era um estilhaço metálico na sinfonia da floresta. O cheiro de fuligem, sangue e ferro impregnava o ar como heresia. Ele, um fragmento de dor, sombra e metal morto, era uma fratura na tapeçaria impecável de Elfin.
+E, no centro daquela perfeição orgânica, ele era a dissonância gritante. O rangido do Mecanar era um estilhaço metálico na sinfonia da floresta. O cheiro de fuligem, sangue e ferro impregnava o ar como heresia. Ele, um fragmento de dor, sombra e metal morto, era uma fratura na tapeçaria impecável de [elfin](factions/reinos/elfin.md).
 Thia o conduziu até o coração da cidade. O tronco imenso da Árvore Coração dominava tudo, tão vasto que, se estivesse em qualquer cidade do Império, tomaria quarteirões inteiros. A madeira pulsava com luz interna, como se guardasse um sol silencioso enterrado em suas entranhas.
 Lá dentro, o ar brilhava com um poder que não precisava se exibir, havia uma força que não era pronunciada em voz alta, apenas sentida.
 No centro da câmara, em púlpitos que pareciam crescer do próprio tronco, o conselho dos Anciões o observava. 
@@ -30030,7 +30030,7 @@ Cinco figuras indistinguíveis em gênero, vestindo túnicas de casca de árvore
 O silêncio foi a primeira arma deles.
 Os elfos que o escoltavam o despiram de tudo, roupas, proteção, orgulho. Ficou seminu, apenas com uma tanga. Quando retiraram seu tapa-olho, revelando o olho de dragão, o mundo oscilou. O garoto meneou a cabeça, ajustando a visão repentina, e então ergueu o rosto.
 O olho reptiliano brilhou num vermelho profundo,  como uma fenda viva e impaciente.
-Ele viu as emanações de mana que fluíam dos Anciões. Correntes de luz que se entrelaçavam com a mana da cidade, formando um fluxo infinito, como se Elfin respirasse através deles. Eles não estavam ali somente representando uma nação, literalmente eles tinham o poder de uma nação cruzando pelo seus corpos.
+Ele viu as emanações de mana que fluíam dos Anciões. Correntes de luz que se entrelaçavam com a mana da cidade, formando um fluxo infinito, como se [elfin](factions/reinos/elfin.md) respirasse através deles. Eles não estavam ali somente representando uma nação, literalmente eles tinham o poder de uma nação cruzando pelo seus corpos.
 Os Anciões viram o olho demoníaco. O horror que brotou neles foi silencioso, mas imenso.
 — Uma criatura tão jovem e tão destruída — lamentou um deles, com a voz quase quebrando como folha seca.
 Os olhares percorriam Azeron, catalogando cada profanação: o metal morto do Mecanar, o brilho predatório do olho, as cicatrizes, o desequilíbrio. 
@@ -30087,7 +30087,7 @@ O som das raízes aumentou, ritmado, quase como um tambor ancestral. A madeira v
 — Mas durante toda a sua vida, carregará sozinho o peso do que precisou perder — concluiu o terceiro. — Ninguém próximo a você saberá. Apenas os que vão viver no futuro distante.
 A garganta de Azeron ardeu. Não havia lágrima, apenas o calor áspero de quem percebe que já carrega a condenação antes mesmo da escolha.
 — Vocês já sabem o que eu vou escolher?
-As luzes de Elfin piscaram vacilantes.
+As luzes de [elfin](factions/reinos/elfin.md) piscaram vacilantes.
 — O futuro é uma sombra projetada pela vontade — disseram eles. — Vemos a sombra. Não o ato.
 Azeron deu um passo à frente. O chão vibrou sob seus pés. O ar pareceu endurecer, comprimido.
 O brilho subiu até seu rosto. Por um instante, o mundo inteiro ficou suspenso. Sem vento. Sem som. Sem tempo.
@@ -30096,13 +30096,13 @@ Azeron ficou imóvel. O braço metálico absorvia a luz. O olho de Dragão queim
 — E se eu escolher ser inteiro…?
 O chão cessou o pulsar. Tudo ficou quieto. Um silêncio de madeira morta.
 — Então será apenas homem. Como na visão que mostramos a você.
-O ar pareceu desabar ao redor dele. A luz diminuiu, as raízes recuaram. Elfin respirou lenta, cansada.
+O ar pareceu desabar ao redor dele. A luz diminuiu, as raízes recuaram. [elfin](factions/reinos/elfin.md) respirou lenta, cansada.
 Azeron permaneceu ali, sem resposta, sem direção clara, carregando o peso de duas vidas possíveis comprimidas no peito.
 A cidade viva falou uma última vez, num sussurro de folhas antigas:
 — A escolha parte de você agora. O resto virá depois.
 Ele ficou pensativo por mais um instante e respondeu enquanto uma lágrima escorria de seu olho humano, o olho de Dragão permanecia impassível.
 — Eu escolho permanecer assim e concretizar meu destino — disse Azeron, sentindo a perda do que poderia ter sido. — O que acontece agora?
-— Então deve arcar com as consequências da dor — disse outro Ancião. — Você é uma contaminação. Parta. Leve sua escuridão para longe de Elfin e concretize seu destino.
+— Então deve arcar com as consequências da dor — disse outro Ancião. — Você é uma contaminação. Parta. Leve sua escuridão para longe de [elfin](factions/reinos/elfin.md) e concretize seu destino.
 — Durell, meu avô, confiou em vocês — a voz de Azeron saiu tensa, mas firme. — Não busco cura para mim. Escolho que curem a relíquia dele.
 O Ancião central fechou os olhos.
 — A relíquia já morreu. Restaurá-la por completo é impossível; poderíamos apenas extirpar as Trevas que consomem as Jóias de Poder e purificá-las, mas mesmo assim seria muito custoso e levaria tempo demais. O que resta agora é apenas um eco profano do que o cajado de Azeron já foi. Sua presença aqui é um insulto à memória dele.
@@ -30116,7 +30116,7 @@ Um murmúrio percorreu a sala.
 — Usar a doença para tratar a doença? — sibilou um Ancião.
 — É um teste — concluiu Thia. — Se falhar em encontrar a causa, não merece que a relíquia de Durell seja restaurada. Se tiver sucesso… talvez o legado não esteja morto. Esse será o primeiro ato que concretizará seu destino.
 Os Anciões refletiram por um instante, imóveis como raízes antigas, e então fizeram um gesto quase imperceptível. O cajado, a relíquia que pertenceu ao seu avô, deslizou das mãos de Thia, levitando suavemente, girando no ar antes de pousar entre as raízes que circundavam os Anciões. Elas se entrelaçaram ao redor da relíquia, incandescentes, respirando luz própria, como se analisassem a profanação e a aceitassem.
-Ao lado dele, cresceu quase instantaneamente um cetro de madeira viva. Não ostentava as grandes jóias de poder do antigo cajado, mas seu brilho era intenso e limpo, pleno de Elfin. Havia nela uma força silenciosa, uma pureza que não precisava de ornamentos para ser temida. Pequenas veias verdes luminescentes percorreram sua superfície, pulsando com seiva, respondendo ao ar carregado de mana da Árvore-Coração.
+Ao lado dele, cresceu quase instantaneamente um cetro de madeira viva. Não ostentava as grandes jóias de poder do antigo cajado, mas seu brilho era intenso e limpo, pleno de [elfin](factions/reinos/elfin.md). Havia nela uma força silenciosa, uma pureza que não precisava de ornamentos para ser temida. Pequenas veias verdes luminescentes percorreram sua superfície, pulsando com seiva, respondendo ao ar carregado de mana da Árvore-Coração.
 — Demorará, anos, talvez décadas até que sua relíquia seja purificada. É um piscar de olhos para nós, mas sabemos que pode ser tempo demais para você, então aceite este substituto, não tão poderoso, mas igualmente puro. Não nos decepcione profanando também está reliquia Azeron. 
 Galhos se esticaram com precisão, longos e graciosos, entregando o cetro diretamente às mãos de Azeron, como se a própria cidade reconhecesse o destino do garoto e o convocasse. Ele o segurou com cuidado, sentindo o peso orgânico e a vida que corria dentro da madeira, vibração pulsando junto ao seu braço humano.
 — Outra das criações de meu pai — Thia comentou, com a voz firme, mas carregada de uma sombra de reverência. — Vocês pediram a meses que ele criasse este cajado.
@@ -30146,7 +30146,7 @@ O olho de dragão brilhava vermelho no escuro, reconhecedor. Ele já vira isso a
 — Temos que ser rápidos, mais da metade do Nó já está morto e deve ser podado. Corte todas as raízes marcadas. Rápido. Não deixe a seiva tocar em você — ordenou.
 Usou a ponta da lâmina para entalhar a madeira enegrecida, marcando dezenas de veios como um mapa cirúrgico. Thia obedeceu, a desconfiança cedendo ao ritmo urgente da necessidade. Suas lâminas rasgavam a madeira doente com sons secos e rápidos, como batimentos de um tambor.
 Azeron voltou-se para o Nó-Coração. Colocou a palma da mão humana sobre a casca, murmurando quase como prece:
-— Eu sei o que você é. Eu te conheço… de Jurubatiba.
+— Eu sei o que você é. Eu te conheço… de [jurubatiba](factions/reinos/jurubatiba.md).
 Flashbacks rápidos e febris assolaram sua mente: a Infestação tomando os mortos e atacando a cidade, a escuridão, a corrupção expandindo-se dentro dele. Ele compreendeu que cortar os galhos não seria suficiente. A expansão por todas as raízes eram somente os sintomas. Para extingui-lo, ele teria que destruir o próprio nó.
 — Thia. Afaste-se.
 — Ainda não… — ela comentou.
@@ -30167,10 +30167,10 @@ O Nó-Coração brilhava agora em dourado fraco.
 Thia segurou o garoto inconsciente. Vivo, mas marcado.
 ***
 8-O Eco da Árvore-Coração
-Thia conduzia Azeron pelas passarelas suspensas de Elfin. Ele mal conseguia caminhar, sendo amparado por ela. O peso da escolha ainda o esmagava, um fardo silencioso, um pedido não feito e tudo poderia ter sido diferente: inteiro, humano, completo novamente, agora impregnado de Trevas novamente. Os Anciões foram cruéis, ou precisos, e sabiam que sua ambição à glória futura, em troca de uma vida apagada, o faria carregar esta culpa para sempre. Ele observou atentamente o cetro que lhe deram.
+Thia conduzia Azeron pelas passarelas suspensas de [elfin](factions/reinos/elfin.md). Ele mal conseguia caminhar, sendo amparado por ela. O peso da escolha ainda o esmagava, um fardo silencioso, um pedido não feito e tudo poderia ter sido diferente: inteiro, humano, completo novamente, agora impregnado de Trevas novamente. Os Anciões foram cruéis, ou precisos, e sabiam que sua ambição à glória futura, em troca de uma vida apagada, o faria carregar esta culpa para sempre. Ele observou atentamente o cetro que lhe deram.
 Mesmo assim, só lhe restava uma coisa.
 — Você é tão inconsequente como Durell. Onde estava com a cabeça quando se ofereceu como novo hospedeiro daquela coisa? Mas mesmo assim eu agradeço por salvar o Nó-coração.
-— Eu não tinha escolha, aquela coisa não poderia ser destruída sem destruir o No-Coração. Quando toquei as Trevas nele, eu escutei algo que não eram pensamentos, eram mais sensações e intenções. Senti que ele suplicava, que sabia que iria ficar preso pela eternidade aqui em Elfin. E daria tudo para ser salvo. Então ofereci a ele tudo que ele sempre quis, liberdade para sair daqui, eu sabia que ele sacrificaria grande parte do seu ser por isso, agora uma pequena parte dele está dentro de mim, incrustado entre a minha mana natural. Nunca vou me perdoar por isso. Mas o que exatamente eu salvei?
+— Eu não tinha escolha, aquela coisa não poderia ser destruída sem destruir o No-Coração. Quando toquei as Trevas nele, eu escutei algo que não eram pensamentos, eram mais sensações e intenções. Senti que ele suplicava, que sabia que iria ficar preso pela eternidade aqui em [elfin](factions/reinos/elfin.md). E daria tudo para ser salvo. Então ofereci a ele tudo que ele sempre quis, liberdade para sair daqui, eu sabia que ele sacrificaria grande parte do seu ser por isso, agora uma pequena parte dele está dentro de mim, incrustado entre a minha mana natural. Nunca vou me perdoar por isso. Mas o que exatamente eu salvei?
 Thia parou, fazendo um gesto suave para que Azeron olhasse para a plataforma abaixo.
 — Veja. E tente entender. Foi isso que você salvou.
 No Nó de Raízes, uma Elfa ajoelhou-se, colocando a palma da mão sobre a madeira viva, no centro da passarela. Ao seu lado, um menino de talvez sete anos, se fosse humano, descalço, com cabelos prateados longos que caíam em ondas sobre os ombros. Ele imitava cada gesto da mãe, posicionando o pé pequeno ao lado da mão da mulher, fechando os olhos com concentração.
@@ -30186,10 +30186,10 @@ Ele os saudou mas não houve negociação, eles conversaram descontraidamente, e
 Thia o olhou, e nos olhos dela havia uma incompreensão genuína.
 — "Mais importante" do que manter o corpo da comunidade saudável? Talvez houvesse outro que já tivesse ouvido o Eco realizaria o trabalho. Mas aqui, não houve necessidade. No entanto Ignorar o Eco é como um braço se recusando a aliviar uma coceira no rosto. O braço se torna inútil. Ele adoece. Ele se desconecta do corpo. Atender à necessidade fortalece o vínculo do artesão com a comunidade, com todos nós. Esta é a riqueza que importa. A única que importa.
 Azeron permaneceu em silêncio, observando. A eficiência silenciosa. A confiança absoluta. Nada de burocracia, nada de barganha, nada de dívida. Apenas necessidade e resposta. Um fluxo perfeito. Ele sentiu o zumbido da cidade, o pulso da Árvore-Coração, a respiração coletiva de um povo que era um só corpo.
-E ali, no coração de tanta harmonia, Azeron nunca se sentira tão dissonante. Cada passo seu, cada gesto do Mecanar, cada pensamento de dor e ambição, destoava do ritmo perfeito da vida ao seu redor. Ele era um intruso, um fragmento de escuridão em meio à luz viva de Elfin.
+E ali, no coração de tanta harmonia, Azeron nunca se sentira tão dissonante. Cada passo seu, cada gesto do Mecanar, cada pensamento de dor e ambição, destoava do ritmo perfeito da vida ao seu redor. Ele era um intruso, um fragmento de escuridão em meio à luz viva de [elfin](factions/reinos/elfin.md).
 ***
 9-As Runas de Contenção
-Eles estavam na catedral viva de Elfin: um tronco milenar aberto por dentro, o interior se erguia como uma abóbada natural, respirando. As paredes pulsavam em tons de verde e ouro, veias de seiva circulavam como artérias de um corpo ancestral. Raios de luz atravessavam fendas naturais no tronco, iluminando partículas de pó mágico que flutuavam como insetos etéreos. Raízes espessas circundavam o chão em espirais concêntricas, pulsando ritmicamente, como corações auxiliares.
+Eles estavam na catedral viva de [elfin](factions/reinos/elfin.md): um tronco milenar aberto por dentro, o interior se erguia como uma abóbada natural, respirando. As paredes pulsavam em tons de verde e ouro, veias de seiva circulavam como artérias de um corpo ancestral. Raios de luz atravessavam fendas naturais no tronco, iluminando partículas de pó mágico que flutuavam como insetos etéreos. Raízes espessas circundavam o chão em espirais concêntricas, pulsando ritmicamente, como corações auxiliares.
 Um perfume pesado dominava o ar, folhas esmagadas, resina quente, algo metálico, e o cheiro das Trevas evaporando lentamente. A madeira sob o corpo de Azeron vibrava, viva, tensa, enquanto raízes o amarravam, enrolando-se ao redor do seu corpo como serpentes que não o mordiam, apenas o seguravam. O ar estava quente, quase sufocante, e cada contato com a seiva exposta enviava choques de dor ou alívio, imprevisíveis, como se a própria floresta sondasse sua alma, ponderando se ele era digno.
 O Moldador circulava, com passos lentos e uma lâmina de madeira endurecida em mãos, entalhada com símbolos antigos. Cada gesto era silencioso, calculado, ritualístico. Thia permanecia próxima, com olhos fixos em Azeron e o corpo rígido de medo e tensão.
 O Mestre tocou a pele de Azeron. As marcas negras, feridas das Trevas, ondulavam, vibrando como serpentes vivas sob a pele.
@@ -30203,7 +30203,7 @@ A lâmina abriu outro traço e mais luz jorrou como lava fria. Azeron arqueou ma
 — Salvar… a Árvore-Coração… era isso? — cada palavra saía com sangue e esforço. — Vocês sabiam que… se eu aceitasse ser curado… não poderia… sugar a praga de volta pra mim não é?
 Thia agarrou seu ombro, firme, impedindo que ele se deixasse dominar pela própria dúvida e pelo impulso de fuga.
 Os Anciões observavam à distância pareciam troncos conscientes de si mesmos, imóveis e silenciosos.
-— Não podemos afirmar que seu grande feito já ocorreu — disse a voz antiga, ecoando como madeira estalando. — Mas para Elfin seu feito já é um divisor de águas, antes de você o povo odiava a humanidade, agora pode-se dizer que há dúvidas em relação a isso.
+— Não podemos afirmar que seu grande feito já ocorreu — disse a voz antiga, ecoando como madeira estalando. — Mas para [elfin](factions/reinos/elfin.md) seu feito já é um divisor de águas, antes de você o povo odiava a humanidade, agora pode-se dizer que há dúvidas em relação a isso.
 A lâmina marcou mais uma linha, e mais luz explodiu. Azeron tentou se soltar quando as Trevas atacaram, tentando engolir a runa recém-inscrita. Tudo ficou negro por instantes.
 Thia se aproximou, segurou seu rosto entre as mãos.
 — Ei. Não deixe as Trevas vencerem dentro de você. Fique aqui. Agora. Comigo.
@@ -30224,7 +30224,7 @@ As novas runas ardiam sob sua pele como brasas frias, com cicatrizes luminosas v
 Lá no alto de uma formação de galhos entrelaçados, Thia observava, silenciosa, com o rosto dissolvido entre sombras vivas das copas, como se a floresta a tivesse tomado de volta. Ele ergueu o olhar apenas por um instante; ela não acenou, mas inclinou a cabeça e aquilo bastava. O respeito entre eles tinha nascido sem delicadeza, atravessado pela dor e pela recusa mútua, e mesmo assim sobrevivia.
 As árvores, porém, não o deixavam passar suavemente. Elas se inclinavam conforme ele avançava: não em saudação… mas em vigilância. A madeira viva rangia, como se reconhecesse nele um invasor tolerado, o reconhecimento reservado a quem envenenou a própria alma para salvar algo que não era seu. A floresta conhecia o preço. E lembraria.
 O vento mexia as folhas como sinos distantes, e Azeron sentia a vibração atravessar seu peito. O cetro pulsou mais uma vez, uma oscilação entre claridade e a sombra e fechou os dedos ao redor da madeira viva com tanta firmeza que ela se ajustou à sua mão com suavidade orgânica.
-Quando alcançou o limite da cidade de Elfin, onde a ponte de madeira mergulhava em direção às trilhas comuns, ele parou. Não para olhar para trás, mas para sentir. A pureza de Elfin permanecia em sua pele como um resíduo tênue, e as Trevas dentro dele se mexiam devagar, avaliando, testando, calculando o espaço que ainda possuíam.
+Quando alcançou o limite da cidade de [elfin](factions/reinos/elfin.md), onde a ponte de madeira mergulhava em direção às trilhas comuns, ele parou. Não para olhar para trás, mas para sentir. A pureza de [elfin](factions/reinos/elfin.md) permanecia em sua pele como um resíduo tênue, e as Trevas dentro dele se mexiam devagar, avaliando, testando, calculando o espaço que ainda possuíam.
 — Nem vocês me salvaram — murmurou, mais para si mesmo, mas sabia que os anciãos estavam o observando através da floresta. — Nem elas me dominam.
 A luz sobre as runas respondeu com um lampejo contido. A sombra nas veias recuou como um animal ferido, mas atento.
 Azeron deu o primeiro passo rumo às terras do mundo “civilizado”, e o equilíbrio frágil dentro dele se firmou, não perfeito, mas vivo o bastante para continuar.
@@ -30319,7 +30319,7 @@ Fonema: Ayak.
 Nome Vulgar: Ataque de Madeira.
 Nome Técnico: Projeção Balística de Matéria Vegetal.
 Descrição: Faz toras de madeira emergirem de superfícies sólidas (como paredes) e avançarem para esmagar o oponente.
-Anti-Fonemas de Evolução
+[anti-fonemas](magic/trevas.md) de Evolução
 Fonema: Anti-Morth
 Nome Vulgar: Murmúrios do Abismo.
 Nome Técnico: Indução de Mutação Entrópica.
@@ -30347,7 +30347,7 @@ O jovem levantou o olhar lentamente, fixando o olho bom no homem, sem expressar 
 O garoto, então, parou por um momento, pensativo, antes de responder:
 — Onde?
 — Adremalech, ao sul daqui.
-O homem magro, sentado nas sombras, ouviu cada palavra com interesse crescente. Ele conhecia bem Adremalech, havia aplicado diversos golpes nos poderosos locais, às vezes escapando com os bolsos cheios e os rastros limpos, outras mais sujo que pau de galinheiro. Para os padrões da região, a cidade era de tamanho médio, o suficiente para abrigar uma elite ansiosa por poder e controle. Embora ele não tivesse a intenção de voltar tão cedo, uma epidemia era a oportunidade perfeita — ricos desesperados, famílias inteiras à beira do colapso, fortunas sendo deixadas para trás pelos que pereciam. Era um cenário ideal para alguém com seus "talentos". Onde havia desespero, havia fortuna esperando ser tomada — e ele sabia exatamente como tirar proveito disso.
+O homem magro, sentado nas sombras, ouviu cada palavra com interesse crescente. Ele conhecia bem Adremalech, havia aplicado diversos golpes nos poderosos locais, às vezes escapando com os bolsos cheios e os rastros limpos, outras mais sujo que pau de galinheiro. Para os padrões da região, a cidade era de tamanho médio, o suficiente para abrigar uma elite ansiosa por poder e controle. Embora ele não tivesse a intenção de voltar tão cedo, uma epidemia era a oportunidade perfeita — ricos desesperados, famílias inteiras à beira do colapso, fortunas sendo deixadas para trás pelos que pereciam. Era um cenário ideal para alguém com seus "talentos". Onde havia desespero, havia [fortuna](factions/reinos/fortuna.md) esperando ser tomada — e ele sabia exatamente como tirar proveito disso.
 — Tudo bem, vou passar por lá. — murmurou o garoto, desinteressado, como se o destino da cidade fosse apenas um detalhe.
 O trabalhador bêbado voltou para a mesa, e o jovem terminou sua refeição calmamente, sem pressa. Quando finalmente se levantou, pegou sua imensa mochila com sua mão enluvada e a colocou sem dificuldades sobre o ombro e jogou algumas moedas sobre o balcão, acenando brevemente para o bodegueiro, que retribuiu com um movimento de cabeça. Assim que o garoto saiu pela porta, o homem magro, observando tudo, decidiu segui-lo, mas quem ele deveria ser agora? Qual personalidade seria a mais indicada para melhor influenciar o garoto? Certamente a sombra invisível que ele era até agora não seria a ideal. Então ele se decidiu.
 — Boa tarde, senhor. — chamou ele, apressando os passos para alcançar o jovem.
@@ -30455,7 +30455,7 @@ O tempo passou, e Bene se tornou uma peça essencial na equipe de curandeiros. F
 — Quem tratou este paciente? — Dalibor perguntou, intrigado.  
 — O garoto novo — respondeu Joane.
 Bene se aproximou, enquanto Dalibor o avaliava com interesse. 
-— Belíssimo trabalho — disse o Medimago. — Técnica rara, só vi algo assim na Escola de Magia de Jurubatiba.  
+— Belíssimo trabalho — disse o Medimago. — Técnica rara, só vi algo assim na Escola de Magia de [jurubatiba](factions/reinos/jurubatiba.md).  
 — Estudei lá, mas não pude concluir os estudos — Bene respondeu.  
 — Uma pena. Você tem talento. Se não estivéssemos no meio de uma epidemia, o contrataria imediatamente como residente em minha clínica. Talvez eu precise de alguém com o seu conhecimento ao meu lado.
 — Fico lisonjeado.
@@ -30548,7 +30548,7 @@ Ao chegar ao centro de triagem, Belmonte encontrou o lugar vazio. O silêncio er
 Ele fechou as portas antes das criaturas escaparem e por um breve instante, Belmonte encostou-se às portas do templo, sentindo o peso do luto e da culpa esmagá-lo. Ele lamentou profundamente por aquelas vidas que, apesar de seus esforços, estavam agora perdidas para sempre. As batidas violentas dos mortos-vivos nas portas ecoavam as suas costas. Antes que elas cedesse, Belmonte se ergueu e reuniu todas as suas forças, canalizando uma torrente de fogo intenso, incinerando completamente o templo e as criaturas que um dia foram seus amigos.
 Com as chamas ainda rugindo às suas costas, Belmonte se afastou. Ele olhou uma última vez para o templo em chamas antes de seguir rumo à clínica onde Dalibor "trabalhava" na suposta cura da epidemia. Ao alcançar a porta, ele a arrombou com um chute poderoso, a madeira antiga cedeu sob sua força. O garoto lançou um último olhar para o templo ardente antes de adentrar o prédio.
 A clínica estava estranhamente ordenada, contrastando com o caos que se desenrolava do lado de fora. O ambiente estava limpo e organizado, como se a praga que assolava a cidade não existisse ali. Belmonte caminhava com cautela, abrindo portas uma a uma. Havia algo profundamente errado naquele lugar, estava muito… arrumado, como se não estivesse sendo usado. Após vasculhar vários cômodos, ele finalmente encontrou uma escada que descia até um porão escondido.
-Descendo silenciosamente os degraus, Belmonte foi recebido por uma visão aterradora. O que parecia ser o laboratório de Dalibor mais se assemelhava a um covil de horrores. Prisioneiros mortos estavam acorrentados às paredes, suas carnes corroídas pelas várias mutações da doença. Variantes da praga estavam espalhadas por todos os lados, misturadas em frascos e seringas. E no centro de tudo, Dalibor, o médico que Belmonte outrora respeitara, murmurava em uma língua ancestral e esquecida, os Anti-Fonemas das Trevas – palavras que Belmonte conhecia muito bem.
+Descendo silenciosamente os degraus, Belmonte foi recebido por uma visão aterradora. O que parecia ser o laboratório de Dalibor mais se assemelhava a um covil de horrores. Prisioneiros mortos estavam acorrentados às paredes, suas carnes corroídas pelas várias mutações da doença. Variantes da praga estavam espalhadas por todos os lados, misturadas em frascos e seringas. E no centro de tudo, Dalibor, o médico que Belmonte outrora respeitara, murmurava em uma língua ancestral e esquecida, os [anti-fonemas](magic/trevas.md) das Trevas – palavras que Belmonte conhecia muito bem.
 — O que você fez, Dalibor? — Belmonte perguntou, a voz grave, sua mão apertando o cetro com força.
 — Ah, você descobriu, afinal... — disse o velho sem se virar, interrompendo seu ritual. — Eu sabia que, mais cedo ou mais tarde, você descobriria a verdade. Foi por isso que o mantive tão próximo a mim.
 — Por quê? — Belmonte insistiu, dando um passo à frente. — Por que usou as Trevas para criar uma doença tão devastadora?

@@ -37,7 +37,7 @@
 ## ⚔️ Produção Militar
 | Item | Capacidade/mês | Notas |
 |------|----------------|-------|
-| **Espadas longas** | 500 | Padrão imperial; aço de Andirá |
+| **Espadas longas** | 500 | Padrão imperial; aço de [andirá](andira.md) |
 | **Armaduras completas** | 200 | Placas + cota de malha; padrão oficial |
 | **Balistas** | 20 | Pesadas; para muralhas/navios |
 | **Flechas** | 50.000 | Padronizadas; pontas de ferro/obsidiana |
@@ -47,7 +47,7 @@
 ---
 
 ## 🐎 Cavalaria Imperial
-- **Base principal**: Kaluana = berço da cavalaria
+- **Base principal**: [kaluana](kaluana.md) = berço da cavalaria
 - **Raças**: **Guerreiro** (pesado), **Mensageiro** (leve), **Carga** (logística)
 - **Treino**: 2 anos (potro → cavalo de guerra)
 - **Huck Hor**: Padrão de excelência; "cavalo e cavaleiro pensam como um"
@@ -55,7 +55,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Oficina de Guerra**
-> **Personagens nascidos em Kaluana**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
+> **Personagens nascidos em [kaluana](kaluana.md)**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
 > *Crescer entre ferreiros e cavaleiros ensina o ofício na prática.*
 
 ---
@@ -92,7 +92,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Oficina de Guerra**
-> **Personagens nascidos em Kaluana**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
+> **Personagens nascidos em [kaluana](kaluana.md)**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
 > *Crescer entre ferreiros e cavaleiros ensina o ofício na prática.*
 
 ---
@@ -101,12 +101,12 @@
 - **-5 anos**: Fundação por **Huck Hor** (entregue por Áureo I como recompensa)
 - **Anos 1-30**: Expansão constante; tornou-se coração logístico do Exército
 - **Atual**: **Huck Hor** ainda comanda (idade avançada, vitalidade de cavaleiro); sucessão planejada
-- **Projeto**: Ferrovia Ypy-Kaluana-Andirá (em obras; acelera logística 10x)
+- **Projeto**: Ferrovia Ypy-[kaluana](kaluana.md)-[andirá](andira.md) (em obras; acelera logística 10x)
 
 ---
 
 ## 🌟 Vantagem Regional: **Oficina de Guerra**
-> **Personagens nascidos em Kaluana**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
+> **Personagens nascidos em [kaluana](kaluana.md)**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
 > *Crescer entre ferreiros e cavaleiros ensina o ofício na prática.*
 
 ---

@@ -1,6 +1,6 @@
 # **Reptantes** 
 
-Reptantes ou Escamados como são popularmente conhecidos são uma variedade grande de humanóides reptilianos de vários espécies diferentes, desde Homens Lagartos até Homens Dinossauros, que habitam todo o mundo desde o Deserto Açu até a Terra selvagem. Sua pele é coberta de escamas e variava de cor entre verde escuro a tons de marrom e cinza. Mais altos e robustos do que os humanos, Reptantes têm caudas musculares usadas para equilibrar. Eles também têm garras e dentes afiados.
+Reptantes ou Escamados como são popularmente conhecidos são uma variedade grande de humanóides reptilianos de vários espécies diferentes, desde Homens Lagartos até Homens Dinossauros, que habitam todo o mundo desde o Deserto Açu até a [terra selvagem](../../factions/reinos/terra-selvagem.md). Sua pele é coberta de escamas e variava de cor entre verde escuro a tons de marrom e cinza. Mais altos e robustos do que os humanos, Reptantes têm caudas musculares usadas para equilibrar. Eles também têm garras e dentes afiados.
 
 Os Reptantes são seres fortes e resistentes, e suas grossas peles escamosas protegem contra ataques. Eles podem prender a respiração por muito mais tempo do que os humanos, até duas vezes mais tempo do que um ser humano equivalente. Esta capacidade permite-lhes operar debaixo d'água em suas casas pantanosas.
 
@@ -32,7 +32,7 @@ Os xamãs tribais, entretanto, são geralmente clérigos que adoraram Nemat. Os 
 
 As fêmeas das tribos são responsáveis pela eclosão de ovos, criação de filhotes e manutenção do acampamento. Todas as fêmeas da tribo trabalham juntas para criar os jovens. Eles monitoram seus filhotes de perto, pois os jovens são difíceis de lidar e tendem a vagar, longe do acampamento, e para o deserto.
 
-As Tribus dos Reptantes ficam em sua grande maioria na Terra Selvagem, disputando territórios com as demais raças monstruosas de lá.
+As Tribus dos Reptantes ficam em sua grande maioria na [terra selvagem](../../factions/reinos/terra-selvagem.md), disputando territórios com as demais raças monstruosas de lá.
 
 | Reptante (1 ponto) Victory • Talento. Reptantes têm certas aptidões físicas ou mentais, dependendo de sua herança réptil. Escolha uma vantagem entre Ágil, Carismático, Forte, Gênio, Resoluto ou Vigoroso. • Camuflagem. Reptantes têm movimentos lentos, coloração igual ao ambiente e muita paciência. Você sempre tem Ganho em testes para se esconder. • Fraqueza (Frio). Você fica lerdo no frio. Leva um casaquinho. |
 | :---- |

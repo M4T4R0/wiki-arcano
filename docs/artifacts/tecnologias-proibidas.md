@@ -15,7 +15,7 @@
 | **PdF** | 10+ (escala gigante) |
 | **Piloto** | 1 (interface neural; requer cirurgia) |
 | **Custo Operação** | 1 PM/turno (piloto gasta PM para mover/atacar) |
-| **Fonte de Energia** | Núcleo de Mana (recarrega em Jurubatiba/Ypy) |
+| **Fonte de Energia** | Núcleo de Mana (recarrega em [jurubatiba](../factions/reinos/jurubatiba.md)/Ypy) |
 | **Tripulação** | 1 piloto + 2-3 apoiadores (manutenção, recarga) |
 
 ### Armamento Padrão
@@ -71,8 +71,8 @@
 ### Fabricação
 | Requisito | Detalhe |
 |-----------|---------|
-| **Runas** | OR (Espaço) + Fogo + Anti-Fonemas (estabilidade) |
-| **Forja** | Jurubatiba (Capital Arcana) ou Kaluana (Oficina de Guerra) |
+| **Runas** | OR (Espaço) + Fogo + [anti-fonemas](../magic/trevas.md) (estabilidade) |
+| **Forja** | [jurubatiba](../factions/reinos/jurubatiba.md) (Capital Arcana) ou [kaluana](../factions/reinos/kaluana.md) (Oficina de Guerra) |
 | **Mestre Ferreiro** | Mestre Ferreiro-Chefe (Kaluana) ou Mestre de Runas (Jurubatiba) |
 | **Tempo** | 6 meses a 2 anos |
 | **Custo** | 50.000 - 500.000 coroas (recursos + mão de obra) |
@@ -181,7 +181,7 @@
 
 1. **Protótipo Roubado** — Necromecha Protótipo roubado do laboratório do Senado; PCs recuperam/destroem
 2. **Espada de Poder Perdida** — Cópia de Espada Suprema aparece no mercado negro; Arcanos caçam
-3. **Orbe no Mercado Negro** — Orbe de Controle Mental aparece em leilão de Nambiquara; PCs interceptam
+3. **Orbe no Mercado Negro** — Orbe de Controle Mental aparece em leilão de [nambiquara](../factions/reinos/nambiquara.md); PCs interceptam
 4. **Piloto Desertor** — Piloto de Necromecha foge com máquina; Arcanos + Senado caçam
 4. **Espelho Sangral Rachado** — Espelho mostra rachadura; verdades vazam; PCs investigam origem
 

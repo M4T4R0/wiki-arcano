@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Graça Divina**
-> **Personagens nascidos em Mbaê**: *Graça Divina* (+1 Resistência a maldições).
+> **Personagens nascidos em [mbaê](mbae.md)**: *Graça Divina* (+1 Resistência a maldições).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Graça Divina**
-> **Personagens nascidos em Mbaê**: *Graça Divina* (+1 Resistência a maldições).
+> **Personagens nascidos em [mbaê](mbae.md)**: *Graça Divina* (+1 Resistência a maldições).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Deserto Leste](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

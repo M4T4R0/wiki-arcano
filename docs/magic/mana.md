@@ -468,7 +468,7 @@ Imperador Deziel Áureo não possui uma ficha formalizada no cenário, caso cons
 
 **Antonius Guerra “Marechal do Exército Imperial”**
 
-Aristocrata que cresceu na corte do imperador desde cedo foi treinado para liderar exércitos em batalha como é de costume na sua família. Conhecido como Toni Guerra, é Marechal do Exército Imperial em tempos de guerra e controla as forças do império contra inimigos poderosos. O Príncipe de Ypy, futuro imperador, teve um caso e um filho com Selphie KULL (de Kisé) prometida em casamento para Haddes Guerra, futuro senhor de YPITURUY. O Reino declarou guerra contra Ypy e o Império, se uniu a eles KALUANA, que não estavam satisfeitos com a política do império em relação aos produtos do reino e NAMBIQUARA por interesse de aumentar as suas terras., teve início a Guerra contra Ypy. No mesmo instante o povo de  Aisó, Camuá e Poranga, fartos em serem explorados pelo império a ceder sua produção de comida e produção de armas para abastecer a guerra, se rebelaram e ocorreu uma guerra do povo contra os reis que permitiram isso, é a guerra civil.
+Aristocrata que cresceu na corte do imperador desde cedo foi treinado para liderar exércitos em batalha como é de costume na sua família. Conhecido como Toni Guerra, é Marechal do Exército Imperial em tempos de guerra e controla as forças do império contra inimigos poderosos. O Príncipe de Ypy, futuro imperador, teve um caso e um filho com Selphie KULL (de Kisé) prometida em casamento para Haddes Guerra, futuro senhor de YPITURUY. O Reino declarou guerra contra Ypy e o Império, se uniu a eles [kaluana](../factions/reinos/kaluana.md), que não estavam satisfeitos com a política do império em relação aos produtos do reino e [nambiquara](../factions/reinos/nambiquara.md) por interesse de aumentar as suas terras., teve início a Guerra contra Ypy. No mesmo instante o povo de  [aisó](../factions/reinos/aiso.md), [camuá](../factions/reinos/camua.md) e Poranga, fartos em serem explorados pelo império a ceder sua produção de comida e produção de armas para abastecer a guerra, se rebelaram e ocorreu uma guerra do povo contra os reis que permitiram isso, é a guerra civil.
 
 Esse é o panorama que Tony Guerra tem que lidar atualmente liderando o Exército de Ypy, defendendo seu juramento e lutando contra sua própria nação e ainda lidando com a guerra civil contra o seu exército.
 
@@ -586,7 +586,7 @@ Vahr Droskin é um professor que acompanhou Darius e Talon na linha de frente da
 
 **Sírio Filaucioso**
 
-Sírio Filaucioso é o nome inventado de um homem magro e sombrio, que se apresenta como um lutador implacável, embora fosse visivelmente mais frágil que Azeron. Ele é um recrutador da guilda ERA e abordou Azeron (sob o nome de Beneplácito Cuntatário) em Adremalech para recrutá-lo, afirmando que o jovem mago era o mais forte que ele havia encontrado. Ele desaparece rapidamente após cumprir sua missão.
+Sírio Filaucioso é o nome inventado de um homem magro e sombrio, que se apresenta como um lutador implacável, embora fosse visivelmente mais frágil que Azeron. Ele é um recrutador da [guilda era](../factions/guilda-era.md) e abordou Azeron (sob o nome de Beneplácito Cuntatário) em Adremalech para recrutá-lo, afirmando que o jovem mago era o mais forte que ele havia encontrado. Ele desaparece rapidamente após cumprir sua missão.
 
 **Joane**
 
@@ -620,13 +620,13 @@ O Reino da Aventura
 
 **1\. Pessoas (Cultura e Recursos)**
 
-O Reino de Kisé é definido pelo seu papel como "celeiro de aventureiros" e pela sua profunda divisão social.
+O Reino de [kisé](../factions/reinos/kise.md) é definido pelo seu papel como "celeiro de aventureiros" e pela sua profunda divisão social.
 
 * **Cultura:**  
-  * **Caráter:** **Belicoso** e **Mercantil**. É o ponto de partida para expedições à Terra Selvagem e o maior centro de mercenários do mundo.  
+  * **Caráter:** **Belicoso** e **Mercantil**. É o ponto de partida para expedições à [terra selvagem](../factions/reinos/terra-selvagem.md) e o maior centro de mercenários do mundo.  
   * **Ambição:** **Riqueza** (para os aventureiros da Cidade Velha) e **Segurança** (para a elite da Cidade Nova).  
 * **Recursos:**  
-  * **Abundância:** **Armas** e **Mão de Obra Qualificada**. Kisé abriga forjas respeitadas como a de Thor Urgrosh e gnomos artífices.  
+  * **Abundância:** **Armas** e **Mão de Obra Qualificada**. [kisé](../factions/reinos/kise.md) abriga forjas respeitadas como a de Thor Urgrosh e gnomos artífices.  
   * **Escassez:** **Estabilidade** e **Paz**. A cidade vive sob ameaça constante de cercos de Orcs e conflitos de castas.
 
 **2\. Facções Dominantes**
@@ -650,39 +650,39 @@ O Reino de Kisé é definido pelo seu papel como "celeiro de aventureiros" e pel
 
 **4\. Pontos de Interesse (PDIs)**
 
-* **Coração (H):** **Cidadela de Kisé.** O centro administrativo e residencial da nobreza.  
-* **Assentamento:** **Cidade Velha (Favela).** Um aglomerado desordenado diretamente na fronteira com a Terra Selvagem, onde a plebe luta pela vida.  
+* **Coração (H):** **Cidadela de [kisé](../factions/reinos/kise.md).** O centro administrativo e residencial da nobreza.  
+* **Assentamento:** **Cidade Velha (Favela).** Um aglomerado desordenado diretamente na fronteira com a [terra selvagem](../factions/reinos/terra-selvagem.md), onde a plebe luta pela vida.  
 * **Entreposto:** **Mercado Ancestral.** Um bazar permanente onde se encontra desde alta tecnologia gnomo até itens falsificados.  
 * **Masmorra:** **Ruínas de Civilizações Passadas.** O local é cercado por tesouros de antigos impérios Abaré e Akitã que atraem exploradores.
 
 **5\. Caminhos**
 
-* **Estrada Real (Padrão):** Conecta Kisé às outras capitais, marcada por **Patrulhas Constantes** e **Pedágios Caros** (especialmente perto dos portões nobres).  
+* **Estrada Real (Padrão):** Conecta [kisé](../factions/reinos/kise.md) às outras capitais, marcada por **Patrulhas Constantes** e **Pedágios Caros** (especialmente perto dos portões nobres).  
 * **Caminho Oculto:** **Túneis da Colmeia.** Passagens subterrâneas usadas por contrabandistas e pela Rilícia para burlar a vigilância da Cidade Nova.  
 * **Caminho Condicional:** **As Pontes do Trovão.** Bloqueadas por portões de ferro e guardas de elite; exigem autorização real por escrito para travessia.
 
 **História**
 
-Antes da formação da cidade havia uma aldeia situada onde hoje é a cidade de Kisé, eles ficavam constantemente em guerra contra as criaturas da Terra Selvagem. Certa vez uma Horda considerável de Orcs atacou o vilarejo, quando a resistência da cidade estava quase sendo derrotada uma frota de piratas se aproximou e abriu fogo contra os Orcs com seus canhões virando a batalha a favor dos moradores locais. Este grupo de piratas fez amizade com os moradores locais e formaram um castelo por ali transformando o lugar na sua base. Mesmo assim, desde estes tempos antigos as Hordas de Orcs atacam a cidade.
+Antes da formação da cidade havia uma aldeia situada onde hoje é a cidade de [kisé](../factions/reinos/kise.md), eles ficavam constantemente em guerra contra as criaturas da [terra selvagem](../factions/reinos/terra-selvagem.md). Certa vez uma Horda considerável de Orcs atacou o vilarejo, quando a resistência da cidade estava quase sendo derrotada uma frota de piratas se aproximou e abriu fogo contra os Orcs com seus canhões virando a batalha a favor dos moradores locais. Este grupo de piratas fez amizade com os moradores locais e formaram um castelo por ali transformando o lugar na sua base. Mesmo assim, desde estes tempos antigos as Hordas de Orcs atacam a cidade.
 
-O Reino Aventura, como seus moradores costumam chamar, Kise é o maior celeiro de Aventureiros de Airy, muito se deve porque a metade velha da cidade fica diretamente na Terra Selvagem, e já serviu de ponto de partida para muitas expedições a essas terras. A cidade de Kisé é considerada uma das maiores de Airy, é uma cidade dividida pelo rio Tupã ou o Rio do Trovão como o pessoal costuma chamar mesmo.
+O Reino Aventura, como seus moradores costumam chamar, Kise é o maior celeiro de Aventureiros de Airy, muito se deve porque a metade velha da cidade fica diretamente na [terra selvagem](../factions/reinos/terra-selvagem.md), e já serviu de ponto de partida para muitas expedições a essas terras. A cidade de [kisé](../factions/reinos/kise.md) é considerada uma das maiores de Airy, é uma cidade dividida pelo rio Tupã ou o Rio do Trovão como o pessoal costuma chamar mesmo.
 
-A cidade dividida, Kisé um uma cidade dividida, a Parte Velha (Chamada de Cidade Velha), onde vive a plebe fica diretamente na Terra Selvagem e a Parte Nova, bem planejada fica do outro lado do rio dentro do território imperial.
+A cidade dividida, [kisé](../factions/reinos/kise.md) um uma cidade dividida, a Parte Velha (Chamada de Cidade Velha), onde vive a plebe fica diretamente na [terra selvagem](../factions/reinos/terra-selvagem.md) e a Parte Nova, bem planejada fica do outro lado do rio dentro do território imperial.
 
 Chegando na divisa das duas partes de cidade é possível notar o choque de realidade, o lado velho, com muralhas menores fica pequeno comparado as imensas muralhas totalmente limpas e reluzentes do lado novo, também é proibida a entrada na parte nova da cidade por gente que não tenha uma autorização, seja sendo um nobre ou tendo uma autorização de um.
 
 Cidade Nova
 
-Na parte nova da cidade muito bem planejada onde vive toda a corte a realeza e qualquer outro cidadão que tenha muito dinheiro e esteja disposto a pagar uma fortuna para “viver entre os ricos”, toda infra estrutura, tanto bela quanto funcional é o melhor que o dinheiro pode pagar, segurança é ainda mais essencial nessa parte da cidade, chega a ser a quantidade de para cada 100 habitantes um guarda muito bem treinado.
+Na parte nova da cidade muito bem planejada onde vive toda a corte a realeza e qualquer outro cidadão que tenha muito dinheiro e esteja disposto a pagar uma [fortuna](../factions/reinos/fortuna.md) para “viver entre os ricos”, toda infra estrutura, tanto bela quanto funcional é o melhor que o dinheiro pode pagar, segurança é ainda mais essencial nessa parte da cidade, chega a ser a quantidade de para cada 100 habitantes um guarda muito bem treinado.
 
 Nessa parte também existe o castelo, magnífico considerado inferior somente ao castelo do Imperador em Ypy. Nessa parte a corte e o rei tem muita liberdade e diferente de outros reinos, é possível inclusive encontrar a família real passeando pelas ruas da cidade Nova tamanha é a sua crença na segurança.
 
-| A CORTE DE KISÉ Ponto de partida para as expedições à Terra Selvagem, Forte desigualdade social, tendo até uma divisão física na cidade que separa os ricos dos pobres, e cidade onde tem sede as duas maiores guildas de Aventureiros do mundo... ESSA É KISÉ\! CASA KULL Silvester KULL , Senhor de Kisé Sua esposa, Vilba da Casa LLAISY \- PRÍNCIPE Gane KULL, o filho mais velho, Futuro Rei \- PRINCESA Selphie KULL, a filha mais velha, prometida a PRINCIPE Haddes GUERRA futuro Senhor de YPITURUY \- PRINCESA Bechi KULL, a fulha mais nova CASAS VASSALAS Espadas Juramentadas a serviço de Silvester KULL: Casas que prestaram juramento de seguir o Rei na sua Posse. \- CASA LLAISY Família comerciantes de Kisé, muito influente no reino; \- CASA AGAR Família de Cavaleiros, Armeiros e Ártíficies, Senhores do Castelo Caster, na fronteira com Camuá; \- CASA LONIUS Família de Cavaleiros, Armeiros, e comerciantes senhores do Castelo Rochedo, na fronteira com Kaluana; \- CASA DUSAE Família de Cavaleiros, Armeiros, e comerciantes senhores do Castelo nas Nuvens, nas Montanhas Abapy; \- CASA MAGNA Família de Comerciantes, Magos e com vários Membros sendo Arcanos Imperiais, Senhores da Torre da Lua Crescente, Torre de magos localizada no centro do reino, \- CASA ASSUR, Família de Intendentes, Proprietários do Banco de Kisé, Senhores do Castelo Curva do Rio, Perto da Fronteira de Kaluana e da Terra Selvagem; \- CASA UNNAN, Tradicional Família de Cavaleiros de Kisé, Única Família da Corte Real que apenas treina para o combate, não tendo nenhuma fonte de Renda além dos impostos recolhidos na sua região (o suficiente apenas para suprir seu castelo), considerada a mais Pobre em toda a corte, Senhores do Forte da Última Esperança na Fronteira com a Terra Selvagem; Sua Guarda Real: Formada pelos mais afamados e poderosos Guerreiros de toda Kisé; \- SIR Muso UNNAN, Senhor Comandante, \- SIR Laega AGAR, Guerreiro Afamado como o melhor de Kisé; \- SIR Ethar LONIUS, \- SIR Brimie DUSAE \- SIR Snova MAGNA Maga comandante \- SIR  Mose ESCUDO DE AÇO, ex aventureiro \- SIR  Menefy FERUCTO, ex aventureiro Seu conselho: \- LORDE Nefere LLAISY, Magistrado Real, Primeiro Conselheiro (Segundo homem mais Poderoso de Kisé, assume o comando do reino na ausência do Rei); \- SIR Muso UNNAN, Comandante da guarda Real e mestre das leis; \- LORDE Tjety ASSUR, Mestre da moeda; \- LORDE Gene O Sombra da Manhã (ex-aventureiro), mestre dos segredos, da espionagem; \- LORDE Antos LONIUS , mestre da Frota Naval; \- SIR Ibrill DUSAE , Conselheiro de Guerra 2º no comando do exército de Kisé; Sua corte e seus servidores: \- SIR Duino UNNAN o Segundo Magistrado do Rei, Pai de Muso UNNAN ( o Segundo Magistrado é o Terceiro homem mais Poderoso de Kisé); \- Cane bobo da Corte, \- Cuni, bardo real, \- Seu curandeiro e conselheiro, o venerável (velho) MESTRE Abgel, O povo de YPY: \- a GUARDA DA CIDADE: \- SIR Laege AGAR, Comandante da GUARDA DA CIDADE; \- Stuire AGAR, mestre armeiro da GUARDA DA CIDADE; |
+| A CORTE DE [kisé](../factions/reinos/kise.md) Ponto de partida para as expedições à [terra selvagem](../factions/reinos/terra-selvagem.md), Forte desigualdade social, tendo até uma divisão física na cidade que separa os ricos dos pobres, e cidade onde tem sede as duas maiores guildas de Aventureiros do mundo... ESSA É [kisé](../factions/reinos/kise.md)\! CASA KULL Silvester KULL , Senhor de [kisé](../factions/reinos/kise.md) Sua esposa, Vilba da Casa LLAISY \- PRÍNCIPE Gane KULL, o filho mais velho, Futuro Rei \- PRINCESA Selphie KULL, a filha mais velha, prometida a PRINCIPE Haddes GUERRA futuro Senhor de YPITURUY \- PRINCESA Bechi KULL, a fulha mais nova CASAS VASSALAS Espadas Juramentadas a serviço de Silvester KULL: Casas que prestaram juramento de seguir o Rei na sua Posse. \- CASA LLAISY Família comerciantes de [kisé](../factions/reinos/kise.md), muito influente no reino; \- [casa agar](../npcs/individual/casa-agar.md) Família de Cavaleiros, Armeiros e Ártíficies, Senhores do Castelo Caster, na fronteira com [camuá](../factions/reinos/camua.md); \- CASA LONIUS Família de Cavaleiros, Armeiros, e comerciantes senhores do Castelo Rochedo, na fronteira com [kaluana](../factions/reinos/kaluana.md); \- CASA DUSAE Família de Cavaleiros, Armeiros, e comerciantes senhores do Castelo nas Nuvens, nas Montanhas Abapy; \- CASA MAGNA Família de Comerciantes, Magos e com vários Membros sendo Arcanos Imperiais, Senhores da Torre da Lua Crescente, Torre de magos localizada no centro do reino, \- CASA ASSUR, Família de Intendentes, Proprietários do Banco de [kisé](../factions/reinos/kise.md), Senhores do Castelo Curva do Rio, Perto da Fronteira de [kaluana](../factions/reinos/kaluana.md) e da [terra selvagem](../factions/reinos/terra-selvagem.md); \- CASA UNNAN, Tradicional Família de Cavaleiros de [kisé](../factions/reinos/kise.md), Única Família da Corte Real que apenas treina para o combate, não tendo nenhuma fonte de Renda além dos impostos recolhidos na sua região (o suficiente apenas para suprir seu castelo), considerada a mais Pobre em toda a corte, Senhores do Forte da Última Esperança na Fronteira com a [terra selvagem](../factions/reinos/terra-selvagem.md); Sua Guarda Real: Formada pelos mais afamados e poderosos Guerreiros de toda [kisé](../factions/reinos/kise.md); \- SIR Muso UNNAN, Senhor Comandante, \- SIR Laega AGAR, Guerreiro Afamado como o melhor de [kisé](../factions/reinos/kise.md); \- SIR Ethar LONIUS, \- SIR Brimie DUSAE \- SIR Snova MAGNA Maga comandante \- SIR  Mose ESCUDO DE AÇO, ex aventureiro \- SIR  Menefy FERUCTO, ex aventureiro Seu conselho: \- LORDE Nefere LLAISY, Magistrado Real, Primeiro Conselheiro (Segundo homem mais Poderoso de [kisé](../factions/reinos/kise.md), assume o comando do reino na ausência do Rei); \- SIR Muso UNNAN, Comandante da guarda Real e mestre das leis; \- LORDE Tjety ASSUR, Mestre da moeda; \- LORDE Gene O Sombra da Manhã (ex-aventureiro), mestre dos segredos, da espionagem; \- LORDE Antos LONIUS , mestre da Frota Naval; \- SIR Ibrill DUSAE , Conselheiro de Guerra 2º no comando do exército de [kisé](../factions/reinos/kise.md); Sua corte e seus servidores: \- SIR Duino UNNAN o Segundo Magistrado do Rei, Pai de Muso UNNAN ( o Segundo Magistrado é o Terceiro homem mais Poderoso de Kisé); \- Cane bobo da Corte, \- Cuni, bardo real, \- Seu curandeiro e conselheiro, o venerável (velho) MESTRE Abgel, O povo de YPY: \- a GUARDA DA CIDADE: \- SIR Laege AGAR, Comandante da GUARDA DA CIDADE; \- Stuire AGAR, mestre armeiro da GUARDA DA CIDADE; |
 | :---- |
 
 **Cidade Velha**
 
-O total contraste entre a parte nova da cidade é o que define Kisé às vezes sendo considerada as “duas cidades em uma”, a parte velha foi onde a cidade começou, pequena centenas de anos atrás, sem planejamento a parte velha cresceu desordenadamente, e com o tempo ficou insuportável para a burguesia da cidade viver lá, uma verdadeira favela, o Rei então decidiu criar a parte nova, majestosa, e bem planejada, chamou os melhores arquitetos Akitã (Anões) para construir a sua utopia, após a bela parte nova mudou para o seu novo e magnífico castelo, levando toda a sua corte e os burgueses cheios do dinheiro foram atrás.
+O total contraste entre a parte nova da cidade é o que define [kisé](../factions/reinos/kise.md) às vezes sendo considerada as “duas cidades em uma”, a parte velha foi onde a cidade começou, pequena centenas de anos atrás, sem planejamento a parte velha cresceu desordenadamente, e com o tempo ficou insuportável para a burguesia da cidade viver lá, uma verdadeira favela, o Rei então decidiu criar a parte nova, majestosa, e bem planejada, chamou os melhores arquitetos Akitã (Anões) para construir a sua utopia, após a bela parte nova mudou para o seu novo e magnífico castelo, levando toda a sua corte e os burgueses cheios do dinheiro foram atrás.
 
 Após a mudança para a parte nova a guarda foi posicionada nas duas pontes de acesso ao local e no porto, impedindo qualquer um que não fosse a realeza ou não tivesse uma autorização por escrito para entrar na parte nova, essa barreira exite até hoje, e esta cada vez mais rígida, atualmente ninguém que tenha uma autorização por escrito pode entrar em NENHUM dos portões da parte Nova, o motivo de acordo com os governantes é proteger o rei que teve muitos atentados contra a sua vida (alguns atentados forjádos como dizem os jornais da cidade).
 
@@ -692,9 +692,9 @@ Eventos Notáveis
 
 **A Grande Feira:** Uma vez ao mês a parte nova da cidade é aberta a todos para a grande feira na grande praça da parte nova, durante esse evento a corte realmente se esconde com medo do pobres. pode ser encontrado de tudo nessa feira desde armas exóticas até ilícitos, mas nada se compara a Semana da Feira itinerante. 
 
-**As Justas de Kisé:** Evento anual em que os Cavaleiros da corte e de todas as partes do mundo se enfrentam pelo título de Campeão, infelizmente para os Aventureiros da cidade somente Cavaleiros nomeados pelos reis do império podem participar da mesma. Mas existem algumas provas abertas ao público.
+**As Justas de [kisé](../factions/reinos/kise.md):** Evento anual em que os Cavaleiros da corte e de todas as partes do mundo se enfrentam pelo título de Campeão, infelizmente para os Aventureiros da cidade somente Cavaleiros nomeados pelos reis do império podem participar da mesma. Mas existem algumas provas abertas ao público.
 
-Paralelamente às justas tem vários torneios clandestinos ocorrem para escolher o melhor em várias coisas, desde melhor guerreiro, até o melhor ladrão de Kisé.
+Paralelamente às justas tem vários torneios clandestinos ocorrem para escolher o melhor em várias coisas, desde melhor guerreiro, até o melhor ladrão de [kisé](../factions/reinos/kise.md).
 
 **Templo do Conhecimento**
 
@@ -712,9 +712,9 @@ Em Airy os deuses desapareceram a muito tempo, mas ainda há resquícios dos seu
 
 No templo podem ser encontrados clérigos, e com muita dificuldade alguma poção mágica.
 
-**Real Academia Militar de Kisé**
+**Real Academia Militar de [kisé](../factions/reinos/kise.md)**
 
-Uma das mais respeitadas escolas para "Homens de Armas" de Kisé, Guerreiros, assassinos, combatentes, dobradores de elementos todos os tipos de lutadores são treinados nessa academia.
+Uma das mais respeitadas escolas para "Homens de Armas" de [kisé](../factions/reinos/kise.md), Guerreiros, assassinos, combatentes, dobradores de elementos todos os tipos de lutadores são treinados nessa academia.
 
 Muitos oficiais do exército Imperial são treinados aqui.
 
@@ -734,7 +734,7 @@ Nesse Porto podem ser encontrados todos os tipos de transportes fluviais (2d6 em
 
 Elemento Principal: A Lua Crescente
 
-A academia é amplamente conhecida no Reino de Kisé como a Torre da Lua Crescente
+A academia é amplamente conhecida no Reino de [kisé](../factions/reinos/kise.md) como a Torre da Lua Crescente
 
 . Esse nome sugere fortemente que o símbolo principal da instituição envolve uma lua crescente, possivelmente estilizada de forma arcana. A torre situa-se no centro do reino e é o lar da Casa Magna, a família de magos e comerciantes que governa a instituição
 
@@ -746,13 +746,13 @@ A escola foi fundada em 557 por três mestres da Ordem dos Arcanos Imperiais: Ag
 
 . Como a Ordem dos Arcanos Imperiais utiliza como símbolo um olho transbordando poder mágico
 
-, é muito provável que o símbolo da Academia de Kisé incorpore elementos oculares ou heráldica que remeta à fiscalização e ao poder da Ordem, reforçando sua origem como um posto de segurança contra as hordas da Terra Selvagem
+, é muito provável que o símbolo da Academia de [kisé](../factions/reinos/kise.md) incorpore elementos oculares ou heráldica que remeta à fiscalização e ao poder da Ordem, reforçando sua origem como um posto de segurança contra as hordas da [terra selvagem](../factions/reinos/terra-selvagem.md)
 
 .
 
 3\. Contexto Regional: Aventura e Defesa
 
-Kisé é o "Reino da Aventura", localizado na fronteira direta com a Terra Selvagem
+[kisé](../factions/reinos/kise.md) é o "Reino da Aventura", localizado na fronteira direta com a [terra selvagem](../factions/reinos/terra-selvagem.md)
 
 . Portanto, o símbolo da Academia pode apresentar elementos que unam o conhecimento místico à prontidão militar, como:
 

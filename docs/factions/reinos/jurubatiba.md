@@ -73,7 +73,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Coração Arcano**
-> **Personagens nascidos em Jurubatiba**: **-1 PM para conjurar magias** + **+1 em testes de Magia**.
+> **Personagens nascidos em [jurubatiba](jurubatiba.md)**: **-1 PM para conjurar magias** + **+1 em testes de Magia**.
 > *Nascer no coração da Mana facilita o fluxo.*
 
 ---
@@ -106,12 +106,12 @@
 2. **Gram-Mestre Corrompido** — Um Gram-Mestre usa Trevas; PCs investigam discretamente
 3. **Portal Instável** — Círculo falha; magos presos no éter; PCs resgatam
 4. **Artefato Antigo** — Descoberto em ruínas; Ordem quer; facções disputam
-4. **Espião na Ordem** — Alguém vaza segredos para Moacuba/Nambiquara; caçada interna
+4. **Espião na Ordem** — Alguém vaza segredos para [moacuba](moacuba.md)/[nambiquara](nambiquara.md); caçada interna
 
 ---
 
 ## 🌟 Vantagem Regional: **Coração Arcano**
-> **Personagens nascidos em Jurubatiba**: **-1 PM para conjurar magias** + **+1 em testes de Magia**.
+> **Personagens nascidos em [jurubatiba](jurubatiba.md)**: **-1 PM para conjurar magias** + **+1 em testes de Magia**.
 > *Nascer no coração da Mana facilita o fluxo.*
 
 ---
@@ -119,13 +119,13 @@
 ## 📜 História Recente
 - **-5 anos**: Fundação por **Dragnovith Uller** (Arquimago Imperial) por decreto de Áureo I
 - **Anos 1-30**: Crescimento rápido; porto seguro para magos; poder político crescente
-- **Conflito**: **Moacuba** (Oráculo vampiro) vs **Jurubatiba** (Ordem oficial) — guerra fria
+- **Conflito**: **[moacuba](moacuba.md)** (Oráculo vampiro) vs **[jurubatiba](jurubatiba.md)** (Ordem oficial) — guerra fria
 - **Atual**: **Dragnovith Uller** ainda ativo (arquimago); poder político = ou > Senado em assuntos mágicos
 
 ---
 
 ## 🌟 Vantagem Regional: **Coração Arcano**
-> **Personagens nascidos em Jurubatiba**: **-1 PM para conjurar magias** + **+1 em testes de Magia**.
+> **Personagens nascidos em [jurubatiba](jurubatiba.md)**: **-1 PM para conjurar magias** + **+1 em testes de Magia**.
 > *Nascer no coração da Mana facilita o fluxo.*
 
 ---
@@ -136,4 +136,4 @@
 - [Nambiquara](nambiquara.md) — Rival em espionagem (Sombras vs Arcanos)
 - [Dragnovith Uller](../../npcs/index.md#dragnovith-uller-arquimago-imperial) — NPC fundador
 - [Ordem dos Arcanos](../ordem-arcanos-imperiais.md) — Facção completa
-- [Trevas](../magic/trevas.md) — O que a Ordem caça
+- [Trevas](../../magic/trevas.md) — O que a Ordem caça

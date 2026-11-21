@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Sangue Angelical**
-> **Personagens nascidos em Araxá**: *Sangue Angelical* (Imune envelhecimento mágico/doenças).
+> **Personagens nascidos em [araxá](araxa.md)**: *Sangue Angelical* (Imune envelhecimento mágico/doenças).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Sangue Angelical**
-> **Personagens nascidos em Araxá**: *Sangue Angelical* (Imune envelhecimento mágico/doenças).
+> **Personagens nascidos em [araxá](araxa.md)**: *Sangue Angelical* (Imune envelhecimento mágico/doenças).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Cordilheiras Atã](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

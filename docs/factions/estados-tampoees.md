@@ -35,24 +35,24 @@
 
 | Estado | Localização | Função Principal | Ameaça Contida |
 |--------|-------------|------------------|----------------|
-| **Kisé / Irundyna** | Norte (fronteira Infestação) | Escudo militar norte | Infestação / Abaité / Anaiti |
-| **Ypiturui** | Noroeste (Grande Muralha) | Guardiã da Muralha | Infestação vazando pela brecha |
-| **Kaluana** | Centro-oeste | Logística/Produção militar | Retaguarda segura |
-| **Camuá** | Centro-sul (rota comercial) | Comércio / Neutralidade | Fluxo de recursos/informação |
-| **Aratama** | Centro (montanhas) | Controle de passes | Terra Selvagem / Abaité |
-| **Andirá** | Norte (Mundo Interior) | Ferro / Refúgio Anão | Monstros subterrâneos |
-| **Aisó** | Sudoeste | Cura / Paladinos | Infestação / Terra Selvagem |
-| **Moacuba** | Interior | Inteligência / Oráculo | Espionagem interna |
-| **Nambiquara** | Oeste | Sombras / Infiltração | Contrabando / Facções |
-| **Jurubatiba** | Centro | Capital Arcana / Regulação | Magia / Trevas |
-| **Terra Selvagem** | Sudoeste | Zona de guerra | Abaité / Anaiti / Licantropos |
-| **Terras dos Auçá** | Além Infestação | Militarismo Auçá | Infestação (imunes) |
-| **Naur'Ush** | Pântanos sudoeste | Auçá Livres | Controle imperial / Infestação |
-| **Estados do Deserto** (Landé, Yby, Mbaê, Ybi, Anama) | Leste | Comércio / Magia / Sobrevivência | Deserto / Monstros |
+| **[Kisé](reinos/kise.md) / [Irundyna](reinos/irundyna.md)** | Norte (fronteira Infestação) | Escudo militar norte | Infestação / Abaité / Anaiti |
+| **[Ypiturui](reinos/ypiturui.md)** | Noroeste (Grande Muralha) | Guardiã da Muralha | Infestação vazando pela brecha |
+| **[Kaluana](reinos/kaluana.md)** | Centro-oeste | Logística/Produção militar | Retaguarda segura |
+| **[Camuá](reinos/camua.md)** | Centro-sul (rota comercial) | Comércio / Neutralidade | Fluxo de recursos/informação |
+| **[Aratama](reinos/aratama.md)** | Centro (montanhas) | Controle de passes | [Terra Selvagem](reinos/terra-selvagem.md) / Abaité |
+| **[Andirá](reinos/andira.md)** | Norte (Mundo Interior) | Ferro / Refúgio Anão | Monstros subterrâneos |
+| **[Aisó](reinos/aiso.md)** | Sudoeste | Cura / Paladinos | Infestação / [Terra Selvagem](reinos/terra-selvagem.md) |
+| **[Moacuba](reinos/moacuba.md)** | Interior | Inteligência / Oráculo | Espionagem interna |
+| **[Nambiquara](reinos/nambiquara.md)** | Oeste | Sombras / Infiltração | Contrabando / Facções |
+| **[Jurubatiba](reinos/jurubatiba.md)** | Centro | Capital Arcana / Regulação | Magia / Trevas |
+| **[Terra Selvagem](reinos/terra-selvagem.md)** | Sudoeste | Zona de guerra | Abaité / Anaiti / [Licantropos](../races/individual/licantropos.md) |
+| **[Terras dos Auçá](reinos/terras-auca.md)** | Além Infestação | Militarismo Auçá | Infestação (imunes) |
+| **[Naur'Ush](reinos/naurush.md)** | Pântanos sudoeste | Auçá Livres | Controle imperial / Infestação |
+| **Estados do Deserto** (Landé, Yby, [Mbaê](reinos/mbae.md), Ybi, Anama) | Leste | Comércio / Magia / Sobrevivência | Deserto / Monstros |
 | **Estados do Sul** (Arani, Ybytu) | Sul (Montes Brancos) | Resistência ao frio | Monstros gelados / Infestação |
-| **Fortuna** | Ilha Leste | Pirataria / Livre comércio | Leis imperiais / Navios |
-| **Sam-Mael** | Ilha voadora (Céus) | Magia nula / Segredos | Magos / Arcanos |
-| **Acag / Yawara** | Noroeste | Traços animais / Isolamento | Isolamento geográfico |
+| **[Fortuna](reinos/fortuna.md)** | Ilha Leste | Pirataria / Livre comércio | Leis imperiais / Navios |
+| **[Sam-Mael](reinos/sam-mael.md)** | Ilha voadora (Céus) | Magia nula / Segredos | Magos / Arcanos |
+| **[Acag](reinos/acag.md) / Yawara** | Noroeste | Traços animais / Isolamento | Isolamento geográfico |
 
 ---
 
@@ -105,30 +105,30 @@
 
 | Reino | Página | Tipo Tampão |
 |-------|--------|-------------|
-| Kisé | [kise.md](kise.md) | Militar (Norte) |
-| Irundyna | [irundyna.md](irundyna.md) | Infestação (Corrompido) |
-| Ypiturui | [ypiturui.md](ypiturui.md) | Muralha (Brecha) |
-| Kaluana | [kaluana.md](kaluana.md) | Logística (Centro-oeste) |
-| Camuá | [camua.md](camua.md) | Comércio (Centro-sul) |
-| Aratama | [aratama.md](aratama.md) | Passes (Centro) |
-| Andirá | [andira.md](andira.md) | Anões/Minério (Norte) |
-| Aisó | [aiso.md](aiso.md) | Cura/Paladinos (Sudoeste) |
-| Moacuba | [moacuba.md](moacuba.md) | Espionagem (Interior) |
-| Nambiquara | [nambiquara.md](nambiquara.md) | Sombras (Oeste) |
-| Jurubatiba | [jurubatiba.md](jurubatiba.md) | Arcana (Centro) |
-| Terra Selvagem | [terra-selvagem.md](terra-selvagem.md) | Guerra (Sudoeste) |
-| Terras dos Auçá | [terras-auca.md](terras-auca.md) | Militar (Além Infestação) |
-| Naur'Ush | [naurush.md](naurush.md) | Auçá Livres (Pântanos) |
+| [Kisé](reinos/kise.md) | [Kisé](reinos/kise.md) | Militar (Norte) |
+| Irundyna | [Irundyna](reinos/irundyna.md) | Infestação (Corrompido) |
+| Ypiturui | [Ypiturui](reinos/ypiturui.md) | Muralha (Brecha) |
+| Kaluana | [Kaluana](reinos/kaluana.md) | Logística (Centro-oeste) |
+| Camuá | [Camuá](reinos/camua.md) | Comércio (Centro-sul) |
+| Aratama | [Aratama](reinos/aratama.md) | Passes (Centro) |
+| Andirá | [Andirá](reinos/andira.md) | Anões/Minério (Norte) |
+| Aisó | [Aisó](reinos/aiso.md) | Cura/Paladinos (Sudoeste) |
+| Moacuba | [Moacuba](reinos/moacuba.md) | Espionagem (Interior) |
+| Nambiquara | [Nambiquara](reinos/nambiquara.md) | Sombras (Oeste) |
+| Jurubatiba | [Jurubatiba](reinos/jurubatiba.md) | Arcana (Centro) |
+| Terra Selvagem | [Terra Selvagem](reinos/terra-selvagem.md) | Guerra (Sudoeste) |
+| Terras dos Auçá | [Terras dos Auçá](reinos/terras-auca.md) | Militar (Além Infestação) |
+| Naur'Ush | [Naur'Ush](reinos/naurush.md) | Auçá Livres (Pântanos) |
 | Landé / Yby / Mbaê / Ybi / Anama | Deserto Leste | Comércio/Magia |
 | Arani / Ybytu | Sul Gelado | Resistência |
-| Andirá | [andira.md](andira.md) | Anões/Mundo Interior |
-| Elfin | [elfin.md](elfin.md) | Elfos/Floresta Proibida |
+| Andirá | [Andirá](reinos/andira.md) | Anões/Mundo Interior |
+| Elfin | [Elfin](reinos/elfin.md) | Elfos/Floresta Proibida |
 | Araxá / Avista | Cordilheiras Atã | Ilhas Voadoras |
-| Fortuna | [fortuna.md](fortuna.md) | Piratas/Livre |
-| Sam-Mael | [sam-mael.md](sam-mael.md) | Magia Nula |
+| Fortuna | [Fortuna](reinos/fortuna.md) | Piratas/Livre |
+| Sam-Mael | [Sam-Mael](reinos/sam-mael.md) | Magia Nula |
 | Acag / Yu | Além-mar | Isolados |
-| Naur'Ush | [naurush.md](naurush.md) | Auçá Livres |
-| Tiba | [tiba.md](tiba.md) | Gigantes/Cataclisma |
+| Naur'Ush | [Naur'Ush](reinos/naurush.md) | Auçá Livres |
+| Tiba | [Tiba](reinos/tiba.md) | Gigantes/Cataclisma |
 
 ---
 

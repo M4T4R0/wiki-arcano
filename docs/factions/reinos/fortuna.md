@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Código dos Livres**
-> **Personagens nascidos em Fortuna**: *Código dos Livres* (+1 Blefar/Manha; imune leis imperiais).
+> **Personagens nascidos em [fortuna](fortuna.md)**: *Código dos Livres* (+1 Blefar/Manha; imune leis imperiais).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Código dos Livres**
-> **Personagens nascidos em Fortuna**: *Código dos Livres* (+1 Blefar/Manha; imune leis imperiais).
+> **Personagens nascidos em [fortuna](fortuna.md)**: *Código dos Livres* (+1 Blefar/Manha; imune leis imperiais).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Leste (Ilha)](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

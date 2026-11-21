@@ -1,7 +1,7 @@
 ### Dragnovith Uller (Arquimago Imperial)
-> *Citado: "Jurubatiba, capital arcana fundada por Dragnovith Uller, arquimago imperial."*
+> *Citado: "[jurubatiba](../../factions/reinos/jurubatiba.md), capital arcana fundada por Dragnovith Uller, arquimago imperial."*
 - **Classe**: Arquimago
-- **Fundador**: Jurubatiba (capital arcana)
+- **Fundador**: [jurubatiba](../../factions/reinos/jurubatiba.md) (capital arcana)
 - **Papel**: Arcanos Imperiais
 
 ---

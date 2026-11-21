@@ -5,7 +5,7 @@
 ---
 
 ## Papel
-Prisioneiros que se revoltaram em Ypiturui
+Prisioneiros que se revoltaram em [ypiturui](../../factions/reinos/ypiturui.md)
 
 ## Notas
 Auçá / simpatizantes Auçá Livres

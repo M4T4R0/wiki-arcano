@@ -20,7 +20,7 @@ Os anciãos deste Espécie têm vivências de eras anteriores, oferecendo-lhes u
 
 A adesão rigorosa às tradições clânicas é central para os anões, homenageando sua linhagem que remonta às fundações de suas fortificações ancestrais. Essas tradições incluem uma devoção fervorosa ao deus menor da justiça Rei Ishaltar, simbolizando princípios anões de diligência, maestria bélica e uma paixão pela forja.
 
-Os Akitã habitam o Mundo Interior, uma vasta cadeia de cavernas e túneis que se estende por grande parte de Airy, com uma das entradas mais famosas localizada nas montanhas Beniti. Sua maior cidade fortaleza se chama Andirá, é um testemunho de sua engenhosidade e força. Embora profundamente conectados a este reino subterrâneo, os Akitã se fazem presentes por todo o mundo, demonstrando sua adaptabilidade e espírito explorador.
+Os Akitã habitam o Mundo Interior, uma vasta cadeia de cavernas e túneis que se estende por grande parte de Airy, com uma das entradas mais famosas localizada nas montanhas Beniti. Sua maior cidade fortaleza se chama [andirá](../../factions/reinos/andira.md), é um testemunho de sua engenhosidade e força. Embora profundamente conectados a este reino subterrâneo, os Akitã se fazem presentes por todo o mundo, demonstrando sua adaptabilidade e espírito explorador.
 
 Individualmente, os anões são seres de determinação férrea, valorizando a lealdade e a palavra dada, mas também conhecidos por sua inabalável teimosia. Um sentido aguçado de justiça os torna memoriosos dos erros cometidos contra eles, perpetuando o princípio de que uma ofensa a um anão é uma ofensa ao seu clã inteiro. Assim, uma injúria pessoal pode facilmente escalar para um conflito clânico, evidenciando a profundidade do vínculo e da honra compartilhada entre os Akitã.
 

@@ -42,7 +42,7 @@
 | Efeito | Detalhe |
 |--------|---------|
 | **Aura Indissipável** (1 PM) | Emanar aura que **não pode ser dissipada** por nenhuma magia |
-| **Uso** | Escapa de autoridades arcanas, detectar magia, anti-magia, Sam-Mael |
+| **Uso** | Escapa de autoridades arcanas, detectar magia, anti-magia, [sam-mael](../factions/reinos/sam-mael.md) |
 | **Custo** | 1 PM; duração = 1 cena |
 | **Maldição** | Uso prolongado → escamas; olhos verticais; voz rouca |
 
@@ -85,13 +85,13 @@
 ---
 
 ### Grimório de Ahriman (Cópia Autêntica)
-> *Existem poucas cópias; a original está em Jurubatiba (Arquivo Maior).*
+> *Existem poucas cópias; a original está em [jurubatiba](../factions/reinos/jurubatiba.md) (Arquivo Maior).*
 
 | Cópias Conhecidas | Localização |
 |-------------------|-------------|
 | **Original** | Arquivo Maior (Jurubatiba) — acesso: Arqui-Mestre + 3 Gram-Mestres |
 | **Cópia 1** | Torre de Ahriman (Ypy) — guardada pelo Arqui-Mestre |
-| **Cópia 2** | Kaluana (Oficina de Guerra) — Huck Hor |
+| **Cópia 2** | [kaluana](../factions/reinos/kaluana.md) (Oficina de Guerra) — Huck Hor |
 | **Cópia 3** | Perdida (roubada por ladino de Nambiquara) |
 
 ---
@@ -138,7 +138,7 @@
 
 | Componente | Uso | Valor | Onde Encontrar |
 |------------|-----|-------|----------------|
-| **Cristal de Mana** | Recarrega PM; fabricação itens | 10-100 coroas | Minas de Jurubatiba, Kaluana |
+| **Cristal de Mana** | Recarrega PM; fabricação itens | 10-100 coroas | Minas de [jurubatiba](../factions/reinos/jurubatiba.md), [kaluana](../factions/reinos/kaluana.md) |
 | **Essência de Mana** | Cria poções/itens; recarga PM | 50-500 coroas | Nascente de mana (Jurubatiba) |
 | **Sangue de Dragão** | Forja armas/armaduras lendárias | 1.000+ coroas | Dragões (raros; caça perigosa) |
 | **Lágrima de Anjo** | Elixir da Vida; remove Trevas | Inestimável | Anjos caídos (Mihangel) |
@@ -147,8 +147,8 @@
 | **Pena de Anjo** | Voo/Teleporte | 500 coroas | Anjos caídos (Mihangel) |
 | **Sangue de Unicórnio** | Cura maior; purificação | 500 coroas | Floresta Proibida (raro) |
 | **Obsidiana** | Anula regeneração Auçá; forja anti-Trevas | 200 coroas | Torre de Obsidiana (Irundyna) |
-| **Ferro de Andirá** | Forja padrão Imperial | 50 coroas/kg | Andirá (Minas Anãs) |
-| **Prata de Aratama** | Ourivesaria; anti-licantropos | 200 coroas/kg | Aratama (Minas) |
+| **Ferro de [andirá](../factions/reinos/andira.md)** | Forja padrão Imperial | 50 coroas/kg | [andirá](../factions/reinos/andira.md) (Minas Anãs) |
+| **Prata de [aratama](../factions/reinos/aratama.md)** | Ourivesaria; anti-[licantropos](../races/individual/licantropos.md) | 200 coroas/kg | [aratama](../factions/reinos/aratama.md) (Minas) |
 
 ---
 
@@ -160,10 +160,10 @@
 | **Porta Dimensional** | Porta curta (vista) | 200 coroas | OR |
 | **Ressurreição** | Revive morto (< 1 hora) | 5.000 coroas | Branca/Cura |
 | **Ressurreição Verdadeira** | Revive morto (qualquer tempo) | 50.000 coroas | Branca/Cura + Lágrima de Anjo |
-| **Dissipar Magia** | Cancela magia ativa | 100 coroas | Anti-Fonemas / Branca |
-| **Anti-Magia (Área)** | Zona 10m sem magia (1 hora) | 1.000 coroas | Anti-Fonemas |
+| **Dissipar Magia** | Cancela magia ativa | 100 coroas | [anti-fonemas](../magic/trevas.md) / Branca |
+| **Anti-Magia (Área)** | Zona 10m sem magia (1 hora) | 1.000 coroas | [anti-fonemas](../magic/trevas.md) |
 | **Telepatia** | Comunicação mental (1 hora) | 200 coroas | ECH |
-| **Visão Verdadeira** | Vê invisível/ilusionário (1 hora) | 300 coroas | EL / Anti-Fonemas |
+| **Visão Verdadeira** | Vê invisível/ilusionário (1 hora) | 300 coroas | EL / [anti-fonemas](../magic/trevas.md) |
 | **Proteção contra Trevas** | Imune a Trevas (1 dia) | 500 coroas | Branca / Anti-Trevas |
 | **Ritual de Selamento (Infestação)** | Sela brecha (temporário) | 10.000 + componentes | Branca + Anti-Trevas |
 
@@ -181,7 +181,7 @@
 | **Anel de Sussurros** | Comunicação sussurrada (1km) | 400 coroas | Par necessário |
 | **Óculos de Percepção** | +1 Percepção; vê invisível (1/h) | 500 coroas | Usa 1 PM/hora |
 | **Botas de Silêncio** | +2 Furtividade; sem som | 300 coroas | Couro de Felraxx |
-| **Capa das Sombras** | +2 Furtividade noturna; 1×/cena: *Invisibilidade* (1 turno) | 800 coroas | Tecido de Nambiquara |
+| **Capa das Sombras** | +2 Furtividade noturna; 1×/cena: *Invisibilidade* (1 turno) | 800 coroas | Tecido de [nambiquara](../factions/reinos/nambiquara.md) |
 | **Luvas de Ladino** | +1 Furtividade; *Mão Fantasma* (1×/cena: pega item à distância) | 600 coroas | Couro de Vermífago |
 
 ---

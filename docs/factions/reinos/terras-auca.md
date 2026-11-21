@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Racial Auçá (Exoesqueleto, Regeneração, Imune Infestação)**
-> **Personagens nascidos em Terras dos Auçá**: Racial Auçá (Exoesqueleto, Regeneração, Imune Infestação).
+> **Personagens nascidos em [terras dos auçá](terras-auca.md)**: Racial Auçá (Exoesqueleto, Regeneração, Imune Infestação).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Racial Auçá (Exoesqueleto, Regeneração, Imune Infestação)**
-> **Personagens nascidos em Terras dos Auçá**: Racial Auçá (Exoesqueleto, Regeneração, Imune Infestação).
+> **Personagens nascidos em [terras dos auçá](terras-auca.md)**: Racial Auçá (Exoesqueleto, Regeneração, Imune Infestação).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Além da Infestação](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 

@@ -35,7 +35,7 @@
 - **População**: Maior cidade de Airy (centenas de milhares)
 - **Distritos**:
   - **Cidadela Imperial** — Palácio, ministérios, senado
-  - **Bairro dos Magos** — Próximo a Jurubatiba (portal arcano)
+  - **Bairro dos Magos** — Próximo a [jurubatiba](jurubatiba.md) (portal arcano)
   - **Porto do Pindaré** — Comércio fluvial, alfândega
   - **Bairro dos Nobres** — Mansões das Casas (Agar, Kalan, etc.)
   - **Cidade Baixa** — Povo, mercados, tavernas
@@ -60,7 +60,7 @@
 ---
 
 ## 🧙 Magia e Arcano
-- **Portal para Jurubatiba**: Círculo de teleporte permanente (controlado por Arcanos)
+- **Portal para [jurubatiba](jurubatiba.md)**: Círculo de teleporte permanente (controlado por Arcanos)
 - **Academia de Guerra Arcana**: Treino de magos de batalha
 - **Biblioteca Imperial**: Cópias de tudo registrado no Templo do Conhecimento
 
@@ -78,8 +78,8 @@
 | **Imperador Deziel Áureo** | Soberano | Aristocrata + Guerreiro Armadura; Idiomas, Manipulação |
 | **Arthur Áureo** | General / Herdeiro | Filho bastardo de Áureo I + Luna Lin; Comandante Geral aos 25 |
 | **Luna Lin** | Amazona / Mãe do Herdeiro | Ex-amante de Áureo I; viva? |
-| **Casa Agar** | Nobres de Kisé | Forte influência em Ypy; controlam Parte Nova de Kisé |
-| **Casa Kalan** | Comércio Aba-Auçá | Espionagem, chantagem, artefato mental? |
+| **[casa agar](../../npcs/individual/casa-agar.md)** | Nobres de [kisé](kise.md) | Forte influência em Ypy; controlam Parte Nova de [kisé](kise.md) |
+| **[casa kalan](../../npcs/individual/casa-kalan.md)** | Comércio Aba-Auçá | Espionagem, chantagem, artefato mental? |
 
 ---
 
@@ -88,7 +88,7 @@
 |-------|-----------|
 | **Palácio Imperial** | Sede do governo; salões de audiência; jardins suspensos |
 | **Senado Imperial** | Plenário, galerias públicas, arquivos secretos |
-| **Portal Arcano** | Círculo de teleporte para Jurubatiba (guardado por Arcanos) |
+| **Portal Arcano** | Círculo de teleporte para [jurubatiba](jurubatiba.md) (guardado por Arcanos) |
 | **Grande Mercado** | Tudo que existe em Airy passa por aqui |
 | **Templo do Conhecimento** | Peregrinação anual da Ordem; acervo histórico |
 | **Academia de Guerra** | Oficiais, magos de batalha, engenheiros |
@@ -97,8 +97,8 @@
 
 ## 🎯 Ganchos de Aventura
 1. **Sucessão Imperial** — Imperador doente/sem herdeiro oficial; facções conspiram
-2. **Espionagem** — Casa Kalan vs Casa Agar; roubo de segredos de Estado
-3. **Portal Instável** — Teleporte para Jurubatiba falha; magos presos no éter
+2. **Espionagem** — [casa kalan](../../npcs/individual/casa-kalan.md) vs [casa agar](../../npcs/individual/casa-agar.md); roubo de segredos de Estado
+3. **Portal Instável** — Teleporte para [jurubatiba](jurubatiba.md) falha; magos presos no éter
 4. **Rebelião na Cidade Baixa** — Fome + impostos = revolta; nobres querem repressão brutal
 4. **Artefato no Porão** — Algo antigo dorme sob o Palácio (dica: espelho de Áureo I)
 
@@ -106,7 +106,7 @@
 
 ## 📜 História Recente
 - **-37 anos**: Fundação por **Áureo I** ("joia do novo império")
-- **-29 a -5 anos**: Fundação das 9 cidades filhas (Camuá, Kisé, Moacuba, Nambiquara, Jurubatiba, Kaluana, Aisó, Aratama, Ypiturui)
+- **-29 a -5 anos**: Fundação das 9 cidades filhas (Camuá, [kisé](kise.md), [moacuba](moacuba.md), [nambiquara](nambiquara.md), [jurubatiba](jurubatiba.md), [kaluana](kaluana.md), [aisó](aiso.md), [aratama](aratama.md), Ypiturui)
 - **Ano 0**: Morte de Áureo I (supostamente natural; rumores de veneno/feitiçaria)
 - **Anos 1-37**: Concílio dos Reinos, guerras Abaité, ascensão de Arthur Áureo, Infestação
 - **Atual**: Imperador Deziel Áureo no trono; Infestação avança no norte; política ferve

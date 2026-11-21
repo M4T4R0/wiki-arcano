@@ -4,7 +4,7 @@ O Espécie dos Yawara, conhecido por sua variedade de humanóides antropomórfic
 
 O principal reino em Lauré é Tupãsununga, governado por uma realeza composta por Grandes Felinos, como Leões, Tigres, Leopardos, Onças e Linces. Essa nobreza felina lidera a sociedade com sabedoria e autoridade, enquanto a população comum, composta principalmente por gatos comuns e cães, desfruta de uma vida pacífica e próspera sob seu governo.
 
-Apesar da existência desse reino distante, a maioria dos habitantes de Airy desconhece sua existência. Quando Kemonos de Lauré são avistados, são frequentemente confundidos como humanos amaldiçoados ou licantropos, devido aos seus traços animais. A verdadeira natureza e origem desses seres são um segredo bem guardado, conhecido apenas por poucos.
+Apesar da existência desse reino distante, a maioria dos habitantes de Airy desconhece sua existência. Quando Kemonos de Lauré são avistados, são frequentemente confundidos como humanos amaldiçoados ou [licantropos](licantropos.md), devido aos seus traços animais. A verdadeira natureza e origem desses seres são um segredo bem guardado, conhecido apenas por poucos.
 
 Aqueles Kemonos que decidem estabelecer-se fora de Lauré vivem entre os habitantes de Airy como pessoas comuns. Muitos se tornam aventureiros destemidos, dedicando suas vidas a explorar o mundo e enfrentar seus perigos. Alguns se estabelecem em cidades, onde contribuem com seus talentos e habilidades para a comunidade local, enquanto outros preferem o comércio ou a vida nômade.
 

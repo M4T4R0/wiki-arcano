@@ -5,7 +5,7 @@
 ---
 
 ## Papel
-Nobreza de Kisé
+Nobreza de [kisé](../../factions/reinos/kise.md)
 
 ## Notas
 Forte influência; manipula construção da Parte Nova

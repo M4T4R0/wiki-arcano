@@ -88,8 +88,8 @@
 | **ECH** | **Ondas, Informação e Mente** | Comunicação, telepatia, dados, ondas sonoras/eletromagnéticas |
 | **OR** | **Espaço e Deslocamento** | Teleporte, portais, dobra espacial, movimento, distância |
 | **EL** | **Ilusão e Percepção** | Sentidos, engano, realidade aparente, luz/sombra |
-| **THAR** | **Tempo** | Cronometria, aceleração/desaceleração, loops, envelhecimento |
-| **Anti-Fonemas** | **Nulificação/Anulação** | Cancela outros fonemas; silêncio mágico; anti-magia |
+| **[thar](trevas.md)** | **Tempo** | Cronometria, aceleração/desaceleração, loops, envelhecimento |
+| **[anti-fonemas](trevas.md)** | **Nulificação/Anulação** | Cancela outros fonemas; silêncio mágico; anti-magia |
 | **Vhaurechaya** *(ECH avançado)* | **Mente Superior** | Controle mental em massa; reescrita de memória |
 
 ### Fonemas Derivados (Exemplos)
@@ -148,17 +148,17 @@
 
 | Anti-Fonema | Alvo | Efeito |
 |-------------|------|--------|
-| **Vekh'Morth** | THAR (Tempo) | Anula manipulação temporal |
+| **Vekh'Morth** | [thar](trevas.md) (Tempo) | Anula manipulação temporal |
 | **CVhor'Nekh** | OR (Espaço) | Fecha portais; impede teleporte |
 | **Korv'Vhor** | ECH (Mente) | Bloqueia telepatia/leitura mental |
 | **Vekhrax** | EL (Ilusão) | Dissipa ilusões; revela verdade |
-| **Thaur** | ECH/THAR | Interrompe concentração/feitiços |
+| **Thaur** | ECH/[thar](trevas.md) | Interrompe concentração/feitiços |
 | **Morthvek** | Todos | Contador universal (caro; 2x PM) |
-| **Vhaurmorth** | THAR/EL | Anula ilusões temporais |
+| **Vhaurmorth** | [thar](trevas.md)/EL | Anula ilusões temporais |
 | **Vekvar** | OR/EL | Desfaz teleportes/ilusões em área |
-| **Vhorkesh** | THAR/ECH | Impede loops/leitura mental |
+| **Vhorkesh** | [thar](trevas.md)/ECH | Impede loops/leitura mental |
 | **Drauketh** | Todos | Drena PM do alvo (1 PM = 1 PV drenado) |
-| **Vhorign** | THAR/OR | Impede teleportes temporais |
+| **Vhorign** | [thar](trevas.md)/OR | Impede teleportes temporais |
 | **Korvethar** | ECH/OR | Bloqueia comunicação/teleporte |
 | **Morthkun** | Todos | Contador definitivo (3x PM; permanente) |
 | **Morthvek** | Todos | Nulificação em área (raio 10m) |
@@ -211,7 +211,7 @@
 | **Mana** | Fonte das vantagens mágicas |
 | **Trevas** | Vantagem "Trevas" (Ganho + Ponto de Trevas) |
 | **Fonemas** | Vantagens "Fonema X" (1-3 pts cada) |
-| **Anti-Fonemas** | Vantagens "Anti-Fonema X" (contadores) |
+| **[anti-fonemas](trevas.md)** | Vantagens "Anti-Fonema X" (contadores) |
 
 ### Criação de Personagem (Resumo Arcano)
 1. **Origem** → Vantagem Regional grátis
@@ -219,7 +219,7 @@
 3. **Classe/Kit** → Aristocrata, Guerreiro, Mago, Caçador, etc.
 4. **Mana/Trevas** → Escolha: Mana (seguro) ou Trevas (poderoso + corruptor)
 5. **Fonemas** (opcional) → Escolha 1-3 fonemas (Escola Abstrata)
-6. **Anti-Fonemas** (opcional) → Contadores especializados
+6. **[anti-fonemas](trevas.md)** (opcional) → Contadores especializados
 
 ---
 

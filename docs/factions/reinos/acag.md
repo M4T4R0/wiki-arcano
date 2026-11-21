@@ -19,7 +19,7 @@
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Yawara (traços animais); líder Homem Leão
+- **Características**: Yawara (traços animais); líder [homem leão](../../npcs/individual/homem-leão.md)
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 Vantagem Regional: **Traços Animais**
-> **Personagens nascidos em Acag**: *Traços Animais* (+1 Percepção/Intimidação).
+> **Personagens nascidos em [acag](acag.md)**: *Traços Animais* (+1 Percepção/Intimidação).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -71,16 +71,14 @@
 ---
 
 ## 🌟 Vantagem Regional: **Traços Animais**
-> **Personagens nascidos em Acag**: *Traços Animais* (+1 Percepção/Intimidação).
+> **Personagens nascidos em [acag](acag.md)**: *Traços Animais* (+1 Percepção/Intimidação).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
 - [Índice dos Reinos](index.md) — Volta ao índice mestre
-- [Região: Noroeste](../geografia/regioes/index.md) — Contexto geográfico maior
-- [Império Aba](../imperio-aba.md) — Contexto imperial (se aplica)
-- [ARCANO_COMPLETO.md](../ARCANO_COMPLETO.md) — Fonte original
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
 
 ---
 
