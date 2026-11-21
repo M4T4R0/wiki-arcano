@@ -1,9 +1,9 @@
 
 Conforme mencionado em sua consulta (e corroborado pela reputação de Kisé como um polo de formação militar e aventureira
 
-), a Academia ocupa uma posição de destaque no Império. Embora a Academia Imperial de Magia de Jurubatiba (Dragonovith) seja considerada a maior e melhor do mundo
+), a Academia ocupa uma posição de destaque no Império. Embora a Academia Imperial de Magia de [jurubatiba](../factions/reinos/jurubatiba.md) (Dragonovith) seja considerada a maior e melhor do mundo
 
-, a escola de Kisé é crucial para a defesa estratégica do Norte, aceitando aprendizes de todo o império e servindo como baluarte contra os Orcs
+, a escola de [kisé](../factions/reinos/kise.md) é crucial para a defesa estratégica do Norte, aceitando aprendizes de todo o império e servindo como baluarte contra os Orcs
 
 .
 
@@ -39,19 +39,19 @@ No estabelecimento podem ser encontrados os melhores equipamentos da Cidade (cla
 
 Urgrosh
 
-Urgrosh é uma arma exótica dos Anões e também é a loja de Armas e Armaduras mais respeitada de Kisé.
+Urgrosh é uma arma exótica dos Anões e também é a loja de Armas e Armaduras mais respeitada de [kisé](../factions/reinos/kise.md).
 
-Seu dono é o Akitã Thor escudo bumerangue, um ex-senhor do escudo e Capitão da Guarda Real de Kisé, a sua loja já existia décadas antes do mesmo deixar o comando do Guarda, mas quando a idade começou a atrapalhar o seu Trabalho (dizem que ele tem mais de 500 anos de idade) Thor pediu exoneração de seu cargo, se dedicando em caráter integral a sua loja.
+Seu dono é o Akitã Thor escudo bumerangue, um ex-senhor do escudo e Capitão da Guarda Real de [kisé](../factions/reinos/kise.md), a sua loja já existia décadas antes do mesmo deixar o comando do Guarda, mas quando a idade começou a atrapalhar o seu Trabalho (dizem que ele tem mais de 500 anos de idade) Thor pediu exoneração de seu cargo, se dedicando em caráter integral a sua loja.
 
 Na loja podem ser encontradas armas , armaduras, equipamentos, e com Testes de Lábia dificuldade média, pode-se encontrar até algumas armas mágicas muito bem escondidas pois são controladas pelos Arcanos Imperiais.
 
 Lojas de Esquina
 
-Existem muitas outras lojas espalhadas por Kisé, procurando um pouco pode-se encontrar quase uma em cada esquina.
+Existem muitas outras lojas espalhadas por [kisé](../factions/reinos/kise.md), procurando um pouco pode-se encontrar quase uma em cada esquina.
 
 Estalagem Lince Estonteante
 
-Atendimento de primeira e uma estrutura invejável na parte velha é a mais conhecida, a melhor (e mais cara) Estalagem de Kisé, melhor dá porque na cidade nova não existe Tavernas e Estalagens, uma ordem do Rei.
+Atendimento de primeira e uma estrutura invejável na parte velha é a mais conhecida, a melhor (e mais cara) Estalagem de [kisé](../factions/reinos/kise.md), melhor dá porque na cidade nova não existe Tavernas e Estalagens, uma ordem do Rei.
 
 Real Hotel de Kísé
 
@@ -61,7 +61,7 @@ Para a comodidade dos clientes, no hotel existem vários bares e lojas diversas 
 
 Estalagem da Senhorita Gi
 
-É uma estalagem considerada de qualidade média da cidade Velha de Kisé, a ex-senhorita Gi, agora casada a mais de 20 anos com um de seus clientes um antigo caixeiro viajante, é muito atenciosa com seu clientes e não mede esforços para realizar todos os seus pedidos. Atualmente ela é auxiliada por suas duas belas filhas.
+É uma estalagem considerada de qualidade média da cidade Velha de [kisé](../factions/reinos/kise.md), a ex-senhorita Gi, agora casada a mais de 20 anos com um de seus clientes um antigo caixeiro viajante, é muito atenciosa com seu clientes e não mede esforços para realizar todos os seus pedidos. Atualmente ela é auxiliada por suas duas belas filhas.
 
 A Estalagem é geralmente frequentada por comerciantes que procuram negócios na cidade, eventualmente aventureiros (um verdadeiro aventureiro geralmente procura estalagens onde é possível encontrar tipos mais perigosos onde podem ouvir por novas oportunidades de aventuras, claro que há as suas exceções) se instalam na estalagem.
 
@@ -111,7 +111,7 @@ Além de nascer para enfrentar o perigo, você também tem muita sorte, uma vez 
 
 Preparado para o Perigo (Kisé e Ypiturui)
 
-Os habitantes de Kisé se preparam para enfrentar forças muito superiores às deles. Todos os testes envolvendo a interação com criaturas de escala superior e/ ou cuja pontuação seja no mínimo 10 pontos maior que a deles diminuem a dificuldade em um nível. 
+Os habitantes de [kisé](../factions/reinos/kise.md) se preparam para enfrentar forças muito superiores às deles. Todos os testes envolvendo a interação com criaturas de escala superior e/ ou cuja pontuação seja no mínimo 10 pontos maior que a deles diminuem a dificuldade em um nível. 
 
 Treinado para Improvisar (+1 Ponto)
 
@@ -170,10 +170,10 @@ A principal barreira para a plena operação da guilda é a sua relação com a 
 
 * **Símbolo:** Uma **Caveira Negra**.  
 * **Recrutamento:** O novo membro deve ser comprovadamente **mais poderoso do que o recrutador**.  
-* **Sede:** Localizada na cidade-estado de **Kisé**.  
+* **Sede:** Localizada na cidade-estado de **[kisé](../factions/reinos/kise.md)**.  
 * **Demografia:** Composta majoritariamente por humanos (**Aba, 50%**), mas com presença de Akitã, Piquira, Orcs e Elfos.
 
-Essa é a mais famosa e influente Guilda de Aventureiros de Kisé (e talvez de toda a Airy), nela por apenas 50 Barões por mês os associados têm acesso a um mural com várias missões (claro que de acordo com o seu Rank dentro da Guilda), de todos os tipos, desde ajudar donzelas indefesas, caçar algum monstro, até escoltar figurões pelo mundo, claro que todas com o sua devida Remuneração.
+Essa é a mais famosa e influente Guilda de Aventureiros de [kisé](../factions/reinos/kise.md) (e talvez de toda a Airy), nela por apenas 50 Barões por mês os associados têm acesso a um mural com várias missões (claro que de acordo com o seu Rank dentro da Guilda), de todos os tipos, desde ajudar donzelas indefesas, caçar algum monstro, até escoltar figurões pelo mundo, claro que todas com o sua devida Remuneração.
 
 **Tipo:** Mercenária, com membros secretos
 
@@ -181,7 +181,7 @@ Essa é a mais famosa e influente Guilda de Aventureiros de Kisé (e talvez de t
 
 **Geografia:** Nível Mundial
 
-**Sede:** Cidade Estado Kisé
+**Sede:** Cidade Estado [kisé](../factions/reinos/kise.md)
 
 **Membros:** Aproximadamente 600 Membros.
 
@@ -195,7 +195,7 @@ Essa é a mais famosa e influente Guilda de Aventureiros de Kisé (e talvez de t
 
 **1º Mestre da Guilda:** 1 Membro. Responsável por toda a organização, negociação com clientes importantes, determinação de prioridades de ranks das missões.
 
-**2º Intendente:** 10 membros (espalhados em 2 Bancos, um em Kisé e outro em Ypy). Responsável pela gestão do banco da Guilda, e pagamento de recompensas por missões cumpridas.
+**2º Intendente:** 10 membros (espalhados em 2 Bancos, um em [kisé](../factions/reinos/kise.md) e outro em Ypy). Responsável pela gestão do banco da Guilda, e pagamento de recompensas por missões cumpridas.
 
 **3º Negociador:** 115 membros (1 em cada principal cidade do mundo). Responsáveis pelo, recebimento de clientes, recebimento de recompensas.
 
@@ -249,7 +249,7 @@ Em regras: Quando alguém entra para a Guilda ganha a desvantagem Má-fama (pera
 
 Uma questão complicada, o Ás e o Mestre da Guilda Ganham a Vantagem Boa Fama perante toda a população, mas Má Fama perante as autoridades
 
-Patrono: Era dos Campeões/Kisé
+Patrono: Era dos Campeões/[kisé](../factions/reinos/kise.md)
 
 **Coleção dos Campeões:** A guilda/Reino é uma grande colecionadora de equipamentos mágicos que recebe como prêmio de suas missões. A guilda é capaz de fornecer uma arma mágica Anti-Inimigo (tipo de alvo da sua missão) até o fim da aventura. Mas é melhor nem pensar em se “esquecer” de devolver…
 
@@ -261,7 +261,7 @@ Patrono: Era dos Campeões/Kisé
 
 **Kei Tai Taekwon**
 
-Kei é uma jovem garota nativa de Kisé e descendente de uma família de lutadores. Desde pequena ela sempre mostrou aptidão enorme para artes marciais \- sobretudo Taewkondo. Ela treinou no Dojo de sua família e se tornou a melhor lutadora de lá. Depois começou a lutar em torneios de artes marciais ao redor de Airy, tornando-se famosa e admirada. Mas começou a ver que lutar sempre em torneios de artes marciais começava a perder a graça. Então ela pediu um conselho ao seu avô. Ele disse que mesmo sendo forte e poderosa, havia ainda oponentes diferentes \- e poderosos \- que ela nunca havia enfrentado, como mortos-vivos, orcs, e outros monstros. Ela então resolveu se tornar uma aventureira, e como lembrança de sua família, levou a espada que seu avô já deu de presente.
+Kei é uma jovem garota nativa de [kisé](../factions/reinos/kise.md) e descendente de uma família de lutadores. Desde pequena ela sempre mostrou aptidão enorme para artes marciais \- sobretudo Taewkondo. Ela treinou no Dojo de sua família e se tornou a melhor lutadora de lá. Depois começou a lutar em torneios de artes marciais ao redor de Airy, tornando-se famosa e admirada. Mas começou a ver que lutar sempre em torneios de artes marciais começava a perder a graça. Então ela pediu um conselho ao seu avô. Ele disse que mesmo sendo forte e poderosa, havia ainda oponentes diferentes \- e poderosos \- que ela nunca havia enfrentado, como mortos-vivos, orcs, e outros monstros. Ela então resolveu se tornar uma aventureira, e como lembrança de sua família, levou a espada que seu avô já deu de presente.
 
 Personalidade: Forte e decidida, não se deixa intimidar facilmente. É valente e audaciosa, mas não por se achar forte demais, mas sim porque gosta de desafios. Como o Taekwondo é a sua vida, ela tende a ser menos feminina que as outras garotas. Kei também é direta e literal como um anão: Se ela não gosta de você, vai dizer isso na sua cara\! Mas ela não é maligna, pois é honrada e pura com seus amigos, e nunca deixaria ninguém na mão.
 
@@ -271,7 +271,7 @@ Outro vencedor do torneio de Vulcazar o mago assassino procurado em todo o mundo
 
 **Lauriel Lyunar, Guerreiro/Ladino**
 
-Lauriel Lyunar foi treinado por seu pai que era um Soldado Imperial,antes que seu treinamento terminasse seu pai foi para a guerra e nunca mais voltou,em um certo dia sua cidadela foi atacada por orcs que acabaram por matar sua família,Lauriel era um jovem e a pedido de sua irmã fugiu para se esconder,sem muitos motivos para continuar vivendo naquela casa onde tal tragédia aconteceu decidiu conhecer o continente,em suas andanças ele conheceu algumas pessoas boas que mostraram pra ele que outras pessoas também precisam de ajuda e assim Lauriel resolveu dar continuidade a sua jornada e repensar sobre sua ira contra os Orcs \! No momento, Lauriel ruma para a cidade de Kisé à procura de informações sobre o seu pai e sobre ataques recentes de orcs .
+Lauriel Lyunar foi treinado por seu pai que era um Soldado Imperial,antes que seu treinamento terminasse seu pai foi para a guerra e nunca mais voltou,em um certo dia sua cidadela foi atacada por orcs que acabaram por matar sua família,Lauriel era um jovem e a pedido de sua irmã fugiu para se esconder,sem muitos motivos para continuar vivendo naquela casa onde tal tragédia aconteceu decidiu conhecer o continente,em suas andanças ele conheceu algumas pessoas boas que mostraram pra ele que outras pessoas também precisam de ajuda e assim Lauriel resolveu dar continuidade a sua jornada e repensar sobre sua ira contra os Orcs \! No momento, Lauriel ruma para a cidade de [kisé](../factions/reinos/kise.md) à procura de informações sobre o seu pai e sobre ataques recentes de orcs .
 
 Lauriel encontrou um desprezível Jogral meio-orc que era vaiado na Taverna Mico Caolho, apesar de ser um meio-orc a canção do Jogral chamou sua atenção assim como também a de alguns outros, após seguir e ter uma conversa com o Jogral ele se juntou a um grupo de escolhidos para sair em busca de uma espada mágica capaz de matar o general de todos os orcs, com isso Lauriel resolveu deixar o Jogral vivo e investigar tal história, após um viagem na MecanauCoruja passando pela terra dos mortos e enfrentar armadilhas mortais, um Espirito Guardião decidia quem era digno de entrar na caverna do saber, Lauriel foi um dos únicos a terem acesso a histórica Durandhal a matadora de Orcs e foi com ela que ele travou sua batalha contra o Jogral que nesse meio tempo revelou ser o general orc que estava a usar a equipe para obter a Durandhal e então destruí la, a batalha foi voraz e houve a derrota e sacrifício do espírito guardião de nome Monserá além da traição e fuga de um dos companheiros, aquele que hoje é conhecido como Tenebroso, houve também o ataque de um dos melhores guerreiros do general orc, chamado de Matanza ele parecia não ser orc e até parecia conhecer Lauriel, entre dúvidas e mistérios Lauriel resolveu atacar e não ceder aos truques daquele Jogral, a batalha estava no seu fim e já ferido e cansado Lauriel estava sem muitas opções, pois o Jogral General e o Matanza eram uma dupla implacável além de ter vários truques para sempre lhes salvar dos melhores golpes do Lauriel, foi então que surpreendidos todos foram resgatados pela MecanauCoruja que surgiu a disparar nos inimigos, na Coruja o combate continuava através dos canhões da nave, mesmo assim os truques do general salvaram a si e seu Protetor, em meio ao desespero Rocca usa de todos os seus poderes para lançar junto a si um enorme poder derivado das rochas que acabou por ruir o pico das montanhas e soterrar a todos, após isso mesmo depois de procurar muito não se acharam os corpos de ninguém, apenas alguns Pertences de Rocca, o destino de todos permeia em um profundo mistério que torna as conclusões sobre a missão vagas como o céu.
 

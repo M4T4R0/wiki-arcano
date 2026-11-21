@@ -1,4 +1,4 @@
-# Landé — Reino Portuário
+# Landé
 
 > **Região**: Deserto Leste | **Fundação**: Antiga/Variada | **Clima**: Variado
 
@@ -6,8 +6,8 @@
 
 ## 📍 Localização
 - **Região**: Deserto Leste
-- **Detalhes**: Costa do deserto leste
-- **Clima**: Variado conforme geografia
+- **Tipo**: Reino Portuário
+- **Descrição**: Reino portuário no deserto leste, porta de entrada marítima para as terras áridas. Conhecido pelo comércio marítimo e como ponto de passagem para o interior do deserto.
 
 ---
 
@@ -19,20 +19,20 @@
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Comércio marítimo; porta de entrada do deserto
+- Comerciante e adaptada ao deserto.
+- A vida gira em torno do porto, das rotas de caravanas e do comércio de especiarias, tecidos e água..
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
 ---
 
 ## 💰 Economia e Recursos
-- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
-- **Especializações**: Conforme cultura e recursos naturais
+Abundância: Comércio marítimo, sal, peixes, rotas de caravanas. Escassez: Água doce, terras aráveis.
 
 ---
 
-## 🌟 Vantagem Regional: **Comércio Marítimo**
-> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo* (+1 Negociação).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo (+1 Negociação; conhece rotas e taxas portuárias)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +40,17 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Governador Portuário** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Mestre de Caravanas** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
+| **Porto Principal** | Característica única da região |
+| **Mercado das Caravanas** | Característica única da região |
+| **Farol do Deserto** | Característica única da região |
 
 ---
 
@@ -58,8 +58,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +70,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Comércio Marítimo**
-> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo* (+1 Negociação).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo (+1 Negociação; conhece rotas e taxas portuárias)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---

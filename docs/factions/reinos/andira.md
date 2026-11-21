@@ -1,26 +1,26 @@
-# Andirá — Última Cidadela Anã (Mundo Interior)
+# Andira
 
-> **Região**: Montanhas Beniti / Norte | **Fundação**: Antiga/Variada | **Clima**: Variado
+> 
 
 ---
 
 ## 📍 Localização
-- **Região**: Montanhas Beniti / Norte
-- **Detalhes**: Cavernas sob o continente
-- **Clima**: Variado conforme geografia
+- **Capital**: Andirá
+- **Terreno**: **Cavernas** (Perigoso) e **Montanhas** (Andirá situa-se em uma montanha que se estende para baixo).
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Última Cidadela Anã (Mundo Interior)
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: Conselho dos Anciões
+- **Regente**: Tharom Barzún
+- **Gentílico**: Andirano
+- **População**: aproximadamente 160.000 habitantes.
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Último refúgio dos Akitã; ferro, pedras preciosas
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Andira — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +31,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Raízes da Pedra**
-> **Personagens nascidos em [andirá](andira.md)**: *Raízes da Pedra* (+1 Ofício pedra/metal; Resistência venenos).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [andira](andira.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,38 +40,36 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Tharom Barzún** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Ordem dos Ferreiros Eternos** | é uma facção composta por mestres artífices anões, sediada no coração da metrópo | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **Fundação/Origem**: Antiga ou expansão imperial
-- **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
-- **Atual**: Situação política/militar atual; tensões ativas
+Andirá nasceu da resiliência e engenhosidade dos Akitã. Após séculos de guerra contra os Abaré na chamada Guerra da Bigorna e do Martelo, e anos de errância forçada pelas hordas Abaité, os Akitã encontraram uma vasta montanha rica em minérios preciosos, especialmente o lendário Aço Akitã, conhecido por sua dureza e maleabilidade incomparáveis.
+
+A primeira cidade foi erguida na superfície da montanha, mas, com o tempo, a necessidade de expansão, segurança e recursos levou os Akitã a cavar para baixo, integrando-se à vasta rede de cavernas conhecida como Mundo Interior. Hoje, Andirá é uma cidade anã subterrânea imensa, considerada o coração cultural, econômico e militar dos Akitã. Sua história é marcada por combates, resistência, inovação e pela preservação do conhecimento ancestral.
 
 ---
 
-## 🌟 Vantagem Regional: **Raízes da Pedra**
-> **Personagens nascidos em [andirá](andira.md)**: *Raízes da Pedra* (+1 Ofício pedra/metal; Resistência venenos).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [andira](andira.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +80,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

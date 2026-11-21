@@ -1,26 +1,26 @@
-# Ybytu — Reino Resistente
+# Ybytu
 
-> **Região**: Sul (Montes Brancos) | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Fundação**: Ano 757 Depois da fundação do Império
 
 ---
 
 ## 📍 Localização
-- **Região**: Sul (Montes Brancos)
-- **Detalhes**: Terras geladas, picos perigosos
-- **Clima**: Variado conforme geografia
+- **Terreno**: **Perigoso (Perilous)**. Composto por **Campos de Gelo** e **Montanhas** de picos nevados.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Reino Resistente
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Regente**: Parmuk “Raposa Careca”, o Sábio Ancião.
+- **Gentílico**: Ybytui
+- **Símbolo**: Uma esfera azul com três linhas brancas que se cruzam como um X, divididas por uma linha vertical; cada linha possui duas setas. No centro, a união das linhas forma um círculo, lembrando um floco de neve.
+- **População**: 1300 almas.
+- **Espécies**: 90% Humanos, 4% Abaré (Elfos) , 4% Akitã (Anões), 2% divididos entre  outros espécies
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Pequeno, resistente; cultura de sobrevivência extrema
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Ybytu — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +31,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue de Gelo**
-> **Personagens nascidos em [ybytu](ybytu.md)**: *Sangue de Gelo* (+1 Resistência frio).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [ybytu](ybytu.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,38 +40,35 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Parmuk “Raposa Careca”, o Sábio Ancião.** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **Fundação/Origem**: Antiga ou expansão imperial
+- **Fundação/Origem**: Ano 757 Depois da fundação do Império
 - **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
 - **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue de Gelo**
-> **Personagens nascidos em [ybytu](ybytu.md)**: *Sangue de Gelo* (+1 Resistência frio).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [ybytu](ybytu.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +79,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

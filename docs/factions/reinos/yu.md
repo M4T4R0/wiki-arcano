@@ -1,26 +1,25 @@
-# Yu — Continente Oriental
+# Yu
 
-> **Região**: Sudoeste | **Fundação**: Antiga/Variada | **Clima**: Variado
+> 
 
 ---
 
 ## 📍 Localização
-- **Região**: Sudoeste
-- **Detalhes**: Continente separado a sudoeste
-- **Clima**: Variado conforme geografia
+- **Capital**: Meiji
+- **Terreno**: **Montanhas** brumosas (Difícil) e **Florestas de Bambu** retorcido.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Continente Oriental
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: Xogunato
+- **Regente**: Sasaki Musashi
+- **Gentílico**: **Yuren
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Homens de traços orientais (equivalente ao Japão)
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Yu — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +30,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Cultura Oriental**
-> **Personagens nascidos em Yu**: *Cultura Oriental* (+1 Etiqueta/Oriental).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [yu](yu.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +39,13 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Sasaki Musashi** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
@@ -58,8 +53,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +65,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Cultura Oriental**
-> **Personagens nascidos em Yu**: *Cultura Oriental* (+1 Etiqueta/Oriental).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [yu](yu.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +77,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

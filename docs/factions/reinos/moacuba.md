@@ -1,104 +1,83 @@
-# Moacuba — O Olho do Oráculo
+# Moacuba
 
-> **Centro místico e de espionagem** — Domínio do **Belero Leroy** (Mago Vampiro, **Oráculo de Moá**), onde segredos sussurram nas sombras.
+> **Fundação**: Ano 8 Antes da Fundação do Império
 
 ---
 
 ## 📍 Localização
-- **Região**: Império Aba, interior (não fronteira)
-- **Fundação**: -8 anos por **Belero Leroy** (Mago transformado em vampiro)
-- **Clima**: Temperado úmido; neblina constante; noites longas
-- **Acesso**: Estrada imperial secundária; fora das rotas principais
+- **Terreno**: **Vales** (Fácil) e **Florestas** (Difícil).
 
 ---
 
 ## 🏛️ Governo e Política
-- **Regente**: **Belero Leroy** — **Oráculo de Moá** (Mago Vampiro, imortal)
-- **Tipo**: Teocracia oculta / Estado de inteligência
-- **Lealdade**: Oficialmente ao Império; na prática, **própria agenda**
-- **Estrutura**: Rede de informantes ("Olhos de Moá") em todo o Império
+- **Tipo**: Especializada em Combate.
+- **Regente**: Rei Alcides Leroy
+- **Gentílico**: Moacubense
+- **Símbolo**: Um escudo
+- **População**: aproximadamente 10.000 habitantes.
+- **Espécies**: 90% Humanos, 10% divididos entre  outros espécies
 
 ---
 
-## 🏙️ Cidade
-- **Atmosfera**: Perpétua penumbra; ruas silenciosas; neblina não dissipa
-- **Arquitetura**: Gótica, torres pontiagudas, janelas estreitas, gárgulas
-- **Distritos**:
-  - **Cidadela do Oráculo** — Torre central; aposentos de Belero; arquivo de segredos
-  - **Bairro dos Sussurros** — Tavernas, informantes, mercado de informações
-  - **Catacumbas** — Onde Belero "alimenta-se"; entrada oculta
-- **População**: Misturada (humanos, vampiros menores, servos leais)
+## 🏙️ Cidade/Assentamento
+- **Características**: Moacuba — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
+- **Atmosfera**: Única à região e povo
 
 ---
 
-## 🧙 O Oráculo de Moá
-- **Identidade**: **Belero Leroy** — Ex-mago imperial → vampiro → Oráculo
-- **Poder**: "Sussurra segredos que nem os mortos deveriam ouvir"
-- **Método**: Rede de espiões + magia divinatória + vampirismo (sangue = memória)
-- **Culto**: **[vlad dracul](../../npcs/individual/vlad-dracul.md)** — Rumores de seita nas sombras de [moacuba](moacuba.md)
-- **Acesso**: Só com permissão; "pagamento" em segredos ou sangue
+## 💰 Economia e Recursos
+- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
+- **Especializações**: Conforme cultura e recursos naturais
 
 ---
 
-## 🕵️ Espionagem e Informação
-| Serviço | Custo |
-|---------|-------|
-| **Segredo menor** (fofoca nobre) | 1 segredo seu ou 50 coroas |
-| **Segredo maior** (plano militar, linhagem) | 1 segredo grave ou 500 coroas |
-| **Segredo imperial** (segredo de Estado) | Favorecimento vitalício ou artefato raro |
-| **Adivinhação** (futuro próximo) | 1 PM do cliente + 1 segredo |
-
-> **Regra**: "Todo segredo tem preço. Todo preço tem consequência."
-
----
-
-## 🌟 Vantagem Regional: **Olhos do Oráculo**
-> **Personagens nascidos em [moacuba](moacuba.md)**: **+1 em testes de Percepção e Investigação**.
-> *Crescer ouvindo sussurros aguça os sentidos para o oculto.*
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [moacuba](moacuba.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Belero Leroy / Oráculo de Moá** | Governante | Mago Vampiro; imortal; "sussurra segredos que nem os mortos deveriam ouvir" |
-| **[vlad dracul](../../npcs/individual/vlad-dracul.md)** | Figura de culto | Rumores de retorno; seita nas sombras de [moacuba](moacuba.md) |
-| **Olhos de Moá** | Rede de espiões | Informantes em toda cidade imperial; usam máscaras brancas |
-| **Servos do Oráculo** | Servos leais | Meio-vampiros; guardam catacumbas; silenciosos |
+| **Rei Alcides Leroy** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Torre do Oráculo** | Centro da cidade; aposentos de Belero; arquivo de segredos (protegido por magia) |
-| **Mercado dos Sussurros** | Beco coberto; informação vendida como mercadoria; moeda: segredos |
-| **Catacumbas de Moá** | Subterrâneo vasto; onde Belero alimenta-se; entrada guardada |
-| **Templo do Silêncio** | Onde se vai para "esquecer" — magia de apagamento de memória (caro) |
-| **Ponte dos Segredos** | Cruzamento central; estátuas de corvos; encontros de espiões à meia-noite |
 
 ---
 
 ## 🎯 Ganchos de Aventura
-1. **Segredo Roubado** — Alguém roubou um segredo do Oráculo antes do "pagamento"; caçada nas sombras
-2. **[vlad dracul](../../npcs/individual/vlad-dracul.md) Retorna** — Seita ativa; rituais noturnos; PCs investigam ou se infiltram
-3. **Segredo Imperial** — PC precisa de informação que só Oráculo tem; preço: trair um aliado
-4. **Vampirismo Secreto** — Alguém em Ypy/[kisé](kise.md) foi transformado; rastro leva a [moacuba](moacuba.md)
-4. **Arquivo Roubado** — Ladrão levou fichas de chantagem da [casa kalan](../../npcs/individual/casa-kalan.md); Oráculo quer de volta
+1. **Conflito Local** — Tensão política/racial/recursos na região
+2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
+3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **-8 anos**: Fundação por **Belero Leroy** (ganhou terras por serviços obscuros a Áureo I)
-- **Transformação**: Belero era mago imperial → vampiro (rito proibido) → exilado → fundou [moacuba](moacuba.md)
-- **Era do Esquecimento**: "Praga de rostos repetidos" assolou vila vizinha; apagada dos registros
-- **Atual**: Centro de inteligência *de facto* do Império; nobres e generais consultam (secretamente)
+- **Fundação/Origem**: Ano 8 Antes da Fundação do Império
+- **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
+- **Atual**: Situação política/militar atual; tensões ativas
+
+---
+
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [moacuba](moacuba.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
-- [Ypy](ypy.md) — Capital (consulta o Oráculo secretamente)
-- [Nambiquara](nambiquara.md) — Rival em espionagem (Purpleskull Arc)
-- [Jurubatiba](jurubatiba.md) — Arcanos Imperiais (monitoram Moacuba)
-- [Belero Leroy](../../npcs/index.md#belero-leroy-oraulo-de-moa) — NPC principal
-- [Trevas](../../magic/trevas.md) — Vampirismo = uso de Trevas?
+- [Índice dos Reinos](index.md) — Volta ao índice mestre
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
+
+---
+
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

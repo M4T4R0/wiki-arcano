@@ -1,26 +1,27 @@
-# Mbaê — Reino da Semi-Deusa
+# Mbaê
 
-> **Região**: Deserto Leste | **Fundação**: Antiga/Variada | **Clima**: Variado
+> 
 
 ---
 
 ## 📍 Localização
-- **Região**: Deserto Leste
-- **Detalhes**: Além de Yby, deserto profundo
-- **Clima**: Variado conforme geografia
+- **Capital**: Mbaê
+- **Terreno**: **Desertos (Dificuldade: Difícil)** e **Costa (Dificuldade: Fácil)**.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Reino da Semi-Deusa
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: **Místicos** e **Governantes**. A facção opera como uma teocracia semi-divina onde o poder arcano das Trevas legitima a autoridade estatal.
+- **Regente**: Rainha Morrigan
+- **Gentílico**: Mbaênse
+- **População**: 30.000 pessoas.
+- **Espécies**: 60% Humanos, 25% Yawara, 15% divididos entre  outros espécies
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Teocracia mística; semi-deusa imortal governa
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Mbaê — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +32,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Graça Divina**
-> **Personagens nascidos em [mbaê](mbae.md)**: *Graça Divina* (+1 Resistência a maldições).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [mbaê](mbae.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,26 +41,24 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Rainha Morrigan** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Círculo das Sombras** | A facção **Círculo das Sombras** é a elite mística e política que sustenta o rei | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +69,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Graça Divina**
-> **Personagens nascidos em [mbaê](mbae.md)**: *Graça Divina* (+1 Resistência a maldições).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [mbaê](mbae.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +81,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

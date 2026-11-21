@@ -1,119 +1,83 @@
-# Kaluana — Cidade Militar e Produtiva
+# Kaluana
 
-> **Oficina de Guerra do Império** — Entregue a **Huck Hor**, Comandante da Cavalaria. Forja, cavalariças, quartéis — o motor logístico do Exército Imperial.
+> **Fundação**: Ano \-5
 
 ---
 
 ## 📍 Localização
-- **Região**: Império Aba, centro-oeste (retaguarda segura)
-- **Fundação**: -5 anos por **Huck Hor** (Comandante da Cavalaria de Áureo I)
-- **Clima**: Temperado seco; planícies abertas; bom para cavalos
-- **Acesso**: Estrada imperial principal; ferrovia projetada (em obras)
+- **Capital**: Cidade Estado Kaluana
+- **Terreno**: **Pampas**. Classificado como **Fácil**, caracterizado por planícies com coxilhas que facilitam a visibilidade e o deslocamento montado.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Regente**: **Huck Hor** (Comandante da Cavalaria / Governador Militar)
-- **Tipo**: Governo militar funcional; eficiência acima de política
-- **Lealdade**: **Exército Imperial** > Imperador > Política
-- **Estrutura**: Cadeia de comando militar; conselho de sargentos-mestres
+- **Tipo**: **Governantes**. A Aliança é composta por uma coligação de poderes regionais, incluindo ducados, cidades-estado e magistrados ancestrais.
+- **Regente**: Rei Moe Hor
+- **Gentílico**: Kaluanense
+- **População**: aproximadamente 100.000 habitantes
+- **Espécies**: 90% Humanos, 10%  outros espécies
 
 ---
 
-## 🏙️ Cidade
-- **Layout**: Funcional, grid militar; largas avenidas para colunas/manobras
-- **Atmosfera**: Disciplina, cheiro de ferro, suor de cavalo, som de martelos
-- **Distritos**:
-  - **Cidadela do Comando** — Quartel-general; sala de mapas; alojamentos oficiais
-  - **Forja Imperial** — Maior do Império; 50+ mestres ferreiros; produção em série
-  - **Cavalariças Imperiais** — 2.000+ cavalos; seleção, treinamento, reprodução
-  - **Quartéis** — 10.000+ soldados; alojamentos, refeitórios, enfermaria
-  - **Bairro dos Artesãos** — Arqueiros, seleiros, flecheiros, armoreiros
-  - **Campo de Manobras** — Externo; 5 km²; exercícios diários
-- **População**: 80% militares/artesãos; 20% civis de apoio
+## 🏙️ Cidade/Assentamento
+- **Características**: Kaluana — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
+- **Atmosfera**: Única à região e povo
 
 ---
 
-## ⚔️ Produção Militar
-| Item | Capacidade/mês | Notas |
-|------|----------------|-------|
-| **Espadas longas** | 500 | Padrão imperial; aço de [andirá](andira.md) |
-| **Armaduras completas** | 200 | Placas + cota de malha; padrão oficial |
-| **Balistas** | 20 | Pesadas; para muralhas/navios |
-| **Flechas** | 50.000 | Padronizadas; pontas de ferro/obsidiana |
-| **Selas/Arreios** | 300 | Couro de Auçá/boi; durabilidade +20% |
-| **Cavalos treinados** | 100 | Guerra, carga, mensageiro; 2 anos de treino |
+## 💰 Economia e Recursos
+- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
+- **Especializações**: Conforme cultura e recursos naturais
 
 ---
 
-## 🐎 Cavalaria Imperial
-- **Base principal**: [kaluana](kaluana.md) = berço da cavalaria
-- **Raças**: **Guerreiro** (pesado), **Mensageiro** (leve), **Carga** (logística)
-- **Treino**: 2 anos (potro → cavalo de guerra)
-- **Huck Hor**: Padrão de excelência; "cavalo e cavaleiro pensam como um"
-
----
-
-## 🌟 Vantagem Regional: **Oficina de Guerra**
-> **Personagens nascidos em [kaluana](kaluana.md)**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
-> *Crescer entre ferreiros e cavaleiros ensina o ofício na prática.*
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [kaluana](kaluana.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Huck Hor** | Governador / Comandante da Cavalaria | Fundador (-5 anos); "cavalo e cavaleiro pensam como um"; leal ao Exército |
-| **Mestre Ferreiro-Chefe** | Chefe da Forja | 40 anos de ofício; segredos de têmpera imperial |
-| **Mestre de Cavalariças** | Chefe das Cavalariças | Conhece cada cavalo pelo nome; seleção genética rigorosa |
-| **Sargento-Mestre** | Logística / Treino | "Disciplina vence batalhas"; treina recrutas |
+| **Rei Moe Hor** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Grande Forja** | 50 forjas; martelos mágicos; têmpera em óleo de Auçá |
-| **Cavalariças Imperiais** | 2.000 boxes; pista de treino coberta; maternidade |
-| **Campo de Manobras** | 5 km²; alvos móveis; simulação de carga; observatório |
-| **Arsenal Imperial** | Armazenamento; 100.000+ itens prontos para envio |
-| **Escola de Cavalaria** | Treino de oficiais; equitação, lance, tática de carga |
-| **Memorial dos Caídos** | Estátuas de cavalos e cavaleiros; nomes gravados |
 
 ---
 
 ## 🎯 Ganchos de Aventura
-1. **Cavalo Lendário** — Potro nascido com marca rara (predestinado); facções disputam
-2. **Sabotagem na Forja** — Lote de espadas com defeito; sabotagem? Quem? Por quê?
-3. **Cavalo Roubado** — Garanhão campeão roubado; rastro leva a contrabandistas Abaité
-4. **Nova Arma** — Protótipo de arma secreta (balista leve? lança-fogo?); teste de campo
-4. **Mensageiro Urgente** — Cavalo mensageiro chega morto; mensagem vital no bolso
-
----
-
-## 🌟 Vantagem Regional: **Oficina de Guerra**
-> **Personagens nascidos em [kaluana](kaluana.md)**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
-> *Crescer entre ferreiros e cavaleiros ensina o ofício na prática.*
+1. **Conflito Local** — Tensão política/racial/recursos na região
+2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
+3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **-5 anos**: Fundação por **Huck Hor** (entregue por Áureo I como recompensa)
-- **Anos 1-30**: Expansão constante; tornou-se coração logístico do Exército
-- **Atual**: **Huck Hor** ainda comanda (idade avançada, vitalidade de cavaleiro); sucessão planejada
-- **Projeto**: Ferrovia Ypy-[kaluana](kaluana.md)-[andirá](andira.md) (em obras; acelera logística 10x)
+- **Fundação/Origem**: Ano \-5
+- **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
+- **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
-## 🌟 Vantagem Regional: **Oficina de Guerra**
-> **Personagens nascidos em [kaluana](kaluana.md)**: **+1 em testes de Ofício (armas/armaduras) e Cavalgar**.
-> *Crescer entre ferreiros e cavaleiros ensina o ofício na prática.*
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [kaluana](kaluana.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
-- [Ypy](ypy.md) — Capital (fornece cavalos/armas; 1 dia viagem)
-- [Andirá](andira.md) — Fornece ferro bruto (norte, Montanhas Beniti)
-- [Kisé](kise.md) — Recebe suprimentos (norte, fronteira)
-- [Huck Hor](../../npcs/index.md#huck-hor-comandante-da-cavalaria) — NPC fundador
-- [Imperio Aba](../imperio-aba.md) — Facção principal
+- [Índice dos Reinos](index.md) — Volta ao índice mestre
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
+
+---
+
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

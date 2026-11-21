@@ -1,26 +1,26 @@
-# Anama — Kaapora / Halflings
+# Anama
 
-> **Região**: Deserto Leste | **Fundação**: Antiga/Variada | **Clima**: Variado
+> 
 
 ---
 
 ## 📍 Localização
-- **Região**: Deserto Leste
-- **Detalhes**: Colinas entre deserto e mar
-- **Clima**: Variado conforme geografia
+- **Capital**: Vila Anama
+- **Terreno**: Colinas** (Classificado como **Fácil** por oferecer áreas seguras para descanso e boa visibilidade).
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Kaapora / Halflings
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: Democracia
+- **Regente**: Não existe
+- **Gentílico**: Anamanense
+- **População**: aproximadamente 30.000 habitantes.
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Casas dentro das colinas; comunidade Kaapora forte
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Anama — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +31,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Casas nas Colinas**
-> **Personagens nascidos em [anama](anama.md)**: *Casas nas Colinas* (+1 Furtividade/Sobrevivência colinas).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [anama](anama.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,26 +40,23 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Não existe** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +67,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Casas nas Colinas**
-> **Personagens nascidos em [anama](anama.md)**: *Casas nas Colinas* (+1 Furtividade/Sobrevivência colinas).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [anama](anama.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +79,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

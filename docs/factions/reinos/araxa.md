@@ -1,4 +1,4 @@
-# Araxá — Abaquar (Ilhas Voadoras)
+# Araxá
 
 > **Região**: Cordilheiras Atã | **Fundação**: Antiga/Variada | **Clima**: Variado
 
@@ -6,33 +6,34 @@
 
 ## 📍 Localização
 - **Região**: Cordilheiras Atã
-- **Detalhes**: Ilhas voadoras nas Cordilheiras Atã
-- **Clima**: Variado conforme geografia
+- **Tipo**: Reino dos Abaquar (Ilhas Voadoras)
+- **Descrição**: Cidade mítica situada em ilhas voadoras ligadas por escadas de corda. Território neutro onde povos em guerra convivem pacificamente sob a vigilância de Arquimagos poderosos.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Abaquar (Ilhas Voadoras)
+- **Tipo**: Reino dos Abaquar (Ilhas Voadoras)
 - **Lealdade**: Variada (Império, Independente, ou própria facção)
 - **Estrutura**: Governança adaptada à cultura local
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Escadas de corda entre ilhas; cidade mítica
+- Neutra, elevada e mágica.
+- A vida ocorre nas alturas, entre pontes de corda e ilhas flutuantes.
+- Brigas entre etnias são punidas com exílio permanente..
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
 ---
 
 ## 💰 Economia e Recursos
-- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
-- **Especializações**: Conforme cultura e recursos naturais
+Abundância: Magia avançada, Aço Diamante, pedras Atã, conhecimento arcano. Escassez: Metais comuns, terras baixas.
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue Angelical**
-> **Personagens nascidos em [araxá](araxa.md)**: *Sangue Angelical* (Imune envelhecimento mágico/doenças).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [araxá](araxa.md)**: *Voo Natural (imune a quedas; +1 Acrobacia; acesso a rotas aéreas)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +41,18 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Arquimago Guardião** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Mestre das Pontes** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
+| **Ilha Central** | Característica única da região |
+| **Escadas de Corda** | Característica única da região |
+| **Conselho dos Arquimagos** | Característica única da região |
+| **Barreiras Mágicas** | Característica única da região |
 
 ---
 
@@ -58,8 +60,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +72,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue Angelical**
-> **Personagens nascidos em [araxá](araxa.md)**: *Sangue Angelical* (Imune envelhecimento mágico/doenças).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [araxá](araxa.md)**: *Voo Natural (imune a quedas; +1 Acrobacia; acesso a rotas aéreas)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---

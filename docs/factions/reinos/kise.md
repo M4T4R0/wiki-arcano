@@ -1,121 +1,95 @@
-# Kisé — Posto Militar do Norte
+# Kisé
 
-> **Guarnição militar estratégica** — Cidade gêmea de [irundyna](irundyna.md), escudo do Império contra a Infestação.
+> **Fundação**: Ano \-10
 
 ---
 
 ## 📍 Localização
-- **Região**: Norte do Império Aba, fronteira com a Infestação
-- **Coordenadas**: Rio Tupã divide a cidade (Parte Velha / Parte Nova)
-- **Distância**: ~2h a cavalo de Ypy; 30 min de [irundyna](irundyna.md)
-- **Clima**: Temperado frio; nevoeiros matinais; vento norte constante
+- **Terreno**: **Vales** (Fácil) e **Sopés** (Difícil). Situado nas margens do Rio Tupã, cercado por florestas densas e montanhas traiçoeiras.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Regente nominal**: Governador militar indicado por Ypy
-- **Poder real**: **[casa agar](../../npcs/individual/casa-agar.md)** (nobreza local, forte influência na capital)
-- **Tipo**: Governo militar-civil híbrido; lei marcial frequente
-- **Tensão**: Parte Velha (pobres) vs Parte Nova (ricos/nobres) — segregação oficial
+- **Tipo**: Mercenária, com membros secretos
+- **Regente**: Rei Silvester Kull
+- **Gentílico**: Kiseano
+- **Símbolo**: Uma **Caveira Negra**.
+- **População**: aproximadamente 300.000 habitantes
+- **Espécies**: 90% Humanos, 10% divididos entre  outros espécies
 
 ---
 
-## ⚔️ Militar
-- **Guarnição permanente**: 3.000+ soldados (maior do Império fora de Ypy)
-- **Função**: Escudo norte — contenção de Abaité/Anaiti + monitoramento Infestação
-- **Fortificações**: Muralhas duplas, torres de vigia, balistas, fossos
-- **Patrulhas**: Constantes até a Grande Muralha (norte)
-- **Comandante**: Indicado por Ypy; geralmente leal à [casa agar](../../npcs/individual/casa-agar.md)
+## 🏙️ Cidade/Assentamento
+- **Características**: Kisé — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
+- **Atmosfera**: Única à região e povo
 
 ---
 
-## 🏙️ Cidade — Duas Cidades em Uma
-
-### Parte Velha (Margem Oeste do Tupã)
-- **População**: Plebeus, artesãos, soldados aposentados, refugiados
-- **Infraestrutura**: Antiga, apertada, ruas estreitas, esgotos abertos
-- **Ambiente**: Favelas, tavernas, ferreiros, mercados populares
-- **Reforma**: "Adiada deliberadamente" por interesses da nobreza
-
-### Parte Nova (Margem Leste do Tupã)
-- **População**: Nobres, oficiais altos, ricos comerciantes, [casa agar](../../npcs/individual/casa-agar.md)
-- **Infraestrutura**: Planejada, larga, pavimentada, esgotos, iluminação mágica
-- **Acesso**: **Proibido para pobres** — guardas nas pontes barram entrada
-- **Edifícios**: Mansões, academias de oficiais, jardins, palácios
-
-### Pontes do Tupã
-- **Ponte Velha** — Pedra, estreita, guardada (controle de passagem)
-- **Ponte Nova** — Larga, ornamentada, só nobres/oficiais autorizados
+## 💰 Economia e Recursos
+- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
+- **Especializações**: Conforme cultura e recursos naturais
 
 ---
 
-## 💰 Economia
-- **Base**: Suprimento militar (ferreiros, curtumes, currais, tecelagens)
-- **Comércio**: Ponto de passagem norte-sul; taxa de passagem nas pontes
-- **Recursos locais**: Ferro das Montanhas Beniti (via Andirá), madeira, couro
-- **Moeda**: Coroa Imperial + "Marcas de Guarnissão" (soldados)
-
----
-
-## 🎭 Sociedade
-- **Divisão clara**: Nobreza/Oficiais (Parte Nova) vs Povo/Soldados (Parte Velha)
-- **Tensões**: Revoltas populares abafadas violentamente; vandalismo noturno
-- **Cultura militar**: Desfiles, honra, disciplina; "o dever acima de tudo"
-- **Refugiados**: Constante fluxo do norte (fugindo da Infestação/Abaité)
-
----
-
-## 🌟 Vantagem Regional: **Guarnição Militar**
-> **Personagens nascidos em [kisé](kise.md)**: **+1 em testes de Poder e Resistência**.
-> *Reflete o ambiente militarizado e as condições duras da fronteira norte.*
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [kisé](kise.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Governador Militar** | Comandante | Indicado por Ypy; leal à [casa agar](../../npcs/individual/casa-agar.md) |
-| **[casa agar](../../npcs/individual/casa-agar.md)** | Nobres locais | Controlam Parte Nova; influência em Ypy; manipulam construção |
-| **Comandante da Guarda** | Chefe da segurança | Controla acesso às pontes; leal à [casa agar](../../npcs/individual/casa-agar.md) |
-| **Líder Revolta** | Oposição (oculto) | Organiza sabotagens na Parte Velha; procurado |
+| **Rei Silvester Kull** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Ponte Velha** | Controle de passagem; guarda 24h; taxa para cruzar |
-| **Ponte Nova** | Ornamentada; só autorizados; guardas elite |
-| **Quartel-General** | Comando militar norte; mapas da Infestação; sala de guerra |
-| **Fábrica de Armas** | Forja imperial; produz espadas, balistas, armaduras |
-| **Mercado da Parte Velha** | Tudo que soldado precisa; contrabando tolerado |
-| **Mansões da Parte Nova** | Jardins, fontes, salões de baile; intrigas nobres |
-| **Cemitério dos Caídos** | Fora das muralhas; fileiras de cruzes; rituais noturnos |
 
 ---
 
 ## 🎯 Ganchos de Aventura
-1. **Sabotagem na Ponte Nova** — Alguém minou os alicerces; investigação na Parte Nova
-2. **Refugiados com Segredo** — Grupo foge do norte carregando algo (mapa? artefato? criança especial?)
-3. **Espionagem [casa agar](../../npcs/individual/casa-agar.md) vs Kalan** — PC recrutado como informante duplo
-4. **Revolta Iminente** — Fome + repressão = explosão; PCs podem mediar ou esmagar
-5. **Infestação Avança** — Patrulha não retorna; algo cruzou a Muralha perto de [kisé](kise.md)
+1. **Conflito Local** — Tensão política/racial/recursos na região
+2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
+3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **-29 anos**: Repopulação de **Norvaen** (antigo nome) + Aslareth → **[kisé](kise.md)** + **[irundyna](irundyna.md)**
-- **Fundação**: Posto militar estratégico pelo Exército Imperial
-- **Anos 347, 352**: **Cercos de [kisé](kise.md)** — Abaité + Anaiti + Orcs; rompidos pelo Exército
-- **Ano 352**: **Parte Nova finalizada** — segregação oficial; euforia vira ressentimento
-- **Ano 355**: **Conspiração [casa agar](../../npcs/individual/casa-agar.md)** — Documentos forjados ligando família a orcs; exército interveio
-- **Atual**: Cidade tensa; Infestação avança no norte; patrulhas não retornam
+Antes da formação da cidade havia uma aldeia situada onde hoje é a cidade de Kisé, eles ficavam constantemente em guerra contra as criaturas da Terra Selvagem. Certa vez uma Horda considerável de Orcs atacou o vilarejo, quando a resistência da cidade estava quase sendo derrotada uma frota de piratas se aproximou e abriu fogo contra os Orcs com seus canhões virando a batalha a favor dos moradores locais. Este grupo de piratas fez amizade com os moradores locais e formaram um castelo por ali transformando o lugar na sua base. Mesmo assim, desde estes tempos antigos as Hordas de Orcs atacam a cidade.
+
+O Reino Aventura, como seus moradores costumam chamar, Kise é o maior celeiro de Aventureiros de Airy, muito se deve porque a metade velha da cidade fica diretamente na Terra Selvagem, e já serviu de ponto de partida para muitas expedições a essas terras. A cidade de Kisé é considerada uma das maiores de Airy, é uma cidade dividida pelo rio Tupã ou o Rio do Trovão como o pessoal costuma chamar mesmo.
+
+A cidade dividida, Kisé um uma cidade dividida, a Parte Velha (Chamada de Cidade Velha), onde vive a plebe fica diretamente na Terra Selvagem e a Parte Nova, bem planejada fica do outro lado do rio dentro do território imperial.
+
+Chegando na divisa das duas partes de cidade é possível notar o choque de realidade, o lado velho, com muralhas menores fica pequeno comparado as imensas muralhas totalmente limpas e reluzentes do lado novo, também é proibida a entrada na parte nova da cidade por gente que não tenha uma autorização, seja sendo um nobre ou tendo uma autorização de um.
+
+Cidade Nova
+
+Na parte nova da cidade muito bem planejada onde vive toda a corte a realeza e qualquer outro cidadão que tenha muito dinheiro e esteja disposto a pagar uma fortuna para “viver entre os ricos”, toda infra estrutura, tanto bela quanto funcional é o melhor que o dinheiro pode pagar, segurança é ainda mais essencial nessa parte da cidade, chega a ser a quantidade de para cada 100 habitantes um guarda muito bem treinado.
+
+Nessa parte também existe o castelo, magnífico considerado inferior somente ao castelo do Imperador em Ypy. Nessa parte a corte e o rei tem muita liberdade e diferente de outros reinos, é possível inclusive encontrar a família real passeando pelas ruas da cidade Nova tamanha é a sua crença na segurança.
+
+| A CORTE DE KISÉ Ponto de partida para as expedições à Terra Selvagem, Forte desigualdade social, tendo até uma divisão física na cidade que separa os ricos dos pobres, e cidade onde tem sede as duas maiores guildas de Aventureiros do mundo... ESSA É KISÉ\! CASA KULL Silvester KULL , Senhor de Kisé Sua esposa, Vilba da Casa LLAISY \- PRÍNCIPE Gane KULL, o filho mais velho, Futuro Rei \- PRINCESA Selphie KULL, a filha mais velha, prometida a PRINCIPE Haddes GUERRA futuro Senhor de YPITURUY \- PRINCESA Bechi KULL, a fulha mais nova CASAS VASSALAS Espadas Juramentadas a serviço de Silvester KULL: Casas que prestaram juramento de seguir o Rei na sua Posse. \-
+
+---
+
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [kisé](kise.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
-- [Ypy](ypy.md) — Capital (2h sul)
-- [Irundyna](irundyna.md) — Cidade gêmea (30 min norte; **corrompida**)
-- [Andirá](andira.md) — Ferro anão (norte, Montanhas Beniti)
-- [Jurubatiba](jurubatiba.md) — Suporte arcano (teleporte/arcano)
-- [Terra Selvagem](terra-selvagem.md) — Inimigo além da Muralha (norte)
+- [Índice dos Reinos](index.md) — Volta ao índice mestre
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
+
+---
+
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

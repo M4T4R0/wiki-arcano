@@ -1,4 +1,4 @@
-# Avista — Piquira / Gnomos (Tecnologia)
+# Avista
 
 > **Região**: Cordilheiras Atã | **Fundação**: Antiga/Variada | **Clima**: Variado
 
@@ -6,33 +6,34 @@
 
 ## 📍 Localização
 - **Região**: Cordilheiras Atã
-- **Detalhes**: Cidade flutuante proibida
-- **Clima**: Variado conforme geografia
+- **Tipo**: Cidade dos Piquira / Gnomos (Tecnologia)
+- **Descrição**: Cidade flutuante envolta em poderosa ilusão que combina tecnologia e magia. A mais avançada tecnologicamente em Airy. Cultua o Deus Máquina.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Piquira / Gnomos (Tecnologia)
+- **Tipo**: Cidade dos Piquira / Gnomos (Tecnologia)
 - **Lealdade**: Variada (Império, Independente, ou própria facção)
 - **Estrutura**: Governança adaptada à cultura local
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Tecnologia mais avançada de Airy
+- Tecnocrática e secreta.
+- Acesso apenas com guia gnomo e Aiship.
+- Inovação constante, tecnomagia, construções inteligentes..
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
 ---
 
 ## 💰 Economia e Recursos
-- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
-- **Especializações**: Conforme cultura e recursos naturais
+Abundância: Tecnologia avançada, tecnomagia, ilusões, engenharia. Escassez: Recursos naturais brutos, contato externo.
 
 ---
 
-## 🌟 Vantagem Regional: **Tecnologia Perdida**
-> **Personagens nascidos em [avista](avista.md)**: *Tecnologia Perdida* (+1 Ofício engenharia/artefatos).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [avista](avista.md)**: *Tecnologia Pura (+1 Engenharia/Tecnomagia; imune a ilusões simples; acesso a equipamentos ERA-1)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +41,19 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Arquiteto Chefe** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Mestre da Ilusão** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Sacerdote do Deus Máquina** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
+| **Forja Central** | Característica única da região |
+| **Núcleo de Ilusão** | Característica única da região |
+| **Hangar de Aiships** | Característica única da região |
+| **Laboratório do Deus Máquina** | Característica única da região |
 
 ---
 
@@ -58,8 +61,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +73,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Tecnologia Perdida**
-> **Personagens nascidos em [avista](avista.md)**: *Tecnologia Perdida* (+1 Ofício engenharia/artefatos).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [avista](avista.md)**: *Tecnologia Pura (+1 Engenharia/Tecnomagia; imune a ilusões simples; acesso a equipamentos ERA-1)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---

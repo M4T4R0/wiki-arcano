@@ -1,13 +1,13 @@
-# Naur'Ush — Auçá Livres (Subterrânea)
+# Naur'Ush
 
-> **Região**: [terra selvagem](terra-selvagem.md) | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Região**: Pântanos Sudoeste (Terra Selvagem) | **Fundação**: Antiga/Variada | **Clima**: Variado
 
 ---
 
 ## 📍 Localização
-- **Região**: [terra selvagem](terra-selvagem.md)
-- **Detalhes**: Pântanos, subterrânea
-- **Clima**: Variado conforme geografia
+- **Região**: Pântanos Sudoeste (Terra Selvagem)
+- **Tipo**: Auçá Livres (Subterrânea)
+- **Descrição**: Cidade subterrânea dos Auçá Livres nos pântanos a sudoeste da Infestação. População Auçá que rompeu com o Império mas mantém o dever de conter a Infestação.
 
 ---
 
@@ -19,20 +19,21 @@
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Fundada por Ror (Ano 310); Auçá livres do controle imperial
+- Militarista e independente.
+- Vivem em túneis e cavernas, organizados em clãs guerreiros.
+- Leais apenas a si mesmos e ao dever sagrado..
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
 ---
 
 ## 💰 Economia e Recursos
-- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
-- **Especializações**: Conforme cultura e recursos naturais
+Abundância: Ferro de pântano, venenos, conhecimento de túneis. Escassez: Luz solar, comércio externo, aliados.
 
 ---
 
-## 🌟 Vantagem Regional: **Liberdade Subterrânea**
-> **Personagens nascidos em [naur'ush](naurush.md)**: *Liberdade Subterrânea* (+1 Furtividade/Sobrevivência sub.).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [naur'ush](naurush.md)**: *Subterrâneo Nato (Infravisão; +1 Furtividade em túneis; imune a gases de pântano)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +41,19 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **General dos Livres** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Mestre dos Túneis** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Xamã do Pântano** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
+| **O Poço (Capital)** | Característica única da região |
+| **Túneis de Defesa** | Característica única da região |
+| **Fábrica de Armas** | Característica única da região |
+| **Altar da Liberdade** | Característica única da região |
 
 ---
 
@@ -58,8 +61,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +73,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Liberdade Subterrânea**
-> **Personagens nascidos em [naur'ush](naurush.md)**: *Liberdade Subterrânea* (+1 Furtividade/Sobrevivência sub.).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [naur'ush](naurush.md)**: *Subterrâneo Nato (Infravisão; +1 Furtividade em túneis; imune a gases de pântano)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---

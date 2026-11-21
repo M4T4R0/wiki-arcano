@@ -1,26 +1,26 @@
-# Arani — Reino Resistente
+# Arani
 
-> **Região**: Sul (Montes Brancos) | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Fundação**: Ano 11 Antes do Império
 
 ---
 
 ## 📍 Localização
-- **Região**: Sul (Montes Brancos)
-- **Detalhes**: Terras geladas, picos perigosos
-- **Clima**: Variado conforme geografia
+- **Capital**: Tamaya
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Reino Resistente
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Regente**: Rei Loki Coração Negro,
+- **Gentílico**: Araniense
+- **Símbolo**: Um Escudo de Gelo com duas Lanças de Gelo em cima dele.
+- **População**: 3.500 pessoas.
+- **Espécies**: 70% Humanos, 25% Yawara (Kemonos) , 2% Golens, 3% divididos entre  outros espécies
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Pequeno, resistente 'como rocha no inverno'
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Arani — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +31,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue de Gelo**
-> **Personagens nascidos em [arani](arani.md)**: *Sangue de Gelo* (+1 Resistência frio).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [arani](arani.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +40,13 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Rei Loki Coração Negro,** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
@@ -58,20 +54,20 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **Fundação/Origem**: Antiga ou expansão imperial
+- **Fundação/Origem**: Ano 11 Antes do Império
 - **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
 - **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue de Gelo**
-> **Personagens nascidos em [arani](arani.md)**: *Sangue de Gelo* (+1 Resistência frio).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [arani](arani.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +78,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

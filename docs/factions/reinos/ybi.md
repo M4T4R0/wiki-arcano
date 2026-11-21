@@ -1,26 +1,26 @@
-# Ybi — Reino dos Faraós (Mortos-Vivos)
+# Ybi
 
-> **Região**: Deserto Leste | **Fundação**: Antiga/Variada | **Clima**: Variado
+> 
 
 ---
 
 ## 📍 Localização
-- **Região**: Deserto Leste
-- **Detalhes**: Profundo deserto
-- **Clima**: Variado conforme geografia
+- **Capital**: Ybi
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Reino dos Faraós (Mortos-Vivos)
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: **Governantes** e **Místicos**. A facção é a Casa Real de Ybi, composta por uma elite de magos leais ao trono.
+- **Regente**: Faraó Karnos Minor,
+- **Gentílico**: Ybiano
+- **População**: 400.000 pessoas.
+- **Espécies**: 50% Humanos, 25% Yawara ,25% divididos entre  outros espécie.
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Dinastias de Faraós imortais (mumificação ritual - Karnos Minor)
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Ybi — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +31,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue de Areia**
-> **Personagens nascidos em Ybi**: *Sangue de Areia* (Imune calor/envelhecimento).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [ybi](ybi.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,26 +40,24 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Faraó Karnos Minor,** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Círculo de Karnos** | A facção **cc**é estruturada como uma elite governante desmorta que exerce um co | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
 ## 🎯 Ganchos de Aventura
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Intriga de Facção** — Facções locais disputam influência; PCs podem mediar ou explorar
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +68,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Sangue de Areia**
-> **Personagens nascidos em Ybi**: *Sangue de Areia* (Imune calor/envelhecimento).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [ybi](ybi.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +80,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

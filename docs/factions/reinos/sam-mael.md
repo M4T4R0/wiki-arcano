@@ -1,26 +1,20 @@
-# Sam-Mael — Ilha Magia Nula
+# Sam-Mael
 
-> **Região**: Céus (Ilha Voadora) | **Fundação**: Antiga/Variada | **Clima**: Variado
+> 
 
 ---
 
 ## 📍 Localização
-- **Região**: Céus (Ilha Voadora)
-- **Detalhes**: Céus de Airy
-- **Clima**: Variado conforme geografia
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Ilha Magia Nula
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Magia nula (0 PM); suga 10% PM/turno; 10 Mantos de proteção conhecidos
-- **Layout**: Adaptado ao terreno e cultura
+- **Características**: Sam-Mael — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
 - **Atmosfera**: Única à região e povo
 
 ---
@@ -31,8 +25,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **— (Requer Manto especial)**
-> **Personagens nascidos em [sam-mael](sam-mael.md)**: — (Requer Manto especial).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [sam-mael](sam-mael.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +34,12 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
@@ -58,8 +47,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +59,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **— (Requer Manto especial)**
-> **Personagens nascidos em [sam-mael](sam-mael.md)**: — (Requer Manto especial).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [sam-mael](sam-mael.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +71,4 @@
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

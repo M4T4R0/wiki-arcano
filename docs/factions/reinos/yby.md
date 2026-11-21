@@ -1,4 +1,4 @@
-# Yby — Reino dos Magos (Fogo/Terra)
+# Yby
 
 > **Região**: Deserto Leste | **Fundação**: Antiga/Variada | **Clima**: Variado
 
@@ -6,8 +6,8 @@
 
 ## 📍 Localização
 - **Região**: Deserto Leste
-- **Detalhes**: Interior do deserto leste
-- **Clima**: Variado conforme geografia
+- **Tipo**: Reino dos Magos (Fogo/Terra)
+- **Descrição**: Reino especializado em magia elemental de Fogo e Terra, situado no deserto leste. Seus magos controlam o clima árido e extraem recursos do solo.
 
 ---
 
@@ -19,20 +19,20 @@
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Especialização em Magia Elemental (Fogo/Terra)
+- Erudita e elemental.
+- A sociedade é organizada em torno de torres de magia onde se estuda e pratica piromancia e terramancia..
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
 ---
 
 ## 💰 Economia e Recursos
-- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
-- **Especializações**: Conforme cultura e recursos naturais
+Abundância: Minérios, cristais de mana, conhecimento elemental. Escassez: Água, alimentos (importados).
 
 ---
 
-## 🌟 Vantagem Regional: **Domínio Elemental**
-> **Personagens nascidos em Yby**: *Domínio Elemental* (+1 Magia Fogo/Terra).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [yby](yby.md)**: *Domínio Elemental (+1 em testes de Magia de Fogo/Terra; resistência a calor extremo)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +40,17 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Arquimago do Fogo** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Mestre da Terra** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
+| **Torre de Obsidiana** | Característica única da região |
+| **Forja Elemental** | Característica única da região |
+| **Biblioteca de Cinzas** | Característica única da região |
 
 ---
 
@@ -58,8 +58,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +70,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Domínio Elemental**
-> **Personagens nascidos em Yby**: *Domínio Elemental* (+1 Magia Fogo/Terra).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [yby](yby.md)**: *Domínio Elemental (+1 em testes de Magia de Fogo/Terra; resistência a calor extremo)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---

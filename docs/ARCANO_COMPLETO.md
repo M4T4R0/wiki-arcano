@@ -23879,7 +23879,7 @@ No caminho para a entrada, Azeron observou o cajado que havia pertencido ao seu 
 
 O velho mago, com um olhar avaliador, respondeu:
 
-— A magia é tão poderosa quanto o objeto que a conduz. Se o objeto não for forte o suficiente, ele se desfaz ao ser usado para canalizar grandes poderes. Seu cajado, feito de madeira de Elfin, é tão resistente quanto o aço e capaz de suportar a maioria das magias comuns. No entanto, as Trevas são uma força corrosiva, e até mesmo algo tão durável quanto a madeira de Elfin pode sucumbir, pois a madeira viva é muito vulnerável a ela. Se continuar a usar seu cajado para canalizar as Trevas, ele logo se desintegrará. Eu recomendaria que obtivesse um cetro de metal, o mais forte que conseguir. Aço Diamante seria o ideal.
+— A magia é tão poderosa quanto o objeto que a conduz. Se o objeto não for forte o suficiente, ele se desfaz ao ser usado para canalizar grandes poderes. Seu cajado, feito de madeira de [elfin](factions/reinos/elfin.md), é tão resistente quanto o aço e capaz de suportar a maioria das magias comuns. No entanto, as Trevas são uma força corrosiva, e até mesmo algo tão durável quanto a madeira de [elfin](factions/reinos/elfin.md) pode sucumbir, pois a madeira viva é muito vulnerável a ela. Se continuar a usar seu cajado para canalizar as Trevas, ele logo se desintegrará. Eu recomendaria que obtivesse um cetro de metal, o mais forte que conseguir. Aço Diamante seria o ideal.
 
 Azeron assentiu, mas hesitou por um momento, pensativo.
 
@@ -23887,7 +23887,7 @@ Azeron assentiu, mas hesitou por um momento, pensativo.
 
 Gorgo soltou um leve sorriso, quase cínico.
 
-— Verdade seja dita, um cetro de Aço Diamante facilmente custaria o equivalente a uma pequena fortuna — talvez o suficiente para comprar alguns reinos menores, observe como é magnífica está espada que pertenceu a Habbor, ela muito provavelmente é de aço diamante. 
+— Verdade seja dita, um cetro de Aço Diamante facilmente custaria o equivalente a uma pequena [fortuna](factions/reinos/fortuna.md) — talvez o suficiente para comprar alguns reinos menores, observe como é magnífica está espada que pertenceu a Habbor, ela muito provavelmente é de aço diamante. 
 
 Uma vez na entrada do que parecia uma caverna ao lado de uma cachoeira, os guerreiros se posicionaram imediatamente em formação de combate, atentos a qualquer sinal de perigo. A aparente calma do vale não diminuía a tensão no ar.
 
@@ -24477,7 +24477,7 @@ Mensagem dos pais de Azeron:
 
 *Com essas palavras, a imagem desapareceu do pequeno vidro, deixando Azeron em silêncio. A fúria começou a borbulhar dentro dele, e sem pensar duas vezes, ele esmagou o vidro na mão do seu braço de armadura, estilhaçando-o em mil pedaços. A frieza da mensagem o atingiu como um soco. Seus pais nem se deram ao trabalho de falar diretamente com ele, apenas gravaram um recado superficial.”*
 
-Azeron sentiu a raiva crescer ainda mais ao refletir sobre as palavras da mãe. "Não confiam nas clínicas locais? Isso é uma desculpa ridícula," pensou, apertando os punhos. Ele sabia que Jurubatiba era um dos melhores lugares do mundo para o estudo de medimagia, o lugar onde os melhores medimagos eram formados. A ideia de um "erro médico" era absurda; eles estavam claramente tentando castigá-lo.
+Azeron sentiu a raiva crescer ainda mais ao refletir sobre as palavras da mãe. "Não confiam nas clínicas locais? Isso é uma desculpa ridícula," pensou, apertando os punhos. Ele sabia que [jurubatiba](factions/reinos/jurubatiba.md) era um dos melhores lugares do mundo para o estudo de medimagia, o lugar onde os melhores medimagos eram formados. A ideia de um "erro médico" era absurda; eles estavam claramente tentando castigá-lo.
 
 Azeron sentiu que jamais perdoaria seus pais por essa decisão. E quem havia enviado um relatório fraudulento para seu pais? Com toda certeza foi o maldito do Gorgo, aquele velho desgraçado.
 
@@ -24605,7 +24605,7 @@ Azeron respirou fundo antes de soltar a revelação.
 
 Os dois amigos ficaram em silêncio, encarando-o incrédulos. Era uma ideia ousada, quase insana.
 
-— Mas como? — Yasmim perguntou, com a preocupação evidente em sua voz. Ela, como excelente estudante de medimagia, sabia bem das implicações de um procedimento desses. — A clonagem é extremamente controlada pelo governo. Somente clínicas licenciadas e bem conceituadas têm autorização para criar clones, e elas cobram uma fortuna. Você está pensando em recorrer a uma clínica clandestina?
+— Mas como? — Yasmim perguntou, com a preocupação evidente em sua voz. Ela, como excelente estudante de medimagia, sabia bem das implicações de um procedimento desses. — A clonagem é extremamente controlada pelo governo. Somente clínicas licenciadas e bem conceituadas têm autorização para criar clones, e elas cobram uma [fortuna](factions/reinos/fortuna.md). Você está pensando em recorrer a uma clínica clandestina?
 
 — Não — respondeu Azeron, com determinação. — Nós mesmos vamos montar um laboratório. É por isso que preciso da ajuda de vocês. Mack, você é um alquimista em formação e é muito talentoso. Pode preparar todos os ingredientes que vamos precisar. E você, Yasmim, pode realizar o procedimento.
 
@@ -24759,7 +24759,7 @@ Yasmim, observando tudo, estava incrédula.
 
 O mais rápido que puderam, correram pelas ruas da favela. O caos reinava por toda parte, com pessoas desesperadas tentando descobrir o que havia acontecido. Outras observavam o estrago em suas residências. Azeron teve que puxar Yasmim mais de uma vez, quando ela tentava ajudar alguém. Finalmente, conseguiram sair da favela, deixando o caos para trás.
 
-Eles correram afoitos pelas ruas noturnas de Jurubatiba, até que chegaram em proteção na entrada da escola, a noite estava pesada, ainda carregada com a tensão do ataque que quase os levara à morte. A respiração de Azeron e Yasmim ainda estava ofegante, os corpos cansados e feridos, mas aliviados por terem chegado ao fim daquele inferno juntos.
+Eles correram afoitos pelas ruas noturnas de [jurubatiba](factions/reinos/jurubatiba.md), até que chegaram em proteção na entrada da escola, a noite estava pesada, ainda carregada com a tensão do ataque que quase os levara à morte. A respiração de Azeron e Yasmim ainda estava ofegante, os corpos cansados e feridos, mas aliviados por terem chegado ao fim daquele inferno juntos.
 
 — Que loucura hoje né, obrigada por não deixar que aqueles caras fizessem … você sabe.
 
@@ -24805,7 +24805,7 @@ Azeron leu o jornal com curiosidade.
 
 *Nenhum dos assassinos ou do mago envolvido foi capturado, e as autoridades temem que o ataque seja parte de uma escalada de violência na região, conhecida por ser um ponto de conflito entre facções criminosas. Os Arcanos Imperiais estão conduzindo uma investigação, mas até o momento, poucas pistas foram encontradas.*
 
-*O incidente devastador deixou o bairro em luto e levantou questionamentos sobre a capacidade de proteção nas áreas mais vulneráveis de Jurubatiba.”*
+*O incidente devastador deixou o bairro em luto e levantou questionamentos sobre a capacidade de proteção nas áreas mais vulneráveis de [jurubatiba](factions/reinos/jurubatiba.md).”*
 
 — Foi você, não foi? — Gorgo o encarou, os olhos brilhando de fúria. — Você está exalando Trevas por onde passa.
 
@@ -24837,7 +24837,7 @@ Azeron, cético, pensou que o velho estava mais preocupado em proteger a si mesm
 
 Gorgo pegou uma varinha de dentro de suas vestes e a colocou sobre a mesa.
 
-— Esta é a varinha que usei em nossa última missão na Terra Selvagem. — Ele disse, cruzando os braços.
+— Esta é a varinha que usei em nossa última missão na [terra selvagem](factions/reinos/terra-selvagem.md). — Ele disse, cruzando os braços.
 
 — E o que tem ela? — Azeron perguntou, olhando para o objeto simples.
 
@@ -24905,7 +24905,7 @@ Azeron se aproximou do senhor Jiardem, o atendente idoso que parecia conhecer to
 
 — Preciso de uma nova varinha. A minha, infelizmente, não resistiu às minhas últimas aulas — explicou Azeron, tentando disfarçar a urgência em sua voz.
 
-— Entendo. Vai querer o mesmo de sempre? Corpo de Madeira de Elfin e orbes de alta qualidade?
+— Entendo. Vai querer o mesmo de sempre? Corpo de Madeira de [elfin](factions/reinos/elfin.md) e orbes de alta qualidade?
 
 — Não exatamente. Preciso de algo mais resistente desta vez, algo que aguente uma queda ou até mesmo fogo. — Azeron esclareceu, enquanto observava as varinhas no balcão.
 
@@ -24913,7 +24913,7 @@ Jiardem acenou com a cabeça, compreendendo a necessidade.
 
 — Pois bem, como queira. — Ele começou a mostrar diversos tipos de corpos de varinhas, e Azeron se interessou por dois modelos de metal. Não planejava canalizar as Trevas novamente, mas, caso fosse necessário, não queria que a varinha se desintegrasse em suas mãos.
 
-— Este aqui é feito de bronze — disse Jiardem, mostrando uma varinha com cabo ornamentado, gravada com runas que Azeron não reconheceu. — Na última vez que fiz os testes em você ela não era a melhor condutora no seu caso, mas é maleável e muito resistente, exatamente como você procura. — Jiardem continuou. — Também tenho este modelo em cobre. Não é o mais bonito, mas sua condutividade é excelente para magias abstratas e manipulações de energia, se me lembro bem você teve uma afinidade com ele um patamar abaixo do que com a Madeira de Elfin, seria mais recomendando, mas menos sofisticado.
+— Este aqui é feito de bronze — disse Jiardem, mostrando uma varinha com cabo ornamentado, gravada com runas que Azeron não reconheceu. — Na última vez que fiz os testes em você ela não era a melhor condutora no seu caso, mas é maleável e muito resistente, exatamente como você procura. — Jiardem continuou. — Também tenho este modelo em cobre. Não é o mais bonito, mas sua condutividade é excelente para magias abstratas e manipulações de energia, se me lembro bem você teve uma afinidade com ele um patamar abaixo do que com a Madeira de [elfin](factions/reinos/elfin.md), seria mais recomendando, mas menos sofisticado.
 
 Azeron já havia visto muitos alunos com sensibilidade a magia abstrata usarem varinhas de cobre. Após considerar as opções, escolheu a de cobre.
 
@@ -24933,7 +24933,7 @@ Ele abriu um compartimento sob o balcão, um cofre revelando uma bandeja com orb
 
 Jiardem ficou ainda mais surpreso.
 
-— Senhor, esses são recomendados para cetros e cajados. E … custam uma fortuna.
+— Senhor, esses são recomendados para cetros e cajados. E … custam uma [fortuna](factions/reinos/fortuna.md).
 
 — Sei disso, mas pretendo canalizar magias de alto calibre com essa nova varinha. Preciso que ela aguente o tranco, entende?
 
@@ -25073,9 +25073,9 @@ Quando foi tomar seu café no restaurante da torre de deparou com uma jornal sob
 
 Isso não era nada bom, os Arcanos Imperiais certamente estavam no rastro deles, se Azeron ou qualquer um dos seus amigos fosse para Carnage novamente poderiam ser identificados. O garoto pensou como iria bolar um plano para concretizar isso, guardou essa informação para si e voltou aos seus planos atuais.
 
-Azeron chegou ao amplo hangar da torre bem cedo o enorme local estava vazio, apenas algumas naves taxiando dentro do local. Perguntando por Kale Arkan o garoto chegou até uma pequena oficina perto da nave que ele pilotava, a mesma que havia os levado até a Terra Selvagem, o ar estava impregnado de óleo queimado e metal quente. Sua mente voltaram aos trágicos eventos no Dédalo de Hardenvul, onde sua vida havia mudado de formas irreversíveis. Sentindo a sensação gelada da armadura mágica que agora substituía seu braço mutilado. 
+Azeron chegou ao amplo hangar da torre bem cedo o enorme local estava vazio, apenas algumas naves taxiando dentro do local. Perguntando por Kale Arkan o garoto chegou até uma pequena oficina perto da nave que ele pilotava, a mesma que havia os levado até a [terra selvagem](factions/reinos/terra-selvagem.md), o ar estava impregnado de óleo queimado e metal quente. Sua mente voltaram aos trágicos eventos no Dédalo de Hardenvul, onde sua vida havia mudado de formas irreversíveis. Sentindo a sensação gelada da armadura mágica que agora substituía seu braço mutilado. 
 
-Kale estava à frente, suando sobre uma bancada de ferramentas, o pequenino trajava um macacão de couro sem camisa, os músculos de seus braços robustos tensionando enquanto soldava um componente mecânico com uma ferramenta que Azeron não sabia identificar, era como um garrafa metálica que expelia chamas, provavelmente a famosa tecnologia de Avista, o Reino dos Piquira, as terras onde Kale havia nascido. Ao ouvir os passos de Azeron, o pequeno homem levantou a cabeça, mas seus olhos carregavam um olhar estranho, como se algo estivesse faltando em sua percepção.
+Kale estava à frente, suando sobre uma bancada de ferramentas, o pequenino trajava um macacão de couro sem camisa, os músculos de seus braços robustos tensionando enquanto soldava um componente mecânico com uma ferramenta que Azeron não sabia identificar, era como um garrafa metálica que expelia chamas, provavelmente a famosa tecnologia de [avista](factions/reinos/avista.md), o Reino dos Piquira, as terras onde Kale havia nascido. Ao ouvir os passos de Azeron, o pequeno homem levantou a cabeça, mas seus olhos carregavam um olhar estranho, como se algo estivesse faltando em sua percepção.
 
 — Você\! — Kale limpou o suor da testa com o antebraço. — Acho que o conheço de algum lugar, mas não tenho certeza.
 
@@ -25253,7 +25253,7 @@ Sem dizer mais nada, Azeron se levantou e deixou a sala, visivelmente abalado. E
 
 # 35
 
-Nos dias seguintes, Azeron evitou tentar controlar sua mana, que continuava a ser sugada pelo seu olho draconiano. Como sempre, concentrou-se no que poderia controlar. Foi até a Toca do Mago, uma loja de itens mágicos, e comprou na conta do seu pai novamente, desta vez um cetro feito do mesmo material de sua varinha, incrustado com orbes que lhe custaram uma pequena fortuna. Em seguida, levou o cetro para Kale, que extraiu os orbes com cuidado e, satisfeito, começou a trabalhar no tão aguardado braço Mecanar.
+Nos dias seguintes, Azeron evitou tentar controlar sua mana, que continuava a ser sugada pelo seu olho draconiano. Como sempre, concentrou-se no que poderia controlar. Foi até a Toca do Mago, uma loja de itens mágicos, e comprou na conta do seu pai novamente, desta vez um cetro feito do mesmo material de sua varinha, incrustado com orbes que lhe custaram uma pequena [fortuna](factions/reinos/fortuna.md). Em seguida, levou o cetro para Kale, que extraiu os orbes com cuidado e, satisfeito, começou a trabalhar no tão aguardado braço Mecanar.
 
 Durante esses dias, o professor Gorgo foi até Azeron para ver como ele estava, mas o garoto mal disse uma palavra. Apenas entregou o cetro, agora sem os orbes, para o velho mago e murmurou:
 
@@ -25291,7 +25291,7 @@ Azeron mexeu o braço como se fosse o seu original, embora ele tivesse perdido o
 
 — Agora, um aviso importante — continuou Kale. — Esse braço é muito mais forte do que o de uma pessoa comum. Você deve tomar cuidado para não esmagar nada por acidente, especialmente durante apertos de mão. Seus nervos mecânicos e biológicos ainda não estão completamente sincronizados, então espere uma falta de precisão nos primeiros dias. Pode faltar tato ou haver excesso de força, mas você vai se acostumar.
 
-Azeron começou a abrir e fechar a mão, mover o braço em várias direções. Sentia-se completo de novo. A tecnologia de Avista era de fato impressionante, o que explicava porque eles eram a única raça capaz de fabricar as naves voadoras que cruzavam os céus do mundo.
+Azeron começou a abrir e fechar a mão, mover o braço em várias direções. Sentia-se completo de novo. A tecnologia de [avista](factions/reinos/avista.md) era de fato impressionante, o que explicava porque eles eram a única raça capaz de fabricar as naves voadoras que cruzavam os céus do mundo.
 
 — E tem mais uma coisa — Kale disse, pegando algumas folhas de uma gaveta e espalhando-as na mesa. Os desenhos eram incrivelmente detalhados. — Planejei algumas melhorias para o seu Mecanar. Como sei que você participa dos jogos da Arena, achei que poderiam ser úteis. Claro, isso terá um custo extra. 
 

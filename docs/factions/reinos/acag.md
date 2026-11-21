@@ -1,38 +1,39 @@
-# Acag — Arquipélago Yawara
+# Acag
 
-> **Região**: Noroeste | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Região**: Noroeste (Arquipélago) | **Fundação**: Antiga/Variada | **Clima**: Variado
 
 ---
 
 ## 📍 Localização
-- **Região**: Noroeste
-- **Detalhes**: Arquipélago a noroeste
-- **Clima**: Variado conforme geografia
+- **Região**: Noroeste (Arquipélago)
+- **Tipo**: Arquipélago Yawara / Kemonos
+- **Descrição**: Arquipélago a noroeste de Airy, lar dos Yawara (Kemonos) - humanóides com traços animais. Sociedade organizada, cidades bem estruturadas, isolada do continente principal. Liderados pelo [homem leão](../../npcs/individual/homem-leão.md).
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Arquipélago Yawara
+- **Tipo**: Arquipélago Yawara / Kemonos
 - **Lealdade**: Variada (Império, Independente, ou própria facção)
 - **Estrutura**: Governança adaptada à cultura local
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- **Características**: Yawara (traços animais); líder [homem leão](../../npcs/individual/homem-leão.md)
+- Diversa e animalística.
+- Variedade de sub-espécies (coelhos, raposas, felinos, etc.).
+- Governo, cidades, ocupações similares aos humanos mas com traços animais marcantes..
 - **Layout**: Adaptado ao terreno e cultura
 - **Atmosfera**: Única à região e povo
 
 ---
 
 ## 💰 Economia e Recursos
-- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
-- **Especializações**: Conforme cultura e recursos naturais
+Abundância: Diversidade biológica, sentidos aguçados, adaptabilidade. Escassez: Contato com Airy, tecnologia imperial, metais.
 
 ---
 
-## 🌟 Vantagem Regional: **Traços Animais**
-> **Personagens nascidos em [acag](acag.md)**: *Traços Animais* (+1 Percepção/Intimidação).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [acag](acag.md)**: *Herança Animal (Escolha: +1 Ágil/Carismático/Forte/Gênio/Resoluto/Vigoroso; Percepção Apurada; Cacoete animal)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +41,19 @@
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Líder Local** | Governante | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Figura Notável** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Homem Leão (Líder)** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Conselho das Matilhas** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Xamã das Feras** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Centro Principal** | Coração político/cultural/econômico |
-| **Marco Geográfico** | Característica única da região |
-| **Local Sagrado/Histórico** | Importância cultural/religiosa |
+| **Capital das Matilhas** | Característica única da região |
+| **Templo da Caça** | Característica única da região |
+| **Porto das Marés** | Característica única da região |
+| **Arena de Provação** | Característica única da região |
 
 ---
 
@@ -58,8 +61,8 @@
 1. **Conflito Local** — Tensão política/racial/recursos na região
 2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
 3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
-3. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
-3. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
@@ -70,8 +73,8 @@
 
 ---
 
-## 🌟 Vantagem Regional: **Traços Animais**
-> **Personagens nascidos em [acag](acag.md)**: *Traços Animais* (+1 Percepção/Intimidação).
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [acag](acag.md)**: *Herança Animal (Escolha: +1 Ágil/Carismático/Forte/Gênio/Resoluto/Vigoroso; Percepção Apurada; Cacoete animal)*.
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---

@@ -1,111 +1,83 @@
-# Nambiquara — O Domínio das Sombras
+# Nambiquara
 
-> **Reino da infiltração e chantagem** — Governado por **Purpleskull Arc**, que ganhou o trono em uma aposta de cartas contra **Áureo I**.
+> **Fundação**: Ano \-7
 
 ---
 
 ## 📍 Localização
-- **Região**: Império Aba, interior oeste
-- **Fundação**: -7 anos por **Purpleskull Arc** (mestre das sombras/infiltração)
-- **Clima**: Temperado; florestas densas ao redor; neblina noturna
-- **Acesso**: Estradas discretas; rotas de contrabando conhecidas apenas pelos locais
+- **Capital**: Cidade Estado Nambiquara
+- **Terreno**: **Vales** (Fácil) e **Penhascos** (Fácil) à beira-mar.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Regente**: **Purpleskull Arc** — **Mestre das Sombras** (ladino/mago das sombras)
-- **Tipo**: Meritocracia criminosa / cleptocracia
-- **Lealdade**: **Nenhuma** — joga todos os lados; Império, Auçá, Abaité, facções internas
-- **Estrutura**: **Guilda das Sombras** — controla tudo (comércio, justiça, informação)
+- **Tipo**: **Espiões**. A guilda é composta por indivíduos conhecidos como "Mímicos" ou "Copiadores", que buscam ser o que não são para se infiltrar em diversas camadas da sociedade.
+- **Regente**: Rei Barton Arc
+- **Gentílico**: Nambiquarense
+- **Símbolo**: Não possui para não identificar os membros.
+- **População**: aproximadamente 170.000 habitantes
+- **Espécies**: 90% Humanos, 10%  outros espécies
 
 ---
 
-## 🏙️ Cidade
-- **Layout**: Labirinto intencional — ruas sem lógica, becos sem saída, passagens secretas
-- **Iluminação**: Mínima; lanternas mágicas só nos distritos "oficiais"
-- **Distritos**:
-  - **Cidadela das Sombras** — Trono de Purpleskull; sala de mapas/espionagem
-  - **Beco dos Negócios** — Mercado negro; tudo se compra/vende (incluindo pessoas)
-  - **Subcidade** — Túneis, esgotos, covis de ladrões/assassinos
-  - **Distrito dos Mercadores** — Fachada legítima; lavagem de dinheiro
-- **População**: Ladinos, assassinos, espiões, contrabandistas, refugiados "desaparecidos"
+## 🏙️ Cidade/Assentamento
+- **Características**: Nambiquara — cultura única moldada pela geografia e história
+- **Layout**: Adaptado ao terreno e cultura local
+- **Atmosfera**: Única à região e povo
 
 ---
 
-## 🎰 A Aposta que Criou o Reino
-> **Lenda**: Purpleskull Arc jogou cartas contra **Áureo I** (Imperador fundador).
-> **Aposta**: O domínio de uma cidade recém-fundada.
-> **Resultado**: Purpleskull **ganhou** — dizem que trapaceou com magia das sombras.
-> **Resultado**: Áureo I honrou a aposta (orgulho) → [nambiquara](nambiquara.md) nasceu.
+## 💰 Economia e Recursos
+- **Base**: Adaptada à geografia local (comércio, mineração, agricultura, magia, guerra)
+- **Especializações**: Conforme cultura e recursos naturais
 
 ---
 
-## 🕵️ A Guilda das Sombras
-| Serviço | Preço | Disponibilidade |
-|---------|-------|-----------------|
-| **Infiltração** (lugar protegido) | 1.000 coroas + segredo | 1 semana |
-| **Assassinato** (alvo protegido) | 5.000 coroas + favor | 2 semanas |
-| **Roubo de segredo** (documento, mente) | 2.000 coroas | 3 dias |
-| **Contrabando** (rota segura) | 10% valor + taxa | Imediato |
-| **Informação** (segredo específico) | Leilão secreto | Variável |
-
-> **Regra**: "Nada é grátis. Tudo tem preço. Quem não paga, vira moeda."
-
----
-
-## 🌟 Vantagem Regional: **Mestre das Sombras**
-> **Personagens nascidos em [nambiquara](nambiquara.md)**: **+1 em testes de Furtividade e Blefar**.
-> *Crescer entre mentiras e becos ensina a mentir com a cara limpa.*
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [nambiquara](nambiquara.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Purpleskull Arc** | Governante / Mestre das Sombras | Ladino/Mago das Sombras; ganhou cidade em aposta; "mestre das sombras" |
-| **Mão Direita** | Chefe de operações | Identidade secreta; gerencia operações diárias |
-| **Mestre de Moedas** | Finanças / Lavagem | Controla fluxo de ouro; conhece todos os segredos financeiros |
-| **Arquivista** | Guarda-segredos | Guarda dossiês de chantagem; "sabe onde os corpos estão enterrados" |
+| **Rei Barton Arc** | Governante | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Cidadela das Sombras** | Torre central; trono de Purpleskull; mapa do Império com alfinetes |
-| **Leilão das Sombras** | Subterrâneo; segredos, vidas, almas leiloadas às quintas-feiras |
-| **Túneis da Guilda** | Kilômetros de túneis; ligam toda cidade; rotas de fuga |
-| **Taverna "A Carta Virada"** | Neutro; encontros de espiões; mesas com encantamento de privacidade |
-| **Arena de Cartas** | Onde Purpleskull jogou contra Áureo I; agora arena de apostas mortais |
 
 ---
 
 ## 🎯 Ganchos de Aventura
-1. **Dívida de Sangue** — PC deve um favor à Guilda; cobrança: assassinar um nobre em Ypy
-2. **Segredo Roubado** — Alguém roubou o "Ás de Purpleskull" (segredo que derruba o Império)
-3. **Traição Interna** — Facção na Guilda quer derrubar Purpleskull; PCs escolhem lado
-4. **Rota de Contrabando** — Artefato proibido precisa cruzar o Império; rota passa por [nambiquara](nambiquara.md)
-4. **Aposta Mortal** — Purpleskull desafia PC para jogo de cartas; aposta: segredo vs vida
+1. **Conflito Local** — Tensão política/racial/recursos na região
+2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
 ## 📜 História Recente
-- **-7 anos**: Fundação via aposta contra Áureo I
-- **Anos 1-30**: Expansão da Guilda; controle total da cidade; neutralidade rentável
-- **Atual**: **Purpleskull Arc** envelhece (aparenta 60, magia o mantém jovem); sucessão incerta
-- **Rivalidade**: **[moacuba](moacuba.md)** (Oráculo) vs **[nambiquara](nambiquara.md)** (Sombras) — guerra fria de espionagem
+- **Fundação/Origem**: Ano \-7
+- **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
+- **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
-## 🌟 Vantagem Regional: **Mestre das Sombras**
-> **Personagens nascidos em [nambiquara](nambiquara.md)**: **+1 em testes de Furtividade e Blefar**.
-> *Crescer entre mentiras e becos ensina a mentir com a cara limpa.*
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [nambiquara](nambiquara.md)**: *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
-- [Moacuba](moacuba.md) — Rival em espionagem (Oráculo vs Sombras)
-- [Ypy](ypy.md) — Alvo frequente de infiltração
-- [Kisé](kise.md) — Rota de contrabando norte
-- [Purpleskull Arc](../../npcs/index.md#purpleskull-arc-mestre-das-sombras) — NPC principal
-- [Terra Selvagem](terra-selvagem.md) — Rotas de fuga para Abaité/Anaiti
+- [Índice dos Reinos](index.md) — Volta ao índice mestre
+- [Império de Aba](../imperio-aba.md) — Contexto imperial (se aplica)
+
+---
+
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*
