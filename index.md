@@ -13,14 +13,19 @@
 | **Raças (22)** | [races/todas-racas.md](races/todas-racas.md) |
 | **Magia - Mana** | [magic/mana.md](magic/mana.md) |
 | **Magia - Trevas** | [magic/trevas.md](magic/trevas.md) |
+| **Sistema de Magia Completo** | [magic/sistema-de-magia.md](magic/sistema-de-magia.md) |
 | **Império Aba** | [factions/imperio-aba.md](factions/imperio-aba.md) |
 | **Ordem dos Arcanos** | [factions/ordem-arcanos-imperiais.md](factions/ordem-arcanos-imperiais.md) |
+| **Estados Tampões** | [factions/estados-tampoees.md](factions/estados-tampoees.md) |
 | **Geografia - Mapa Mundi** | [geografia/mapa-mundi.md](geografia/mapa-mundi.md) |
 | **Geografia - Regiões** | [geografia/regioes/index.md](geografia/regioes/index.md) |
+| **Área da Infestação** | [geografia/area-infestada.md](geografia/area-infestada.md) |
 | **Timeline** | [history/timeline.md](history/timeline.md) |
 | **Eras** | [history/eras.md](history/eras.md) |
 | **Personagens (NPCs)** | [npcs/index.md](npcs/index.md) |
 | **Localidades / Cidades** | [locations/cidades/index.md](locations/cidades/index.md) |
+| **Reinos e Cidades-Estado** | [factions/reinos/index.md](factions/reinos/index.md) |
+| **Artefatos e Itens Mágicos** | [artifacts/index.md](artifacts/index.md) |
 | **Sistemas / Regras 3D&T** | [systems/regras-3dt-adaptadas.md](systems/regras-3dt-adaptadas.md) |
 
 ---
