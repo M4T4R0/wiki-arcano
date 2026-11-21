@@ -15,9 +15,13 @@
 | **Magia - Trevas** | [magic/trevas.md](magic/trevas.md) |
 | **Império Aba** | [factions/imperio-aba.md](factions/imperio-aba.md) |
 | **Ordem dos Arcanos** | [factions/ordem-arcanos-imperiais.md](factions/ordem-arcanos-imperiais.md) |
-| **Geografia** | [geografia/mapa-mundi.md](geografia/mapa-mundi.md) |
+| **Geografia - Mapa Mundi** | [geografia/mapa-mundi.md](geografia/mapa-mundi.md) |
+| **Geografia - Regiões** | [geografia/regioes/index.md](geografia/regioes/index.md) |
 | **Timeline** | [history/timeline.md](history/timeline.md) |
 | **Eras** | [history/eras.md](history/eras.md) |
+| **Personagens (NPCs)** | [npcs/index.md](npcs/index.md) |
+| **Localidades / Cidades** | [locations/cidades/index.md](locations/cidades/index.md) |
+| **Sistemas / Regras 3D&T** | [systems/regras-3dt-adaptadas.md](systems/regras-3dt-adaptadas.md) |
 
 ---
 
