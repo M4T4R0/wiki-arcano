@@ -4,13 +4,15 @@ Sociedades de Arcano são um Tecido de raças e Culturas
 
 Um povo é formado por indivíduos que compartilham uma língua comum, costumes, interesses, uma história e tradições que se entrelaçam, criando um tecido social único. Essas comunidades, compostas por uma rica diversidade de etnias, muitas vezes dão origem a nações ou países, consolidando sua identidade coletiva.
 
+> **Ver também:** [Raças — Páginas Individuais](individual/index.md) — 19 páginas individuais com lore completa + mecânicas 3D&T.
+
 No fascinante mundo de Arcano, a diversidade é um pilar central da sua complexidade. Aqui as raças não são chamadas de raças mas sim de Espécie (adjetivo sem gênero), no plural Espécies. Os Espécie que habitam este universo refletem uma ampla gama de características, habilidades e culturas. Cada Espécie possui uma identidade distinta, enriquecida por suas próprias tradições, histórias e maneiras de interagir com o mundo ao redor. É nosso objetivo apresentar os Espécie mais prevalentes em Arcano, embora seja importante reconhecer que a variedade de seus habitantes vai além do que podemos capturar aqui. Cada Espécie contribui com um fio único para o vasto tapeçário cultural de Arcano, e é dessa rica diversidade que a força e a engenhosidade de suas sociedades emanam.
 
 Embora tentemos abranger o espectro vibrante dos povos de Arcano, devemos admitir que a variedade de arquétipos e espécies existentes excede o que está delineado neste texto. Contudo, encorajamos a exploração e a integração das inúmeras vantagens e particularidades encontradas no manual de Arcano. Essa flexibilidade permite que a imaginação dos habitantes e visitantes de Arcano prospere, impulsionando a inovação e a criação dentro deste mundo mágico.
 
 Arcano abriga muitos arquétipos distintos, cada um com suas próprias vantagens, histórias e desafios. Embora este guia não possa cobrir a totalidade de seus habitantes, os jogadores são incentivados a utilizar as vantagens e diretrizes fornecidas pelo manual extensivo de Arcano, adaptando-as conforme necessário para enriquecer suas experiências neste mundo encantado. A diversidade de Arcano é um convite aberto à aventura, à descoberta e à criação de novas histórias que cruzam os limites do imaginável.
 
-# **Os Humanos Aba** {#os-humanos-aba}
+# **Os Humanos Aba** 
 
 Através dos olhares dos Abaré e dos Akitã, os Aba eram inicialmente vistos como um Espécie efêmero, com limitada capacidade de reter conhecimento. Contudo, subestimá-los foi um equívoco, pois foi justamente sua incrível adaptabilidade que catalisou a ascensão dos Humanos Aba como o Espécie predominante e mais influente em Airy. Sua habilidade de se ajustar às circunstâncias e dominar ambientes variados permitiu-lhes espalhar-se por todo o mundo, tornando-se o povo mais numeroso e poderoso.
 
@@ -27,7 +29,7 @@ Os Aba, com sua capacidade de se multiplicarem e de se adaptarem às mais divers
 
 | :---- |
 
-# **Os Elfos Abaré** {#os-elfos-abaré}
+# **Os Elfos Abaré** 
 
 Os Elfos Abaré: Guardiões Eternos da Floresta Ka'agw
 
@@ -44,7 +46,7 @@ Os Elfos Abaré, portanto, permanecem como sentinelas da floresta Ka'agwy, um po
 | Os Elfos Abaré (1 ponto) Victory • Natureza Mística. Mesmo sem poderes mágicos, todo elfo tem ligação intrínseca com a magia. Em todos os testes de Mística (mesmo que não tenha a perícia), o atributo correspondente tem \+1. • Sentido Visão . Elfos têm visão aguçada. Sempre que testar Percepção relacionado a visão (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Código. Elfos sempre ajudam e nunca matam qualquer animal ou planta, nem permitem por omissão que alguém o faça. |
 | :---- |
 
-## **Meio-Elfos** {#meio-elfos}
+## **Meio-Elfos** 
 
 Herdeiros de Dois Mundos
 
@@ -63,7 +65,7 @@ Embora sejam uma visão rara em muitas partes do mundo, a natureza errante dos m
 
 | :---- |
 
-# **Os Anões Akitã** {#os-anões-akitã}
+# **Os Anões Akitã** 
 
 Os Anões Resolutos de Airy
 
@@ -115,7 +117,7 @@ Navegando entre dois mundos, mas plenamente aceitos em nenhum, os Meio-Akitãs r
 
 | :---- |
 
-# **Os Halflings Kaapora** {#os-halflings-kaapora}
+# **Os Halflings Kaapora** 
 
 Astúcia e Alegria Entre as Colinas
 
@@ -134,7 +136,7 @@ Halflings são colaborativos e extremamente leais a seus amigos e familiares, mo
 | Halflings Kaapora (1 ponto) Victory • Atirador. Kaaporas têm aptidão natural para arremessar coisas. Você pode gastar 2PM para ter Ganho em um teste por cena para atacar Longe, em combate violento. • Malandro. Você é um Kaapora e sempre consegue o que quer. Sempre que testar Manha (mesmo que não tenha a perícia), o atributo correspondente tem \+1. • Diferente. Quando um Kaapora pernoitar em sua casa, ele pode dormir em uma gaveta aberta. |
 | :---- |
 
-# **Os Gnomos Piquira** {#os-gnomos-piquira}
+# **Os Gnomos Piquira** 
 
 Os Piquira são um Espécie notavelmente inteligente, inventiva, energética e muitas vezes excêntrica, apresentando um paradoxo único entre as civilizações de Airy. Estes gnomos são renomados por sua brilhante inventividade e animada disposição. São mecânicos, engenheiros e técnicos de destaque, profundamente respeitados por seu domínio das facetas científicas do mundo e sua habilidade em transformar conhecimento em incríveis ferramentas, veículos, armaduras e armas.
 
@@ -153,7 +155,7 @@ Gnomos que se estabelecem em terras humanas frequentemente ocupam posições com
 
 | :---- |
 
-# **Os Kemonos Yawara (1 ponto)** {#os-kemonos-yawara-(1-ponto)}
+# **Os Kemonos Yawara (1 ponto)** 
 
 O Espécie dos Yawara, conhecido por sua variedade de humanóides antropomórficos com traços animais, habita o pequeno continente a nordeste de Airy, chamado de Lauré. Lá, os Kemonos, como são chamados, desenvolveram uma sociedade semelhante à humana, com estruturas de governo, cidades bem organizadas e uma diversidade de ocupações entre seus habitantes.
 
@@ -168,7 +170,7 @@ Em Lauré, além de Tupãsununga, existem outras cidades independentes, que não
 | Kemono Yawara (1 ponto) Victory • Talento. Yawaras têm certas aptidões físicas ou mentais, dependendo de sua herança animal. Escolha uma vantagem entre Ágil, Carismático, Forte, Gênio, Resoluto ou Vigoroso. • Percepção Apurada. Yawara têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Cacoete. Yawara demonstram algum traço negativo ligado a seu lado animal: coelhos podem ser cautelosos, raposas traiçoeiras, e assim por diante. Escolha uma desvantagem entre Antipático, Atrapalhado, Fracote, Frágil, Indeciso ou Tapado. |
 | :---- |
 
-# **Os Orcs Abaité** {#os-orcs-abaité}
+# **Os Orcs Abaité** 
 
 Os Orcs são um Espécie de seres nascidos e criados para a guerra, sua essência enraizada na brutalidade e na busca pelo poder. Cruéis, sádicos e sedentos por controle, eles se deleitam no sofrimento dos mais fracos e não hesitam em trair aqueles que consideram inferiores ou superiores a eles.
 
@@ -182,7 +184,7 @@ Os olhos semi-animalescos dos Orcs emitem uma leve luminescência no escuro, ref
 
 Para os Orcs, pertencer ao império humano é ser um opressor, e qualquer ação tomada contra eles é justificada e necessária para o bem da tribo. Eles vivem em um mundo onde os fortes dominam sobre os fracos, onde a lei do mais forte é a única lei que importa. E é nesse cenário de violência e brutalidade que os Orcs prosperam, determinados a conquistar e subjugar tudo em seu caminho. Tem suas Hordas na Terra Selvagem
 
-## **Meio-Orc** {#meio-orc}
+## **Meio-Orc** 
 
 Os Meio-abaités são uma mistura única de Abaités com outros espécies humanoides, e os Meio-orcs são exemplos notáveis dessa união, exibindo uma fusão de características tanto orcs quanto humanas. Sua aparência é variada, mas geralmente inclui tons de pele avermelhados e dentes proeminentes, traços que denotam sua herança orc.
 
@@ -199,7 +201,7 @@ Nos impérios humanos, os meio-orcs geralmente encontram trabalho como brutamont
 
 | :---- |
 
-# **Licantropos** {#licantropos}
+# **Licantropos** 
 
 Os Ní-guarás, também conhecidos como Licantropos, são um Espécie poderoso de Aba (ou humanóides) com a habilidade sobrenatural de se transformarem em criaturas híbridas, metade humano e metade lobo. São homens e mulheres treinados para a guerra, capazes de adentrar territórios inacessíveis para outros e enfrentar ameaças que desafiam a bravura comum.
 
@@ -214,7 +216,7 @@ Uma das espécies mais conhecidas em Airy são os Capelobos. Segundo a lenda, po
 | Licantropo (1 ponto) Victory • Transformação. você é um licantropo, tem sua forma principal, híbrida entre humano e animal e tem mais uma forma humana, (mas pode ser de qualquer outro Arquétipo), esta outra forma têm as mesmas desvantagens, mas você ainda pode pagar 1 ponto extra para comprar Transformação 2\. • Percepção Apurada. Você têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Fraqueza (Prata). Digamos que a prata é a sua “bala de prata”. |
 | :---- |
 
-# **Os Meio-Gigantes Anaiti** {#os-meio-gigantes-anaiti}
+# **Os Meio-Gigantes Anaiti** 
 
 Eles tem uma filosofia de vida, tem seus costumes e os seguem à risca, eles não se casam, mas tem um compromisso para com a sociedade, eles não se casam mas tem uma obrigação de ter no mínimo dois filhos com outras mulheres Anaiti. Eles podem amar e se casar, mas isso é considerado errado na sua cultura militarista nômade.
 
@@ -235,7 +237,7 @@ Nas pequenas aldeias itinerantes Anaitis, especialmente aquelas próximas aos Mo
 
 | :---- |
 
-# **Os Auçá (1 Ponto)** {#os-auçá-(1-ponto)}
+# **Os Auçá (1 Ponto)** 
 
 Os Auçás são um Espécie singular em Airy, caracterizados por suas armaduras ósseas que, na verdade, são seus próprios esqueletos que crescem como uma proteção natural ao redor de seus corpos. Esses guerreiros formidáveis foram criados há relativamente pouco tempo, durante a Infestação que assolou Airy, resultando em mutações na área afetada. Observando o surgimento de um Espécie de crustáceos gigantes e inteligentes na região, os Arcanos Imperiais decidiram criar indivíduos que se assemelhassem aos Aba, utilizando magia e cruzamento genético. Em questão de séculos, os Auçás já eram bastante semelhantes à forma que conhecemos hoje.
 
@@ -257,7 +259,7 @@ Apesar de raros, existem aldeias e tribos Auçás dentro dos limites do Império
 | full body character illustration, art style of Kentaro Miura (Berserk), \[SUBJECT: Male Auçá Warrior, hulking muscular physique encased in a natural biological white bone exoskeleton\], \[HEAD: helmet-like bone skull structure framing a human face, NO HORNS, thick heavy dreadlocks falling over shoulders\], \[TEXTURE: calcified organic plates, rough crustacean-like surface, battle scars and scratches\], \[CLOTHING: wearing a heavy weathered military tabard with a crest over the bone armor, thick leather belt\], \[WEAPON: resting a massive jagged iron greatsword on his shoulder\], \[STYLE: heavy black ink cross-hatching, dramatic shading, gritty dark fantasy, intense atmosphere\], isolated on white background, 8k. full body character design of an "Auçá" Noble in the art style of Kentaro Miura (Berserk), \[ANATOMY: humanoid figure encased in a natural biological white bone exoskeleton, calcified plates growing from skin, crustacean-like organic armor texture\], \[HEAD: a stoic face framed by bone plating, NO HORNS, smooth bone forehead, long thick black DREADLOCKS flowing from the back of the skull\], \[CLOTHING: wearing a luxurious high-collar velvet tunic draped over the bone armor, intricate embroidery, heavy flowing cape\], \[POSE: standing tall with aristocratic posture, hands resting on a cane or decorative sword\], \[STYLE: heavy ink cross-hatching, gritty dark fantasy aesthetic, intense shading, detailed fabric folds\], isolated on white background, 8k. full body character illustration, art style of Kentaro Miura (Berserk), \[SUBJECT: Male Auçá Warrior, hulking muscular physique encased in a natural biological white bone exoskeleton\], \[HEAD: helmet-like bone skull structure framing a human face, NO HORNS, thick heavy dreadlocks falling over shoulders\], \[TEXTURE: calcified organic plates, rough crustacean-like surface, battle scars and scratches\], \[CLOTHING: wearing a heavy weathered military tabard with a crest over the bone armor, thick leather belt\], \[WEAPON: resting a massive jagged iron greatsword on his shoulder\], \[STYLE: heavy black ink cross-hatching, dramatic shading, gritty dark fantasy, intense atmosphere\], isolated on white background, 8k. |
 | :---- |
 
-# **Os Abaquar** {#os-abaquar}
+# **Os Abaquar** 
 
 Os Abaquar, não envelhecem nem adoecem, e se forem mortalmente feridos ou se sofrerem um grande desgosto seu corpo morre, mas seu espírito sobrevive e nasce novamente com resquícios da sua antiga memória, na cidade do seu reino que nasceu, após o nascimento. 
 
@@ -270,7 +272,7 @@ Os Abaquar, não envelhecem nem adoecem mas quando seu tempo de vida chega ao fi
 
 | :---- |
 
-# **As Icamiabas** {#as-icamiabas}
+# **As Icamiabas** 
 
 Habilidosas na caça, elas desenvolveram seu corpo através da predatoriedade e adaptação à floresta. É o grupo menos populoso, vivendo muitas vezes em reclusão.  As Abaibas são conhecidas como um povo composto somente por mulheres, elas são uma espécie de amazonas da floresta Proibida. Elas se reproduzem somente ao se unirem a outros espécies, geralmente se a prole for uma menina será uma Icamiabas, se for menino será do Espécie do pai. 
 
@@ -285,7 +287,7 @@ Raramente você encontra um Icamiaba vivendo definitivamente longe das suas flor
 | Icamiaba (2 pontos) Victory • Percepção Apurada. Icamiabas têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Atirador. Icamiabas têm aptidão natural para ataques à distância. Você pode gastar 2PM para ter Ganho em um teste por cena para atacar Longe, em combate violento. • Carismático. Icamiabas têm facilidade para influenciar pessoas. • Insano (Paranóica). Icamiabas não confiam em ninguém que não seja outra Icamiaba. |
 | :---- |
 
-# **Reptantes** {#reptantes}
+# **Reptantes** 
 
 Reptantes ou Escamados como são popularmente conhecidos são uma variedade grande de humanóides reptilianos de vários espécies diferentes, desde Homens Lagartos até Homens Dinossauros, que habitam todo o mundo desde o Deserto Açu até a Terra selvagem. Sua pele é coberta de escamas e variava de cor entre verde escuro a tons de marrom e cinza. Mais altos e robustos do que os humanos, Reptantes têm caudas musculares usadas para equilibrar. Eles também têm garras e dentes afiados.
 
@@ -326,7 +328,7 @@ As Tribus dos Reptantes ficam em sua grande maioria na Terra Selvagem, disputand
 
 | :---- |
 
-# **Minotauros** {#minotauros}
+# **Minotauros** 
 
 Vivem na Terra Selvagem e disputam Territórios com as Demais raças monstruosas de lá. Minotauros são grandes, humanóides musculosos. Eles têm a cabeça de um touro, tronco superior, mãos e o corpo de um humano, e pés são cascos de boi. Seus pêlos e cabelos selvagens geralmente variam de marrom a preto. Os machos alcançam até 2,5 metros de altura, enquanto as fêmeas, têm aparência semelhante, com quadris mais largos, seios humanóides, e podem atingir cerca de 2,1 metros.
 
@@ -339,7 +341,7 @@ Os corpos de minotauros têm forma e construção semelhantes aos de um ogro. Su
 
 # 
 
-# **Gnól** {#gnól}
+# **Gnól** 
 
 Gnóis são humanóides que se assemelham a híbridos humano-hena. São carnívoros, conhecidos por sua cultura selvagem. Vivem na Terra Selvagem, e disputam Território com as raças monstruosas de lá.
 
@@ -360,7 +362,7 @@ Embora os Gnóis não sejam necessariamente maus, o desejo pela caça e a sede d
 
 | :---- |
 
-# **Goblinoides** {#goblinoides}
+# **Goblinoides** 
 
 **Uma Horda Goblinóide.** Os três tipos de Goblinoides de forma natural nunca convivem entre si pacificamente, mas se eles julgarem que receberam sinais dos seus deuses para se juntar em uma Horda, onde os Hobgoblins imediatamente assumem o comando e impõem sua hierarquia militar sobre as demais espécies Goblinóides, mas a organização em Horda nunca dura muito tempo, acabando imediatamente quando a campanha militar divina que eles acharam que deviam fazer acaba.
 
@@ -388,3 +390,7 @@ Bugbears são frequentemente encontrados na companhia de outros goblinóides, pa
 
 | :---- |
 
+
+---
+
+> **Ver também:** [Raças — Páginas Individuais](individual/index.md) — 19 páginas individuais com lore completa + mecânicas 3D&T.

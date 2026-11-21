@@ -289,7 +289,7 @@ Enzo nasceu na encosta das Montanhas Benite, numa família de camponeses sem mui
 
 Atualmente Enzo se aposentou como aventureiro voltou para Kisé e se casou com Mica, a ajuda a tocar o negócio de família da sua esposa, a Tradicional loja de Poções da Madame Alince, infelizmente a Alince já morreu a centenas de anos mas seus descendentes continuam com o negócio da Família.
 
-# **Moacuba** {#moacuba}
+# **Moacuba** 
 
 O Reino do Oráculo. A cidade onde ferve o conhecimento, considerada a biblioteca do Império.
 
@@ -537,7 +537,7 @@ Durante esse período ele conheceu Garem Fawkes, um mago que usava armadura comp
 
 Esse mago de armadura completa notou que Vallen era um bom homem, mas a falta de opção o transformou em um criminoso, então o mago convidou Vallem para ser um dos seus companheiros de aventura, um grupo de irmão que se reuniram não pelo acaso da biologia, mas pelo poder da escolha. Assim Vallen se tornou um aventureiro e começou a andar pelo mundo matando monstros e salvando princesas, uma curiosidade sobre o seu grupo, durante todos esses anos eles nunca foram derrotados, alguns irmão caíram em combate, mas o grupo em si nunca foi derrotado
 
-# **Aratama** {#aratama}
+# **Aratama** 
 
 O Reino das artes de onde geralmente se originam os melhores bardos e trovadores do império.
 

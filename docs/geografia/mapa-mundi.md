@@ -10,7 +10,7 @@ Airy é um continente muito grande e como tal existem muitas ilhas aos seu redor
 
 No outro lado do continente a Sudoeste, perto da Terra Selvagem fica a ilha de Tibá também com sua capital Megalópia, a ilha de onde os gigantes foram originados, nesta ilha todas as criaturas têm tamanhos muito maiores do que o normal, desde insetos gigantes até mamíferos colossais, o que se destaca nessa ilha, o Espécie dos FormianosFormians (Homens Formiga), que criaram um império que domina metade do continente e tem planos para expandir seus domínios até o continente, eles pretendem fazer isso nem que seja a força guiados pelas sua ambiciosa Rainha.
 
-# **LOCAIS DE INTERESSE NO MUNDO** {#locais-de-interesse-no-mundo}
+# **LOCAIS DE INTERESSE NO MUNDO** 
 
 **FLORESTA PROÍBIDA**
 
@@ -34,7 +34,7 @@ A região é o berço de criaturas conhecidas como Infestados, seres deformados 
 
 Para conter a ameaça, séculos atrás os Arcanos criaram “A Cortina”, uma barreira mágica colossal que requer sacrifícios contínuos para permanecer ativa. Além disso, a Grande Muralha de Ypiturui foi erguida ao redor da área, com 100 metros de altura e 1500 quilômetros de extensão, vigiada pela Guarda Açã, formada por condenados e exilados. Assim, a Área da Infestação permanece como um ponto de perigo absoluto, onde cada passo é uma ameaça e a própria realidade parece lutar contra quem ousa entrar.
 
-# **O Templo do Conhecimento** {#o-templo-do-conhecimento}
+# **O Templo do Conhecimento** 
 
 Nas profundezas da Floresta Ka’agwy, também conhecida como Floresta Proibida, ao noroeste do continente de Airy, ergue-se uma construção envolta em lendas, temor e mistério: o Templo do Conhecimento, um templo que foi fundado a milhares de anos atrás. Poucos ousam atravessar as trilhas tomadas pela vegetação densa e pela fauna hostil que cerca suas muralhas. Entre aventureiros, estudiosos e camponeses, o lugar é lembrado tanto como um santuário do saber quanto como a prisão de uma das criaturas mais perigosas que já caminharam pelo mundo.
 

@@ -119,19 +119,3 @@
 | **A Cidade dos Ladrões** | Sargaen, Azeron (mago foragido) | Contos de Arcano |
 
 ---
-
-## 🎯 Próximos Passos Imediatos
-
-1. **Extrair** seções do `ARCANO_COMPLETO.md` para arquivos individuais nas pastas
-2. **Criar** `visao-geral.md` (este arquivo) como ponto de entrada
-3. **Popular** `races/`, `magic/`, `factions/`, `locations/` com conteúdo extraído
-3. **Criar** `systems/regras-3dt-adaptadas.md` com house rules
-4. **Gerar** `locations/cidades/` com todas as cidades do ARCANO.md
-5. **Popular** `npcs/` com fichas 3D&T dos personagens principais
-
----
-
-> **Acesso rápido:** `R2, carrega a bíblia de Arcano` → carrega este README + índice.
-> **Jarvis no grupo:** `@jarvis_m4t4r0_bot lê workspace/contexto/arcano/races/elfos-abare.md`
-EOF
-cat /home/ubuntu/r2d2-brain/worldbuilding/arcano/visao-geral.md

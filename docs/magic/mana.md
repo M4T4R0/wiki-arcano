@@ -1,4 +1,4 @@
-# **A Educação no Império** {#a-educação-no-império}
+# **A Educação no Império** 
 
 Pode parecer estranho que um mundo de espadas e magia possua escolas, mas no Império isso é não apenas comum — é essencial. Não porque seus governantes se importem com o saber ou com o progresso do povo, mas porque precisam de servos eficientes. As escolas imperiais não foram criadas para ensinar a pensar, e sim para ensinar a obedecer. Cada criança é moldada desde cedo para se tornar um trabalhador dócil, submisso e leal ao Estado, incapaz de questionar ordens ou desafiar a autoridade. A educação imperial não forma mentes livres, forma peças para uma máquina que exige disciplina, fé e silêncio.
 
@@ -114,7 +114,7 @@ Custo Social: Causa distorção visual identificatória, onde o viciado começa 
 
 Essas substâncias seriam distribuídas principalmente pela Rilícia, que legaliza o crime através de cargos de fiscais municipais para extorquir a população e manter o fluxo de ouro. O Mercado Ancestral em Kisé e o Mercado Sombrio de Fortuna seriam os pontos centrais de distribuição dessas "soluções mirabolantes" para a miséria do povo.
 
-# **Reinos Vassalos** {#reinos-vassalos}
+# **Reinos Vassalos** 
 
 Esses são os reinos que compõem o império.
 
@@ -144,7 +144,7 @@ Esses são os reinos que compõem o império.
 
 **Irundyna, A Antiga Capital:** Irundyna foi uma dos reinos pertencentes ao Império, até que em 253 a cidade cai por um ataque de Mal e de lá ele cria sua cidade chamada de Necrotropia. Hoje o reino não existe mais de forma formal e a cidade de Irundyna é o epicentro da Área da Infestação.
 
-# **Ypy** {#ypy}
+# **Ypy** 
 
 A Capital do Império.
 
@@ -604,7 +604,7 @@ Victor Frankenstein é um cientista que participava de um simpósio e foi o cria
 
 Elara Arken é uma cientista que participou do simpósio. Ela tentou intimidar Victor Frankenstein para que ele não revelasse a verdade sobre a criatura. Elara afirmou que a ciência era mais importante do que a vida dos criados, pois "vidas vazias" ganhavam propósito em seus experimentos.
 
-# **Kisé** {#kisé}
+# **Kisé** 
 
 O Reino da Aventura
 

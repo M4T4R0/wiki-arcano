@@ -1,0 +1,14 @@
+# **As Icamiabas** 
+
+Habilidosas na caça, elas desenvolveram seu corpo através da predatoriedade e adaptação à floresta. É o grupo menos populoso, vivendo muitas vezes em reclusão.  As Abaibas são conhecidas como um povo composto somente por mulheres, elas são uma espécie de amazonas da floresta Proibida. Elas se reproduzem somente ao se unirem a outros espécies, geralmente se a prole for uma menina será uma Icamiabas, se for menino será do Espécie do pai. 
+
+Como as Icamiabas são compostas por um Espécie de guerreiras, é uma superstição entre o seu Espécie de que os pais de suas filhas também devem ser grandes guerreiros, então não é incomum que elas procurem por eles nas suas viagens.
+
+Elas geralmente saem de suas aldeias no meio da floresta, encontram uma marido, se casam e quando ficam grávidas e a criança é uma menina elas raptam a criança e fogem para sua aldeia. Elas são extremamente selvagens e violentas em combate, às tornando muito temidas quando confrontadas em grupo. Como são boas caçadoras, sua arma preferida é o Arco, seu poder mais notável são as capacidades de influenciar as pessoas, algumas são talentosas telepatas e quando se tornam magas se especializam em magias de controle da mente. Elas têm aparência de mulheres normais, muito belas, seu tom de pele varia muito de muito morenas a extremamente brancas, elas possuem orelhas olhos e cauda de felinos.
+
+Em geral, a personalidade das Icamiabas é sempre forte, são narcisistas, individualistas, manipuladoras. Elas fazem parte do grupo de mulheres mais perigosas deste mundo, porque sabem que são bonitas e usam isso para manipular os homens. Elas vivem isoladas na Floresta Proibida.
+
+Raramente você encontra um Icamiaba vivendo definitivamente longe das suas florestas, somente Icamiabas que tenham sido exiladas do seu reino fixam residência fora de lá, e  ainda os locais mais comuns são as cidades Élficas devido a semelhança com sua terra natal. No império de modo geral quando uma Icamiaba é encontrada ela apenas está a procura de conhecer o mundo e viajar. De modo geral o povo comum não desconhece que as Icamiabas são um povo de um lugar distante, eles imaginam que elas sejam apenas belas mulheres que sofrem com algum tipo de maldição por terem traços felinos ou de coelhos.
+
+| Icamiaba (2 pontos) Victory • Percepção Apurada. Icamiabas têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Atirador. Icamiabas têm aptidão natural para ataques à distância. Você pode gastar 2PM para ter Ganho em um teste por cena para atacar Longe, em combate violento. • Carismático. Icamiabas têm facilidade para influenciar pessoas. • Insano (Paranóica). Icamiabas não confiam em ninguém que não seja outra Icamiaba. |
+| :---- |

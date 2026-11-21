@@ -4,6 +4,10 @@ Extraído do ARCANO_COMPLETO.md — apenas NPCs com dados mecânicos citados.
 
 ---
 
+> **Ver também:** [NPCs — Páginas Individuais](individual/index.md) — 30+ páginas individuais com fichas 3D&T completas.
+
+---
+
 ## NPCs com Ficha Citada / Sugerida
 
 ---
@@ -237,3 +241,7 @@ Extraído do ARCANO_COMPLETO.md — apenas NPCs com dados mecânicos citados.
 | 🟡 Média | **Purpleskull Arc** | Mestre das sombras; governante de Nambiquara |
 | 🟢 Baixa | **Arthur Áureo** | General/Imperador jovem; herói trágico |
 | 🟢 Baixa | **Ror** | General Auçá rebelde; fundador de Naur'Ush |
+
+---
+
+> **Ver também:** [NPCs — Páginas Individuais](individual/index.md) — 30+ páginas individuais com fichas 3D&T completas.

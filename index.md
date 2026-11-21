@@ -11,6 +11,7 @@
 | **Visão Geral** | [visao-geral.md](visao-geral.md) |
 | **Lore & Criação** | [lore/criacao.md](lore/criacao.md) |
 | **Raças (22)** | [races/todas-racas.md](races/todas-racas.md) |
+| **Raças — Páginas Individuais** | [races/individual/index.md](races/individual/index.md) |
 | **Magia - Mana** | [magic/mana.md](magic/mana.md) |
 | **Magia - Trevas** | [magic/trevas.md](magic/trevas.md) |
 | **Sistema de Magia Completo** | [magic/sistema-de-magia.md](magic/sistema-de-magia.md) |
@@ -23,6 +24,7 @@
 | **Timeline** | [history/timeline.md](history/timeline.md) |
 | **Eras** | [history/eras.md](history/eras.md) |
 | **Personagens (NPCs)** | [npcs/index.md](npcs/index.md) |
+| **NPCs — Páginas Individuais** | [npcs/individual/index.md](npcs/individual/index.md) |
 | **Localidades / Cidades** | [locations/cidades/index.md](locations/cidades/index.md) |
 | **Reinos e Cidades-Estado** | [factions/reinos/index.md](factions/reinos/index.md) |
 | **Artefatos e Itens Mágicos** | [artifacts/index.md](artifacts/index.md) |

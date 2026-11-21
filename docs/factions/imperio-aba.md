@@ -72,7 +72,7 @@ O Selo Imperial consiste em um círculo de correntes atravessado por um obelisco
 
 O Escudo Imperial é formado por um grande obelisco negro coroado por um Olho Observador projetando raios Dourados em sua volta como uma coroa. De seu centro partem longos raios dourados que se abrem para ambos os lados como asas de lâminas afiadas, estendendo-se horizontalmente em uma estrutura imponente. Correntes pesadas atravessam o símbolo de uma extremidade à outra, envolvendo o obelisco e reforçando sua aparência severa e intimidadora.
 
-# **A História do Império** {#a-história-do-império}
+# **A História do Império** 
 
 Após a fundação das primeiras cidades estado do império, Áureo I morreu de morte natural em seu castelo e como ele não havia deixado herdeiros legítimos houve um vácuo de poder e uma disputa entre seus generais. Caíco, o Breve, além de ser considerado como um irmão por Áureo, era justo e gentil, e um dos mais condecorados generais de Áureo I, então foi considerado por unanimidade para assumir o controle do império. No entanto, os combates na Terra de Ninguém, divisa do território do império com a terra selvagem, estavam acirrados este ano e Caíco em uma fatalidade foi ferido mortalmente em campo de batalha. Estudiosos de Moacuba acreditam que o Império seria totalmente diferente se a linhagem de Caíco estivesse no poder hoje, talvez o fosse muito mais justo e gentil assim como foi seu governante, mas o destino não quis assim.
 
@@ -134,7 +134,7 @@ Nos anos anteriores a 1014, Ypiturui procurava um motivo para se rebelar contra 
 
 A mil anos o Império mantém sua soberania por meio de uma combinação sufocante de estagnação científica e tecnológica, regressão intelectual e uma profunda xenofobia, mergulhando sua população na ignorância.
 
-# **Organização Política** {#organização-política}
+# **Organização Política** 
 
 O POVO
 
@@ -234,7 +234,7 @@ No sistema de Airy, o Imperador é a fonte primária de justiça. Os senadores c
 
 **Nota sobre a realidade do poder:** Apesar de deter esses poderes no papel, as fontes indicam que o Imperador atual é um homem "egoísta e sem empatia", cujas armas são apenas enfeites, servindo como uma "marionete de carne" para os interesses escusos do Senado e da elite de Ypy.
 
-# **A Corte** {#a-corte}
+# **A Corte** 
 
 A Corte é o círculo social, político e familiar que orbita ao redor do Imperador. Ela é composta pela família imperial, conselheiros pessoais, generais, diplomatas estrangeiros, a alta nobreza e até magos de elite que o imperador mantém por perto. A nobreza faz parte deste círculo social.
 
@@ -260,7 +260,7 @@ A sucessão segue, em geral, a primogenitura: o título passa ao filho mais velh
 
 Os filhos secundários, nobres menores, raramente têm destino nobre. São enviados ao exército imperial como oficiais, às ordens religiosas da Eclésia do Culto Imperial, ou ainda ao Castelo de Aslareth, onde são moldados desde a infância para se tornarem Cavaleiros Imperiais, criaturas sobre-humanas criadas para o combate que tem muito prestígio no Império. Assim, o Império garante que nenhum herdeiro sem terras permaneça ocioso, e que toda a nobreza, mesmo fragmentada, continue servindo à máquina do poder.
 
-# **Relação dos Nobres com a política** {#relação-dos-nobres-com-a-política}
+# **Relação dos Nobres com a política** 
 
 A relação entre os nobres e os políticos do Senado Imperial é um casamento de conveniência  e, como todo casamento no Império, está apodrecido sob a aparência de ordem.
 
@@ -284,7 +284,7 @@ O povo, que mal distingue onde termina o trono e começa o plenário, vê apenas
 
 Para os estudiosos do Império, essa relação é descrita como um “equilíbrio de podridões” — um pacto tácito que impede o colapso total, mas ao custo de qualquer virtude. O Senado garante a aparência de civilidade; a nobreza garante o mito da tradição. Juntos, mantêm o Império respirando — e o povo ajoelhado.
 
-# **Democracia** {#democracia}
+# **Democracia** 
 
 O Império é governado por um Imperador supremo, cuja autoridade se estende sobre todos os reinos, províncias e territórios sob o estandarte imperial. Abaixo dele, cada reino possui um governante local, supostamente eleito a cada dez anos em um processo que, em teoria, representa a vontade do povo — mas que, na prática, serve apenas para reafirmar o poder das mesmas famílias que controlam a política há séculos.
 
@@ -296,7 +296,7 @@ Para o povo comum, a troca de governante é quase imperceptível. Entre um manda
 
 Os estudiosos do Império chamam esse fenômeno de “a política das máscaras” — onde os governantes trocam de nome, mas a encenação nunca termina. E o povo, espectador impotente, assiste ao espetáculo acreditando que participa da peça.
 
-# **Ministérios** {#ministérios}
+# **Ministérios** 
 
 Cada grande cidade do Império abriga um Ministério Imperial, um órgão centralizado que supervisiona praticamente todos os aspectos da vida dentro do território. O Ministério não é apenas um centro administrativo: é a expressão máxima do controle estatal, onde se concentram as forças de fiscalização e coerção do Império.
 
@@ -308,7 +308,7 @@ Essa burocracia serve a dois propósitos. Primeiro, garante que o Estado esteja 
 
 No Império, nada é simples, nada é privado. Cada acordo, cada assinatura, cada palavra registrada no Ministério é uma peça do tabuleiro de controle que mantém a máquina imperial funcionando — e que lembra constantemente a todos que o Império sabe e decide tudo.
 
-# **Política do Império** {#política-do-império}
+# **Política do Império** 
 
 A política do Império é um espetáculo cuidadosamente encenado, onde a ilusão de democracia serve apenas para fortalecer a máquina de poder existente. O Senado Imperial é apresentado como um órgão “eleito pelo povo”, mas, na realidade, suas eleições são completamente manipuladas. O processo de escolha é propositalmente confuso: o voto não é direto, e a contagem dos resultados é cheia de regras obscuras que dão aos cidadãos a sensação de controle, enquanto a verdadeira decisão já foi tomada muito antes. Somente os candidatos aprovados pelos próprios senadores conseguem ocupar suas cadeiras, consolidando um círculo fechado de poder que se perpetua geração após geração.
 
@@ -424,7 +424,7 @@ A relação com a nobreza tradicional mimetiza perfeitamente o loteamento de car
 
 O uso da Ordem dos Arcanos como polícia secreta que atua sob a justificativa de "manter a ordem" e caçar "fake news" ou dissidentes reflete as tensões reais sobre os limites do poder institucional, investigações sigilosas e o uso do aparato estatal para proteger o próprio sistema contra ameaças.
 
-# **A Máquina de Propaganda Estatal** {#a-máquina-de-propaganda-estatal}
+# **A Máquina de Propaganda Estatal** 
 
 A propaganda é uma arma central do Império, tão poderosa quanto o exército e tão onipresente quanto a própria burocracia. Ela não apenas informa, mas condiciona, manipula e molda a percepção da população, criando a ilusão de ordem, progresso e legitimidade do Estado. Cada mensagem é cuidadosamente planejada para reforçar o culto à autoridade, a fé em Anhun e a obediência ao Imperador-fantoche.
 
@@ -440,7 +440,7 @@ A propaganda é uma arma central do Império, tão poderosa quanto o exército e
 
 O resultado é uma população que aceita a opressão e a exploração como normal, vê o Imperador como divino e se curva à autoridade sem questionamento, perpetuando o poder totalitário do Império. A propaganda não apenas sustenta o regime, mas torna impossível imaginar uma vida fora da influência do Estado, consolidando o ciclo de medo, fé e obediência.
 
-# **Cargos Públicos mais Importantes** {#cargos-públicos-mais-importantes}
+# **Cargos Públicos mais Importantes** 
 
 Vamos aqui vamos descrever alguns cargos importantes que existem em várias cortes de dos reinos de Airy.
 
@@ -468,7 +468,7 @@ Vamos aqui vamos descrever alguns cargos importantes que existem em várias cort
 
 **Obs:** Um cargo de confiança desses, nunca perde o seu cargo, uma vez sendo mestre dos sabores, o detentor do cargo, sempre será considerado o Preceptor dos Sabores, vitaliciamente, embora quando o antigo detentor do cargo se encontra impossibilitado, o seu substituto natural assuma o cargo até que o antigo esteja apto a ocupá-lo novamente, porém ele continuará tendo o título até sua morte, mas o substituto, ou Segundo Preceptor dos Sabores.
 
-# **O Trabalho no Império** {#o-trabalho-no-império}
+# **O Trabalho no Império** 
 
 No Império, o trabalho não é um direito nem uma escolha, é uma obrigação sagrada. Desde o nascimento, cada cidadão é registrado nos Arquivos do Trabalho e classificado conforme suas habilidades, origem e “índice de lealdade”. Trabalhar é servir ao Estado, e servir ao Estado é cumprir a vontade de Anhun. Essa doutrina faz do labor não apenas uma função social, mas um ato de fé e submissão.
 
@@ -528,7 +528,7 @@ A velhice raramente chega de forma digna. Quando um cidadão de classe mais baix
 
 No Império, o trabalho não liberta, aprisiona. Ele alimenta o sistema, legitima o poder e drena a vontade do povo. O suor do cidadão comum é o combustível da máquina imperial, que se sustenta sobre a crença de que cada esforço, cada gota de sangue e cada hora de exaustão são ofertas necessárias à eternidade da Ordem.
 
-# **A Educação no Império** {#a-educação-no-império}
+# **A Educação no Império** 
 
 Pode parecer estranho que um mundo de espadas e magia possua escolas, mas no Império isso é não apenas comum — é essencial. Não porque seus governantes se importem com o saber ou com o progresso do povo, mas porque precisam de servos eficientes. As escolas imperiais não foram criadas para ensinar a pensar, e sim para ensinar a obedecer. Cada criança é moldada desde cedo para se tornar um trabalhador dócil, submisso e leal ao Estado, incapaz de questionar ordens ou desafiar a autoridade. A educação imperial não forma mentes livres, forma peças para uma máquina que exige disciplina, fé e silêncio.
 
