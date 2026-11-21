@@ -180,4 +180,4 @@
 - [Senhores do Escudo](../factions/ordem-senhores-escudo.md) — Ordem completa
 - [Auçá](../races/todas-racas.md#auçá) — Exoesqueleto natural
 - [Necromechas](../artifacts/tecnologias-proibidas.md) — Tecnologia proibida
-- [Kaluana](../factions/reinos/kaluana.md) — Oficina de Guerra; Huck Hor
+- [Kaluana](../factions/reinos/kaluana.md) — Oficina de Guerra; [huck hor](../npcs/individual/huck-hor-comandante-da-cavalaria.md)

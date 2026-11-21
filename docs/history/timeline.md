@@ -1,6 +1,6 @@
 # **A ERA DO ESQUECIMENTO**
 
-Nenhum historiador do Império discorda sobre um ponto: os cem anos que separam a queda de Aslareth da ascensão de Áureo I são os mais bem guardados segredos da história de Airy. O que diverge, e diverge com violência entre os poucos estudiosos que ainda ousam tocar no assunto, é o motivo.
+Nenhum historiador do Império discorda sobre um ponto: os cem anos que separam a queda de Aslareth da ascensão de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) são os mais bem guardados segredos da história de Airy. O que diverge, e diverge com violência entre os poucos estudiosos que ainda ousam tocar no assunto, é o motivo.
 
 A versão oficial, ensinada em cada escola do Culto Imperial, é simples e conveniente: foi uma época de barbárie, de fragmentação tribal, de guerra sem propósito entre senhores menores disputando os escombros de um reino que já não existia. Nada digno de registro, dizem os manuais. Nada que merecesse sobreviver à transição para uma era mais civilizada.
 
@@ -154,23 +154,23 @@ O arquimago Karnos Minor conquista a imortalidade por meio da mumificação ritu
 
 **\-1.001 anos — O Ressurreito**
 
-Nasce Misty As-La, membro de uma tribo nômade do centro de Airy. Sua vida e feitos seriam transmitidos por gerações na tradição oral.
+Nasce [misty as-la](../npcs/individual/misty-as-la-arquimago-possível-mal.md), membro de uma tribo nômade do centro de Airy. Sua vida e feitos seriam transmitidos por gerações na tradição oral.
 
 **\-985 anos — A Primeira Ressurreição**
 
-Misty As-La é morto em batalha tribal. Seu corpo mutilado regenera-se, e ele retorna à vida poucos dias depois. Surge o primeiro Ressureito de Airy, um ser cuja morte não é o fim.
+[misty as-la](../npcs/individual/misty-as-la-arquimago-possível-mal.md) é morto em batalha tribal. Seu corpo mutilado regenera-se, e ele retorna à vida poucos dias depois. Surge o primeiro Ressureito de Airy, um ser cuja morte não é o fim.
 
 **\-834 anos — A Ascensão do Ressureito**
 
-Misty As-La, já renomado líder tribal, descobre a magia e começa a usá-la para unificar sua região. Sua lenda cresce.
+[misty as-la](../npcs/individual/misty-as-la-arquimago-possível-mal.md), já renomado líder tribal, descobre a magia e começa a usá-la para unificar sua região. Sua lenda cresce.
 
 **\-768 anos — Criação de Aslareth**
 
-Misty As-La lidera um levante sem precedentes. Seu conhecimento mágico e tático lhe garante a dominação de vastas regiões. As tribos rivais curvam-se ou são destruídas. Um novo Reino começa a se formar, ainda embrionário, mas promissor, Aslareth.
+[misty as-la](../npcs/individual/misty-as-la-arquimago-possível-mal.md) lidera um levante sem precedentes. Seu conhecimento mágico e tático lhe garante a dominação de vastas regiões. As tribos rivais curvam-se ou são destruídas. Um novo Reino começa a se formar, ainda embrionário, mas promissor, Aslareth.
 
 **\-752 anos — Criação dos Primeiros Cavaleiros**
 
-Misty As-La enquanto governava Aslareth, notou que a magia estava se tornando muito difundida, juntamente com o aparecimento de criaturas e catástrofes cada vez mais poderosas para o mundo, magos eram sua maior força sim, mas precisava de décadas de muito estudo e treinamento para alguém se tornar um mago realmente poderoso o suficiente para enfrentar tais ameaças então ele resolveu transformar seus próprios soldados em criaturas tão poderosas como as ameaças que surgiam, com auxilio de magia, rituais mágicos e transplante de partes de monstros em soldados leais, surgiram os primeiro Cavaleiros de Aslareth, os supersoldados de Misty As'La, que com poucos anos de treinamento conseguiam rivalizar os poderosos Arquimagos de Aslareth.
+[misty as-la](../npcs/individual/misty-as-la-arquimago-possível-mal.md) enquanto governava Aslareth, notou que a magia estava se tornando muito difundida, juntamente com o aparecimento de criaturas e catástrofes cada vez mais poderosas para o mundo, magos eram sua maior força sim, mas precisava de décadas de muito estudo e treinamento para alguém se tornar um mago realmente poderoso o suficiente para enfrentar tais ameaças então ele resolveu transformar seus próprios soldados em criaturas tão poderosas como as ameaças que surgiam, com auxilio de magia, rituais mágicos e transplante de partes de monstros em soldados leais, surgiram os primeiro Cavaleiros de Aslareth, os supersoldados de Misty As'La, que com poucos anos de treinamento conseguiam rivalizar os poderosos Arquimagos de Aslareth.
 
 **\-723 anos — O Exílio Voluntário**
 
@@ -185,5 +185,5 @@ Após perder sua sexta esposa, Misty abandona o trono. Deixa o poder nas mãos d
 
 **\-100 anos — Era do Esquecimento**
 
-A partir daqui o Império censura a história e nada se sabe o que aconteceu até Áureo I derrubar o que sobrou de Aslareth e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
+A partir daqui o Império censura a história e nada se sabe o que aconteceu até [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) derrubar o que sobrou de Aslareth e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
 

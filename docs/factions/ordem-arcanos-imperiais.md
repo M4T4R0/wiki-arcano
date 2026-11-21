@@ -1,5 +1,5 @@
 
-Conforme mencionado em sua consulta (e corroborado pela reputação de Kisé como um polo de formação militar e aventureira
+Conforme mencionado em sua consulta (e corroborado pela reputação de [kisé](reinos/kise.md) como um polo de formação militar e aventureira
 
 ), a Academia ocupa uma posição de destaque no Império. Embora a Academia Imperial de Magia de [jurubatiba](reinos/jurubatiba.md) (Dragonovith) seja considerada a maior e melhor do mundo
 

@@ -122,11 +122,11 @@ Foi Andus quem falou primeiro, e havia mais surpresa em sua voz do que vitória.
 
 — Não diga nada. Vá se preparar.
 
-Andus obedeceu. Quando passou ao lado de Escuridão, tentou tocar seu ombro. Escuridão se afastou um passo, pequeno, quase imperceptível, mas o suficiente.
+Andus obedeceu. Quando passou ao lado de [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md), tentou tocar seu ombro. [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) se afastou um passo, pequeno, quase imperceptível, mas o suficiente.
 
 \*\*\*
 
-Mais tarde, na cela onde dormia, Escuridão esperou o velho.
+Mais tarde, na cela onde dormia, [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) esperou o velho.
 
 Ele veio.  como sempre, calmo e prestativo.
 
@@ -144,7 +144,7 @@ O Grande Mestre sentou-se na pedra ao lado da porta, as mãos sobre os joelhos, 
 
 — O que você faria com aquilo que eu te entregasse.
 
-Escuridão riu, um som sem alegria nenhuma.
+[escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) riu, um som sem alegria nenhuma.
 
 — E o senhor decidiu que sabe a resposta.
 
@@ -152,7 +152,7 @@ Escuridão riu, um som sem alegria nenhuma.
 
 Ele saiu sem dizer mais nada.
 
-Escuridão ficou ali, sentado no escuro, repetindo a frase na cabeça. “Cada decisão que você tomou quando pensava que ninguém estava olhando.”
+[escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) ficou ali, sentado no escuro, repetindo a frase na cabeça. “Cada decisão que você tomou quando pensava que ninguém estava olhando.”
 
 Não havia resposta para isso. Só havia a certeza fria de que o veredito já estava dado há anos, e o torneio fora apenas a cerimônia.
 
@@ -160,7 +160,7 @@ Não havia resposta para isso. Só havia a certeza fria de que o veredito já es
 
 Pouco depois, o ancião anunciou oficialmente seu sucessor. Em seguida, retirou-se com Andus para um templo isolado, onde começaria o ensino dos conhecimentos secretos preservados por incontáveis gerações.
 
-Escuridão não foi embora.
+[escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) não foi embora.
 
 Passou a segui-los em segredo.
 
@@ -176,13 +176,13 @@ Então chegou o inverno.
 
 Era a noite em que Andus passaria pelo ritual de iluminação.
 
-Enquanto mestre e discípulo permaneciam isolados na cerimônia, Escuridão entrou no templo vazio.
+Enquanto mestre e discípulo permaneciam isolados na cerimônia, [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) entrou no templo vazio.
 
 Os corredores estavam silenciosos, o silêncio de um lugar que esperava alguma coisa. Encontrou os registros num cofre que não estava nem mesmo trancado. Talvez o velho confiasse demais. Talvez soubesse e não tivesse se importado.
 
 Os pergaminhos descreviam cada passo, cada preparação, cada benefício concedido ao iniciado.
 
-Escuridão leu tudo duas vezes. Depois enrolou os pergaminhos de volta no lugar exato onde estavam, como se isso pudesse apagar o fato de tê-los lido.
+[escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) leu tudo duas vezes. Depois enrolou os pergaminhos de volta no lugar exato onde estavam, como se isso pudesse apagar o fato de tê-los lido.
 
 Convencido de que bastava repetir o procedimento, subiu ao topo de uma montanha coberta de neve.
 
@@ -194,7 +194,7 @@ Restava apenas a última etapa.
 
 Entrar em transe profundo, um transe que simulava a própria morte.
 
-Escuridão se sentou no centro do círculo. Fechou os olhos.
+[escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) se sentou no centro do círculo. Fechou os olhos.
 
 E morreu.
 
@@ -278,7 +278,7 @@ Loucura.
 
 \*\*\*
 
-Antes de atacar, Escuridão declarou que sua antiga identidade seria apagada da história. Para isso, mataria todos que o conheceram durante a juventude no templo.
+Antes de atacar, [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) declarou que sua antiga identidade seria apagada da história. Para isso, mataria todos que o conheceram durante a juventude no templo.
 
 — Esse nome morreu na montanha — disse, e havia algo na frase que soava como um juramento, ou como uma sentença que ele próprio cumpria. — Eu não vou usá-lo de novo.
 
@@ -302,7 +302,7 @@ Ao final, o Grande Mestre estava nos braços do próprio discípulo. Ferido dema
 
 — Então você sabe o que precisa fazer agora.
 
-Escuridão olhou para ele por um longo momento.
+[escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) olhou para ele por um longo momento.
 
 — Não.
 
@@ -314,7 +314,7 @@ E morreu.
 
 \*\*\*
 
-Andus sobreviveu. Gravemente ferido, foi privado até de uma morte rápida. Escuridão o abandonou na floresta, para agonizar sozinho.
+Andus sobreviveu. Gravemente ferido, foi privado até de uma morte rápida. [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) o abandonou na floresta, para agonizar sozinho.
 
 Antes de ir, parou diante do amigo caído e disse:
 
@@ -322,13 +322,13 @@ Antes de ir, parou diante do amigo caído e disse:
 
 Andus tentou responder. Não conseguiu.
 
-— É isso que torna tudo pior, não é? — Escuridão olhou para o templo em chamas atrás de si. — Eu não te odeio. E ainda assim faria tudo de novo.
+— É isso que torna tudo pior, não é? — [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md) olhou para o templo em chamas atrás de si. — Eu não te odeio. E ainda assim faria tudo de novo.
 
 Virou-se e foi embora.
 
 Desde então, ninguém conhece o paradeiro de Andus. Alguns dizem que morreu naquela noite, na neve, sozinho. Outros afirmam que ainda vaga pelas matas, chamam este espírito de Vessa Fantasma  — uma sombra entre as árvores, observando o antigo templo à distância, esperando algo que nunca chega.
 
-Quanto à Escuridão...
+Quanto à [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md)...
 
 Hoje reina absoluto no mesmo lugar onde nasceu, cresceu e foi treinado.
 
@@ -338,7 +338,7 @@ Que o mestre de seu mestre também conheceu.
 
 E que incontáveis gerações chamaram de lar.
 
-Depois disso, nunca mais houve um ritual de passagem, o único mestre do Templo da Sabedoria  conhece desde de ontem, hoje e até o fim dos tempos  será Escuridão
+Depois disso, nunca mais houve um ritual de passagem, o único mestre do Templo da Sabedoria  conhece desde de ontem, hoje e até o fim dos tempos  será [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md)
 
 Fim?
 

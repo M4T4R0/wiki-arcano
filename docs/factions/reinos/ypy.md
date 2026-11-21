@@ -11,7 +11,7 @@
 
 ## 🏛️ Governo e Política
 - **Tipo**: **Espiões** / **Governantes**. A Rede funciona como uma teia invisível que conecta todos os pilares do poder, desde alertas militares até ordens ministeriais.
-- **Regente**: Senhor Imperador Deziel Áureo
+- **Regente**: Senhor Imperador [deziel áureo](../../npcs/individual/imperador-deziel-áureo.md)
 - **Gentílico**: Ypyano
 - **População**: aproximadamente 200.000 habitantes
 - **Espécies**: 90% Humanos, 10% divididos entre outros espécies

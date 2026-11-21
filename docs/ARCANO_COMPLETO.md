@@ -15859,7 +15859,7 @@ A agenda central da facção é **Preservar o Status Quo** de seus territórios 
 
 1. **Garantir o domínio absoluto** sobre seus vales e penhascos na Terra Selvagem, punindo qualquer intruso.  
 2. **Realizar sacrifícios rituais** no coração de seus labirintos para manter o favor divino de Bune.  
-3. **Neutralizar incursões de inimigos naturais**, como as Hordas Abaité (Orcs), a Legião Goblinóide e a Alcatéia Gnól.  
+3. **Neutralizar incursões de inimigos naturais**, como as Hordas Abaité (Orcs), a Legião Goblinóide e a Alcatéia [gnól](races/individual/gnól.md).  
 4. **Treinar as novas gerações** em escolas de combate para assegurar que a força física continue sendo a lei do clã.
 
 **5\. Obstáculos**
@@ -15880,7 +15880,7 @@ A organização interna é pautada por mérito combativo:
 
 **Crença Central:** "A boa morte é conquistada em batalha". Eles acreditam que o poder, e não as palavras, dita a lei, e que a honra é medida pelo sangue derramado nos vales.
 
-Vivem na Terra Selvagem, onde o horizonte é uma cicatriz infinita, e disputam território com outras raças monstruosas — conflito como clima, inevitável. Entre elas, os minotauros erguem-se como torres de carne. Colossos musculosos, metade homem, metade boi, moldados para guerra e perseguição. A cabeça é de touro, mas o corpo é humanoide: peito largo, ombros como muralhas, braços que parecem entalhados de pedra viva. Os pés, no entanto, terminam em cascos — marca da fera que habita a anatomia.
+Vivem na [terra selvagem](factions/reinos/terra-selvagem.md), onde o horizonte é uma cicatriz infinita, e disputam território com outras raças monstruosas — conflito como clima, inevitável. Entre elas, os [minotauros](races/individual/minotauros.md) erguem-se como torres de carne. Colossos musculosos, metade homem, metade boi, moldados para guerra e perseguição. A cabeça é de touro, mas o corpo é humanoide: peito largo, ombros como muralhas, braços que parecem entalhados de pedra viva. Os pés, no entanto, terminam em cascos — marca da fera que habita a anatomia.
 
 A pelagem varia do marrom queimado ao negro profundo, desgrenhada, espessa, lembrando tempestades noturnas. Os machos chegam a dois metros e meio, sombras imponentes no campo. As fêmeas não ficam atrás: mais baixas por pouco, com quadris amplos e seios humanos, atingindo cerca de dois metros e um palmo — presença igualmente predatória.
 
@@ -15892,29 +15892,29 @@ Mas são os chifres que definem o mito. Grandes, recurvos, apontando para frente
 
 **Habilidades**
 
-Minotauros não são apenas colossos de carne e chifre; são caçadores calculistas, mapas vivos de cada passo que dão. Seu olfato é preciso, capaz de seguir a trilha de uma presa através do vento e da terra com exatidão desconcertante. Onde outros erram ou vacilam, eles enxergam o caminho claro, cada curva e obstáculo gravados na memória como se a própria paisagem fosse uma extensão de seus corpos.
+[minotauros](races/individual/minotauros.md) não são apenas colossos de carne e chifre; são caçadores calculistas, mapas vivos de cada passo que dão. Seu olfato é preciso, capaz de seguir a trilha de uma presa através do vento e da terra com exatidão desconcertante. Onde outros erram ou vacilam, eles enxergam o caminho claro, cada curva e obstáculo gravados na memória como se a própria paisagem fosse uma extensão de seus corpos.
 
-Navegar não é esforço, é instinto elevado a arte. Um minotauro nunca se perde; cada trilha que percorre é traçada duas vezes: para frente e para trás. Ele sabe exatamente de onde veio, onde pisou e como retornar. Para ele, território é leitura, caça é geometria, e a Terra Selvagem é um livro aberto que apenas os predadores mais antigos sabem decifrar.
+Navegar não é esforço, é instinto elevado a arte. Um minotauro nunca se perde; cada trilha que percorre é traçada duas vezes: para frente e para trás. Ele sabe exatamente de onde veio, onde pisou e como retornar. Para ele, território é leitura, caça é geometria, e a [terra selvagem](factions/reinos/terra-selvagem.md) é um livro aberto que apenas os predadores mais antigos sabem decifrar.
 
 **Personalidade**
 
-Minotauros vivem com fome crônica — uma fome que queima mais fundo que o sol das planícies e alimenta sua agressividade. Filhotes mostram pouco apego, pouco respeito pelos pais; aprendem cedo que força é lei. As fêmeas mais velhas recebem deferência apenas enquanto mantêm superioridade física, e aquelas mais fracas que os machos são tratadas quase como escravas. Jovens adultos se esquivam, evitando conflitos diretos, conscientes de que cada desafio pode ser mortal.
+[minotauros](races/individual/minotauros.md) vivem com fome crônica — uma fome que queima mais fundo que o sol das planícies e alimenta sua agressividade. Filhotes mostram pouco apego, pouco respeito pelos pais; aprendem cedo que força é lei. As fêmeas mais velhas recebem deferência apenas enquanto mantêm superioridade física, e aquelas mais fracas que os machos são tratadas quase como escravas. Jovens adultos se esquivam, evitando conflitos diretos, conscientes de que cada desafio pode ser mortal.
 
 Entre os adultos, a vida é marcada por álcool, confronto e domínio. Disputam tesouros, fêmeas e poder com duelos que ressoam como trovões. Poligamia é comum; um touro procura espalhar sua linhagem, reunindo haréns de meia dúzia de fêmeas ou mais. Infanticídio ocorre em casos marginais, quando bezerros nascem deformados. Escravidão existe, ainda que limitada: machos mantêm os fracos, fêmeas assumem controle sobre seus escravos, descontando frustrações acumuladas. Tortura, porém, não é apreciada — não fazem disso espetáculo, apenas utilidade.
 
-Apesar da brutalidade, há espaço para respeito e empatia: minotauros podem ser surpreendentemente gentis com aqueles que provam força e merecimento. Inteligência não é seu ponto forte, mas instinto e astúcia os tornam caçadores formidáveis. Emboscadas, rastreamento e ataque certeiro fazem parte de sua estratégia natural. A preferência é pelo combate corpo a corpo: chifres como aríetes, corpos como moinhos de guerra. O cheiro de sangue e o som de ossos quebrando provocam frenesí, transformando a batalha em carnificina sem piedade.
+Apesar da brutalidade, há espaço para respeito e empatia: [minotauros](races/individual/minotauros.md) podem ser surpreendentemente gentis com aqueles que provam força e merecimento. Inteligência não é seu ponto forte, mas instinto e astúcia os tornam caçadores formidáveis. Emboscadas, rastreamento e ataque certeiro fazem parte de sua estratégia natural. A preferência é pelo combate corpo a corpo: chifres como aríetes, corpos como moinhos de guerra. O cheiro de sangue e o som de ossos quebrando provocam frenesí, transformando a batalha em carnificina sem piedade.
 
 Armadura é rara; preferem a pele nua e músculos tensos. Suas armas favoritas são de duas mãos — espadas montantes, martelos de guerra, machados grandes, alabardas e lanças em raras ocasiões. Ataque à distância é quase inexistente. Para um minotauro, nada substitui o impacto direto, a força bruta e o rugido de morte que anuncia sua aproximação.
 
 **Biologia**
 
-Minotauros são carnívoros eternamente famintos, predadores que comem homens com a naturalidade do vento varrendo a planície. Mesmo assim, a necessidade não os escraviza completamente: podem sobreviver semanas sem alimento, resistindo à fome como quem suporta a dor.
+[minotauros](races/individual/minotauros.md) são carnívoros eternamente famintos, predadores que comem homens com a naturalidade do vento varrendo a planície. Mesmo assim, a necessidade não os escraviza completamente: podem sobreviver semanas sem alimento, resistindo à fome como quem suporta a dor.
 
 A reprodução segue um ritmo semelhante ao humano, mas o coração pouco importa. A sociedade minotauro valoriza números, força e sobrevivência acima de afeto. Uma fêmea típica dá à luz um único bezerro; gêmeos são raros, celebrados como bênçãos ou presságios sombrios, dependendo do augúrio da tribo. O crescimento é rápido: aos dois anos, um bezerro já exibe chifres formados e pode matar goblins; aos cinco, é capaz de derrubar outros humanoides; aos dez, é considerado adulto. Alguns jovens podem procriar aos três anos. Para a fêmea, dar à luz um macho forte é realização máxima; para o touro, espalhar descendência é propósito de vida.
 
 A expectativa de vida é incerta. Muitos morrem antes de atingir a velhice, destruídos por batalhas, matança ou caça. Sábios especulam que a média ronda cinquenta anos, mas os veteranos de trinta anos já carregam cicatrizes de décadas de aço e sangue. A vida máxima, dizem, não ultrapassa setenta anos — caso a lâmina e o predador não cheguem primeiro.
 
-Minotauros procriam entre si e, ocasionalmente, com os Abaités. Não há registros confiáveis de descendência de cruzamentos com outras raças. A continuação da espécie é prática, instintiva, uma extensão da selvageria que define sua existência.
+[minotauros](races/individual/minotauros.md) procriam entre si e, ocasionalmente, com os Abaités. Não há registros confiáveis de descendência de cruzamentos com outras raças. A continuação da espécie é prática, instintiva, uma extensão da selvageria que define sua existência.
 
 Sociedade
 
@@ -15924,25 +15924,25 @@ Desde cedo, os jovens aprendem a lutar. Bezerros machos brincam com socos e chif
 
 Chifres são orgulho e identidade. Afiados, limpos e polidos, decorados com latão, prata, tachas ou espinhos, eles revelam força e posição social. Em algumas tribos, a cor do chifre dita prestígio ou atratividade, e óleos são usados para escurecê-los. Após duelos, o vencedor muitas vezes arranca o chifre esquerdo do derrotado, deixando-o mutilado; os chifres arrancados são transformados em instrumentos, troféus vivos de combate. Indivíduos poderosos podem acumular vários desses símbolos.
 
-Além dos chifres, adornos são raros. Cintos, manoplas e pouca coisa mais servem de decoração. Estudiosos notam a capacidade dos minotauros de absorver tradições alheias, contanto que aumentem agressividade e intimidação. Cultura própria é praticidade, não beleza.
+Além dos chifres, adornos são raros. Cintos, manoplas e pouca coisa mais servem de decoração. Estudiosos notam a capacidade dos [minotauros](races/individual/minotauros.md) de absorver tradições alheias, contanto que aumentem agressividade e intimidação. Cultura própria é praticidade, não beleza.
 
 No convívio com outras raças, respeitam apenas força verdadeira: ogros são aliados naturais; gigantes e trolls merecem reverência. Humanóides menores, como humanos, elfos e anões, só recebem consideração se provarem habilidade em combate. Para eles, humanóides se confundem uns com os outros. Inimigos naturais — Abaités, Goblinóides e Gnóis — despertam ódio imediato; o ataque é instintivo, sangue antecipado.
 
-No mundo da Terra Selvagem, minotauros vivem pela força, pela luta e pelo respeito que conseguem arrancar, deixando claro que poder, e não palavras, dita a lei.
+No mundo da [terra selvagem](factions/reinos/terra-selvagem.md), [minotauros](races/individual/minotauros.md) vivem pela força, pela luta e pelo respeito que conseguem arrancar, deixando claro que poder, e não palavras, dita a lei.
 
 **Religião**
 
-Muitos minotauros devotam-se ao Duque Demoníaco Bune, mantendo-se isolados, suas tribos quase sempre longe de outros clãs ou raças. Solitários por natureza, caçadores por instinto, eles raramente se adaptam a grupos, bandos ou festas; mesmo nas tradições mais rígidas, a reverência e os rituais variam de tribo para tribo, refletindo a diversidade de crenças que surgem da selvageria e da necessidade.
+Muitos [minotauros](races/individual/minotauros.md) devotam-se ao Duque Demoníaco Bune, mantendo-se isolados, suas tribos quase sempre longe de outros clãs ou raças. Solitários por natureza, caçadores por instinto, eles raramente se adaptam a grupos, bandos ou festas; mesmo nas tradições mais rígidas, a reverência e os rituais variam de tribo para tribo, refletindo a diversidade de crenças que surgem da selvageria e da necessidade.
 
 Os clérigos decoram os chifres com pictogramas esculpidos, desenhos ensanguentados e escurecidos, depois manchados com pigmentos amarelados. Roupas sacerdotais são desnecessárias: o corpo é coberto de terra, detritos, folhas e sangue fresco da batalha. O sangue de Gnóis é a preferência, por razões conhecidas apenas pelos próprios clérigos, mistério que aumenta seu poder e respeito silencioso.
 
-O culto gira em torno de sacrifícios, sempre no coração de labirintos, adornados com ossos de vítimas preciosas. Humanos são os mais comuns. Clérigos ganham prestígio não por piedade, mas pela força; derrotar um deles significa, entre os minotauros, ganhar chifres de valor inestimável.
+O culto gira em torno de sacrifícios, sempre no coração de labirintos, adornados com ossos de vítimas preciosas. Humanos são os mais comuns. Clérigos ganham prestígio não por piedade, mas pela força; derrotar um deles significa, entre os [minotauros](races/individual/minotauros.md), ganhar chifres de valor inestimável.
 
 A morte, na sociedade minotauro, não é temida. Pelo contrário: é sagrada. A boa morte é rápida, limpa, conquistada em batalha. Honra e sangue definem o destino. Cada vida terminada pela lâmina ou pelo impacto de um chifre é celebração de força, parte do credo que sustenta toda a cultura minotauro.
 
 # **A ALCATÉIA GNÓL** 
 
-A **Alcatéia Gnól** é estruturada como uma facção predatória, nômade e movida por uma sede de sangue de origem demoníaca.
+A **Alcatéia [gnól](races/individual/gnól.md)** é estruturada como uma facção predatória, nômade e movida por uma sede de sangue de origem demoníaca.
 
 Abaixo está a determinação de sua configuração oficial:
 
@@ -15957,7 +15957,7 @@ Abaixo está a determinação de sua configuração oficial:
 Os traços refletem a natureza biológica acelerada e a agressividade intrínseca desta espécie:
 
 * **Traço 1:** **Feroz**. Gnóis são predadores naturais que saboreiam as emoções da caça e começam a lutar por domínio desde que aprendem a andar.  
-* **Traço 2:** **Cruel**. A cultura gnól é pautada pela demonstração de força; eles exigem respostas em vez de fazer perguntas e não hesitam em matar por instinto ou fome.
+* **Traço 2:** **Cruel**. A cultura [gnól](races/individual/gnól.md) é pautada pela demonstração de força; eles exigem respostas em vez de fazer perguntas e não hesitam em matar por instinto ou fome.
 
 **3\. Vantagens**
 
@@ -15982,7 +15982,7 @@ A agenda central da facção é **Dominar Outros** e **Expurgar a Terra** (de ra
 O maior impedimento para a hegemonia total da Alcatéia é sua própria natureza:
 
 * **Muitos devem morrer:** O ciclo de vida curto, a mortalidade infantil altíssima devido a brigas constantes e a tendência a devorar os próprios mortos limitam o crescimento populacional estável.  
-* **Outra Facção se Opõe:** Disputam território ferozmente com Orcs (Abaité), Goblinóides e o Levante Táurico na Terra Selvagem.
+* **Outra Facção se Opõe:** Disputam território ferozmente com Orcs (Abaité), Goblinóides e o Levante Táurico na [terra selvagem](factions/reinos/terra-selvagem.md).
 
 **6\. Estrutura Hierárquica e Crenças**
 
@@ -15997,17 +15997,17 @@ A organização é pautada por mérito predatório e devoção demoníaca:
 
 Gnóis. Humanoides altos demais para o conforto humano, magros como quem nasceu para correr no escuro. Híbridos de gente e hiena, dizem — mas há quem sussurre que algo mais profundo, mais antigo, contamina seu sangue. Um vestígio de demônio, talvez. Veem-se traços disso na carne: olhos que ardem como brasa úmida, unhas alongadas em garras, peles negras marcadas por manchas que lembram fogo devorando fuligem.
 
-Vivem na Terra Selvagem, disputando território com as outras feras que ali infestam. Não se escondem; anunciam-se na velocidade com que se movem, na fome que carregam nos ossos compridos. São rápidos demais, leves demais — como se o corpo só fosse uma extensão do instinto.
+Vivem na [terra selvagem](factions/reinos/terra-selvagem.md), disputando território com as outras feras que ali infestam. Não se escondem; anunciam-se na velocidade com que se movem, na fome que carregam nos ossos compridos. São rápidos demais, leves demais — como se o corpo só fosse uma extensão do instinto.
 
 A vida lhes escapa cedo. Trinta anos, talvez menos, e já caem. Crescem depressa demais, amadurecem antes que os dentes assentem, e declinam de forma abrupta: vigor num dia, ruína no seguinte. Essa pressa parece parte de sua natureza, como se o tempo neles corresse diferente — mais cruel.
 
 Desde antes de falar, brigam. Mal aprendem a andar e já rastejam para longe dos olhos dos adultos, buscando cantos onde possam arrancar pedaços uns dos outros. Muitos morrem ali, antes de receber um nome. E isso, para os Gnóis, não é crueldade — é rito. Perguntas são fraqueza. Exigir, tomar, rasgar: é assim que se conversa.
 
-A caça não é necessidade; é liturgia. Sentem sabor nas emoções de quem foge. A maioria das raças os vê como selvagens, e talvez estejam certos. Não porque os Gnóis nasçam perversos, mas porque aquilo que os move é mais velho que moral. Uma fome primitiva, um chamado de sangue que inclina muitos deles à escuridão.
+A caça não é necessidade; é liturgia. Sentem sabor nas emoções de quem foge. A maioria das raças os vê como selvagens, e talvez estejam certos. Não porque os Gnóis nasçam perversos, mas porque aquilo que os move é mais velho que moral. Uma fome primitiva, um chamado de sangue que inclina muitos deles à [escuridão](npcs/individual/escuridão-entidade-da-infestação.md).
 
 Guardam troféus. Coisas quebradas, ossos, tiras de tecido. Não por fetiche, mas memória — lembretes de onde venceram, de quem tombou. Rastreadores Gnóis usam isso ao seu modo torpe, carregando fragmentos da presa contra o peito, farejando o rumo, deixando o instinto guiá-los como bússola animal.
 
-E há outra coisa. Onde passam, nada sobra. Não deixam sobreviventes. Não deixam corpo algum. Comem os mortos como quem respeita a função deles: sustento. Escravos, se tiverem utilidade; refeição, se não. Há relatos de bandos que invadem cemitérios, famintos pelo cheiro da morte fresca. Para muitos, isso é monstruoso. Para os Gnóis, é apenas continuidade — a certeza de que carne é carne, e a Terra Selvagem nunca desperdiça nada.
+E há outra coisa. Onde passam, nada sobra. Não deixam sobreviventes. Não deixam corpo algum. Comem os mortos como quem respeita a função deles: sustento. Escravos, se tiverem utilidade; refeição, se não. Há relatos de bandos que invadem cemitérios, famintos pelo cheiro da morte fresca. Para muitos, isso é monstruoso. Para os Gnóis, é apenas continuidade — a certeza de que carne é carne, e a [terra selvagem](factions/reinos/terra-selvagem.md) nunca desperdiça nada.
 
 **Terras**
 
@@ -16041,7 +16041,7 @@ Curiosamente, poucos Gnóis se inclinavam aos ritos. Não havia templos, nem sac
 
 Quando venciam, celebravam com banquetes e rituais de sangue. Às vezes, Raum respondia. Tomava um corpo como cavalo, possuía-o com ferocidade sobrenatural. Aqueles marcados eram chamados de Presas de Raum. Onde caíam mortos, hienas se alimentavam — e da carne corrompida surgiam novos Gnóis, adultos e prontos para matar, multiplicação febril que fazia bandos inteiros crescerem em uma noite.
 
-“Antarius disse uma vez que os Gnóis seguem sinais. Respingo de sangue, sombra quebrada, ossos enfileirados ao acaso — tudo é voz do Ceifador de Almas. Se um Gnól age estranho, é porque ouviu algo que só ele viu.”
+“Antarius disse uma vez que os Gnóis seguem sinais. Respingo de sangue, sombra quebrada, ossos enfileirados ao acaso — tudo é voz do Ceifador de Almas. Se um [gnól](races/individual/gnól.md) age estranho, é porque ouviu algo que só ele viu.”
 
 Em algumas matilhas, o poder tomava outra forma: bruxos. Aqueles que negociavam com servos demoníacos, pagavam com horrores para ganhar visões. Guiavam o bando como pastores de pesadelos. O pior de seus ritos era a Corrupção da Alma Consumida — vítimas vivas devoradas por hienas fêmeas, que, prenhez do tormento, pariam evistros e belgas, criaturas moldadas da agonia de suas almas. Nascimento rápido, vida violenta.
 
@@ -21328,7 +21328,7 @@ Mas no momento o que mais preocupava Azeron não era a festa ou a *"produção"*
 
 Somente uma força sobrenatural poderia tê-lo feito levar o livro e guardá-lo. E tinha aquela atitude estranha do professor, aquela expressão facial e aquele tom de voz macabro, isso não iria ficar assim.
 
-Esses pensamentos só o abandonaram quando ele se aproximou do seu destino. Já estava bem escuro quando chegaram à grande casa no meio de uma quadra em uma área nobre de Jurubatiba.
+Esses pensamentos só o abandonaram quando ele se aproximou do seu destino. Já estava bem escuro quando chegaram à grande casa no meio de uma quadra em uma área nobre de [jurubatiba](factions/reinos/jurubatiba.md).
 
 Como era de se esperar, os portões da casa estavam abertos e vários colegas da sua escola conversavam em vários grupos. A grande maioria dos que estavam ali presentes não eram residentes da escola como eles, mas era possível notar colegas fugidos do dormitório — com toda certeza, cada grupo tinha a sua forma de dar a sua escapada.
 
@@ -21650,7 +21650,7 @@ Quando chegaram ao local onde os bandidos haviam pulado, olharam para dentro. Do
 
 O maior dos ladrões sacou a espada e correu em direção a eles. Quando chegou na luz, sua visão se tornou mais amedrontadora: ele tinha mais de dois metros de altura, pele vermelha como se tivesse se banhado em sangue, e dentes caninos brotavam protuberantes do maxilar inferior. O nariz também era achatado como o de um porco.
 
-\[Você encontrou um novo tipo de inimigo, é um Orc de pele vermelha oriundo da Terra Selvagem, uma raça chamada Orc Abaité. Criaturas cruéis com mais de dois metros de altura e quase duzentos quilos de pura força bruta. Na sua sociedade Orc todos os humanos são opressores e todos os orcs são vítimas. Então cada vez que um orc vê um humano seu primeiro impulso é eliminar os opressores da sua raça. Lamento, mas você está fudido.\]
+\[Você encontrou um novo tipo de inimigo, é um Orc de pele vermelha oriundo da [terra selvagem](factions/reinos/terra-selvagem.md), uma raça chamada Orc Abaité. Criaturas cruéis com mais de dois metros de altura e quase duzentos quilos de pura força bruta. Na sua sociedade Orc todos os humanos são opressores e todos os orcs são vítimas. Então cada vez que um orc vê um humano seu primeiro impulso é eliminar os opressores da sua raça. Lamento, mas você está fudido.\]
 
 —  Droga, um Orc —  Azeron exclamou com um tom de surpresa.
 
@@ -22116,7 +22116,7 @@ As portas duplas, imponentes, se abriram magicamente para revelar a vasta vista 
 
 Afastando-se do edifício, olharam para trás, admirando a grandiosidade da estrutura. A Torre Dragonovith, a sede do governo da cidade e também a mais prestigiada escola de magia do mundo, se erguia com a largura de um estádio de futebol em sua base, ascendendo majestosa e ininterrupta por mais de meio quilômetro. O obelisco hexagonal de pedra negra desaparecia nas nuvens, conferindo um ar místico à construção.
 
-No topo da torre, nos andares finais, residia o Rei da Cidade-Estado onde estavam, Jurubatiba. Além de governar a cidade, ele desempenhava o papel de Diretor da escola de magia Dragonovith, sendo considerado um dos magos mais poderosos de seu tempo. O sol, ao se pôr, lançava um brilho dourado sobre a torre, intensificando sua majestade e mistério.
+No topo da torre, nos andares finais, residia o Rei da Cidade-Estado onde estavam, [jurubatiba](factions/reinos/jurubatiba.md). Além de governar a cidade, ele desempenhava o papel de Diretor da escola de magia Dragonovith, sendo considerado um dos magos mais poderosos de seu tempo. O sol, ao se pôr, lançava um brilho dourado sobre a torre, intensificando sua majestade e mistério.
 
 — Eu nunca me canso de olhar. Imagine como conseguiram construir uma torre dessas? É algo impensável — Mack sempre tinha essa reação ao contemplar a escola.
 
@@ -22690,7 +22690,7 @@ Logo após isso todos no estádio escutaram uma voz poderosa ecoar por todos os 
 
 — JÁ CHEGA\! Este duelo deve parar agora mesmo.
 
-A voz autoritária ecoou pela arena, interrompendo o combate. Era o próprio Rei de Jurubatiba, assistindo ao confronto do camarote ao lado dos professores da sua escola. Suas feições estavam marcadas por uma severidade incontestável, enquanto os demais professores mantinham expressões igualmente sérias. Apenas o professor Gorgo parecia eufórico, seus olhos brilhando com as possibilidades que se apresentavam a sua frente.
+A voz autoritária ecoou pela arena, interrompendo o combate. Era o próprio Rei de [jurubatiba](factions/reinos/jurubatiba.md), assistindo ao confronto do camarote ao lado dos professores da sua escola. Suas feições estavam marcadas por uma severidade incontestável, enquanto os demais professores mantinham expressões igualmente sérias. Apenas o professor Gorgo parecia eufórico, seus olhos brilhando com as possibilidades que se apresentavam a sua frente.
 
 O silêncio absoluto tomou conta do lugar, um contraste agudo com o caos que reinava instantes antes. A arena, agora cheia de destroços e marcada pela ferocidade do duelo, exalava uma aura sombria. Os espectadores, incrédulos, seguiam cada movimento dos combatentes com olhos atentos.
 
@@ -23104,7 +23104,7 @@ Seus pais podiam confiná-lo às instalações da escola durante as férias, mas
 
 A Torre da escola de magia era uma fortaleza colossal, um monumento erguido contra o próprio céu. Apenas alguns de seus incontáveis andares eram destinados às salas de aula e dormitórios dos estudantes. O restante servia à administração do reino. No topo ficava a Sala do Trono e as câmaras reais, onde o rei, um dos mais poderosos magos do mundo, governava este lugar conhecido como o Reino da Magia.
 
-Entre o vigésimo e o trigésimo andar, porém, erguia-se o coração pulsante da cidade: o espaçoporto de Jurubatiba. Ali, hangares circulares abrigavam desde pequenos navios mercantes até colossais embarcações de guerra, suspensas no ar como baleias de ferro e madeira. Um terço das docas era reservado às naves do rei; o restante, alugado a pilotos civis. Restaurantes, oficinas e hospedarias completavam o ambiente, transformando o espaçoporto quase em uma cidade interna dentro da torre, sempre tomada pelo som de motores arcanos e pelo cheiro de óleo, ozônio e especiarias.
+Entre o vigésimo e o trigésimo andar, porém, erguia-se o coração pulsante da cidade: o espaçoporto de [jurubatiba](factions/reinos/jurubatiba.md). Ali, hangares circulares abrigavam desde pequenos navios mercantes até colossais embarcações de guerra, suspensas no ar como baleias de ferro e madeira. Um terço das docas era reservado às naves do rei; o restante, alugado a pilotos civis. Restaurantes, oficinas e hospedarias completavam o ambiente, transformando o espaçoporto quase em uma cidade interna dentro da torre, sempre tomada pelo som de motores arcanos e pelo cheiro de óleo, ozônio e especiarias.
 
 Na manhã seguinte, Azeron vestiu roupas velhas, gastas, mas resistentes, próprias para uma jornada até ruínas esquecidas. Com o coração acelerado, entrou no elevador e subiu até o vigésimo segundo andar, onde Gorgo o aguardava.
 
@@ -23142,7 +23142,7 @@ Habbor franziu o cenho.
 
 Habbor confirmou com um aceno grave e indicou um homem diminuto, de pouco mais de um metro de altura, vestindo um macacão sujo de graxa e com um cinturão abarrotado de ferramentas na cintura. O pequeno trabalhava sem descanso, operando um enorme braço mecânico acoplado a um contêiner, enquanto encaixava caixas pesadas em seu interior.
 
-— Este é Kale, um autêntico Piquira de Avista. Além de excelente piloto, é um engenhoqueiro de primeira. Inclusive, esse braço mecânico que está vendo foi invenção dele.
+— Este é Kale, um autêntico Piquira de [avista](factions/reinos/avista.md). Além de excelente piloto, é um engenhoqueiro de primeira. Inclusive, esse braço mecânico que está vendo foi invenção dele.
 
 Gorgo arqueou as sobrancelhas, pensativo.
 
@@ -23312,7 +23312,7 @@ Mais adiante, destacava-se o alossauro de proporções sobrenaturais. Este aloss
 
 Todo o cenário tinha um ar de preparação para uma expedição épica. O cheiro de couro, metal e a leve fragrância da vegetação ao redor completavam o ambiente, dando a Azeron a sensação de que estavam prestes a embarcar em uma aventura épica, sua primeira aventura.
 
-Notando que Rasyl se aproximava, Habbor tirou da sua cintura uma bela adaga de lâmina negra, com a bainha e o cabo adornados com o símbolo do Real de Jurubatiba, ele a ofereceu ao garoto que imediatamente a agarrou.
+Notando que Rasyl se aproximava, Habbor tirou da sua cintura uma bela adaga de lâmina negra, com a bainha e o cabo adornados com o símbolo do Real de [jurubatiba](factions/reinos/jurubatiba.md), ele a ofereceu ao garoto que imediatamente a agarrou.
 
 — Esta é a minha adaga pessoal, dada a mim pelo próprio Rei. Acho que ela é mais adequada a um mago, então posso a emprestar a você.
 
@@ -23436,7 +23436,7 @@ Azeron desmontou e caminhou entre os corpos, observando a cena com olhos atentos
 
 — O senhor parece saber bastante sobre esses Reptóides, Habbor — Azeron comentou, curioso. — De onde vem todo esse conhecimento?
 
-— Estudar o inimigo é a primeira lição — respondeu Habbor com a voz áspera. — Conhecer hábitos, liderança, modos de ataque. Só assim você não morre por um erro estúpido. Nós lemos as hordas como mapas; cada criatura aqui da Terra Selvagem tem sua fraqueza.
+— Estudar o inimigo é a primeira lição — respondeu Habbor com a voz áspera. — Conhecer hábitos, liderança, modos de ataque. Só assim você não morre por um erro estúpido. Nós lemos as hordas como mapas; cada criatura aqui da [terra selvagem](factions/reinos/terra-selvagem.md) tem sua fraqueza.
 
 Azeron notou então uma Escamada — uma fêmea reptóide — agonizando a poucos passos, segurando a barriga com mãos encharcadas de sangue. Seus olhos, cheios de dor, perdiam-se no céu; um último gemido escapou de sua garganta. Azeron aproximou-se, movido por uma presença estranha de compaixão, e tentou estender a mão.
 
@@ -23815,7 +23815,7 @@ Então com um pensamento sombrio ele imaginou em como seria se anexasse as Treva
 
 As Trevas se entrelaçaram à sua mana com uma fluidez assustadora, fortalecendo-a de maneira antinatural. Quando abriu os olhos, o brilho azul habitual havia desaparecido. Agora, eles eram poços negros e profundos, refletindo um poder que não pertencia inteiramente a ele. O cajado pulsava em sua mão, mas não emitia luz — ao contrário, parecia devorar toda a claridade ao redor, envolto por um halo roxo sutil, como uma ferida aberta no ar.
 
-Azeron visualizou à distância o ponto vulnerável no peito da dragoa, o mesmo que Habbor e ele mesmo haviam ferido. Sem hesitar, canalizou tudo. O cajado vibrou violentamente, e o feitiço explodiu num Raio de Trevas que partiu o ar em um rasgo de pura escuridão. O disparo foi tão potente que o empurrou para trás, e o cajado cravou-se no chão, tremendo sob o impacto.
+Azeron visualizou à distância o ponto vulnerável no peito da dragoa, o mesmo que Habbor e ele mesmo haviam ferido. Sem hesitar, canalizou tudo. O cajado vibrou violentamente, e o feitiço explodiu num Raio de Trevas que partiu o ar em um rasgo de pura [escuridão](npcs/individual/escuridão-entidade-da-infestação.md). O disparo foi tão potente que o empurrou para trás, e o cajado cravou-se no chão, tremendo sob o impacto.
 
 O raio atravessou Fumegan de ponta a ponta — um corte vertical de energia que reduziu o rugido da dragoa a um grito gutural e breve. Por um instante, ela permaneceu imóvel, como se petrificada. Depois, caiu ainda de asas abertas planando em alta velocidade. A queda sacudiu o campo de batalha e ergueu uma nuvem de poeira que parecia engolir o mundo. Quando a poeira baixou, Fumegan jazia no fundo de uma cratera fumegante, o corpo enorme retorcido e sem vida.
 

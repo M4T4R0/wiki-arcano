@@ -12,7 +12,7 @@
 
 ## 🏛️ Governo e Política
 - **Tipo**: **Protetores** (Protectors) e **Militares**. A guilda atua como a coordenação intelectual e estratégica da Grande Muralha, gerenciando a defesa contra os horrores que tentam escapar da Infestação.
-- **Regente**: Rei Mictian Guerra
+- **Regente**: Rei [mictian](../../npcs/individual/rei-mictian-auçá.md) Guerra
 - **Gentílico**: Ypituruiano
 - **Símbolo**: Uma caveira em uma espiral.
 - **População**: aproximadamente 220.000 habitantes

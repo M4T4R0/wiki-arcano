@@ -11,7 +11,7 @@
 
 ## 🏛️ Governo e Política
 - **Tipo**: **Governantes** e **Místicos**. A facção é a Casa Real de Ybi, composta por uma elite de magos leais ao trono.
-- **Regente**: Faraó Karnos Minor,
+- **Regente**: Faraó [karnos minor](../../npcs/individual/karnos-minor-arquimago-faraó-de-ybi.md),
 - **Gentílico**: Ybiano
 - **População**: 400.000 pessoas.
 - **Espécies**: 50% Humanos, 25% Yawara ,25% divididos entre  outros espécie.

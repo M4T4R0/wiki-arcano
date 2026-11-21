@@ -28,8 +28,8 @@
 | Arthur Áureo | [Arthur Áureo](arthur-áureo-general-imperador.md) | 🟡 Média | General/Imperador jovem; Herói trágico |
 | Áureo I | [Áureo I](áureo-i-fundador-do-império.md) | 🟢 Baixa | Fundador do Império; 9 cidades |
 | Luna Lin | [Luna Lin](luna-lin-amazona.md) | 🟢 Baixa | Amazona; Mãe de Arthur Áureo |
-| Karnos Minor (Ybi) | [Karnos Minor (Ybi)](karnos-minor-arquimago-de-ybi.md) | 🟢 Baixa | Duplicate entry - Faraó de Ybi |
-| Sidius (Acemira Auçá) | [Sidius (Acemira Auçá)](sidius-acemira-auçá.md) | 🔴 Alta | Duplicate - Acemira Auçá |
+|| Karnos Minor (Ybi) | [Karnos Minor (Ybi)](karnos-minor-arquimago-faraó-de-ybi.md) | 🟢 Baixa | Arquimago/Faraó; Imortalidade ritual |
+|| Sidius (Acemira Auçá) | [Sidius (Acemira)](sidius-acemira-dos-auçá.md) | 🔴 Alta | Duplicate - Acemira Auçá |
 
 ---
 
