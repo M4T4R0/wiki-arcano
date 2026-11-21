@@ -741,7 +741,7 @@ Na verdade, parece que este novo país foi estabelecido principalmente por motiv
 Essa configuração reflete uma dinâmica complexa de poder e geopolítica, onde o novo país atua como um amortecedor entre o Império e seus inimigos, permitindo que o Império mantenha uma presença militar eficaz na região sem a necessidade de estender suas fronteiras diretamente até a área de conflito. Essa estratégia pode ser crucial para manter a estabilidade e a segurança na região, ao mesmo tempo em que protege os interesses do Império e de seus aliados.
 
 | ORIGENS REGIONAIS E OS REINOS Cada reino possui características próprias, entre elas estão clima, terreno, cultura e mais alguns aspectos que não apresentaremos aqui, essas características geram seres únicos totalmente adaptados aquela região. Para representar isso, cada Reino possui um conjunto de Vantagens Regionais que representam as diferenças que personagens criados nesses locais possuem. As Vantagens Regionais apresentadas para cada Localidade, cidade, reino nada mais são do que pequenos bônus que podem ser incorporados a personagens criados naquele ambiente. Você vai notar que há Vantagens Regionais que tem uma descrição entre Parêntese, essa descrição define para qual reino além do reino apresentado essa vantagem regional pode ser aplicada. Alguns reinos tem uma Vantagem Regional Exclusiva para o reino. |
-| :---- |
+|-------|
 
 # **GEOGRAFIA**
 
@@ -755,7 +755,7 @@ Airy é um continente muito grande e como tal existem muitas ilhas aos seu redor
 
 No outro lado do continente a Sudoeste, perto da Terra Selvagem fica a ilha de Tibá também com sua capital Megalópia, a ilha de onde os gigantes foram originados, nesta ilha todas as criaturas têm tamanhos muito maiores do que o normal, desde insetos gigantes até mamíferos colossais, o que se destaca nessa ilha, o Espécie dos FormianosFormians (Homens Formiga), que criaram um império que domina metade do continente e tem planos para expandir seus domínios até o continente, eles pretendem fazer isso nem que seja a força guiados pelas sua ambiciosa Rainha.
 
-# **LOCAIS DE INTERESSE NO MUNDO** {#locais-de-interesse-no-mundo}
+# **LOCAIS DE INTERESSE NO MUNDO** 
 
 **FLORESTA PROÍBIDA**
 
@@ -779,7 +779,7 @@ A região é o berço de criaturas conhecidas como Infestados, seres deformados 
 
 Para conter a ameaça, séculos atrás os Arcanos criaram “A Cortina”, uma barreira mágica colossal que requer sacrifícios contínuos para permanecer ativa. Além disso, a Grande Muralha de Ypiturui foi erguida ao redor da área, com 100 metros de altura e 1500 quilômetros de extensão, vigiada pela Guarda Açã, formada por condenados e exilados. Assim, a Área da Infestação permanece como um ponto de perigo absoluto, onde cada passo é uma ameaça e a própria realidade parece lutar contra quem ousa entrar.
 
-# **O Templo do Conhecimento** {#o-templo-do-conhecimento}
+# **O Templo do Conhecimento** 
 
 Nas profundezas da Floresta Ka’agwy, também conhecida como Floresta Proibida, ao noroeste do continente de Airy, ergue-se uma construção envolta em lendas, temor e mistério: o Templo do Conhecimento, um templo que foi fundado a milhares de anos atrás. Poucos ousam atravessar as trilhas tomadas pela vegetação densa e pela fauna hostil que cerca suas muralhas. Entre aventureiros, estudiosos e camponeses, o lugar é lembrado tanto como um santuário do saber quanto como a prisão de uma das criaturas mais perigosas que já caminharam pelo mundo.
 
@@ -1809,7 +1809,7 @@ Embora tentemos abranger o espectro vibrante dos povos de Arcano, devemos admiti
 
 Arcano abriga muitos arquétipos distintos, cada um com suas próprias vantagens, histórias e desafios. Embora este guia não possa cobrir a totalidade de seus habitantes, os jogadores são incentivados a utilizar as vantagens e diretrizes fornecidas pelo manual extensivo de Arcano, adaptando-as conforme necessário para enriquecer suas experiências neste mundo encantado. A diversidade de Arcano é um convite aberto à aventura, à descoberta e à criação de novas histórias que cruzam os limites do imaginável.
 
-# **Os Humanos Aba** {#os-humanos-aba}
+# **Os Humanos Aba** 
 
 Através dos olhares dos Abaré e dos Akitã, os Aba eram inicialmente vistos como um Espécie efêmero, com limitada capacidade de reter conhecimento. Contudo, subestimá-los foi um equívoco, pois foi justamente sua incrível adaptabilidade que catalisou a ascensão dos Humanos Aba como o Espécie predominante e mais influente em Airy. Sua habilidade de se ajustar às circunstâncias e dominar ambientes variados permitiu-lhes espalhar-se por todo o mundo, tornando-se o povo mais numeroso e poderoso.
 
@@ -1822,11 +1822,11 @@ No vasto Deserto Açu, povos nômades e algumas cidades-oásis prosperam, adapta
 Os Aba, com sua capacidade de se multiplicarem e de se adaptarem às mais diversas circunstâncias, firmaram-se de forma indelével no tecido socioeconômico e cultural de Airy, tornando-se a essência da diversidade e da resiliência humanas neste vasto mundo.
 
 | Os Humanos Aba (1 ponto) Victory • Adaptabilidade. Escolha uma vantagem que possua. Você pode usá-la por metade do custo em PM.  |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Os Elfos Abaré** {#os-elfos-abaré}
+# **Os Elfos Abaré** 
 
 Os Elfos Abaré: Guardiões Eternos da Floresta Ka'agw
 
@@ -1841,9 +1841,9 @@ Encontrar um Elfo Abaré fora de seu santuário natural é um evento raro, pois 
 Os Elfos Abaré, portanto, permanecem como sentinelas da floresta Ka'agwy, um povo etéreo enraizado em tradições milenares e em uma vigorosa defesa do mundo natural contra as marés da mudança e do esquecimento.
 
 | Os Elfos Abaré (1 ponto) Victory • Natureza Mística. Mesmo sem poderes mágicos, todo elfo tem ligação intrínseca com a magia. Em todos os testes de Mística (mesmo que não tenha a perícia), o atributo correspondente tem \+1. • Sentido Visão . Elfos têm visão aguçada. Sempre que testar Percepção relacionado a visão (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Código. Elfos sempre ajudam e nunca matam qualquer animal ou planta, nem permitem por omissão que alguém o faça. |
-| :---- |
+|-------|
 
-## **Meio-Elfos** {#meio-elfos}
+## **Meio-Elfos** 
 
 Herdeiros de Dois Mundos
 
@@ -1858,11 +1858,11 @@ Embora geralmente sejam bem recebidos em cidades humanas, a presença de meio-el
 Embora sejam uma visão rara em muitas partes do mundo, a natureza errante dos meio-elfos, impulsionada pela longevidade herdada dos elfos, os conduz a explorar os vastos horizontes de Airy. Alguns optam por se integrar ativamente na sociedade, empregando seu carisma e destreza social tanto em missões diplomáticas quanto em empreitadas menos lícitas. A trajetória dos meio-elfos é, assim, marcada por uma busca contínua por lugar e propósito, na qual eles tecem suas próprias narrativas entre a herança de dois povos.
 
 | Meio Elfo (1 ponto) Victory • Carismático. Meio-abarés têm facilidade para influenciar pessoas. • Sentido Visão . Meio-abaré têm visão aguçada. Sempre que testar Percepção relacionado à visão (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Fracote. Meio-abarés são mais fracos que os humanos normais.  |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Os Anões Akitã** {#os-anões-akitã}
+# **Os Anões Akitã** 
 
 Os Anões Resolutos de Airy
 
@@ -1889,7 +1889,7 @@ Os Akitã habitam o Mundo Interior, uma vasta cadeia de cavernas e túneis que s
 Individualmente, os anões são seres de determinação férrea, valorizando a lealdade e a palavra dada, mas também conhecidos por sua inabalável teimosia. Um sentido aguçado de justiça os torna memoriosos dos erros cometidos contra eles, perpetuando o princípio de que uma ofensa a um anão é uma ofensa ao seu clã inteiro. Assim, uma injúria pessoal pode facilmente escalar para um conflito clânico, evidenciando a profundidade do vínculo e da honra compartilhada entre os Akitã.
 
 | Anão Akitã (1 ponto) Victory • Abascanto. Akitãs são teimosamente resistentes a efeitos maléficos. Você tem Ganho em testes de Resistência para evitar ou cancelar efeitos ruins (exceto dano), como as vantagens Anulação, Desgaste, Paralisia e outras. • Infravisão. Seres subterrâneos por natureza, todos os akitã enxergam no escuro. • Código. Todo Akitã é guiado por pelo menos um código de conduta. |
-| :---- |
+|-------|
 
 **Meio-Anão**
 
@@ -1908,13 +1908,13 @@ Sua herança anã, embora menos evidente visualmente, facilita sua integração 
 Navegando entre dois mundos, mas plenamente aceitos em nenhum, os Meio-Akitãs representam uma ponte entre culturas, incorporando dentro de si a riqueza e a complexidade de suas heranças ancestrais. Seja nas cidades dos homens ou nas fortalezas subterrâneas dos anões, eles trazem consigo uma perspectiva única e valiosa, forjada na interseção de seus mundos.
 
 | Meio-Anão (2 pontos) Victory • Abascanto. Muls distinguem-se por sua incrível resiliência frente a influências negativas. Eles possuem uma Aptidão em testes de Resistência, destinada a superar ou neutralizar efeitos adversos (com exceção de dano direto), incluindo, mas não se limitando a, vantagens como Anulação, Desgaste, Paralisia, entre outras. • Infravisão. Seres nascidos das profundezas, todos os Akitã possuem a capacidade natural de visão noturna, permitindo-lhes enxergar na completa escuridão. • Incansável. Você precisa de apenas 4 horas de descanso para ter o mesmo benefício de 8 horas de descanso para pessoas normais. Também em testes de morte você ignora o pior resultado, se tirou Morto, passa para Quase Morto, se tirou Quase morto, passa para Inconsciente e assim por diante. Só funciona uma vez por cena, se você receber castigo contínuo pode acabar morto. |
-| :---- |
+|-------|
 
  
 
-| :---- |
+|-------|
 
-# **Os Halflings Kaapora** {#os-halflings-kaapora}
+# **Os Halflings Kaapora** 
 
 Astúcia e Alegria Entre as Colinas
 
@@ -1931,9 +1931,9 @@ Sua capacidade de adaptação permite que integrem-se com facilidade a comunidad
 Halflings são colaborativos e extremamente leais a seus amigos e familiares, mostrando uma coragem inesperada frente a ameaças aos seus entes queridos. Amana, sua cidade principal, resplandece com a beleza singular de suas casas enraizadas nas colinas da floresta. Sua inabalável bravura diante do temor, que muitos julgam ser uma capacidade quase mística de resistir ao medo, é, na verdade, fruto de um treinamento para enfrentarem seus receios sem sucumbir a eles.
 
 | Halflings Kaapora (1 ponto) Victory • Atirador. Kaaporas têm aptidão natural para arremessar coisas. Você pode gastar 2PM para ter Ganho em um teste por cena para atacar Longe, em combate violento. • Malandro. Você é um Kaapora e sempre consegue o que quer. Sempre que testar Manha (mesmo que não tenha a perícia), o atributo correspondente tem \+1. • Diferente. Quando um Kaapora pernoitar em sua casa, ele pode dormir em uma gaveta aberta. |
-| :---- |
+|-------|
 
-# **Os Gnomos Piquira** {#os-gnomos-piquira}
+# **Os Gnomos Piquira** 
 
 Os Piquira são um Espécie notavelmente inteligente, inventiva, energética e muitas vezes excêntrica, apresentando um paradoxo único entre as civilizações de Airy. Estes gnomos são renomados por sua brilhante inventividade e animada disposição. São mecânicos, engenheiros e técnicos de destaque, profundamente respeitados por seu domínio das facetas científicas do mundo e sua habilidade em transformar conhecimento em incríveis ferramentas, veículos, armaduras e armas.
 
@@ -1948,11 +1948,11 @@ Os gnomos de Airy fazem suas moradas nas cordilheiras ao norte, próximos ao Rei
 Gnomos que se estabelecem em terras humanas frequentemente ocupam posições como engenheiros, sábios ou ilusionistas. Algumas famílias humanas mantêm gnomos como tutores, proporcionando uma mistura de aprendizado sério e prazer para várias gerações ao longo das longas vidas desses seres.
 
 | Gnomo Piquira (1 ponto) Victory • Inventivos. Piquiras são muito bons em tecnologia. Sempre que testar Máquinas (mesmo que não tenha a perícia), o atributo correspondente tem \+1. Além disso, você recebe Sentido (Olfato). • Pequenos Desejos. Piquiras são conhecidos por usar pequenos truques e magias menores o tempo todo. Eles podem usar a Técnica *Pequenos Desejos* mesmo sem ter a perícia Mística, ou a vantagem Magia. • Diferente. Piquiras não podem usar roupas, armas ou equipamentos feitos para humanos. |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Os Kemonos Yawara (1 ponto)** {#os-kemonos-yawara-(1-ponto)}
+# **Os Kemonos Yawara (1 ponto)** 
 
 O Espécie dos Yawara, conhecido por sua variedade de humanóides antropomórficos com traços animais, habita o pequeno continente a nordeste de Airy, chamado de Lauré. Lá, os Kemonos, como são chamados, desenvolveram uma sociedade semelhante à humana, com estruturas de governo, cidades bem organizadas e uma diversidade de ocupações entre seus habitantes.
 
@@ -1965,9 +1965,9 @@ Aqueles Kemonos que decidem estabelecer-se fora de Lauré vivem entre os habitan
 Em Lauré, além de Tupãsununga, existem outras cidades independentes, que não são subordinadas ao reino principal. Essas cidades têm suas próprias estruturas de governo e culturas distintas, contribuindo para a diversidade e riqueza do continente dos Kemonos.
 
 | Kemono Yawara (1 ponto) Victory • Talento. Yawaras têm certas aptidões físicas ou mentais, dependendo de sua herança animal. Escolha uma vantagem entre Ágil, Carismático, Forte, Gênio, Resoluto ou Vigoroso. • Percepção Apurada. Yawara têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Cacoete. Yawara demonstram algum traço negativo ligado a seu lado animal: coelhos podem ser cautelosos, raposas traiçoeiras, e assim por diante. Escolha uma desvantagem entre Antipático, Atrapalhado, Fracote, Frágil, Indeciso ou Tapado. |
-| :---- |
+|-------|
 
-# **Os Orcs Abaité** {#os-orcs-abaité}
+# **Os Orcs Abaité** 
 
 Os Orcs são um Espécie de seres nascidos e criados para a guerra, sua essência enraizada na brutalidade e na busca pelo poder. Cruéis, sádicos e sedentos por controle, eles se deleitam no sofrimento dos mais fracos e não hesitam em trair aqueles que consideram inferiores ou superiores a eles.
 
@@ -1981,7 +1981,7 @@ Os olhos semi-animalescos dos Orcs emitem uma leve luminescência no escuro, ref
 
 Para os Orcs, pertencer ao império humano é ser um opressor, e qualquer ação tomada contra eles é justificada e necessária para o bem da tribo. Eles vivem em um mundo onde os fortes dominam sobre os fracos, onde a lei do mais forte é a única lei que importa. E é nesse cenário de violência e brutalidade que os Orcs prosperam, determinados a conquistar e subjugar tudo em seu caminho. Tem suas Hordas na Terra Selvagem
 
-## **Meio-Orc** {#meio-orc}
+## **Meio-Orc** 
 
 Os Meio-abaités são uma mistura única de Abaités com outros espécies humanoides, e os Meio-orcs são exemplos notáveis dessa união, exibindo uma fusão de características tanto orcs quanto humanas. Sua aparência é variada, mas geralmente inclui tons de pele avermelhados e dentes proeminentes, traços que denotam sua herança orc.
 
@@ -1994,11 +1994,11 @@ Embora possam ser ranzinzas e mal-humorados, os meio-orcs também são capazes d
 Nos impérios humanos, os meio-orcs geralmente encontram trabalho como brutamontes ou aventureiros, utilizando suas habilidades físicas e determinação para ganhar a vida em um mundo que muitas vezes os rejeita. Apesar das adversidades que enfrentam, os meio-orcs continuam a lutar por seu lugar no mundo, navegando entre as complexidades de sua herança e buscando encontrar aceitação e pertencimento onde quer que possam.
 
 | Meio-Orc (1 ponto) Victory • Intimidador. Meio-Abaités são assustadores e despertam o medo nas pessoas. Você sempre tem Ganho em testes de Influência para assustar, intimidar ou amedrontar alguém. • Subterrâneo. Você recebe Sentido (Infravisão). Você também tem Ganho em testes de R para evitar ou cancelar doenças e venenos, sejam naturais ou mágicos. • Tapado. Você não está entre os mais inteligentes. • Atenção. Este arquétipo corresponde ao Meio-abaité, porque recomendamos que personagens de jogadores não sejam Orcs, criaturas vis e assassinos cruéis, mas se mesmo assim você quiser jogar com um Abaité, adicione a este arquétipo, as vantagens e desvantagens:  • Brutal. Abaités são fortes e brutais. Escolha uma vantagem entre Forte ou Vigoroso.  • Intimidador. Meio-Abaités são assustadores e despertam o medo nas pessoas. Você sempre tem Ganho em testes de Influência para assustar, intimidar ou amedrontar alguém. • Subterrâneo. Você recebe Sentido (Infravisão). Você também tem Ganho em testes de R para evitar ou cancelar doenças e venenos, sejam naturais ou mágicos. • Tapado. Você não está entre os mais inteligentes. • Infame. Ninguém gosta de ter assassinos cruéis por perto. |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Licantropos** {#licantropos}
+# **Licantropos** 
 
 Os Ní-guarás, também conhecidos como Licantropos, são um Espécie poderoso de Aba (ou humanóides) com a habilidade sobrenatural de se transformarem em criaturas híbridas, metade humano e metade lobo. São homens e mulheres treinados para a guerra, capazes de adentrar territórios inacessíveis para outros e enfrentar ameaças que desafiam a bravura comum.
 
@@ -2011,9 +2011,9 @@ Além disso, os Licantropos são frequentemente associados a hengeyoukai, ou "de
 Uma das espécies mais conhecidas em Airy são os Capelobos. Segundo a lenda, possuem corpos que misturam características humanas com as de animais, com cabeças e focinhos de tamanduá-bandeira, corpos humanos robustos e peludos. Rápidos e ágeis, habitam as matas próximas aos rios e regiões de várzeas, sendo especialmente ativos durante a noite e a madrugada. Emitindo sons assustadores, essas criaturas se alimentam de cães e gatos, além de atacar caçadores, perfurando seus crânios e sugando seus cérebros com suas línguas de tamanduá. Seus hábitos noturnos e sua aparência assustadora contribuem para a fama de criaturas temíveis entre os habitantes de Airy. São encontrados em todo o mundo.
 
 | Licantropo (1 ponto) Victory • Transformação. você é um licantropo, tem sua forma principal, híbrida entre humano e animal e tem mais uma forma humana, (mas pode ser de qualquer outro Arquétipo), esta outra forma têm as mesmas desvantagens, mas você ainda pode pagar 1 ponto extra para comprar Transformação 2\. • Percepção Apurada. Você têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Fraqueza (Prata). Digamos que a prata é a sua “bala de prata”. |
-| :---- |
+|-------|
 
-# **Os Meio-Gigantes Anaiti** {#os-meio-gigantes-anaiti}
+# **Os Meio-Gigantes Anaiti** 
 
 Eles tem uma filosofia de vida, tem seus costumes e os seguem à risca, eles não se casam, mas tem um compromisso para com a sociedade, eles não se casam mas tem uma obrigação de ter no mínimo dois filhos com outras mulheres Anaiti. Eles podem amar e se casar, mas isso é considerado errado na sua cultura militarista nômade.
 
@@ -2030,11 +2030,11 @@ Embora sejam amigáveis com outros espécies, os Anaitis não são tolos e não 
 Nas pequenas aldeias itinerantes Anaitis, especialmente aquelas próximas aos Montes Brancos na Terra Selvagem, eles caçam, coletam recursos e mantêm seu domínio sobre a região. Vessoria, o mais renomado assentamento Anaiti de Airy, localizado na Terra dos Pistoleiros, as margens do Império, é uma potência mercenária temida e respeitada por todos que conhecem sua reputação, e seus guerreiros são reconhecidos como os melhores do mundo, capazes de impor respeito onde quer que vão.
 
 | Meio-Gigantes Anaiti (1 ponto) Victory • Destruidor. Quase nada causa mais estrago que um Anaiti. Em combate violento, quando consegue um acerto crítico em um teste para atacar um oponente Perto, você pode pagar 1PM para somar seu Poder mais uma vez. Você só pode usar esse poder uma vez por ataque, mesmo que consiga mais de um crítico. • Gigante. Você recebe Forte e pode pagar 1PM para conseguir um crítico com 5 ou 6 nos dados em testes de Poder para esforço físico (levantar peso, derrubar uma porta…), testes de iniciativa, e testes de Habilidade para correr ou perseguir um alvo. • Intimidador. Quase nada é tão assustador quanto um Anaiti. Você sempre tem Ganho em testes de Influência para assustar, intimidar ou amedrontar alguém. • Diferente. Quase nada é tão grande quanto um Anaiti. • Tapado. Você não é a mais esperta das pessoas. |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Os Auçá (1 Ponto)** {#os-auçá-(1-ponto)}
+# **Os Auçá (1 Ponto)** 
 
 Os Auçás são um Espécie singular em Airy, caracterizados por suas armaduras ósseas que, na verdade, são seus próprios esqueletos que crescem como uma proteção natural ao redor de seus corpos. Esses guerreiros formidáveis foram criados há relativamente pouco tempo, durante a Infestação que assolou Airy, resultando em mutações na área afetada. Observando o surgimento de um Espécie de crustáceos gigantes e inteligentes na região, os Arcanos Imperiais decidiram criar indivíduos que se assemelhassem aos Aba, utilizando magia e cruzamento genético. Em questão de séculos, os Auçás já eram bastante semelhantes à forma que conhecemos hoje.
 
@@ -2051,12 +2051,12 @@ No Império, é comum encontrar Auçás dedicando um ano de suas vidas para comb
 Apesar de raros, existem aldeias e tribos Auçás dentro dos limites do Império, muitas vezes buscando uma vida pacífica longe da hierarquia militar. Contudo, mesmo sendo um Espécie relativamente novo, os Auçás podem ser encontrados em qualquer lugar do mundo, demonstrando sua adaptabilidade e presença global.
 
 | Auçá (1 ponto) Victory • Exoesqueleto. Você pode gastar um movimento e 2PM para fortalecer seu Exoesqueleto, recebendo Ganho em todas as jogadas de Defesa até seu próximo turno. • Regeneração. Um Auçá tem uma versão mais fraca de Regeneração que os torna o unico Espécie imune aos efeitos da Infestação. Você regenera 1 Ponto de Vida por rodada. Caso chegue a 0 PVs, (e não sofrer Morte no Teste de Morte) leva 1dx3 turnos (ou na próxima cena o que acontecer antes) para recuperar 1 PV e então volta a regenerar normalmente. • Monstruoso. Você é um Auçá, parece alguém que está usando uma armadura completa e pronto para atacar a qualquer momento. Todos vão estar em prontidão quando você estiver por perto. • Fraqueza à Obsidiana. Seu poder de regeneração é anulado se for causado por armas de Obsidiana (material extremamente raro), devendo ser curado com descanso ou mágica. Você também sempre tem Perda quando na presença deste material. |
-| :---- |
+|-------|
 
 | full body character illustration, art style of Kentaro Miura (Berserk), \[SUBJECT: Male Auçá Warrior, hulking muscular physique encased in a natural biological white bone exoskeleton\], \[HEAD: helmet-like bone skull structure framing a human face, NO HORNS, thick heavy dreadlocks falling over shoulders\], \[TEXTURE: calcified organic plates, rough crustacean-like surface, battle scars and scratches\], \[CLOTHING: wearing a heavy weathered military tabard with a crest over the bone armor, thick leather belt\], \[WEAPON: resting a massive jagged iron greatsword on his shoulder\], \[STYLE: heavy black ink cross-hatching, dramatic shading, gritty dark fantasy, intense atmosphere\], isolated on white background, 8k. full body character design of an "Auçá" Noble in the art style of Kentaro Miura (Berserk), \[ANATOMY: humanoid figure encased in a natural biological white bone exoskeleton, calcified plates growing from skin, crustacean-like organic armor texture\], \[HEAD: a stoic face framed by bone plating, NO HORNS, smooth bone forehead, long thick black DREADLOCKS flowing from the back of the skull\], \[CLOTHING: wearing a luxurious high-collar velvet tunic draped over the bone armor, intricate embroidery, heavy flowing cape\], \[POSE: standing tall with aristocratic posture, hands resting on a cane or decorative sword\], \[STYLE: heavy ink cross-hatching, gritty dark fantasy aesthetic, intense shading, detailed fabric folds\], isolated on white background, 8k. full body character illustration, art style of Kentaro Miura (Berserk), \[SUBJECT: Male Auçá Warrior, hulking muscular physique encased in a natural biological white bone exoskeleton\], \[HEAD: helmet-like bone skull structure framing a human face, NO HORNS, thick heavy dreadlocks falling over shoulders\], \[TEXTURE: calcified organic plates, rough crustacean-like surface, battle scars and scratches\], \[CLOTHING: wearing a heavy weathered military tabard with a crest over the bone armor, thick leather belt\], \[WEAPON: resting a massive jagged iron greatsword on his shoulder\], \[STYLE: heavy black ink cross-hatching, dramatic shading, gritty dark fantasy, intense atmosphere\], isolated on white background, 8k. |
-| :---- |
+|-------|
 
-# **Os Abaquar** {#os-abaquar}
+# **Os Abaquar** 
 
 Os Abaquar, não envelhecem nem adoecem, e se forem mortalmente feridos ou se sofrerem um grande desgosto seu corpo morre, mas seu espírito sobrevive e nasce novamente com resquícios da sua antiga memória, na cidade do seu reino que nasceu, após o nascimento. 
 
@@ -2065,11 +2065,11 @@ Vivem nas Cordilheiras Atã, as montanhas flutuantes que formam uma cadeia que c
 Os Abaquar, não envelhecem nem adoecem mas quando seu tempo de vida chega ao final com aproximadamente 500 anos morrem, e se forem mortalmente feridos ou se sofrerem um grande desgosto seu corpo morre, mas seu espírito sobrevive e nasce novamente com a sua antiga memória, na mesma cidade do que nasceu, assim podem ter vários pais durante as sua longas vidas. Quando crianças ainda não lembram de suas memórias das outras vidas, que começam a ser relembradas quando chegam no final da adolescência e início da vida adulta que é quando eles adotam seu verdadeiro nome. Eles se referem a si mesmos como seu nome e quantas vidas já tiveram, por exemplo: Klion está na sua 12 vida, então ele se chama Klion 12º.
 
 | Abaquar (3 pontos) Victory • Memória Póstuma. Escolha uma perícia qualquer. Sempre que testá-la (mesmo que não tenha a perícia), o atributo correspondente tem \+1. • Teratismo. Os Abaquar têm poderes passados de suas vidas passadas. Você tem desconto de 1 ponto na compra de vantagens, um Truque ou Técnica Comum (veja em “Recompensas”) à sua escolha. • Vôo. Todos os Abaquar podem voar, devido a sua descendência de anjos. • Antipático. Você é um Abaquar, já viveu muitas vidas, tem muitas mágoas e ressentimentos reprimidos ou é apenas um velho rabugento e não tem mais paciência para agradar os outros, de qualquer forma, você é antipático. |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **As Icamiabas** {#as-icamiabas}
+# **As Icamiabas** 
 
 Habilidosas na caça, elas desenvolveram seu corpo através da predatoriedade e adaptação à floresta. É o grupo menos populoso, vivendo muitas vezes em reclusão.  As Abaibas são conhecidas como um povo composto somente por mulheres, elas são uma espécie de amazonas da floresta Proibida. Elas se reproduzem somente ao se unirem a outros espécies, geralmente se a prole for uma menina será uma Icamiabas, se for menino será do Espécie do pai. 
 
@@ -2082,9 +2082,9 @@ Em geral, a personalidade das Icamiabas é sempre forte, são narcisistas, indiv
 Raramente você encontra um Icamiaba vivendo definitivamente longe das suas florestas, somente Icamiabas que tenham sido exiladas do seu reino fixam residência fora de lá, e  ainda os locais mais comuns são as cidades Élficas devido a semelhança com sua terra natal. No império de modo geral quando uma Icamiaba é encontrada ela apenas está a procura de conhecer o mundo e viajar. De modo geral o povo comum não desconhece que as Icamiabas são um povo de um lugar distante, eles imaginam que elas sejam apenas belas mulheres que sofrem com algum tipo de maldição por terem traços felinos ou de coelhos.
 
 | Icamiaba (2 pontos) Victory • Percepção Apurada. Icamiabas têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Atirador. Icamiabas têm aptidão natural para ataques à distância. Você pode gastar 2PM para ter Ganho em um teste por cena para atacar Longe, em combate violento. • Carismático. Icamiabas têm facilidade para influenciar pessoas. • Insano (Paranóica). Icamiabas não confiam em ninguém que não seja outra Icamiaba. |
-| :---- |
+|-------|
 
-# **Reptantes** {#reptantes}
+# **Reptantes** 
 
 Reptantes ou Escamados como são popularmente conhecidos são uma variedade grande de humanóides reptilianos de vários espécies diferentes, desde Homens Lagartos até Homens Dinossauros, que habitam todo o mundo desde o Deserto Açu até a Terra selvagem. Sua pele é coberta de escamas e variava de cor entre verde escuro a tons de marrom e cinza. Mais altos e robustos do que os humanos, Reptantes têm caudas musculares usadas para equilibrar. Eles também têm garras e dentes afiados.
 
@@ -2121,24 +2121,24 @@ As fêmeas das tribos são responsáveis pela eclosão de ovos, criação de fil
 As Tribus dos Reptantes ficam em sua grande maioria na Terra Selvagem, disputando territórios com as demais raças monstruosas de lá.
 
 | Reptante (1 ponto) Victory • Talento. Reptantes têm certas aptidões físicas ou mentais, dependendo de sua herança réptil. Escolha uma vantagem entre Ágil, Carismático, Forte, Gênio, Resoluto ou Vigoroso. • Camuflagem. Reptantes têm movimentos lentos, coloração igual ao ambiente e muita paciência. Você sempre tem Ganho em testes para se esconder. • Fraqueza (Frio). Você fica lerdo no frio. Leva um casaquinho. |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Minotauros** {#minotauros}
+# **Minotauros** 
 
 Vivem na Terra Selvagem e disputam Territórios com as Demais raças monstruosas de lá. Minotauros são grandes, humanóides musculosos. Eles têm a cabeça de um touro, tronco superior, mãos e o corpo de um humano, e pés são cascos de boi. Seus pêlos e cabelos selvagens geralmente variam de marrom a preto. Os machos alcançam até 2,5 metros de altura, enquanto as fêmeas, têm aparência semelhante, com quadris mais largos, seios humanóides, e podem atingir cerca de 2,1 metros.
 
 Os corpos de minotauros têm forma e construção semelhantes aos de um ogro. Suas mãos são enormes e fortes, terminando em grossas unhas amarelas afiadas, mas que não são usadas em batalha. Apesar de suas cabeças serem as de um touro, há diferenças sutis nas características entre bestas mundanas e minotauros. Alguns são conhecidos por terem caudas semelhantes a bois; no entanto, essa característica não é comum. Seus focinhos são mais grossos e mais longos que os de um boi normal, e  tem dentes carnívoros afiados. Seus caninos são especialmente perceptíveis, e os minotauros nunca hesitam em morder suas vítimas. Por fim, ao contrário dos bovinos, os olhos dos minotauros são posicionados mais perto do centro de seus rostos, concedendo-lhes boa percepção de profundidade e outra evidência reveladora de sua natureza predatória.
 
 | Minotauro (1 ponto) Victory |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
 # 
 
-# **Gnól** {#gnól}
+# **Gnól** 
 
 Gnóis são humanóides que se assemelham a híbridos humano-hena. São carnívoros, conhecidos por sua cultura selvagem. Vivem na Terra Selvagem, e disputam Território com as raças monstruosas de lá.
 
@@ -2155,11 +2155,11 @@ Muitos  outros espécies acham os Gnóis selvagens e agressivos. Os Gnóis come�
 Embora os Gnóis não sejam necessariamente maus, o desejo pela caça e a sede de sangue primordial que habitavam a sua mente fazem com que muitos do Espécie se inclinassem para o mal.
 
 | Gnól (1 ponto) Victory • Ágil. Gnóis são esguios e rápidos. • Percepção Apurada. Gnols têm sentidos aguçados. Sempre que testar Percepção (mesmo sem a perícia, nem Sentido), o atributo correspondente tem \+1. • Vigoroso. Por seus hábitos de comer carniça e coisas podres, eles são muito mais resistentes. • Infame. Ninguém gosta de ter assassinos cruéis por perto. |
-| :---- |
+|-------|
 
-| :---- |
+|-------|
 
-# **Goblinoides** {#goblinoides}
+# **Goblinoides** 
 
 **Uma Horda Goblinóide.** Os três tipos de Goblinoides de forma natural nunca convivem entre si pacificamente, mas se eles julgarem que receberam sinais dos seus deuses para se juntar em uma Horda, onde os Hobgoblins imediatamente assumem o comando e impõem sua hierarquia militar sobre as demais espécies Goblinóides, mas a organização em Horda nunca dura muito tempo, acabando imediatamente quando a campanha militar divina que eles acharam que deviam fazer acaba.
 
@@ -2185,7 +2185,7 @@ Bugbears, como outros goblinóides, têm a reputação de serem estúpidos e bru
 
 Bugbears são frequentemente encontrados na companhia de outros goblinóides, particularmente goblins, já que tribos compostas principalmente de hobgoblins e bugbears tendem a ser exterminados rapidamente por  outros espécies como precaução. Alguns bugbears também operam de forma independente, embora as tribos governadas por hobgoblins fossem mais bem organizadas e menos selvagens. Isto acontecia em parte porque os bugbears tem pouca paciência para a diplomacia ou a negociação, preferindo soluções violentas aos conflitos, a menos que fossem obviamente dominados
 
-| :---- |
+|-------|
 
 # **IMPÉRIO**
 
@@ -2261,7 +2261,7 @@ O Selo Imperial consiste em um círculo de correntes atravessado por um obelisco
 
 O Escudo Imperial é formado por um grande obelisco negro coroado por um Olho Observador projetando raios Dourados em sua volta como uma coroa. De seu centro partem longos raios dourados que se abrem para ambos os lados como asas de lâminas afiadas, estendendo-se horizontalmente em uma estrutura imponente. Correntes pesadas atravessam o símbolo de uma extremidade à outra, envolvendo o obelisco e reforçando sua aparência severa e intimidadora.
 
-# **A História do Império** {#a-história-do-império}
+# **A História do Império** 
 
 Após a fundação das primeiras cidades estado do império, Áureo I morreu de morte natural em seu castelo e como ele não havia deixado herdeiros legítimos houve um vácuo de poder e uma disputa entre seus generais. Caíco, o Breve, além de ser considerado como um irmão por Áureo, era justo e gentil, e um dos mais condecorados generais de Áureo I, então foi considerado por unanimidade para assumir o controle do império. No entanto, os combates na Terra de Ninguém, divisa do território do império com a terra selvagem, estavam acirrados este ano e Caíco em uma fatalidade foi ferido mortalmente em campo de batalha. Estudiosos de Moacuba acreditam que o Império seria totalmente diferente se a linhagem de Caíco estivesse no poder hoje, talvez o fosse muito mais justo e gentil assim como foi seu governante, mas o destino não quis assim.
 
@@ -2323,7 +2323,7 @@ Nos anos anteriores a 1014, Ypiturui procurava um motivo para se rebelar contra 
 
 A mil anos o Império mantém sua soberania por meio de uma combinação sufocante de estagnação científica e tecnológica, regressão intelectual e uma profunda xenofobia, mergulhando sua população na ignorância.
 
-# **Organização Política** {#organização-política}
+# **Organização Política** 
 
 O POVO
 
@@ -2423,7 +2423,7 @@ No sistema de Airy, o Imperador é a fonte primária de justiça. Os senadores c
 
 **Nota sobre a realidade do poder:** Apesar de deter esses poderes no papel, as fontes indicam que o Imperador atual é um homem "egoísta e sem empatia", cujas armas são apenas enfeites, servindo como uma "marionete de carne" para os interesses escusos do Senado e da elite de Ypy.
 
-# **A Corte** {#a-corte}
+# **A Corte** 
 
 A Corte é o círculo social, político e familiar que orbita ao redor do Imperador. Ela é composta pela família imperial, conselheiros pessoais, generais, diplomatas estrangeiros, a alta nobreza e até magos de elite que o imperador mantém por perto. A nobreza faz parte deste círculo social.
 
@@ -2449,7 +2449,7 @@ A sucessão segue, em geral, a primogenitura: o título passa ao filho mais velh
 
 Os filhos secundários, nobres menores, raramente têm destino nobre. São enviados ao exército imperial como oficiais, às ordens religiosas da Eclésia do Culto Imperial, ou ainda ao Castelo de Aslareth, onde são moldados desde a infância para se tornarem Cavaleiros Imperiais, criaturas sobre-humanas criadas para o combate que tem muito prestígio no Império. Assim, o Império garante que nenhum herdeiro sem terras permaneça ocioso, e que toda a nobreza, mesmo fragmentada, continue servindo à máquina do poder.
 
-# **Relação dos Nobres com a política** {#relação-dos-nobres-com-a-política}
+# **Relação dos Nobres com a política** 
 
 A relação entre os nobres e os políticos do Senado Imperial é um casamento de conveniência  e, como todo casamento no Império, está apodrecido sob a aparência de ordem.
 
@@ -2473,7 +2473,7 @@ O povo, que mal distingue onde termina o trono e começa o plenário, vê apenas
 
 Para os estudiosos do Império, essa relação é descrita como um “equilíbrio de podridões” — um pacto tácito que impede o colapso total, mas ao custo de qualquer virtude. O Senado garante a aparência de civilidade; a nobreza garante o mito da tradição. Juntos, mantêm o Império respirando — e o povo ajoelhado.
 
-# **Democracia** {#democracia}
+# **Democracia** 
 
 O Império é governado por um Imperador supremo, cuja autoridade se estende sobre todos os reinos, províncias e territórios sob o estandarte imperial. Abaixo dele, cada reino possui um governante local, supostamente eleito a cada dez anos em um processo que, em teoria, representa a vontade do povo — mas que, na prática, serve apenas para reafirmar o poder das mesmas famílias que controlam a política há séculos.
 
@@ -2485,7 +2485,7 @@ Para o povo comum, a troca de governante é quase imperceptível. Entre um manda
 
 Os estudiosos do Império chamam esse fenômeno de “a política das máscaras” — onde os governantes trocam de nome, mas a encenação nunca termina. E o povo, espectador impotente, assiste ao espetáculo acreditando que participa da peça.
 
-# **Ministérios** {#ministérios}
+# **Ministérios** 
 
 Cada grande cidade do Império abriga um Ministério Imperial, um órgão centralizado que supervisiona praticamente todos os aspectos da vida dentro do território. O Ministério não é apenas um centro administrativo: é a expressão máxima do controle estatal, onde se concentram as forças de fiscalização e coerção do Império.
 
@@ -2497,7 +2497,7 @@ Essa burocracia serve a dois propósitos. Primeiro, garante que o Estado esteja 
 
 No Império, nada é simples, nada é privado. Cada acordo, cada assinatura, cada palavra registrada no Ministério é uma peça do tabuleiro de controle que mantém a máquina imperial funcionando — e que lembra constantemente a todos que o Império sabe e decide tudo.
 
-# **Política do Império** {#política-do-império}
+# **Política do Império** 
 
 A política do Império é um espetáculo cuidadosamente encenado, onde a ilusão de democracia serve apenas para fortalecer a máquina de poder existente. O Senado Imperial é apresentado como um órgão “eleito pelo povo”, mas, na realidade, suas eleições são completamente manipuladas. O processo de escolha é propositalmente confuso: o voto não é direto, e a contagem dos resultados é cheia de regras obscuras que dão aos cidadãos a sensação de controle, enquanto a verdadeira decisão já foi tomada muito antes. Somente os candidatos aprovados pelos próprios senadores conseguem ocupar suas cadeiras, consolidando um círculo fechado de poder que se perpetua geração após geração.
 
@@ -2613,7 +2613,7 @@ A relação com a nobreza tradicional mimetiza perfeitamente o loteamento de car
 
 O uso da Ordem dos Arcanos como polícia secreta que atua sob a justificativa de "manter a ordem" e caçar "fake news" ou dissidentes reflete as tensões reais sobre os limites do poder institucional, investigações sigilosas e o uso do aparato estatal para proteger o próprio sistema contra ameaças.
 
-# **A Máquina de Propaganda Estatal** {#a-máquina-de-propaganda-estatal}
+# **A Máquina de Propaganda Estatal** 
 
 A propaganda é uma arma central do Império, tão poderosa quanto o exército e tão onipresente quanto a própria burocracia. Ela não apenas informa, mas condiciona, manipula e molda a percepção da população, criando a ilusão de ordem, progresso e legitimidade do Estado. Cada mensagem é cuidadosamente planejada para reforçar o culto à autoridade, a fé em Anhun e a obediência ao Imperador-fantoche.
 
@@ -2629,7 +2629,7 @@ A propaganda é uma arma central do Império, tão poderosa quanto o exército e
 
 O resultado é uma população que aceita a opressão e a exploração como normal, vê o Imperador como divino e se curva à autoridade sem questionamento, perpetuando o poder totalitário do Império. A propaganda não apenas sustenta o regime, mas torna impossível imaginar uma vida fora da influência do Estado, consolidando o ciclo de medo, fé e obediência.
 
-# **Cargos Públicos mais Importantes** {#cargos-públicos-mais-importantes}
+# **Cargos Públicos mais Importantes** 
 
 Vamos aqui vamos descrever alguns cargos importantes que existem em várias cortes de dos reinos de Airy.
 
@@ -2657,7 +2657,7 @@ Vamos aqui vamos descrever alguns cargos importantes que existem em várias cort
 
 **Obs:** Um cargo de confiança desses, nunca perde o seu cargo, uma vez sendo mestre dos sabores, o detentor do cargo, sempre será considerado o Preceptor dos Sabores, vitaliciamente, embora quando o antigo detentor do cargo se encontra impossibilitado, o seu substituto natural assuma o cargo até que o antigo esteja apto a ocupá-lo novamente, porém ele continuará tendo o título até sua morte, mas o substituto, ou Segundo Preceptor dos Sabores.
 
-# **O Trabalho no Império** {#o-trabalho-no-império}
+# **O Trabalho no Império** 
 
 No Império, o trabalho não é um direito nem uma escolha, é uma obrigação sagrada. Desde o nascimento, cada cidadão é registrado nos Arquivos do Trabalho e classificado conforme suas habilidades, origem e “índice de lealdade”. Trabalhar é servir ao Estado, e servir ao Estado é cumprir a vontade de Anhun. Essa doutrina faz do labor não apenas uma função social, mas um ato de fé e submissão.
 
@@ -2717,7 +2717,7 @@ A velhice raramente chega de forma digna. Quando um cidadão de classe mais baix
 
 No Império, o trabalho não liberta, aprisiona. Ele alimenta o sistema, legitima o poder e drena a vontade do povo. O suor do cidadão comum é o combustível da máquina imperial, que se sustenta sobre a crença de que cada esforço, cada gota de sangue e cada hora de exaustão são ofertas necessárias à eternidade da Ordem.
 
-# **A Educação no Império** {#a-educação-no-império}
+# **A Educação no Império** 
 
 Pode parecer estranho que um mundo de espadas e magia possua escolas, mas no Império isso é não apenas comum — é essencial. Não porque seus governantes se importem com o saber ou com o progresso do povo, mas porque precisam de servos eficientes. As escolas imperiais não foram criadas para ensinar a pensar, e sim para ensinar a obedecer. Cada criança é moldada desde cedo para se tornar um trabalhador dócil, submisso e leal ao Estado, incapaz de questionar ordens ou desafiar a autoridade. A educação imperial não forma mentes livres, forma peças para uma máquina que exige disciplina, fé e silêncio.
 
@@ -2833,7 +2833,7 @@ Custo Social: Causa distorção visual identificatória, onde o viciado começa 
 
 Essas substâncias seriam distribuídas principalmente pela Rilícia, que legaliza o crime através de cargos de fiscais municipais para extorquir a população e manter o fluxo de ouro. O Mercado Ancestral em Kisé e o Mercado Sombrio de Fortuna seriam os pontos centrais de distribuição dessas "soluções mirabolantes" para a miséria do povo.
 
-# **Reinos Vassalos** {#reinos-vassalos}
+# **Reinos Vassalos** 
 
 Esses são os reinos que compõem o império.
 
@@ -2863,7 +2863,7 @@ Esses são os reinos que compõem o império.
 
 **Irundyna, A Antiga Capital:** Irundyna foi uma dos reinos pertencentes ao Império, até que em 253 a cidade cai por um ataque de Mal e de lá ele cria sua cidade chamada de Necrotropia. Hoje o reino não existe mais de forma formal e a cidade de Irundyna é o epicentro da Área da Infestação.
 
-# **Ypy** {#ypy}
+# **Ypy** 
 
 A Capital do Império.
 
@@ -2952,7 +2952,7 @@ Locais Importantes
 Facções
 
 | A CORTE DO IMPERADOR CASA ÁUREO DEZIEL ÁUREO XIV, Senhor do Império Aba e de Ypy Sua esposa, MELL da Casa LEROL \- PRINCESA ELIA, a filha mais velha, prometida ao PRÍNCIPE MORS KULL futuro Senhor de Kisé \- PRÍNCIPE AUREO XV, Futuro Imperador \- PRÍNCIPE TRYSTAN, o filho mais novo Espadas Juramentadas a serviço de DEZIEL: Casas que prestaram juramento de seguir o Imperador na sua Posse. \- CASA ULLER, SENHORES DE JURUBATIBA \- CASA ONN , SENHORES DE ARATAMA \- CASA ELL, SENHORES DE AISÓ \- CASA LEROY, SENHORES DE MOACUBA \- CASA KULL, SENHORES DE KISÉ \- CASA NATO, SENHORES DE CAMUÁ \- CASA HOR, SENHORES DE KALUANA \- CASA ARC, SENHORES DE Nambiquara \- CASA LIN, SENHORES DE PORANGA \- CASA GUERRA, SENHORES DE YPITURUY Sua Guarda Real: Formada pelos mais afamados e poderosos Guerreiros de todo Império. \- SIR JAMILGUERRA, Senhor Comandante, \- SIR LARRA ILYN \- SIR AERO CUY \- SIR KETTLEB BRAX \- SIR LOR ARC \- SIR ARYS MOTT \- SIR TONNEM GUERRA (Conhecido popularmente como Toni Guerra), 69º Condestável Imperial (Comandante do Exército Imperial )atualmente no comando do exército na Fronteira com a Terra dos Auçá, Seu conselho: \- LORDE DORAN LANN, Magistrado Imperial \*, Primeiro Conselheiro (Segundo homem mais Poderoso do Império, assume o comando do império na ausência do imperador); \- SIR STEFFON GUERRA, ex Comandante da guarda Real e mestre das leis; \- LORDE KENNOS LEROY, mestre da moeda; \- LORDE ALYN, mestre dos segredos, da espionagem; \- LORDE SELMOND KULL, mestre da Frota Naval; \- SIR FLEMENT GUERRA, Conselheiro de Guerra; \* O Magistrado Imperial Governa o Império no caso de ausência Temporária do Imperador. Sua corte e seus servidores: \- SIR ILYN LANN, o Segundo Magistrado do Rei, Irmão de DORAN LANN (Terceiro homem mais Poderoso do Império); \- LORDE ANTARIO, Líder da Guilda dos Alquimistas, \- TITUS bobo da Corte, \- FLEMENT, o harpista e bardo real, \- Seu curandeiro e conselheiro, MESTRE MERLON, \- ESTREN ILYN, Filho de Larra ILYN um promissor jovem cavaleiro \- MORROS ILYN, um escudeiro, filho mais velho do antigo Comandante da Patrulha da Cidade, \- JOTHOS ILYN, seu irmão mais novo, um escudeiro, \- DANOS ILYN, ainda mais novo, um pajem, Outros senhores e cavaleiros em YPY: \- LORDE MATHIS MOTT, Senhor de Forquilha, (Viúvo sem Filhos Legítimos),  \- AURANE ESPADA DOURADA, o Bastardo de MATHIS MOTT, \- LORDE PAXTER CUY, Senhor do Bosquedarvore, \- os filhos de Lorde Paxtrer, SIR HORAS e SIR HOBBERT, \- o curandeiro de Lorde PAXTER, MESTRE BALLABAR, afamado Curandeiro, \- LORDE ARDRIAN CELTIGAR, Senhor da Ilha da Garra, \- SIR ALESANDER CELTIGAR, Cavaleiro da Ilha da Garra, \- LORDE BONIFER HASS, Senhor do Poleiro do Grifo, \- SIR DONNEL HASS, herdeiro do Poleiro do Grifo \- SIR RORNNET HASS, o Cavaleiro do Poleiro do Grifo irmão de Bonifer, \- SIR DEMORT DE KISÉ, um cavaleiro afamado, \- ROLLAM ALAÚDE DE CARVALHO, um cantor de Aisó, \- SYBELL BELOS CABELO DE OURO, uma cantora famosa da Cidade. CASAS VASSALAS CASA LANN Família de Intendentes de YPY CASA ILYN Família de Cavaleiros Ancestrais. Armeiros e Ártíficies de YPY CASA CUY Família de Comerciantes Poderosa de YPY, Senhores do Bosque da Árvore; CASA MOTT Família de Comerciantes, Magos e com vários Membros sendo Arcanos Imperiais, Senhores da Forquilha, CASA CELTIGAR, Senhores da Ponta da Garra, (Localidade de YPY), CASA HASS, Senhores do Poleiro do Grifo, (Localidade de YPY),  |
-| :---- |
+|-------|
 
 **Eventos Notáveis**
 
@@ -3323,7 +3323,7 @@ Victor Frankenstein é um cientista que participava de um simpósio e foi o cria
 
 Elara Arken é uma cientista que participou do simpósio. Ela tentou intimidar Victor Frankenstein para que ele não revelasse a verdade sobre a criatura. Elara afirmou que a ciência era mais importante do que a vida dos criados, pois "vidas vazias" ganhavam propósito em seus experimentos.
 
-# **Kisé** {#kisé}
+# **Kisé** 
 
 O Reino da Aventura
 
@@ -3397,7 +3397,7 @@ Na parte nova da cidade muito bem planejada onde vive toda a corte a realeza e q
 Nessa parte também existe o castelo, magnífico considerado inferior somente ao castelo do Imperador em Ypy. Nessa parte a corte e o rei tem muita liberdade e diferente de outros reinos, é possível inclusive encontrar a família real passeando pelas ruas da cidade Nova tamanha é a sua crença na segurança.
 
 | A CORTE DE KISÉ Ponto de partida para as expedições à Terra Selvagem, Forte desigualdade social, tendo até uma divisão física na cidade que separa os ricos dos pobres, e cidade onde tem sede as duas maiores guildas de Aventureiros do mundo... ESSA É KISÉ\! CASA KULL Silvester KULL , Senhor de Kisé Sua esposa, Vilba da Casa LLAISY \- PRÍNCIPE Gane KULL, o filho mais velho, Futuro Rei \- PRINCESA Selphie KULL, a filha mais velha, prometida a PRINCIPE Haddes GUERRA futuro Senhor de YPITURUY \- PRINCESA Bechi KULL, a fulha mais nova CASAS VASSALAS Espadas Juramentadas a serviço de Silvester KULL: Casas que prestaram juramento de seguir o Rei na sua Posse. \- CASA LLAISY Família comerciantes de Kisé, muito influente no reino; \- CASA AGAR Família de Cavaleiros, Armeiros e Ártíficies, Senhores do Castelo Caster, na fronteira com Camuá; \- CASA LONIUS Família de Cavaleiros, Armeiros, e comerciantes senhores do Castelo Rochedo, na fronteira com Kaluana; \- CASA DUSAE Família de Cavaleiros, Armeiros, e comerciantes senhores do Castelo nas Nuvens, nas Montanhas Abapy; \- CASA MAGNA Família de Comerciantes, Magos e com vários Membros sendo Arcanos Imperiais, Senhores da Torre da Lua Crescente, Torre de magos localizada no centro do reino, \- CASA ASSUR, Família de Intendentes, Proprietários do Banco de Kisé, Senhores do Castelo Curva do Rio, Perto da Fronteira de Kaluana e da Terra Selvagem; \- CASA UNNAN, Tradicional Família de Cavaleiros de Kisé, Única Família da Corte Real que apenas treina para o combate, não tendo nenhuma fonte de Renda além dos impostos recolhidos na sua região (o suficiente apenas para suprir seu castelo), considerada a mais Pobre em toda a corte, Senhores do Forte da Última Esperança na Fronteira com a Terra Selvagem; Sua Guarda Real: Formada pelos mais afamados e poderosos Guerreiros de toda Kisé; \- SIR Muso UNNAN, Senhor Comandante, \- SIR Laega AGAR, Guerreiro Afamado como o melhor de Kisé; \- SIR Ethar LONIUS, \- SIR Brimie DUSAE \- SIR Snova MAGNA Maga comandante \- SIR  Mose ESCUDO DE AÇO, ex aventureiro \- SIR  Menefy FERUCTO, ex aventureiro Seu conselho: \- LORDE Nefere LLAISY, Magistrado Real, Primeiro Conselheiro (Segundo homem mais Poderoso de Kisé, assume o comando do reino na ausência do Rei); \- SIR Muso UNNAN, Comandante da guarda Real e mestre das leis; \- LORDE Tjety ASSUR, Mestre da moeda; \- LORDE Gene O Sombra da Manhã (ex-aventureiro), mestre dos segredos, da espionagem; \- LORDE Antos LONIUS , mestre da Frota Naval; \- SIR Ibrill DUSAE , Conselheiro de Guerra 2º no comando do exército de Kisé; Sua corte e seus servidores: \- SIR Duino UNNAN o Segundo Magistrado do Rei, Pai de Muso UNNAN ( o Segundo Magistrado é o Terceiro homem mais Poderoso de Kisé); \- Cane bobo da Corte, \- Cuni, bardo real, \- Seu curandeiro e conselheiro, o venerável (velho) MESTRE Abgel, O povo de YPY: \- a GUARDA DA CIDADE: \- SIR Laege AGAR, Comandante da GUARDA DA CIDADE; \- Stuire AGAR, mestre armeiro da GUARDA DA CIDADE; |
-| :---- |
+|-------|
 
 **Cidade Velha**
 
@@ -3777,7 +3777,7 @@ Enzo nasceu na encosta das Montanhas Benite, numa família de camponeses sem mui
 
 Atualmente Enzo se aposentou como aventureiro voltou para Kisé e se casou com Mica, a ajuda a tocar o negócio de família da sua esposa, a Tradicional loja de Poções da Madame Alince, infelizmente a Alince já morreu a centenas de anos mas seus descendentes continuam com o negócio da Família.
 
-# **Moacuba** {#moacuba}
+# **Moacuba** 
 
 O Reino do Oráculo. A cidade onde ferve o conhecimento, considerada a biblioteca do Império.
 
@@ -3906,7 +3906,7 @@ Grande Professor (+1 Ponto)
 Você ganha os mesmos benefícios da Vantagem Mentor (Manual 3D\&T Alpha Página 35), além disso ganha \+1 em todos os testes de perícia.
 
 | NOTÍCIAS NO IMPÉRIO Quem está a procura de informação no império está muito bem servido, em Ypy a capital há dois jornais semanais que trazem informações sobre todo o Império e mais além. Eles são: O IMPÉRIO: O maior jornal do mundo com mais de 100 Bardos espalhados por tudo o lugar em busca de trazer informação de qualidade, toda a semana Bardos itinerantes a serviço do jornal singram o mundo todo com o intuito de trazer todo o tipo de informação para os seus leitores, esse jornal é de propriedade da Corte do Imperador então nunca irá se ler alguma informação contra o Governo. Seu público alvo é a nobreza. NOSSA AIRY: A única forma que os plebeus têm de lutar contra a opressão da nobreza é ter informação. Quem está por trás do Nossa Airy é Edival Pena de Ganso, um ex-bardo aventureiro que se tornou muito rico e hoje é o chefe de redação do Nossa Airy e dono do jornal. Ele está sempre contatando aventureiros em busca de notícias, seja os contratando para missões ou apenas ouvindo as histórias das suas aventuras. Adival é conhecido pelo seu jogo de cintura, pois seu jornal sempre está atacando personalidades mais influentes de Airy, então ele vive se equilibrando entre criticar e adular as personalidades mais influentes do império. Esse é o principal concorrente do Jornal do Imperador, e também o mais popular, porque traz matérias que geralmente o jornal do governo traz a público, como casos de corrupção, intrigas, na parte de jornalismo investigativo (não é raro o Jornal do Imperador lançar uma matéria desmentindo matérias do Nossa Airy) e também matérias mais populares, sobre aventureiros famosos e suas conquistas, torneios populares, seu público alvo é mais o povão do Império. Não é raro algum bardo a serviço do jornal ser encontrado morto “por algum Acidente”, depois de ter uma matéria muito ofensiva publicada. Então a profissão de repórter deste jornal é realmente de alto risco. A Linha Editorial: Ele registra todas as fofocas da nobreza do império, os bastidores do mundo da política, além de desvendar conspirações e dar as notícias do dia a dia. O Sistema de edição desses dois jornais é simplesmente incrível, toda a semana, os bardos de cada jornal enviam suas matérias através de Pombos Correios (matérias mais simples) ou até através de meios mágicos (matérias bombásticas fruto de jornalismo investigativo), Igualmente extraordinário é o sistema de distribuição que através de Mecanaus transporta de Ypy até as 10 principais cidades do império em poucos dias. Às Vezes o NOSSA AIRY é forçado a trocar de local de fabricação de seus jornais por represália do governo. |
-| :---- |
+|-------|
 
 **Cidades Vassalas**
 
@@ -4025,7 +4025,7 @@ Durante esse período ele conheceu Garem Fawkes, um mago que usava armadura comp
 
 Esse mago de armadura completa notou que Vallen era um bom homem, mas a falta de opção o transformou em um criminoso, então o mago convidou Vallem para ser um dos seus companheiros de aventura, um grupo de irmão que se reuniram não pelo acaso da biologia, mas pelo poder da escolha. Assim Vallen se tornou um aventureiro e começou a andar pelo mundo matando monstros e salvando princesas, uma curiosidade sobre o seu grupo, durante todos esses anos eles nunca foram derrotados, alguns irmão caíram em combate, mas o grupo em si nunca foi derrotado
 
-# **Aratama** {#aratama}
+# **Aratama** 
 
 O Reino das artes de onde geralmente se originam os melhores bardos e trovadores do império.
 
@@ -4100,7 +4100,7 @@ O próprio Rei era o diretor e professor da sua escola, e ensinou tanto os seus 
 Após a sua morte, os filhos de Namish assumiram o controle da escola do rei, e ela ainda existe formando os mais famosos Bardos de Airy.
 
 | SERVOS DOS DEUSES EM AIRY Servos dos deuses verdadeiros (Clérigos e Paladinos) são raros em Airy, Não que templos em honra aos deuses não existem, eles existem e muitos, onde supostos clérigos seguem seus estudos e ludibriam a população os forçando a acreditar em falsos deuses. Mas entre muitos charlatões há sempre algumas exceções a regra, alguns são tão leais aos deuses antigos que realmente se tornam Clérigos e Paladinos, mas identificá-los é muito difícil e eles geralmente são confundidos como simples clérigos sem poder. Mas muito raramente surgem boatos de devotos dos deuses em locais isolados que curam e até mesmo ressuscitar alguém, vale a pena conferir boatos desses pois as vezes eles são reais e talvez eles possam trazer de volta a vida um amigo. Mas em compensação em Airy a medicina e a magia se tornaram muito avançadas, e personagens como Clérigos e Paladinos podem ser substituídos por Medimagos e Médicos de Combate, e até por Médicos normais. COMO OS DEUSES SÃO CULTUADOS ENTÃO? Há os semideuses que são cultuados em regiões remotas de Airy, mas eles geralmente não dão nenhum poder aos seus seguidores, mas representam bem isso. Mas os Deuses Antigos ainda são cultuados, todas as cidades tem um altar ou um templo para esses deuses, em cada região eles são cultuados por nomes diferentes, mas sempre associados a seus ideais, deuses também não tem sexo são seres axexuados então em determinadas regiões eles são cultuados como mulheres em outras como homens, mas sempre relacionados a mesma coisa. DEUS DA ORDEM: Seu domínio é a Ordem, e tudo relacionado a coisas boas. Em cada região ele é chamado de um nome. ANGATUPRI: Na região de Jurubatiba, Ypy. Nambiquara, Ypiturui e Kaluana. ANHUM: Na região de Kisé, Aratama e Camuá. YUSHÃ: Na região de Moacuba, Aisó, e Poranga. XUNDARUÁ: No Arquipélago Acag, em Fortuna e no mar. DEUS DO CAUS: Seu domínio é o caos, a desordem, e a neutralidade, e o contrário da Ordem. KATXURÉU: Na região de Jurubatiba, Ypy. Nambiquara, Ypiturui e Kaluana. MARÃ: Na região de Kisé, Aratama e Camuá. NHARÁ: Na região de Moacuba, Aisó, e Poranga. TENEMUR: No Arquipélago Acag, em Fortuna e no mar. TENEMUR, ANHUM |
-| :---- |
+|-------|
 
 **A Grande Festa:** Durante um mês inteiro com início no Solstício de  Verão acontece a grande festa, que dura um mês inteiro (alguns prolongam um pouco mais), a cidade inteira para para essa grande festa e gente de todas as partes do mundo comparecem para prestigiar a maior festa do mundo. Nessa Festa tudo é liberado e todos são iguais, a grande maioria sai para as ruas para festejar com máscaras e fantasias, tornando as ruas da cidade um grande baile de máscaras, durante todo o mês, claro que para a segurança da população serviços básicos como segurança e saúde continuam funcionando normalmente.
 
@@ -4218,7 +4218,7 @@ Axym é uma jovem de 17 anos vinda de Aratama, estatura média e sotaque alemão
 
 Assassino Conhecido da Rilícia, foi um dos vencedores do torneio de Vulcazar Máscara da Morte e recebeu o posto de general do exército de Arqueiros de Vulcazar.  Guerreiro assassino habilidoso, conhecido por seus ataques pelas costas.
 
-# **Aisó** {#aisó}
+# **Aisó** 
 
 Considerado o reino mais pacífico do mundo, Aisó também fica mais ao sul no mundo e tem o inverno mais rigoroso do Império.
 
@@ -4291,7 +4291,7 @@ Aisó foi fundada por Baley Ell, curandeiro e conselheiro pessoal de Áureo I, p
 Quando a saúde do imperador se tornou crítica, Baley apesar de também estar em idade avançada intensificou seus esforços para salvar a vida de seu amigo, isso inclusive o fez negligenciar seus cuidados consigo mesmo, o que debilitou muito a sua saúde e poucas semanas após a morte do imperador Baley morreu sem nunca ter conhecido o seu reino recem construído por seus filhos.Com a morte de Baley seu primogênito Nemat se tornou rei e em homenagem a seu pai criou a Real Academia de Medicina Baley, Nemat convocou os mais competentes curandeiros do mundo para lecionar em sua escola e nomeou seu irmão mais novo Lorde Pollua como diretor da mesmo, sendo Lorde Pollua um curandeiro muito mais competente que todos os seus irmãos, ele seria a escolha natural para a tarefa, nas suas mãos a Escola de Medicina de Aisó ganhou fama mundial e se tornou referência no Gênero no mundo.
 
 | A GRANDE FEIRA IMPERIAL A Grande Feira Imperial percorre todos os 10 reinos do império do em um ano, para isso eles seguem um roteiro: Jurubatiba, Nambiquara, Ypituri, Kaluana, Kisé, Aratama, Camuá, Aisó, Poranga, Moacuba e Ypy. Sempre que a Grande Feira chega, começa uma festa que ocupa todas  as ruas da cidade e dura uma semana. O CIRCUITO DE JUSTAS O Circuito de justas ocorre de três e três meses, somente em 4 reinos do império: Jurubatiba, Ypiturui, Kisé e Ypy. Isto ocorre porque esses reinos são os que tem maior tradição nesses tipos de esportes. JURUBATIBA é considerado o reino que existem os magos mais poderoso do império, por isso as provas mais importantes são as provas para magos, magos que se tornam mais famosos no império, geralmente são revelados nas justas de Jurubatiba, ha uma grande chance do vencedor desse torneio ser chamado para a Ordem dos Arcanos Imperiais, mas não é Regra. YPITURUI é o reino com maior tradição guerreira do império, então as provas de combate a pé são as mais prestigiadas e os campeões são idolatrados. Muitos bons Generais e guerreiros lendários são revelados nas Justas de Ypiturui. KISÉ é o reino dos aventureiros, então provas de exploração, esperteza e precisão são os destaques desse torneio, geralmente no torneio não há nenhuma prova que tenha mais destaque que outra. YPY é onde todo o glamur da nobreza esta, e como a justa da cidade é o encerramento das festividades do ano e uma das poucas oportunidades de encontrar toda a corte do imperador junta, a cidade chega abrigar mais de 50.000 pessoas de outros reinos (incluindo nobres e suas cortes que os acompanham), todos a prestigiar o imperador e a sua corte, geralmente em caráter de exibição o Imperador realiza uma provz de justa com algum convidado especial KALUANA é onde os melhores cavaleiros do mundo residem, e naturalmente são onde tem os melhores competidores de justas de Airy. Nesse torneio em Ypy à justa é a prova mais prestigiada e disputada, comparecem inclusive campeões de fora do império, em busca de fama e fortuna. |
-| :---- |
+|-------|
 
 Como era um dos desejos de seu pai, Nemat decretou que violência não seria tolerada dentro do seu reino e criou leis rígidas em relação a isso, simples agressões seriam punidas prisão de anos nas masmorras do castelo. Essas medidas transformaram o reino nos primeiros anos de sua fundação no reino com a maior população de encarcerados do mundo. Mas com o tempo a população se adaptou às leis do reino e a paz reina por lá. claro que ainda existe criminalidade como em qualquer grande cidade, mas os agravantes por agressão tornam os crimes menos violentos e mais raros. A própria guarda da cidade utiliza armas não letais para proteger a comunidade. Os únicos treinados e aptos a usarem armas letais dentro do reino são a Guarda das Muralhas, guerreiros de elite que se encarregam de manter fora da cidade monstros e indivíduos indesejados.
 
@@ -4394,7 +4394,7 @@ Pelo Templo da Ordem: um objeto qualquer fornecido pelo Patrono lhe permite rece
 
 Armadura Reluzente: o Patrono lhe confiou uma armadura que pode anular um acerto crítico por combate. Quando atingido desta forma, o personagem sofre apenas dano normal.
 
-# **Camuá** {#camuá}
+# **Camuá** 
 
 Reino do Livre comércio.
 
@@ -4473,7 +4473,7 @@ A Feira Imperial: Camuá, é a cidade que faz a maior festa quando chega a grand
 Eventos: Todo o dia há um evento ou atividade importante na cidade, para algum turista que chega na cidade é fantástico.... Dia de desfile temático; dia da festa a fantasia; dia turismo de aventura....., para cada dia do mês e do ano há um evento para os turistas da cidade.
 
 | O SISTEMA MONETÁRIO A Moeda do Império é o Barão e seu símbolo é B\$, e foi criada na Assembléia dos 23 meses na criação das leis globais imperiais. E ficou acordado que 1 B\$ (1 Barão), equivale e 1 Moeda de Cobre. 1 Moeda de Cobre \= 1 B\$ (1 Barão) 1 Moeda de Prata \= 10 B\$ (10 Barões) 1 Moeda de Ouro \= 100 B\$ (100 Barões) Um camponês, plebeu de classe média, trabalhador da cidade, vivem com em média 100 B\$ por Mês. ALGUNS PREÇOS PARA AVENTUREIROS Aventureiros são considerados classe média alta em Airy, e é uma classe bem prestigiada pois são um dos poucos corajosos (ou loucos) o suficiente para es aventurar para lá das muralhas, alguns tem personalidades duvidosas, outros são ladrões então preços e serviços praticados para eles são diferenciados e garantem o sustento de muitos nas cidades. Abaixo disponibilizo o preço médio de essenciais para aventureiros. Estadia Estadia em uma Taverna Humilde 10 B\$ s/ café da manhã Estadia em uma Taverna Boa 20 B\$ c/ café da manhã Estadia em um Hotel de Luxo 100 B\$ c/ café da manhã almoço à parte. Refeições Refeição de Qualidade Inferior c/Água 5 B\$ Refeição de Qualidade Média c/Água 10 B\$ Refeição de Boa Qualidade c/bebida 20 a 50 B\$ Garrafa com Cerveja 6 B\$ Garrafa com Vinho 15 B\$ Ração para viagem 1 dia: Boa qualidade 10 B\$ 2 B\$ Baixa qualidade, (se o viajante não caçar é claro) Transporte Pônei/Mula/Burro de Montaria/Carga: 200 B\$ Cavalo de Montaria/Carga: 400 B\$ Cachorro de Montaria (para seres pequenos): 150B\$ Carroça com um Cavalo de Carga: 800 B\$ Viagem de Barco/Trem: 50 B\$ (Viagens de uma semana para cidades próximas, Trem metade do tempo) Viagem Mecanau100 B\$ (Em média viagens de uma semana para cidades próximas) Equipamento Barraca Para 2 pessoas; inclui cordas e estacas. 150B\$ / Para 4 Pessoas: 250B\$ Mochila Carrega até 8 kg. 15B\$ Saco de Dormir Clima normal 50B\$ / Clima Frio: 80 B\$ Tocha Fica acesa durante 1 hora. 1B\$ / Vela Fica acesa durante 3 horas. 2B\$ Lampada/Lanterna fica acesa durante 10 horas. 100B\$ (recarregar com óleo 10 B\$) |
-| :---- |
+|-------|
 
 **Locais Importantes**
 
@@ -4675,7 +4675,7 @@ Após usar seu poder da Terra para terminar a luta, Rocca saiu vitoriosa, mas es
 
 Rocca abre seus olhos, e se vê em um enorme vale sem vida cujo horizonte não se vê. Ela se levanta, e começa a andar. Por algum motivo, seu coração não bate e ela não sente cansaço algum. Mas depois de dois dias de caminhada, ela chega a um lugar com colinas cobertas de grama. Mais algumas horas e ela chega em um vilarejo, com várias pessoas aparentemente felizes e no fim da vila, um palácio. Quando ela entra na aldeia, as pessoas começam a olhar para ela e cochichar coisas umas com as outras, até que dois guardas do palácio chegam e vão até ela. Os guardas a levam para o palácio e a apresentam para o rei, um homem alto com cabelos brancos e longos e aparência de elfo. Ele a olha sério, mas Rocca não se assusta. O Deus a transforma em um anjo e da aela Sabre de Megaera  e a Paladina vai a procura de seu amigo Kappa. Rocca anda em direção à saída do palácio, na mão o Sabre de Megaera, no coração a alegria de uma nova aventura..
 
-# **Jurubatiba** {#jurubatiba}
+# **Jurubatiba** 
 
 Reino mais próximo da Floresta Proibida e também do povo Abaré, um reino que absorveu . Muito conhecimento dessa raça.
 
@@ -4810,7 +4810,7 @@ Graffiacane Arquimago e diretor da Academia Imperial de Magia de Jurubatiba
 A escola é muito concorrida e alunos de todo o mundo (que possam pagar é claro), vem para a escola.
 
 | USANDO KITS DE TORMENTA Vou apresentar um guia de conversão de qual servo dos deuses de Tormenta se encaixa em um Deus no cenário de Arcano, para ser possível ser usados esses kits do manual do aventureiro por aqui. ANHUM: Alguns dos nomes do Deus da Ordem. Geralmente os servos dos Deuses Benignos seguem  a ordem, embora não seja a regra.  Abaixo algumas sugestões de quais kits do manual do aventureiro se encaixam no escopo de Anhum. Khalmyr, deus da justiça Lena, deusa da vida Lin-Wu, deus de Tamu-ra Marah, deusa da paz Tanna-Toh, deusa do conhecimento Thyatis, deus da ressurreição TENEMUR: Alguns dos Nomes do Deus do Caos. Servos dos deuses neutros geralmente seguem o caus, embora não seja regra. Abaixo algumas sugestões de quais kits do manual do aventureiro se encaixam no escopo de Tenemur. Allihanna, deusa da natureza Azgher, deus do sol Glórienn, deusa dos elfos Grande Oceano, deus dos mares Hyninn, deus da trapaça Área Infestada  : Desde que surgiu, a Área Infestada  (demônios e diabos poderosos dos planos inferiores também) pode fornecer poderes a servos dos deuses, desde que eles sejam malignos. Abaixo algumas sugestões de quais kits do manual do aventureiro se encaixam no escopo de ganhar poderes da Área Infestada. Aharadak, Deus da Tormenta Kallyadranoch, Deus dos Dragões Keenn, deus da guerra  Megalokk, deus dos monstros  Ragnar, deus da morte  Sszzaas, deus da traição |
-| :---- |
+|-------|
 
 **Yasmim**
 
@@ -4989,7 +4989,7 @@ Analogia:
 
 Pode-se imaginar Jurubatiba como uma fortaleza mágica e resplandecente, como um castelo feito de gelo no topo de uma montanha (a Torre Dragonovith), onde o ar é puro (de ozônio e especiarias) e os nobres voam em naves. "Sargaen," em contraste, seria o lodaçal portuário na base da montanha, uma coleção de esgotos e favelas (como Carnago), essencial para a subsistência (o comércio), mas infectado pelo "cheiro de podridão" e "fuligem" da qual a elite tenta se afastar, garantindo que a sujeira e o crime nunca alcancem seus palácios elevados
 
-# **Kaluana** {#kaluana}
+# **Kaluana** 
 
 Terra das planícies dos Cavaleiros e das cortes pomposas, nesta terra existem os melhores cavaleiros do mundo e consequentemente os melhores cavalos.
 
@@ -5098,7 +5098,7 @@ Coragem: Sobre o hábito da guerra vale a pena completar a questão com esta obs
 Liberdade: Sem ordem e sem destino, com o gosto tão geral de uma vida fácil e de perfeita liberdade. Sem chefes, sem lei e sem polícia, os Pampeanos não tem moral social, senão as ideias vulgares. O Pampeano vive de privações, mas seu luxo é a liberdade. Fiel a uma independência sem limites, seus sentimentos são selvagens como sua vida. Mesmo em áreas com lagos muito piscosos, os peixes “são desprezados pelos habitantes da região, acostumados a comer carne assada no espeto”. 
 
 | AS REGRAS DAS JUSTAS Conhecidos pelo nome de justas, esses torneios eram combates travados com armas especialmente modificadas para minimizar ferimentos. O cavaleiro tinha que derrubar o oponente com um golpe de lança numa arena sem cair do seu cavalo. "Realizadas em momentos de paz, as justas ajudavam a manter o treinamento do cavaleiro e lhe permitiam manifestar sua bravura fora da guerra", diz a historiadora Yone de Carvalho, professora da PUC de São Paulo. "Serviam também como divertimento da aristocracia cortesã da Europa medieval", diz. Numa época em que a guerra era um importante mecanismo de coesão social – propiciando os meios de sobrevivência de cavaleiros e reforçando a identidade dos grupos, clãs e tribos –, esses combates eram vistos também como uma oportunidade para resolver pendengas entre inimigos e, em alguns casos, uma forma de recuperar a honra ferida por alguma ofensa. A partir do século 12, as justas se tornaram verdadeiros torneios esportivos com o surgimento de uma série de regras para determinar o vencedor (veja no infográfico abaixo). Os embates passaram a ser realizados em feiras, atraindo multidões de espectadores e séquitos de nobres, às vezes acompanhados por centenas de familiares, pajens, tratadores de cavalos, escudeiros, armeiros e prostitutas. Nessas ocasiões, os mercados das cidades que sediavam as justas realizavam grandes negócios, alimentando, abastecendo e hospedando os visitantes, além de movimentar dinheiro em apostas de aristocratas atraídos pela ocasião. Por volta do século 14, os torneios tornaram-se eventos tão sofisticados que incluíam festas, bailes, banquetes e outras cerimônias. Eram excelentes ocasiões para jovens cavaleiros encontrarem beldades, filhas da aristocracia, selando alianças pelo casamento entre poderosas famílias feudais. Mas, com a disseminação do uso da pólvora no Ocidente, as justas entraram em decadência – as armas de fogo mudaram drasticamente a maneira de lutar e o avanço da tecnologia militar tornou obsoletas as pesadas armaduras usadas pelos cavaleiros do período medieval. Começa do duelo A luta é iniciada com o cavaleiro cavalgando em direção ao adversário numa arena de 300 metros, atingindo uma velocidade média de 20 quilômetros por hora. Objetivo: derrubar o adversário do seu cavalo com a lança de madeira Quebrou, Ganhou Para provar que o adversário caiu pelo impacto do golpe – e não pela perda de equilíbrio – a lança do vencedor tinha que ser quebrada no momento do choque com o adversário. Quanto mais perto do punho ela fosse quebrada, mais pontos ele ganhava No cavalo, fora Especialmente treinado para o combate, os cavalos eram protegidos por placas metálicas na cabeça e nos flancos. Mesmo assim, algumas vezes a lança feria o animal em algum lugar desprotegido. Resultado: o responsável pelo golpe era desclassificado imediatamente Pontos Perdidos Além da desclassificação por ferir o animal, o cavaleiro perdia pontos simplesmente por atingir a sela do adversário. Era punido também se o cavalo se esquivasse da luta ou se atingisse por acidente a cerca no meio da arena que o separava do adversário Mais de 30 quilos de peso e proteção 1\. Capacete Também chamado de elmo, o capacete tinha uma viseira móvele era usado sobre um capuz de cota de malha. Seu peso variava entre 1 quilo e 1,5 quilo 2\. Escudo No fim da Idade Média, escudos especiais de formato côncavo foram usados nas justas, para facilitar que as lanças dos contendores se partissem ao atingi-los 3\. Armadura A armadura era tão reforçada que chegava a pesar 35 quilos. O calor era tanto que era normal que o cavaleiro desmaiasse por exaustão nos combates mais longos 4\. Lança As lanças usadas na maioria das justas eram talhadas em madeira e tinham pontas arredondadas para reduzir riscos de ferimento. TORNEIO Torneio medieval é o nome popular dado às competições de cavalaria ou pelejas por diversão da Idade Média e Renascimento (séculos XII ao XVI). O nome deriva do francês antigo, torneiement, tornei\[1\] e era muito popular. Era um tipo de hastiludia. Os arautos e os reis de armas eram os responsáveis pela divulgação do torneio. No dia do evento era uma grande emoção no local. Todos estavam se preparando para ir para o local indicado pelos desdobramentos de acordo com sua classe e posição, pelo vestuário de luxo, roupas, cavalos, paramentos, armaduras, ornamentos, armas, entre outras. Dado o sinal de partida ao som de instrumentos, para marcar a animação (fanfarra), eram apresentados os cavaleiros nas listas com um grande séquito. Eles eram pessoas muito simpáticas e era divertido assistir. Várias eram as modalidades disputadas, sendo a mais famosa, a Justa. Índice \[esconder\] 1 Origens 2 Regras do torneio 2.1 Armas 3 Torneios pelos países 3.1 Na Espanha 3.2 Em Portugal 4 Intervenção da Igreja 5 Fontes 6 Referências 7 Bibliografia complementar \[editar\]Origens As simulações de batalhas entre cavaleiros começaram no século X e foram imediatamente condenadas pelo segundo Concílio de Latrão, sob o Papa Inocêncio II, e pelos reis da Europa, os quais se opunham aos ferimentos e mortes de cavaleiros no que eles consideravam uma atividade frívola. Os torneios floresceram, entretanto, e se tornaram parte da vida do cavaleiro. Tornaram-se mais elaborados com o passar dos séculos. Eles se tornaram importantes eventos sociais os quais atraiam patronos e competidores de grandes distâncias. Arenas especiais foram construídas com arquibancadas para espectadores e pavilhões para os combatentes. Cavaleiros continuavam a competir individualmente e também em equipes. Eles duelavam entre si usando uma variedade de armas e simulavam batalhas corpo-a-corpo com muitos cavaleiros de cada lado. Disputas envolvendo dois cavaleiros lutando com lanças se tornaram o principal evento. Os cavaleiros competiam, como atletas modernos, por prêmios, prestígio e olhares das damas que enchiam as arquibancadas. \[editar\]Regras do torneio Repartição de prêmios em um torneio As regras do torneio eram as seguintes: 1.º- não machucar de ponta ao adversário. 2.º- não brigar fora das filas. 3.º- não lutar vários cavaleiros contra um. 4.º- não machucar o cavalo do rival. 5.º- desferir os golpes apenas no rosto e no peito do adversário. 6.º- não machucar o cavaleiro que levantar a viseira. As damas elegiam um juíz de paz para lembrar a clemência quando por alguma falta de cortesia ou violação das regras de cavalaria um combatente se visse rodeado por vários adversários. Foram seguidos com grande interesse os movimentos dos homens com grande coragem e alegria pelo público presente no evento. A platéia aplaudia cara lance de sorte e jogos em que era mais ilustre a habilidade e a coragem dos combatentes. O vencido e as armas ficavam a disposição do vencedor. Os vencedores eram saudados com frenéticas aclamações e com prolongados aplausos ao compasso de marchas marciais. Os triunfadores eram conduzidos a receber das mãos dos juízes ou das damas o justo prêmio de sua vitória. Para terminar era realizado um banquete na que os cavaleiros participantes no evento eram enchidos de atenção. \[editar\]Armas Henrique II da França, falecido durante um torneio As armas utilizadas eram os bastões, varas, lanças sem ferro e com a ponta roma ou espadas sem corte conhecidas pelo nome de armas cortesas ou graciosas por que evitava ferir com gravidade ou matar o adversário. Nestes jogos o principal objetivo era treinar o cavaleiro para a guerra e não podia suportar a ideia de lesões perigosas, desgraças e até a morte de combatentes. Embora acontecesse algumas vezes havia aqueles que esqueciam completamente da índole especial dos torneios e cegos de cólera, lutavam contra seus adversários para satisfazer alguma antiga inimizade ou vingar-se, dando voz ao ódio e a inveja de um rival. Às vezes, era em vão que em tal conflito os arautos e reis de armas se interpusessem entre os combatentes. Portanto, apesar de suas razões e influência, a autoridade dos juízes e o choro das senhoras eram poucos para acalmar as paixões que os adversários possuíam. Muitos são os exemplos apresentados pela história de personagens que perderam a vida: Godofredo II, Duque da Bretanha Roberto de Jerusalém Filipe, conde de Boulogne e de Clermont João I de Brandeburgo Jan I de Brabante Henrique II rei da França \[editar\]Torneios pelos países \[editar\]Na Espanha Pedro III de Aragão Os espanhóis foram desde muito afixionados nessa classe de jogos crescendo ma cavaleirismo. Com a entrada dos árabes na Espanha, os defensores mais famosos de ambos os lados mediam suas habilidades com suas armas nestes exercícios, de forma cortesa . As histórias desses tempos referem-se a muitos espectáculos dessa natureza, já tomadas nas cortes dos reis cristãos e mouros. Um dos mais citados é o torneio acertado entre Carlos de Valois e Pedro III de Aragão com cem cavaleiros de cada parte tendo como motivação a posse do reino da Sicília que corresponderia a esposa do segundo e que o primeiro disputava. O palanque ficou no território do rei da Inglaterra. Cresceu tanto o número de cavaleiros nacionais, estrangeiros e ainda do grupo contrário que se ofereceu ao monarca aragonês, que receoso do sucesso que Carlos de Valois implorou ao papa que abençoasse o cartel do desafio. \[editar\]Em Portugal Henrique e Raimundo de Borgonha foram os primeiros entusiastas dos torneios em solo ibérico, levando-os a Portugal. É dessa época o sangrento torneio de Arcos de Valdevez, em 1140, onde os guerreiros de Afonso Henriques e os de Afonso VI de Leão lutaram como num "ajuste de contas".\[2\] Durante o reinado de Afonso IV de Portugal, as fontes abundam em referências a torneios e, sobretudo, a grandes e notáveis justas, organizadas por ocasião de festas comemorativas de casamentos, de nascimentos ou de batizados de membros da família real. Em Lisboa, ocorriam na Rua Nova e prolongavam-se por vários dias. A tais entretenimentos dedicam uma atenção minuciosa os célebres Livro da Montaria, de D. João I, e o Livro da Ensinança de Bem Cavalgar Toda Sela, de D. Duarte\[2\] . \[editar\]Intervenção da Igreja A Igreja tratou de estancar a esse tipo de exercícios militares em tempos de paz, proibindo os torneios e negando a sepultura eclesiástica aos que neles morriam. Muitos papas lançaram seus anátemas contra os torneios: Inocêncio II proibiu os torneios 827 \- Papa Eugênio II 1140 \- Papa Inocêncio II 1170 \- no Concílio de Latrão, pelo Papa Eugênio III Inocêncio IV os proibiu por três anos no Concílio de Leão em 1245 mas não foi uma abolição absoluta e continuaram celebrando os torneios. Nos tempos de Felipe o Atrevido da França, o Papa Nicolau III excomungou aos combatentes e espectadores de um torneio celebrado em 1279\. Finalmente o Papa Nicolau IV em 1288 e o Papa Clemente V renovaram sua proibição. Não obstante isso, nem dentro da Igreja houve unanimidade sobre esse tema já que houve papas como Papa Urbano V que participou como espectador (O rei João II da França ofereceu a Urbano V um torneio depois de feito prisioneiro em Londres após a batalha de Poitiers dirigindo-se à cidade de Avinhão com objetos cruzados). |
-| :---- |
+|-------|
 
 **Eventos Notáveis**
 
@@ -5115,7 +5115,7 @@ Irmão Inculto  (+1 Ponto)
 Você se torna um com o seu aliado, uma vez por dia, você pode se unir a seu aliado como se os dois tivessem a vantagem Parceiro (Manual 3D\&T Alpha Pág. 36).
 
 | A LEI Aqui se enquadra a lei normal como é existente em Airy, como roubos, assassinatos, uso indevido de magia. Como todos sabem a lei é preservada na sua forma comum em Airy, através de Guardas (em cidades maiores) e de Milícias (em cidades pequenas). Geralmente eles são responsáveis por cumprir a lei nas cidades e seus arredores.  Quase sempre o contingente de uma Guarda tem 80%(de guerreiros), 20% divididos entre Caçadores de Magos e Usuários de magia (os menos talentosos). Olho Por Olho, Dente Por Dente: Apesar de Airy ser considerado um continente “civilizado”, as penas para crimes geralmente se baseiam nesse quesito, salvo se você é de linhagem nobre. ALGUNS EXEMPLOS DE PENAS ROUBO: Marca do Ladrão(uma tatuagem no pulso), 6 meses na masmorra, reincidência, uma mão cortada (preservando a tatuagem é claro). ASSASSINATO:  Pena de Morte, enforcamento, apedrejámento (depende de cada reino). USO DE MAGIA EM CIDADES: 6 meses de reclusão e se torna um mago ilegal, ganhando uma Tatuagem Rúnica que reflete isso (é uma versão das famosas Tatuagens Rúnicas Abaré que brilha intensamente quando o usuário usa magia, e um pouco menos quando não utiliza, ela é usada pelas autoridades, para identificar magos ilegais que sãos irresponsáveis e proibidos de usar magia). CHAMEM AS FORÇAS ESPECIAIS Quando o assunto complica, algum mago maior esta usando magia e não pode ser parado, é necessário, caçar um mago ou algum fora da lei poderoso, eles são Chamados Os Arcanos Imperiais, uma ordem de magos muito poderosos que foi criada para, coibir abusos por parte de usuários de magia, atualmente o mundo esta relativamente seguro de magos desse tipo, salvo alguns que são identificados e caçados antes que se tornem perigoso, devido a isso, o Imperador começou a delegar algumas outras tarefas para os Arcanos Imperiais. Hoje eles atuam em crises e fazem missões especiais para regentes e o próprio Imperador. |
-| :---- |
+|-------|
 
 **Facções**
 
@@ -5481,7 +5481,7 @@ Um dos raros a alcançar o Quinto Círculo. Sua presença inspira — e assusta.
 
 Craven é um garoto normal, sua mãe morreu durante seu parto, e por conta disso ele foi criado pelo pai que era um caçador muito bom. Eles moravam em uma cabana no meio da floresta na Terra dos Pistoleiros. Foi criado como um caçador desde pequeno e almejava ser um caçador tão bom quanto seu pai, quando fez 8 anos ganhou um revólver especial, que seu pai encontrou em uma caverna misteriosa, não se sabe todos os mistérios por trás do revólver, sua única característica aparente é o fato de não precisar de munição para atirar.A partir desse dia ele passou a ir caçar juntamente com o pai. Se divertia muito caçando, além do que ele estava se tornando um bom atirador. Porém quando tinha 15 anos, durante uma caçada Craven assistiu seu pai ser morto por uma criatura monstruosa que ele nunca havia visto , ele conseguiu fugir, mas naquele dia perdeu a única família que tinha. Craven continuou por mais alguns anos vivendo naquela cabana, caçando e sobrevivendo sozinho, utilizando das técnicas que lhe foram ensinadas desde pequeno, e evitando ir na área onde seu pai faleceu. Durante esses anos ele melhorou muito suas habilidades como atirador, e decidiu se tornar o melhor pistoleiro que já existiu para assim honrar a memória do pai. Quando fez 18 anos ele decidiu partir do local onde morava para conhecer o mundo, um mundo desconhecido por ele e assim dar continuidade ao seu objetivo.
 
-# **Nambiquara** {#nambiquara}
+# **Nambiquara** 
 
 Reino da ganância, onde o ouro fala mais alto.
 
@@ -5594,7 +5594,7 @@ Furtividade Ladina (+1 Ponto)
 Você pode ficar invisível um número de rodadas por dia igual ao seu valor de Habilidade, sem gastar nenhum Ponto de magia. Você pode dividir a quantidade de usos em quantas vezes quiser.
 
 | MALES DA MAGIA NO MUNDO As Trevas são a energia alienígena de outros planos que circundam Airy, é como um câncer que cresce dentro de todas as escolas de magia.  Qualquer usuário de magia pode invocar os poderes das Trevas que é alienígena ao mundo, conseguindo assim com esse poder “extra”, fazer feitos extraordinários de magia e demais poderes que usam PMs, mas ao preço de seus efeitos contaminarem o mundo com a sua energia extraterrestre presente na magia que ele usou.  Centenas de anos atrás um mago usou tanto poder das Trevas que um local com mais de mil quilômetros quadrados foi “Contaminado” pela magia alienígena da magia das trevas e originou o primeiro Cataclisma de Arcano.  Criando assim a Área Infestada, um local onde o poder caótico das Trevas cria monstros e aberrações que se espalham pelo mundo. |
-| :---- |
+|-------|
 
 Facções
 
@@ -5858,7 +5858,7 @@ Phry-Dhon resolve passar algum tempo na cidade dos anões em busca de um pouco d
 
 Depois desse longo período Phry-Dhon volta para superfície de Airy junto com seu mais novo aliado anão para tentar reparar e compensar seus atos hediondos ....E quem sabe fazer seu nome ser lembrado, como um herói desta vez \!\!\!...
 
-# **Poranga** {#poranga}
+# **Poranga** 
 
 O maior porto comercial do mundo
 
@@ -5987,7 +5987,7 @@ Imunidade (+1 Ponto)
 Você se torna imune a todas as doenças e venenos, e ainda recebe \+2 em todos os Testes de Resistência, (incluindo Magias).
 
 | FRONTEIRAS Cada cidade protege as aus fronteiras a sua maneira, reinos mais pacíficos optam por ter apenas patrulhas em suas regiões, reinos mais militaristas optam por criar torres de observação a cada distância determinada, e a cada distância maior quartéis para as tropas de guarnição, e os mais extremistas como Ypiturui constroem pequenas muralhas nas suas fronteiras. Um dos motivos para isso é proteger os cidadãos do reino, mas principalmente para caçar e manter longe os monstros oriundos da Área Infestada. |
-| :---- |
+|-------|
 
 **Facções**
 
@@ -6316,7 +6316,7 @@ Raquel tem pouca paciência com a Nobreza pois os Clãs dos Mortos se considerav
 
 Amanda possui o melhor de duas etnias, sua bela aparência a torna ainda mais preciosa, tornando mais fácil entrar em lugares onde a plebe somente com milagres conseguiria entrar. Ela algumas vezes já recebeu cantadas, mas entregar-se ela fará apenas com outro Wargen, é um Tabu entre as Tribos, Wargens somente devem se acasa-lar com Wargens, caso contrário a prole gerada nasce mais fraca. Na Forma Wargen seu pêlo é totalmente negro e seus olhos são verdes, suas roupas se adaptam ao seu corpo.
 
-# **Ypiturui** {#ypiturui}
+# **Ypiturui** 
 
 O reino mais próximo da ameaça da guerra, dos guardiões da Área da Infestação. Nesse reino uma grande parcela da população se beneficia da guerra, seja criando armas e equipamentos ou plantando para suprir o exército. 
 
@@ -6461,7 +6461,7 @@ Conterrâneo (+1 ponto)
 Ypiturui passa a ser sua Arena e, com o acréscimo de \+1 PM por turno, você poderá invocá-la em qualquer lugar que quiser\!
 
 | CALENDÁRIO CALENDÁRIO IMPERIAL: Um ano em Airy tem 358 dias, esse é o tempo que os astrônomos, de Moacuba determinaram que o único sol de Airy demora para fazer os seu ciclo e com ele mudar o mundo, através das estações do ano. Este calendário foi instituído próximo do ano 115 após os reinos serem fundados. Com o estudo das Fazes da lua e o ciclo do sol os astrônomos criaram 12 meses em Airy, em homenagem aos heróis da criação do império foi dado a cada mês o nome dos Heróis de Guerra. Os meses definidos foram: Araúti (janeiro), Potykuã (Fevereiro), Pindorã (Março), Tupanera (Abril), Ybytyra (Maio), Iporanga (Junho), Kaaporu (Julho), Karumã (Agosto), Pyatãra (Setembro), Guaricé (Outubro), Pyrangara (Novembro), Porã: (Dezembro). Aqui estão 12 nomes de meses criados com base em palavras do idioma Tupi-Guarani, inspirando-se em elementos da natureza e da cultura indígena: Araúti: Mês dos ventos (ara: céu, uti: vento) remetendo ao início do ano e à chegada de novas energias. Potykuã: Mês das flores (poty: flor, kuã: época) simbolizando renovação e o florescer de novas ideias. Pindorã: Mês das árvores (pindó: árvore, rã: semelhante a) época que marca o final do verão e a preparação para a mudança de estação. Tupanera: Mês do trovão (tupan: trovão, era: tempo) associado ao período de chuvas fortes e trovoadas em algumas regiões. Ybytyra: Mês das montanhas (ybyty: montanha, ra: lugar de) evocando a sensação de estabilidade e o início do outono. Iporanga: Mês das águas bonitas (iporã: bonito, gûa: água) celebrando a clareza e tranquilidade, possivelmente ligadas ao início do inverno. Kaaporu: Mês das matas densas (kaa: mato, poru: denso) associando-se ao inverno e à ideia de quietude e recolhimento. Karumã: Mês da fertilidade (karu: alimento, mã: época) evocando a preparação da terra e a chegada de novos ciclos. Pyatãra: Mês do fogo forte (pyatã: fogo, ra: tempo de) ligado ao calor do final do inverno e à chegada da primavera. Guaricé: Mês dos frutos (guari: fruta, ce: grande) celebrando a plenitude da primavera e a abundância da natureza. Pyrangara: Mês da luz vermelha (pyranga: vermelho, ra: luz) associado às cores vibrantes do final da primavera e início do verão. Porã: Mês da beleza (porã: bonito, beleza) simbolizando a beleza harmonia e a positividade, encerrando o ano com a energia renovada.  AS ESTAÇÕES DO ANO Araúti – Janeiro: Verão Potykuã – Fevereiro: Verão Pindorã – Março: Verão/Início do Outono Tupanera – Abril: Outono Ybytyra – Maio: Outono Iporanga – Junho: Inverno Kaaporu – Julho: Inverno Karumã – Agosto: Inverno Pyatãra – Setembro: Inverno/Início da Primavera Guaricé – Outubro: Primavera Pyrangara – Novembro: Primavera/Início do Verão Porã – Dezembro: Verão OS SIGNOS Em Aiy há 12 constelações mais conhecidas que dão nome aos signos. Cada constelação rege um ano e quem nasce nesse ano é desse signo, no momento é o ano do Pégaso, ano que vem será o ano da Hidra. HIDRA: Ano 957, Ano 969, Ano 981, Ano 993... GRIFO: Ano 958, Ano 970, Ano 982, Ano 994... DRAGÃO: Ano 959, Ano 971, Ano 983, Ano 995... LOBO: Ano 960, Ano 972, Ano 984, Ano 996... LEÃO: Ano 961, Ano 973, Ano 985, Ano 997... ENTE: Ano 962, Ano 974, Ano 986, Ano 998... KRAKEN: Ano 963, Ano 975, Ano 987, Ano 999... MEDUSA: Ano 964, Ano 976, Ano 988, Ano 1000... GORILA: Ano 965, Ano 977, Ano 989, Ano 1001... HARPIA: Ano 966, Ano 978, Ano 990, Ano 1002... BASILISCO: Ano 967, Ano 979, Ano 991, Ano 1003... PÉGASO: Ano 968, Ano 980, Ano 992, Ano 1004... |
-| :---- |
+|-------|
 
 **Facções**
 
@@ -6678,7 +6678,7 @@ Um jovem rejeitado pelos seus amigos e parentes por causa de suas habilidades es
 
 Atualmente Shizoto está aposentado de sua vida de aventureiro e foi convidado para ser professor de  trato de Mortos Vivos na escola de Magia de Moacuba.
 
-# **ESTADOS TAMPÕES DO IMPÉRIO** {#estados-tampões-do-império}
+# **ESTADOS TAMPÕES DO IMPÉRIO** 
 
 Os Estados Tampões são territórios estratégicos situados nas fronteiras do Império, concebidos como zonas de amortecimento entre o coração central do poder imperial e regiões hostis ou instáveis. São peças essenciais na manutenção do equilíbrio geopolítico, funcionando como barreiras de contenção contra ameaças externas, internas e sobrenaturais.
 
@@ -6728,7 +6728,7 @@ Sua eficácia depende da lealdade relativa de governantes locais, da força das 
 
 Perder um Estado Tampão significa abrir a porta para ameaças externas e desestabilizar completamente o equilíbrio imperial, tornando-os alvos estratégicos tanto para aliados quanto para inimigos.
 
-# **A Área da Infestação** {#a-área-da-infestação}
+# **A Área da Infestação** 
 
 Dentro da Área da Infestação, o que ocorre é uma distorção absoluta da realidade material, transformada em uma extensão dos Planos Inferiores e do Caos
 
@@ -6879,7 +6879,7 @@ Em volta do lugar há a cortina, uma mágica conjurada pelos Arcanos mais podero
 A barreira não é intransponível e já foi violada diversas vezes durante a sua existência, magos, criaturas ou alguém com poder de destruição poderoso o suficiente consegue abrir buracos na barreira e sair da área. O ataque dos Kaijus, evento que aconteceu tempos atrás é prova disso, as criaturas gigantescas conseguiram abrir buracos na cortina e destruir a muralha para sair da área e atacar Airy. Há relatos também de alguns magos das Trevas poderosos que abrem rombos na barreira e conseguem entrar e sair da área com certa facilidade, por isso a barreira é constantemente vigiada por magos nos postos de controle na muralha.
 
 | TABELA CLIMA Para determinar o clima na área da infestação role 1d6 e compare o resultado na tabela abaixo. 1\. Cinza sem vida 2\. Silêncio mortal 3\. Brisa chateante 4\. Garoa irritante 5\. Preto como a noite 6\. Especial TABELA CLIMA ESPECIAL Caso caia Especial na rolagem acima role novamente e compare com o resultado abaixo. 1\. Gélido como tumba 2\. Tempestade ruidosa 3\. Calor debilitante 4\. Névoa maciça 5\. Vento perfurante 6\. Trovões violentos |
-| :---- |
+|-------|
 
 **História Área da Infestação**
 
@@ -6936,7 +6936,7 @@ Criando assim a Área Desmorta, um local onde o poder caótico das Trevas cria m
 As Trevas também é considerada uma energia anti divina, fazendo o contrário que a magia divina pode fazer, como criar maldições, e criar a não vida, trazendo fantasmas e mortos vivos de todos os tipos ao mundo de forma aleatória.
 
 | As Trevas As Trevas é o caminho do mal. Ele é tentador, pois oferece vantagens, cada vez que você invoca as Trevas nas suas rolagens, você recebe um Ganho e cada vez que faz isso ganha 1 Ponto de Trevas. Limite de Trevas: A quantidade de Pontos de Trevas que você tem varia e nem você sabe exatamente qual o seu limite (o mestre rola 3d6 em segredo). Quando você ultrapassa o seu limite de pontos de Trevas, você imediatamente sofre os efeitos da desvantagem Fúria, que dura a próxima cena, neste estado, você pratica maldades contra tudo e todos ao seu redor, sem distinguir amigos de inimigos.  Tentado Pelas Trevas: Quando a fúria acaba você está Tentado pelas Trevas e o mestre rola novamente 3d6 em segredo para saber qual o seu novo limite de trevas. Se novamente você ultrapassa esse limite, seu personagem está totalmente Tomado pelas Trevas e se torna um NPC maligno dedicado a propagar as trevas pelo mundo. Arcanos Imperiais estão constantemente a procura de indivíduos que propagam as Trevas pelo mundo, se você for descoberto, muito provavelmente vai ser preso e mandado para os campos de reabilitação dos Arcanos Imperiais, onde ficará até os seus últimos dias em campos de trabalho forçado tentando se livrar das trevas que tomaram o seu corpo. A meta para um Arcano Imperial perceber que você usou as Trevas é 20 \- seus Pontos de Trevas. Quanto mais pontos de trevas você tiver, mais fácil vai ser um Arcano Imperial perceber que você está contaminado pelas Trevas. Você pode se livrar de Pontos de Trevas, basta gastar Todos os seus PMs durante uma semana e perderá 1 Ponto de Trevas. Limite de Trevas Aventura One Shot: 1d6 Campanha Média: 2d6 Campanhas Longas: 3d6 |
-| :---- |
+|-------|
 
 **Efeitos Dentro da Área**
 
@@ -7179,7 +7179,7 @@ No contexto de Arcano, Vermífagos representam uma ameaça insidiosa que destaca
 
 Caldeiras são grandes, corpulentos Infestado crivado de furúnculos pulsantes, que lançam uma semente infestada ocasionalmente. Quando morto, ele irá estourar e lançar várias sementes infestadas que crescem em vagens de desova. Deixados sem controle, essas cápsulas de desova desencadeiam uma variedade de infestados menores para sobrecarregar seus inimigos.
 
-# **A Terra dos Pistoleiros** {#a-terra-dos-pistoleiros}
+# **A Terra dos Pistoleiros** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -7297,7 +7297,7 @@ Abaixo temos alguns Cangaceiros que prejudicam tanto os Coronéis que eles se un
 
 Ainda existem muitos outros Cangaceiros, com seu bandos trabalhando a serviço de Coronéis na região, não é raro, Coronéis rivais colocarem altas recompensas pela morte de Cangaceiros a serviço de seus inimigos.
 
-# **A Terra de Ninguém** {#a-terra-de-ninguém}
+# **A Terra de Ninguém** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -7419,7 +7419,7 @@ Ela é a prefeita da cidade da Campina, ninguém tem muitas informações sobre 
 
 Ele comanda o efetivo do exército imperial na terra de ninguém. 
 
-# **Território Pacificado** {#território-pacificado}
+# **Território Pacificado** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -7586,7 +7586,7 @@ Banto humano, especialista em medicina e ervas, lidera o Refúgio da Floresta Es
 
 Gnoil pacífico de Acampamento do Corvo Noturno, mestre em rastreamento e infiltração. Responsável por detectar invasões e proteger caravanas comerciais do território.
 
-# **Vale dos Condenados** {#vale-dos-condenados}
+# **Vale dos Condenados** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -8534,7 +8534,7 @@ Bolsa de Cinto (3 po):
 
 https\://d20agerpg.notion.site/TERRA-DE-GIGANTES-a6de03e344a142a2b237d6b231088e49
 
-# **Facções** {#facções}
+# **Facções** 
 
 Outras guildas que podem ser encontradas em Airy.
 
@@ -8726,7 +8726,7 @@ Senhores dos Elementos
 
 **ORGANIZAÇÕES MUNDIAIS**
 
-# **A Ordem dos Arcanos Imperiais** {#a-ordem-dos-arcanos-imperiais}
+# **A Ordem dos Arcanos Imperiais** 
 
 *É a Organização encarregada de caçar as ameaças à estabilidade do Império Aba e de toda a humanidade.*
 
@@ -8808,7 +8808,7 @@ Após alguém ser agraciado com a honra de ser parte da ordem, existe ainda um t
 
 **Personagens Importantes:** Vários filhos de personalidades importantes de Airy.
 
-# **Cargos da Organização** {#cargos-da-organização}
+# **Cargos da Organização** 
 
 **6º Apoio:** Quem faz o serviço sujo, na ordem, a guarda, o pessoal da limpeza (que faz o trabalho sujo, de juntar os corpos dos mortos). posto mais baixo da hierarquia.
 
@@ -8834,7 +8834,7 @@ Após alguém ser agraciado com a honra de ser parte da ordem, existe ainda um t
 
 **Líderes da Organização:** Conhecidos AHRIMAM Arqui-Mestre dos Arcanos Imperiais, ANTARIUS Gram-Mestre dos Arcanos Imperiais.
 
-# **Títulos Honorários** {#títulos-honorários}
+# **Títulos Honorários** 
 
 São alguns títulos dados aos Arcanos Imperiais mais experientes. Só existe um arcano com cada título honorário, e este título permanece com este arcano enquanto ele viver. Originalmente existiam 12 títulos honorários, dados aos 12 primeiros Arcanos fundadores. Mas com o passar dos novos títulos honorários foram criados para Arcanos que se destacavam e se tornaram sinônimos daquele tipo de magia, se tornando indispensáveis assim para a ordem. Então sempre vai haver um Arcano da Destruição, ou da Resistência, porque os Arcanos Imperiais vão precisar de que um dos seus membros desempenhe este papel.
 
@@ -8911,9 +8911,9 @@ Títulos modernos.
 **Arcano Vingador:**Título dado ao arcano encarregado de vingar algum membro da ordem.
 
 | Livros das Trevas Nos Cofres dos Arcanos Imperiais  Atualmente a Ordem dos Arcanos Imperiais se orgulham de terem apreendidos todos os livros das Trevas no mundo. Codex Umbrae  Escrito em lâminas finas de carvão extraído de cadáveres petrificados. Diz-se que cada página guarda o eco de uma sombra que nunca encontrou corpo. O último escriba que tentou copiá-lo desapareceu dentro da própria sombra. Livro das Raízes Mortas  Tecido com fibras de uma árvore que cresceu sobre um cemitério de gigantes. As raízes absorveram a dor dos mortos e a imprimiram nas páginas. Quando o livro é aberto, um cheiro úmido de terra remexida invade o ar, como se algo estivesse tentando subir. Verrum Tenebris  Criado por monges degenerados da antiga Ordem de Verrum, que acreditavam que o mundo nasceu da podridão. Eles destilaram fungos venenosos para escrever um alfabeto vivo, que se move levemente quando exposto à luz. Nenhum dos monges sobreviveu ao processo. O Flagelo Códice  Forjado a partir das anotações de um Arcano Imperrial que enlouqueceu perseguindo criaturas que só ele enxergava. Ele arrancou a própria pele dos braços para encadernar o tomo. As páginas rangem como couro seco quando alguém profere blasfêmias por perto. Anátemon  Um livro que nunca foi escrito — diz-se que ele se formou sozinho, como um mineral. Surgiu na cratera deixada por um meteoro negro que matou todos os animais num raio de um quilômetro. Textos mudam conforme quem o lê, como se respondesse a pecados ocultos. Vade-Mortem  Criado para guiar as almas dos reis mortos de uma linhagem que negou ao Sol no Deserto Açu. O escriba que o compilou cegou-se voluntariamente para “ver melhor”. Dizem que o livro aquece nas mãos, como a pulsação fraca de alguém prestes a morrer. Códice do Vazio Antigo  Escrito por quatro autores, nenhum deles humano, todos desaparecidos antes do surgimento do Império. Metade das páginas está vazia, mas estudiosos relatam ouvir sussurros vindos delas, como se algo estivesse tentando aprender a falar. A Semente Negra  Um artefato vivo. Suas páginas são sementes petrificadas de uma planta abissal que brota apenas onde a luz do Sol jamais tocou. Quando aberto, exala um hálito frio que apaga chamas fracas. Dizem que, quando florescer, o livro se abrirá sozinho e o dono morrerá.  Cartas do Sol Errante  Coletânea de pergaminhos queimados parcialmente, escritos por um herético que alegava ter encontrado o “Sol subterrâneo”. As cartas foram resgatadas de uma fogueira inquisitorial. Às vezes, as bordas queimadas brilham como brasas vivas. O Evangelho da Carne Fria  Escrito pelos primeiros adoradores da Serpe Álgida, uma entidade que devora calor. O tomo é gelado ao toque, mesmo em fogueiras. Animais se aproximam dele tremendo, mas fascinados. Quem o lê por muito tempo perde a sensibilidade das mãos. Grimório de Karu-Nash  O diário distorcido de um feiticeiro que tentou se fundir com um demônio feito de fumaça. O ritual falhou: Karu-Nash se transformou em bruma, e seus últimos suspiros condensaram-se formando as páginas. O livro cheira a óleo queimado e sangue seco. O Livro do Sangue Silente  Compilado pelos Cirurgiões Vermelhos, uma seita que acreditava que o corpo é apenas um sino de carne. Eles removeram as próprias línguas para que o ritual pudesse ser silencioso. As páginas absorvem gotas de sangue e revelam palavras ocultas. Tabes Arcana  Criado por alquimistas infectados por uma praga desconhecida. À medida que apodreciam, registraram fórmulas impossíveis e manifestações delirantes. O livro está sempre coberto por um pó fino — restos dos criadores — que adormece quem o inala. O Manuscrito da Lua Quebrada  Escrito durante um eclipse que durou três dias, quando a lua apareceu rachada por um fenômeno arcano. A autora, uma vidente cega, escreveu sob transe contínuo, chorando lágrimas negras que mancharam o pergaminho. Nigras Thesaurum  Um tesouro negro escondido em uma cripta soterrada há séculos. Suas páginas são ditas feitas de ouro corroído por uma entidade que devora metais nobres. O livro zune levemente quando há magia nas proximidades. Livro do Primeiro Bicho  Tomo primitivo que descreve a criatura que teria precedido todas as outras formas de vida — uma fome com forma. As páginas são rústicas, feitas de couro de animais extintos. O texto é escrito em pictogramas que mudam de posição durante a noite. Códice das Sombras Antigas  Compilado pelos remanescentes de uma civilização soterrada nas Cordilheiras Atã. Eles escreviam apenas durante a noite, iluminados por cogumelos fosforescentes. Diz-se que o códice foi enterrado juntamente com o último deles, mas nunca permaneceu enterrado por muito tempo. O Tomo do Olho Virado  Criado por um astrólogo que enlouqueceu ao observar o céu durante o “ano do sol-doente”. Ele passou a ver olhos em todas as estrelas e decidiu desenhá-los. O livro muda de peso conforme as fases da lua. A Palavra Inculta  Um livro feito de folhas brutas, nunca refinadas, que parecem arrancadas direto de algum tipo de planta consciente. Cada página vibra como se tivesse um coração fraco. Lê-lo causa vertigem, como se as frases nunca fossem realmente concluídas. Theba Inversa  Uma arca invertida, pequena como um livro, construída com madeira retirada da porta de um templo profanado. As palavras internas estão grafadas de trás para frente, como um espelho quebrado. O artefato sussurra quando fechado. Livro de Imamu  O grimório sobre os estudos das Trevas pertenceu originalmente ao próprio Imamu, um dos maiores Arquimagos Abaquar que já se tem notícia e um dos poucos de sua raça a ser considerado maligno. Em um evento crucial, Ahriman, o Arcano da Destruição, apresentou um tomo enigmático e acorrentado em uma assembleia de Arquimagos, alegando ser o Grimório de Imamu, e comprovou sua autenticidade usando uma pena negra que emanava uma aura macabra, garantindo que a relíquia era do próprio Imamu. A pena era, na verdade, um troféu que Ahriman havia obtido em um embate contra Imamu, seu antigo inimigo. Contudo, em uma revelação surpreendente, Ahriman confessou em segredo ter ele mesmo escrito o grimório para manipular a assembleia e garantir que os humanos pudessem continuar estudando magia. |
-| :---- |
+|-------|
 
-# **Sam-Mael \- O Quartel General dos Arcanos Imperiais**  {#sam-mael---o-quartel-general-dos-arcanos-imperiais}
+# **Sam-Mael \- O Quartel General dos Arcanos Imperiais**  
 
 Sam-mael (O veneno dos Deuses) foi encontrado vagando nos céus de Airy a centenas de anos, curiosamente, a Magia é nula na ilha (NENHUM, Ponto de Magia pode ser gasto, nem recuperados nos seus domínios. Quando alguém se aproxima da ilha voadora, imediatamente, a própria ilha começa a sugar gradativamente o equivalente a 10% dos seus PMs por turno, isso é muito desconfortável para qualquer personagem que utilize PMs em aventuras, principalmente para magos).
 
@@ -8921,7 +8921,7 @@ Myst As La é mantido selado em um sarcófago, ainda vivo no centro da ilha, ele
 
 Existem alguns artefatos especiais que permitem que os PMs não sejam sugados nos domínios de Sam-Mael, entre eles está um manto que os Arcanos imperiais, mais influentes utilizam constantemente, infelizmente os mantos são em número bem reduzido e somente os mais influentes Arcanos Imperiais tem a permissão de usá-los, e estes artefatos raramente deixam os domínios de Sam-Mael (existem apenas 10 Mantos conhecidos na ilha, um com o Arqui-Mestre, e outro com Cada Gram-Mestre, e 3 concedidos para hóspedes especiais e alguns Arcanos Imperiais mais renomados e confiáveis).
 
-# **Locais Notáveis** {#locais-notáveis}
+# **Locais Notáveis** 
 
 **A ilha da serpente**
 
@@ -8939,7 +8939,7 @@ Então conseguiram com isso um fluxo constante de alimento para as criaturas da 
 
 Primeiramente, como o evento era incrivelmente difícil, raramente prêmios eram pagos para os vencedores. E com o tempo nunca mais ninguém retornava com vida do evento, até que o prêmio se tornou apenas uma farsa.
 
-# **Personalidades Notáveis** {#personalidades-notáveis}
+# **Personalidades Notáveis** 
 
 **AHRIMAM Arqui Mestre dos Arcanos Imperiais**
 
@@ -9279,7 +9279,7 @@ Até ele ser pego por Vulcazar que provavelmente usou a mesma maldição para as
 
 Meio-Elfos Caçadores de Magos a serviço dos Arcanos Imperiais,  eles não tiveram uma ficha criada para a aventura. Mas considere que são personagens de 12 Pontos Escala Nigen, com o Kit Caçador de Magos. Eles têm a vantagem Parceiro entre eles com um complementando as habilidades do outro.
 
-# **Os Cavaleiros** {#os-cavaleiros}
+# **Os Cavaleiros** 
 
 **1\. Tipo e Agente**
 
@@ -9324,7 +9324,7 @@ Na paz a vigilância, na guerra a vitória, na morte o sacrifício.
 
 Lema dos Cavaleiros de Airy.
 
-# **Origens e Propósito** {#origens-e-propósito}
+# **Origens e Propósito** 
 
 Os Cavaleiros de Aslareth não eram apenas guerreiros, eram respostas vivas a um mundo que se tornava mais caótico, mágico e perigoso. Quando Misty percebeu que os magos não dariam conta do avanço do sobrenatural, ele **sacrificou a humanidade de seus próprios soldados** para criar armas vivas capazes de enfrentar horrores arcanos.
 
@@ -9338,7 +9338,7 @@ Apenas soldados com lealdade cega, resistência física e alma resiliente eram c
 
 Muitos eram órfãos criados nos quartéis ou guerreiros que se destacaram nos campos de batalha.
 
-# **2\. Rito do Selo da Alma** {#2.-rito-do-selo-da-alma}
+# **2\. Rito do Selo da Alma** 
 
 Um ritual inicial em que a alma do candidato é marcada com **um selo de contenção**, impedindo que percam o controle quando receberem os soros e magias que iriam os tornar o que deveriam ser.
 
@@ -9464,7 +9464,7 @@ As três adições de cada facção moldam o Espírito da Linhagem, determinando
 
 – Aurora Fendida → líderes e mártires da causa
 
-# **Regimento da Vigília Escarlate** {#regimento-da-vigília-escarlate}
+# **Regimento da Vigília Escarlate** 
 
 Órgãos adicionais:
 
@@ -9500,7 +9500,7 @@ São os vigias dos portões de Aslareth, encarregados de caçar traidores, vigia
 
 **Personalidade coletiva:** Paranoicos, atentos e de fala medida. Juram nunca fechar os olhos até o inimigo ser esquecido pela terra.
 
-# **Regimento da Ossaria Silenciosa** {#regimento-da-ossaria-silenciosa}
+# **Regimento da Ossaria Silenciosa** 
 
 Órgãos adicionais:
 
@@ -9534,7 +9534,7 @@ Purificam-se bebendo líquidos amargos e entrando em longos períodos de hiberna
 
 Personalidade coletiva: Frios, contemplativos, com fala arrastada e gestos lentos. São os monges necro-ascetas da Ordem.
 
-# **Regimento do Fôlego Infernal** {#regimento-do-fôlego-infernal}
+# **Regimento do Fôlego Infernal** 
 
 Órgãos adicionais:
 
@@ -9570,7 +9570,7 @@ Após as batalhas, queimam as feridas com ácido próprio — uma forma de purif
 
 **Personalidade coletiva:** Impetuosos, orgulhosos, teatralmente ferozes. Consideram a dor uma oferenda.
 
-# **Regimento do Limiar Abissal** {#regimento-do-limiar-abissal}
+# **Regimento do Limiar Abissal** 
 
 Órgãos adicionais:
 
@@ -9604,7 +9604,7 @@ Fazem vigílias em cemitérios pantanosos e meditam sobre a decomposição.
 
 **Personalidade coletiva:** Sombria, pragmática, devota da corrupção controlada. São os alquimistas e devoradores de maldições.
 
-# **Regimento da Aurora Fendida** {#regimento-da-aurora-fendida}
+# **Regimento da Aurora Fendida** 
 
 Órgãos adicionais:
 
@@ -9640,7 +9640,7 @@ Antes de batalhas, abrem pequenas fendas nos braços e deixam a luz do amanhecer
 
 **Personalidade coletiva:** Orgulhosos, inspiradores, mas carregados de fanatismo redentor.
 
-# **Regimento dos Intendentes de Ossavermelha** {#regimento-dos-intendentes-de-ossavermelha}
+# **Regimento dos Intendentes de Ossavermelha** 
 
 **Título informal:** Os Que Resta(m)
 
@@ -9706,7 +9706,7 @@ A dor é indescritível. Muitos gritam por dias após as cirurgias. Os que não 
 
 Após um ano de todos estes rituais e enxertos  mágicos, sobra não apenas um novo homem mas um super homem. A grande maioria fica com mais do que 2 metros de altura, e mais de 200 kg de puro músculo, sua estrutura óssea se torna muito mais densa, capaz de suportar não somente sua nova massa muscular mas pesos que pessoas normais jamais poderiam aguentar naturalmente. No entanto como ocorre com pessoas normais com esta massa muscular eles não perdem velocidade, conseguindo se movimentar muito mais rapidamente do que uma pessoa comum. Seus sentidos ficam mais apurados, visão melhorada, olfato e audição aguçada, alguns tem variações, com sentidos mais aguçados do que os outros, mas todos têm os sentidos aguçados após o procedimento.
 
-# **Treinamento dos Cavaleiros** {#treinamento-dos-cavaleiros}
+# **Treinamento dos Cavaleiros** 
 
 O sistema de criar os cavaleiros é semelhante a uma linha de produção, onde dezenas são criados de cada vez para maximizar os números de forma perpétua nesta linha de produção. Todos iguais, nas suas mutações mágicas, e no seu treinamento nos princípios da cavalaria medieval.
 
@@ -9776,7 +9776,7 @@ Agora pertencem ao trono e à guerra.
 Apenas os mais destacados em batalha, após anos de serviço, recebem terras ou títulos nobiliárquicos — e mesmo assim, raramente.
 
 | Lealdade: Cavaleiros eram leais ao seu senhor feudal, ao rei e à Igreja, devendo defender seus interesses e cumprir suas obrigações. Coragem: A bravura e a valentia em combate eram qualidades essenciais, assim como a disposição para enfrentar desafios e perigos. Honra: A honra era um valor central, envolvendo a reputação do cavaleiro, a fidelidade à palavra dada e a busca pela justiça. Proteção dos Fracos: Cavaleiros deveriam proteger os vulneráveis, como mulheres, crianças, idosos e pessoas em necessidade. Respeito à Igreja: A fé cristã era fundamental, e os cavaleiros tinham a obrigação de defender a Igreja e seus ensinamentos. Generosidade: Cavaleiros deveriam ser generosos, tanto em batalhas quanto em suas relações pessoais, oferecendo ajuda e proteção aos necessitados. Cortesia: A cortesia e a etiqueta social eram valorizadas, com respeito e boas maneiras sendo esperados em interações com outras pessoas. Habilidade Militar: O domínio das armas e das técnicas de combate era essencial, tanto para a autodefesa quanto para o serviço ao seu senhor.  Outras Virtudes e Aspectos Importantes: Amor Cortês: Embora nem sempre presente em todas as situações, o amor cortês era um ideal romântico que influenciou a cavalaria, envolvendo respeito e admiração pela dama. Justiça: A busca pela justiça e a defesa do direito eram ideais importantes para os cavaleiros. Fé: A fé em Deus e na Igreja era um componente central da cavalaria, guiando as ações e decisões dos cavaleiros. Autocontrole: O autocontrole e a disciplina eram importantes para manter a calma e a racionalidade em momentos de pressão. Paciência: A paciência era necessária para lidar com os desafios e obstáculos que surgiam na vida de um cavaleiro.Depois eles se destacam no campo de batalha por seus feitos e recebem seus títulos. |
-| :---- |
+|-------|
 
 # 
 
@@ -9784,11 +9784,11 @@ Apenas os mais destacados em batalha, após anos de serviço, recebem terras ou 
 
 Agora iremos falar um pouco dos reinos e regiões que não fazem parte do Império Aba. Algumas nações são pacíficas como os Abaré e Kaaporas, outras valorosas como os Akitã e Auçá (Veja no capítulo Povos), outras são sanguinárias e caóticas como os Abaité e Anaiti.
 
-# **FLORESTA KA’AQWY** {#floresta-ka’aqwy}
+# **FLORESTA KA’AQWY** 
 
 A Floresta Ka’agwy conhecida popularmente como Floresta Proibida é a maior área inexplorada do mundo, o pouco que se sabe dessa floresta é que a sua extensão é maior do que todo o mundo conhecido, e que é lar dos misteriosos Abaré (Elfos) de Airy, a floresta é muito perigosa serve de lar e abrigo para os mais temidos monstros, várias expedições foram enviadas para explorar a floresta, mas poucos foram os homens que conseguiram voltar com vida e menos ainda com sanidade.
 
-# **Reino dos Abaré** {#reino-dos-abaré}
+# **Reino dos Abaré** 
 
 Na Floresta proíbida o Espécie dos Elfos Abaré se estabeleceu após migrar da Terra selvagem para lá. Expulsos pelos Abaité da região, chegaram a Floresta Proibida sem nada e logo se depararam com os perigos locais, vários monstros e animais selvagens, obrigaram os Abaré (Elfos) e se estabelecer no topo das árvores, quanto maior a árvore mais seguros eles estariam, com o tempo e seu conhecimento sobre magia, eles começaram a se integrar a natureza, fazendo as suas casas partes vivas das árvores, inclusive tirando o seus alimentos das mesmas árvores.
 
@@ -9796,7 +9796,7 @@ Geralmente a sociedade Abaré é governada pelos seus membros mais velhos e sáb
 
 Outra constante entre os Abaré (Elfos) da Floresta Proibida é as tatuagens  de Runas Mágicas que os Abaré têm espalhadas por todo o corpo, dizem que essas tatuagens rúnicas concedem poderes mágicos poderosos para seus portadores. Igualmente poderosos são os Mestres das Runas Abaré que se dedicam a estudar runas com poderosos poderes mágicos que suspeita-se existirem antes mesmo da própria magia, escritas pelos próprios deuses para criar todas as coisas que existem. O Reino dos Abaré é berço dos mais poderosos Mestres das Runas do mundo, embora essa disciplina não seja exclusiva dos Abaré eles são muito respeitados por seus estudos na área.
 
-# **Elfin** {#elfin}
+# **Elfin** 
 
 **Gentílico:** Elfínicos
 
@@ -10071,9 +10071,9 @@ O Moldador é uma figura de autoridade ancestral em Elfin, reconhecido como o cr
 É um mago glacial que livrou Forte Novo do gigante Etin.
 
 | Elros Palantír Mago Glacial, Alpha F1, H2, A0, R2, PdF0 PVs 10 PMs 20 Vantagens: Abaré (H+1, Visão Aguçada, FA+1 c/ Arco e Espada, Aptidão p/ Magia Elemental), Magia Elemental, Pontos de Magia Extra, Conhecimento Glacial: (Toque de Beluhga, Inferno de Gelo, Fios de Gelo). Vantagem Regional de Elfin: Tatuagem Runica (0)  \+ (Roubo de Vida, Teleportação). Perícia: Sobrevivência. Desvantagens: Código de Honra da Gratidão, Código de Honra do Caçador, Ponto Fraco  |
-| :---- |
+|-------|
 
-# **Reino dos Abaquar** {#reino-dos-abaquar}
+# **Reino dos Abaquar** 
 
 **Capital:** Araxá
 
@@ -10490,7 +10490,7 @@ A agenda central da facção é **Explorar Terras Desconhecidas** e **Forjar Ali
 
 Diplomatas, exploradores e mensageiros que viajam por Airy em busca de conhecimento arcano, aliados e oportunidades estratégicas. Mantêm contato com outras raças e culturas, mapeando locais perigosos, negociando relíquias e ampliando o alcance da influência Abaquar. Seus membros são treinados tanto em magia de transporte quanto em diplomacia, sobrevivência e disfarces, permitindo infiltrações em territórios hostis e negociações complexas.
 
-# **Reino dos Piquira** {#reino-dos-piquira}
+# **Reino dos Piquira** 
 
 Avista a Cidade dos Piquira (Gnomos): A cidade secreta, a cidade da tecnologia.
 
@@ -10802,7 +10802,7 @@ Os Observadores do Flutuum têm como função proteger o mineral secreto que tor
 
 Kale é um Piquira de Avista, um excelente piloto e engenhoqueiro, que criou seu próprio braço mecânico. Gorgo bloqueou sua memória após a missão em Hardenvul, fazendo com que ele sentisse dor ao tentar lembrar. Azeron o procurou para construir um Mecanar, oferecendo Orbes Elementais Primordiais em troca, um acordo que Kale aceitou.
 
-# **MUNDO INTERIOR** {#mundo-interior}
+# **MUNDO INTERIOR** 
 
 O Mundo Interior é uma vasta e enigmática rede de cavernas que percorre todo o continente de Airy e possivelmente se estende para além de suas fronteiras conhecidas. Essa teia subterrânea de túneis e galerias corre a quilômetros de profundidade, com cavernas de proporções titânicas, algumas capazes de abrigar cidades inteiras, e ecossistemas completos, isolados da luz solar. Criaturas obscuras, adaptadas à escuridão absoluta, vagam por essas profundezas, muitas delas nunca avistadas por olhos humanos.
 
@@ -10828,7 +10828,7 @@ Além dos povos que nele habitam, o Mundo Interior é lar de criaturas únicas, 
 
 Através de acordos com vários demônios, Vulcazar conheceu Mebad, e com a promessa de o liberar no mundo após seu exército o dominar Mebad trouxe suas hordas de demônio do inferno para lutar junto a ele. Mebad trás os poderes dos planos inferiores para amaldiçoar e roubar vida de seus inimigos em combate.
 
-# **Andirá** {#andirá}
+# **Andirá** 
 
 **Gentílico:** Andirano
 
@@ -11279,11 +11279,11 @@ Nascido na região de Andirá desde “pequeno”  sempre demonstrou um talento
 
 Tem trilhado um caminho por vários reinos de Arcano em busca de conhecimento , poder e boa caneca de cerveja\! Sempre com os pés no chão( pois é , lugares muito altos  amedrontam o grande anão  ) está em busca de missões e desafios\!
 
-# **AS CIDADES LIVRES** {#as-cidades-livres}
+# **AS CIDADES LIVRES** 
 
 Abaixo temos as cidades livres, não são tão grandes para serem considerados reinos mas são poderosas o suficiente para serem respeitadas pelo Império, mais desconhecidos de todo o mundo.
 
-# **Vul** {#vul}
+# **Vul** 
 
 **Gentílico:** Vulniano
 
@@ -11371,7 +11371,7 @@ Na nação de Vul, poder e influência significa tudo, apesar de Uzir Wraek ter 
 
 **Facções**
 
-# **Os Magos das Trevas de Vul** {#os-magos-das-trevas-de-vul}
+# **Os Magos das Trevas de Vul** 
 
 A configuração da facção **Os Magos das Trevas de Vul**, apresenta-se como uma força magocrática e predatória de grande escala.
 
@@ -11456,7 +11456,7 @@ Uzir, através de seus espiões, durante as eras passou a manipular diversos gru
 
 Como um Lich, Uzir precisa de um fluxo constante de almas para alimentar seu corpo de Lich. Então ele criou por toda a cidade círculos arcanos que coletam as almas dos mortos na cidade. Praticamente todo cidadão da cidade que morre dentro das suas muralhas e arredores não vai para os planos superiores ou inferiores, é consumido pelo poder mágico do Lich. Uzir também não tolera outros Lichs na cidade e região, imediatamente destruindo todos que ousem se aproximar. Uzir Wraek hoje em dia é um dos magos mais poderosos do mundo.
 
-# **Fortuna** {#fortuna}
+# **Fortuna** 
 
 A Nação do Sangue do Ouro e da Pólvora, Arquipélogo Pirata, terra sem lei.
 
@@ -11888,7 +11888,7 @@ Burquem é um alegre e simpático Bardo que viaja pelo mundo à procura de hist�
 
 São três reinos que estão situados no lado frio e extremo de Airy.
 
-# **Montes Brancos** {#montes-brancos}
+# **Montes Brancos** 
 
 Os Montes Brancos é o local mais frio do mundo, poucos são os corajosos que se aventuram por estas terras e muito menos os que têm resistência suficiente para fixar residência por lá. 
 
@@ -11990,7 +11990,7 @@ Dependendo da região, os povos do gelo caçam e pescam diferentes espécies. Fo
 
 A mobilidade no gelo é feita principalmente por trenós puxados por cães — Malamutes ou Huskies. Os veículos transportam até quatro pessoas e podem atingir 40 km/h, sendo essenciais para percorrer grandes distâncias ou transportar cargas pesadas. Para rios e mares congelados, barcos de pele de baleia permitem navegação segura.
 
-# **Ybytu** {#ybytu}
+# **Ybytu** 
 
 **Gentílico:** Ybytui
 
@@ -12153,7 +12153,7 @@ Confraria da Lança Glacial: Exploradores e arqueólogos que buscam relíquias a
 
 Irmandade do Véu Branco: Diplomatas secretos e negociadores que lidam com aldeias vizinhas, tribos nômades e aventureiros que atravessam os Montes Brancos. Mantêm alianças, comércio seguro e tratados de paz, sempre em sigilo absoluto. Seus agentes utilizam disfarces, feitiços de ilusão e códigos secretos para garantir que informações estratégicas não vazem para inimigos ou predadores.
 
-# **Arani** {#arani}
+# **Arani** 
 
 A cidade dos Portões da Névoa Eterna 
 
@@ -12183,7 +12183,7 @@ Além da defesa, a vida em Arani se molda à adversidade. Mercados subterrâneos
 
 Arani, portanto, é um reino que sobrevive e prospera na borda do mundo conhecido: uma fortaleza de ferro e gelo, guardiã dos mistérios do sul, onde a disciplina, a estratégia e a adaptação transformaram o inóspito em civilização e o medo em poder.
 
-# **Tamaya** {#tamaya}
+# **Tamaya** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -12315,7 +12315,7 @@ Confraria da Lança de Gelo: Exploradores e arqueólogos que realizam missões e
 
 Irmandade do Véu Branco: Diplomatas, negociadores e espiões secretos que lidam com outros reinos e tribos nômades. Mantêm sigilo absoluto sobre alianças, tratados e movimentações estratégicas. A Irmandade usa disfarces, magia de ilusão e códigos secretos, garantindo que Tamaya mantenha influência e respeito mesmo nos territórios mais distantes.
 
-# **DESERTO AÇU** {#deserto-açu}
+# **DESERTO AÇU** 
 
 O deserto do Açu se estende como um mar de areia e pedra sob o sol amarelo, onde a vida sobrevive por pura obstinação. Suas terras são resultado de eras passadas e magia ancestral; especula-se que o Açu tenha surgido de um uso indevido de feitiçaria, deixando a região morta e incapaz de abrigar vida. Estudiosos dos Arcanos Imperiais compararam o efeito ao de áreas infestadas, afirmando que, quando o poder das trevas se dissipar, o Açu se tornará apenas um deserto natural no coração do continente.
 
@@ -12361,7 +12361,7 @@ O Hamada, assim, é um deserto de extremos: vida e morte coexistem nas rochas, n
 
 No deserto existem pequenos reinos demais para serem escritos neste livro só iremos abordar os mais conhecidos e importantes. Seu governo é tão caótico que é até difícil determinar se reinos existem ou não devido às várias hostilidades no local.
 
-# **Mbaê** {#mbaê}
+# **Mbaê** 
 
 **Gentílico:** Mbaênse
 
@@ -12538,7 +12538,7 @@ Culto da Lua Morta: Ordem religiosa que realiza cerimônias lunares e rituais de
 
 Liga dos Salinos: Guilda mercantil que controla o comércio de sal e água, garantindo o sustento econômico da cidade e sua influência sobre caravanas do deserto.
 
-# **Ybi** {#ybi}
+# **Ybi** 
 
 **Gentílico:** Ybiano
 
@@ -12815,7 +12815,7 @@ Um dos Magos exilados para o Deserto, Karnos Minor, Faraó da cidade Ybi conquis
 
 Gorgo é o velho e aleijado professor de Estudo de Criaturas Mágicas na escola de magia, um estrangeiro das terras dos Reis Múmias. Ele é, na verdade, um Necromante e Mago Desmorto que manipulou Azeron para que ele aceitasse o Grimório das Trevas, e depois o usou para se fortalecer e se tornar o general de seu exército. Gorgo transformou seu assistente, Mordigueiro, no monstro Capelobo, e transplantou o olho do filho da dragoa Fumegan em Azeron, garantindo seu controle sobre o garoto. Ele foi o responsável pela morte dos mercenários Razar e Dafar. Durante a batalha final, ele demonstrou que sua aparência curvada era uma farsa, reestruturando seu corpo mutilado para parecer forte e intacto.
 
-# **Acuba** {#acuba}
+# **Acuba** 
 
 **Gentílico:** Acubense
 
@@ -13109,11 +13109,11 @@ Cansada de esperar a bela descendente da Ilha de Yu pedir permissão para partir
 
 Após derrotar Vulcazar sua fama correu pelo deserto e seu nome passou a ser ainda mais conhecido, ela se tornou Sultana em Acuba (uma nação do Deserto Açú), isso ajudou a trazer seus irmãos sumidos de volta ao lar depois de tanto tempo sem dar notícias, mas dos 6 apenas 4 voltaram sendo que dois morreram, causando muita dor e um luto que durou um mês. Depois disso ela casou-se com um dos Sultões locais e ambos tentam governar sabiamente os reinos vizinhos.
 
-# **Terra dos Kaapora** {#terra-dos-kaapora}
+# **Terra dos Kaapora** 
 
 Muito longe das terras do império, nas longínquas Florestas e Colinas Icarú um pouca antes de o Deserto Açu começar a deixar as terra áridadas, fica a terra dos Kaapora (Halfings), um povo pacífico que vive em suas casas integradas nas colinas da sua terra, isolados do mundo em sua própria realidade, tranquila, mas às vezes surge algum Kaapora disposto a se aventurar pelo mundo espalhando a sua cultura. As suas terras nas colinas Icarú são muito pacíficas, praticamente não há segurança contra estrangeiros e invasores mas isso não quer dizer que não haja ninguém para defendê-las, cada vila tem a sua milícia bem armada e treinada, e pronta para entrar em ação.
 
-# **Anama** {#anama}
+# **Anama** 
 
 **Gentílico:** Anamanense
 
@@ -13195,7 +13195,7 @@ Você é tão bom em fugir que pode fugir até mesmo a morte. Você é automatic
 
 Leafar é um pequeno halfling que vivia pregando peças e roubando os poucos objetos de valor das pessoas do vilarejo onde cresceu e de lá nunca saiu. Por seus atos ficou antipatizado pelos moradores. Quando o gigante apareceu e destruiu parte do vilarejo, estraçalhou uma das casas onde Leafar estava furtando comida, por sorte ele escapou e fugiu para a floresta como um grande covarde que sempre demonstrou ser. Logo, deu de cara com o grupo e furtivamente os seguiu até, só se revelou aos membros do mesmo quando descobriu que estes iriam caçar o tal gigante. Ele não gosta muito de grupos, mas precisa de aliados mais fortes que ele para eliminar seu algoz, afinal se o monstro destruir tudo a quem ele irá roubar? Sendo assim, se ofereceu para conduzir o grupo pelo vilarejo.
 
-# **TERRA SELVAGEM** {#terra-selvagem}
+# **TERRA SELVAGEM** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -13434,7 +13434,7 @@ Alguns personagens que são originários da Terra Selvagem, mas não pertencem a
 
 Tuk Bárbaro Burro
 
-# **As Terras dos Auçás** {#as-terras-dos-auçás}
+# **As Terras dos Auçás** 
 
 **Gentílico:**Auçá
 
@@ -13621,9 +13621,9 @@ Drylameia, demonstrou capacidades mágicas desde criança e como isso é raro, f
 
 Kroutrera tem uma maldição que transforma seu rosto em um borrão espiral, ela era a líder da divisão de magos do exército e recebeu como missão do próprio Acemira capturar fugitivos.
 
-# **AS ILHAS** {#as-ilhas}
+# **AS ILHAS** 
 
-# **O Reino Submerso** {#o-reino-submerso}
+# **O Reino Submerso** 
 
 **Gentílico:** Sirenídeo
 
@@ -13764,7 +13764,7 @@ Liga dos Mercadores Salinos – Responsáveis pelo comércio com humanos e povos
 
 Sentinelas da Espuma – Grupo paramilitar especializado em patrulhar costas, impedir caçadores de sereias e monitorar naufrágios e incursões.
 
-# **Lauré** {#lauré}
+# **Lauré** 
 
 Lauré é a ilha (quase continente) onde todas as criaturas são antropomórficas, ou seja, são criaturas com características ou aspectos humanos em animais, que andam, falam e agem como humanos, conhecidos popularmente como Yawara, Kemonos ou juujin.
 
@@ -13774,7 +13774,7 @@ Alguns habitantes de Lauré demonstram traços de personalidade ligados à sua a
 
 Uma etnia comum em Lauré são os nekomimi, pessoas com orelhas, cauda e às vezes (mas nem sempre) patas de animais. O animal mais comum é o gato, mas também existem nekomimi de grandes felinos (panteras, onças, tigres...), coelhos, raposas, cães, lobos, porcos e outros mamíferos. 
 
-# **Tupãsununga** {#tupãsununga}
+# **Tupãsununga** 
 
 O reino dos felinos.
 
@@ -13897,7 +13897,7 @@ Você pode gastar um Movimento para ganhar F+2 e R+1 durante o combate. Quando a
 
 Fergata Ladina Kemona
 
-# **Yu** {#yu}
+# **Yu** 
 
 **Gentílico: **Yuren
 
@@ -14098,7 +14098,7 @@ Você recebe gratuitamente as Especializações Conhecimento: Nobreza e Realeza 
 
 Você recebe uma arma mágica, como se tivesse gastado 10PEs para comprá-la. A cada mudança de categoria de seu personagem (lutador, campeão, lenda…), ela recebe um poder extra no valor de 10PEs. Você pode aprimorar esta arma com seus próprios pontos de experiência, em campanha.
 
-# **Tibá** {#tibá}
+# **Tibá** 
 
 **Gentílico:** Tibense
 
@@ -14225,7 +14225,7 @@ Guilda dos Exploradores: Pouco conhecida, composta por gigantes curiosos que inv
 
 Além dos habitantes principais, a ilha é lar de animais gigantes: predadores colossais, pássaros do tamanho de cavalos, peixes enormes em rios alagados e insetos mutantes. A flora inclui árvores que crescem centenas de metros, vinhas que se entrelaçam entre os picos das montanhas e plantas mágicas que florescem apenas nas regiões marcadas pela energia residual do cataclisma.
 
-# **Sobá** {#sobá}
+# **Sobá** 
 
 **1\. Pessoas (Cultura e Recursos)**
 
@@ -14340,7 +14340,7 @@ Exploradores Proibidos: Uma rede clandestina de habitantes que aventuram-se em r
 
 Sobá é lar de criaturas extraordinárias, muitas delas mutantes ou mágicas: lagartos com escamas impenetráveis, aves de rapina gigantes, insetos com inteligência rudimentar e predadores adaptados à magia do Dragão. A vegetação é resistente, com árvores negras que crescem rapidamente e plantas carnívoras, algumas capazes de emitir energia mágica que desorienta intrusos.
 
-# **OS PLANOS DE EXISTÊNCIA**  {#os-planos-de-existência}
+# **OS PLANOS DE EXISTÊNCIA**  
 
 O mundo de Arcano e Airy é estruturado por uma complexa cosmologia baseada na dualidade entre Ordem e Caos, as duas entidades supremas que criaram toda a existência.
 
@@ -14488,7 +14488,7 @@ Há portais que levam até as principais cidades do mundo e as mais diversas loc
 
 **Reinos Antigos antes do surgimento do Império**
 
-# **Aslareth** {#aslareth}
+# **Aslareth** 
 
 Foi o reino que deu origem ao Império e suas bases ainda hoje guiam o império.
 
@@ -14567,15 +14567,15 @@ As rotas de Aslareth facilitavam o controle imperial e o comércio.
 * **Caminho Condicional:** Passagens das Cordilheiras. Rotas de montanha que podiam estar Bloqueadas por Rocha Gigante ou exigir equipamentos de escalada.
 
 | Linha de Sucessão dos Regentes de Aslareth –  Era da Intriga (600 anos após Thalvien As-La) até o reino cair e o Império surgir  Vaelarion As-La, o Coração Vazio *Reinou: \-639 a-621* *Morte: Assassinado por um conselheiro possuído* Ydris As-La, a Víbora de Mármore *Reinou: \-621 a \-599* *Morte: Decapitada publicamente durante revolta popular* Eron Vel As-La, o Martelo da Aurora *Reinou:  \-599 a \-585* *Morte: Ferido mortalmente em batalha contra os Cavaleiros de Saphur* Malveth As-La, o Brando *Reinou: \-585 a-558* *Morte: Suicídio ritual após praga atingir seus herdeiros* Therys As-La, o Feitor das Sombras *Reinou:  \-558 a \-547* *Morte: Envenenado pela amante enviada por um reino rival de Karundar* Sorvelin As-La, o Mudo *Reinou:  \-547 a-528* *Morte: Doença degenerativa mágica (Gadanhas Negras)* Aelthar As-La, o Conquistador de Fogo *Reinou:  \-528 a-505* *Morte: Em combate contra dragão ancestral* Lioren As-La, o Teórico *Reinou:  \-505 a \-488* *Morte: Morreu dormindo em meio a um experimento mágico* Mireya As-La, a Sussurrante *Reinou:  \-488 a-473* *Morte: Assassinada por seu próprio filho durante ritual profano* Kaedryn As-La, o Último dos Vermelhos *Reinou: \-473 a \-452* *Morte: Enlouqueceu e desapareceu no Espelho de Lhavar* Irvellan As-La, o Cinza de Vidro *Reinou:  \-452 a \-436* *Morte: Peste espiritual provocada por conjuração mal canalizada* Vhaldrien As-La, o Feitor das Correntes *Reinou:  \-436 a \-426* *Morte: Morto em motim da frota naval* Nyssara As-La, a Fera Dourada *Reinou:  \-426 a \-400* *Morte: Ferida por besta lendária durante caçada ritual* Orvan As-La, o Último Selo *Reinou: \-400 a \-382* *Morte: Natural (suspeita de substituição por sósia mágico nos últimos anos)*  Celyrra As-La, a Regente Interina *Reinou:  \-382 a \-369* *Morte: Deposta após rumores de falsificação de sangue real* *Observação: Era prima distante de Orvan; seu reinado é questionado por historiadores.* Vaerim II As-La, o Bastardo Azul *Reinou: \-369 a \-348* *Morte: Assassinato político no salão do trono com 37 punhaladas* *Ascendeu após rumores de ser filho ilegítimo de Orvan com uma maga da Corte.* Sorandel As-La, o Jurado *Reinou:  \-348 a \-331* *Morte: Condenado à execução por crime de lesa-majestade cometido por seu irmão* *Famoso por instituir o Grande Código do Olho por Olho, Dente por Dente.* Elynth As-La, a Devota do Vazio *Reinou:  \-331 a \-309* *Morte: Suicídio coletivo com a Corte após profecia apocalíptica mal interpretada* *Regente marcada por fanatismo e isolamento religioso.* Tavren As-La, o Lobo Negro *Reinou: \-309 a \-300* *Morte: Emboscado por milícia camponesa durante inspeção ao sul* *Militar de carreira, duramente autoritário e popular entre generais.* Neylor As-La, o Sem Rosto *Reinou:  \-300 a \-286* *Morte: Envenenado durante banquete com a Igreja do Sol Dourado* *Suspeitas apontam para sua amante como autora intelectual.* Vaelarion II As-La, o Eco da Praga *Reinou:	 \-286 a \-270* *Morte: Consumido pela própria magia após tentativa de cura da praga de bronze* *Último usuário conhecido do Grimório de Anátemon.* Idrys As-La, o Cativo de Ouro *Reinou: \-270 a \-259* *Morte: Morreu "livre" após décadas como refém político em sua própria corte* *Controlado por políticos da corte; nunca teve poder real.* Seranna As-La, a Dama de Sal *Reinou: \-259 a \-240* *Morte: Afogada em tentativa de fuga pelas catacumbas submersas* *Vítima de conspiração entre as cinco casas do leste.* Thalien As-La, o Rachado *Reinou: \-240 a \-227* *Morte: Morreu durante um surto psicótico em meio a um julgamento público* *Obcecado por justiça e visões proféticas, mandou executar centenas.* Mireon As-La, a Rosa de Sangue *Reinou: \-227 a \-215* *Morte: Morta por servo encantado (artefato rebelde da Ordem da Rosa Negra)* *Populista, bela e carismática, mas envolta em rituais antigos e proibidos.* Alvaren As-La, o Regente de Cinzas *Reinou: \-215  a \-200* *Morte: Envenenado pela filha com poção de pedra líquida* *Seu reinado viu a queima de 9 aldeias inteiras por "heresias invisíveis".* Ylleria As-La, a Silente *Reinou: 200 a \-183* *Morte: Natural (embora achem que foi substituída por um simulacro nos últimos anos)* *Nunca falou em público; comunicava-se por meio de cartas criptografadas.* Ravest As-La, o Filho do Norte *Reinou:  \-183 a \-165* *Morte: Decapitado por conspiradores em aliança com a Facção Rebelde de Alkinth* *Tentou reabrir as fronteiras ao norte e perdeu a cabeça — literalmente.* Lurien As-La, o Quebrador de Pactos *Reinou: \-165 a \-145* *Morte: Morto em duelo arcano contra o Arcanista Exilado de Misty* *Rompia tratados antigos e tentou destruir os registros proféticos.* Faenra As-La, a Rosa Final *Reinou: \-145 a \-39* *Morte: Natural (ou desaparecimento ritualístico voluntário)* *Última regente oficial reconhecida pela linhagem As-La antes do Grande Silêncio.* |
-| :---- |
+|-------|
 
 | 🜂 Altas Cadeiras do Governo de Aslareth Chanceler Supremo de Aslareth Título: *Voz de Mármore* Função: Porta-voz do trono em tempos de paz e crise; coordena a administração e conselhos. Exemplo de nome completo: *Vaelor Renn, Voz de Mármore*  Magistrado-Mor das Leis Imutáveis Título: *O Tecido de Sentença* Função: Interpreta e atualiza as Leis Antigas, supervisiona julgamentos de alta instância. Exemplo de nome completo: *Zuranth El-Hael, o Tecido de Sentença*  Intendente Real das Reservas e Sustento Título: *Palmo de Sangue* Função: Responsável pelos estoques imperiais, colheitas, distribuição de suprimentos e tributos. Exemplo de nome completo: *Mezrik Dovaan, Palmo de Sangue*  Almirante dos Véus Celestes Título: *Portador das Âncoras* Função: Supervisiona toda a frota naval e aérea, inclusive navios mágicos e portos flutuantes. Exemplo de nome completo: *Ysal Vrenn, Portador das Âncoras*  Mestre da Moeda e dos Pesos Sagrados Título: *Contador do Coração de Ferro* Função: Administra a economia, bancos, criação de moeda e controle de fluxos comerciais. Exemplo de nome completo: *Tharos Envir, Contador do Coração de Ferro*  Arquivista do Selo Eterno Título: *Guardião do Tempo Escrito* Função: Controla os registros históricos, selos imperiais e documentação arcana. Exemplo de nome completo: *Elnira Vaess, Guardiã do Tempo Escrito*  Executor das Fronteiras e Portais Título: *Manto da Limiaridade* Função: Vigia os portais mágicos, os confins do reino e as travessias entre reinos e planos. Exemplo de nome completo: *Korrin Malther, Manto da Limiaridade*  Senescal dos Sangues Nobres Título: *Ordem da Lança Heráldica* Função: Supervisiona as casas vassalas, linhos de sucessão, casamentos e heranças nobres. Exemplo de nome completo: *Avariel D'Yen, da Ordem da Lança Heráldica* 🜂 Altas Cadeiras de Aslareth — Ocupantes quando Aslareth caiu 1\. Voz de Mármore – Chanceler Supremo Nome: *Seraphar Dythien, o Voz de Mármore* Descrição: Um elfo ancião de fala pausada e memória infalível. Já serviu a três gerações da Casa As-La. Dizem que conhece cada segredo do palácio. 2\. O Tecido de Sentença – Magistrado-Mor Nome: *Lorrak Tyven Marral* Descrição: Severamente imparcial. Usa véu branco sobre os olhos para “não ver rostos, apenas as leis”. É temido até pelos nobres mais antigos. 3\. Palmo de Sangue – Intendente Imperial Nome: *Jurn Vaek, o Cobrador de Cinzas* Descrição: Antigo general reconvertido à administração. Perdeu a mão em batalha e a substituiu por uma garra de ferro ritualística. 4\. Portador das Âncoras – Almirante dos Véus Celestes Nome: *Ysmerai Korrun, Senhora das Três Proas* Descrição: Navegadora lendária, sobreviveu à travessia do Estuário de Gorgo. Lidera tanto navios quanto aeronaves encantadas. 5\. Contador do Coração de Ferro – Mestre da Moeda Nome: *Threm Valgeir, o Quinto Selo* Descrição: Um ex-sacerdote do culto de Bariven, convertido em economista. Jamais sorri. Sua assinatura vale mais que uma bandeira. Nome: *Celinar d’Onnath, a Contagem Invisível* Título completo: *Contador do Coração de Ferro, Guardião dos Códices Selados* Descrição: Uma mulher cega, silenciosa e extremamente precisa. Celinar afirma “ver” as dívidas e corrupções como manchas no ar. Ex-maga da Escola dos Ecos, tornou-se Mestre da Moeda após um colapso bancário que ela previu 39 dias antes em um poema cifrado. É temida por suas auditorias fantasmas, que “desaparecem” contas inteiras e seus donos. Nome: *Vaeg Lorrhe, o Dízimo Ardente* Título completo: *Contador do Coração de Ferro, Senhor do Sal e do Sangue* Descrição: Antigo cobrador de impostos da Fronteira Sul, Vaeg ascendeu pela violência e controle das casas de penhores clandestinas. Diferente de seus antecessores, instituiu um sistema de economia vinculado ao sacrifício voluntário — onde a moeda viva é literalmente usada em rituais de estabilização econômica. Seus inimigos o chamam de “Banqueiro Carniceiro”, mas Aslareth nunca teve tanta liquidez. 6\. Guardiã do Tempo Escrito – Arquivista Imperial Nome: *Velien Naara dos Oito Ecos* Descrição: É dita como parcialmente fora do tempo. Escreve com sangue de dragão diluído em tinta. Diz-se que conversou com Misty As-La em sonhos. 7\. Manto da Limiaridade – Executor dos Portais e Fronteiras Nome: *Karn Aval-Dor, o Resquício de Névoa* Descrição: Usa uma máscara preta ininterruptamente. Conhecedor de portais esquecidos e fissuras rúnicas entre planos. Alguns duvidam que ainda seja humano. 8\. Ordem da Lança Heráldica – Senescal dos Sangues Nobres Nome: *Myrriane D’Enrel, Teia da Linhagem* Descrição: Matriarca de uma casa menor, mas com sangue de gigante. Lúcida, venenosa e sempre três passos à frente dos casamentos que ela própria trama.  |
-| :---- |
+|-------|
 
 | Casas Antigas da Época de Aslareth Casa D’Anver Lema: "Firmes na Névoa" Região: Terras altas do norte, cobertas por brumas constantes. Descrição: Famosa por seu conhecimento arcano ancestral e sua tradição em magos da névoa. São discretos, mas influenciam as decisões do trono há gerações.  Casa Vurial Lema: "Através da Dobra, o Olhar" Região: Planaltos ao leste, com portais naturais de fluxo arcano. Descrição: Controlam fendas mágicas e têm a reputação de lidar com entidades do véu. São temidos por sua habilidade de ver o futuro — e usá-lo. Casa Elmarien Lema: "A Honra é a Lâmina Oculta" Região: Florestas sombrias de Elmaren. Descrição: Conhecida por seus assassinos honoráveis e espiões leais, a Casa Elmarien serve ao trono com informações e execuções silenciosas. Da União dessas três casas surge a Dinastia Anvurelien, que comanda o Império hoje em dia. Dinastia Anvurelien Lema: “Na sombra do tempo, forjamos destino.” Região-Símbolo: Alvorada Velada — uma fortaleza ancestral construída sobre um antigo nó de poder entre os territórios das três casas. Localizada onde as brumas das terras altas, os fluxos arcanos do planalto e as sombras das florestas convergem, é envolta por névoas perpétuas que brilham com tons sutis de luz arcana ao amanhecer. Descrição: Nascida do matrimônio triplo entre as casas D’Anver, Vurial e Elmarien, a Dinastia Anvurelien representa a união de bruma, visão e silêncio — uma tríade de poder que se equilibra entre o visível e o oculto. Seus regentes não reinam apenas com espada ou ouro, mas com previsões veladas, alianças sutis e uma rede de influência quase invisível. É vista por muitos como uma dinastia oracular e conspiratória, porém admirada por sua capacidade de sobreviver a crises sem se expor diretamente. O povo a chama de "A Tríade Velada" e teme mais seus sorrisos do que as ameaças dos exércitos vizinhos. Casa Karavahl Lema: "Onde Tombam os Fortes, Erguemo-nos" Região: Montanhas de carvão e minas profundas. Descrição: Guerreiros duros, donos das forjas mais antigas. Seu apoio militar é vital, mas seu ressentimento por séculos de exploração cresce a cada geração. Casa Ysaev Lema: "A Frieza Preserva" Região: Estepes congeladas ao sul. Descrição: Lideram com lógica implacável e frieza calculada. Mantêm alianças frágeis e guardam relíquias do antigo império. Casa Vharak Lema: "Nada é Esquecido" Região: Ruínas ancestrais ao oeste. Descrição: Especialistas em história, segredos e ritos esquecidos. São guardiões de conhecimento perigoso — e chantagistas eficazes. Casa Ol'Tharn Lema: "Do Pântano, a Verdade" Região: Zonas pantanosas e impraticáveis. Descrição: Criadores de venenos, antidotos e rumores. Vivem de trocas e acordos obscuros. Casa Myrolen Lema: "Quebrados, mas Não Vencidos" Região: Antigo domínio destruído por invasores. Descrição: Sobreviventes resilientes, buscam reconstruir seu prestígio. São perigosamente ambiciosos. Casa Talvannar Lema: "De Cinzas, Força" Região: Terras devastadas por fogo antigo. Descrição: Herdeiros de campos arrasados, veneram o renascimento e desprezam a complacência dos nobres mais antigos. Casa Nevrim Lema: "A Lâmina Sorri em Silêncio" Região: Cidades portuárias clandestinas. Descrição: Mestres dos contrabandos e alianças marítimas. Sua frota, embora modesta, é a mais veloz de Aslareth. Casa Theralen – Os Escudos do Leste Brasão: Um escudo branco atravessado por uma flecha dourada. Lema: *"Lealdade antes da lâmina."* Região: Fronteira oriental, entre bosques e colinas.Relação com Misty: Fieis desde os primeiros anos. O patriarca atual foi escudeiro de Misty. Risco: O herdeiro, jovem e idealista, cogita romper a fidelidade se Aslareth continuar em decadência. Casa Varnhold – Os Ladrões de Gelo Brasão: Uma raposa negra num campo de neve. Lema: *"O silêncio protege mais que o aço."* Região: Terras geladas ao norte, entre penhascos e fiordes. Relação com Misty: Juraram fidelidade após serem conquistados — com mágoa oculta. Risco: Há rumores de que mantêm alianças secretas com Karundar. Casa Eldwyne – Vozes da Névoa Brasão: Um corvo branco envolto em neblina. Lema: *"Só quem ouve a névoa conhece o caminho."* Região: Pântanos e terras nebulosas do sul. Relação com Misty: A linhagem se mistura com sangue antigo e há rumores de dons proféticos. Risco: Possuem segredos sobre o nascimento de um dos filhos bastardos de Misty. Casa Dornhal – Os Portões de Cinza Brasão: Uma muralha negra rachada com fogo por trás. Lema: *"Ficamos mesmo quando tudo cai."* Região: Sul de Aslareth, perto de antigas ruínas vulcânicas. Relação com Misty: Foram salvos por ele após uma erupção ancestral. Risco: Dizem que têm uma dívida de sangue com Norvaen — e ela está chegando. Casa Saeral – Guardiões da Cúpula Brasão: Um olho de jade dentro de uma cúpula dourada. Lema: *"Observamos, não julgamos. Ainda."* Região: Regiões montanhosas e observatórios mágicos. Relação com Misty: Misty confiava neles como conselheiros arcanos. Risco: Alguns membros estão desaparecendo misteriosamente — como se vissem algo que não deviam. Casa Karthos – A Lança e o Cervo Brasão: Um cervo negro empalado por uma lança prateada. Lema: *"Glória através da caça."* Região: Florestas densas do oeste. Relação com Misty: Ofereceram seus melhores batedores em campanhas antigas. Risco: O novo senhor da casa acredita que o trono deveria ser de sua linhagem e desafia abertamente o herdeiro de Misty. Casa Ilmaris – A Casa dos Sussurros Brasão: Três línguas cortadas sobre fundo roxo.Lema: *"O silêncio fala mais."*Região: Cidades costeiras e vilas de contrabandistas.Relação com Misty: Prestavam-se a missões sigilosas, desde espionagem a assassinatos.Risco: Alguns dizem que a Casa Ilmaris nunca serviu ninguém além deles mesmos — e talvez nem sejam humanos. Casa Velmorath – Os Ossos da Colina Brasão: Uma caveira de boi com uma vela acesa dentro.Lema: *"Da morte nasce domínio."*Região: Planícies áridas e vales esquecidos.Relação com Misty: Ajudaram a suprimir revoltas camponesas com mão de ferro.Risco: Há quem afirme que enterraram vivos milhares de inocentes — e agora suas terras estão amaldiçoadas. Casa Edravos – O Primeiro Juramento Brasão: Uma mão aberta cercada por sete estrelas. Lema: *"Fomos os primeiros. Seremos os últimos."* Região: Próximos da capital real. Relação com Misty: Fundadores da estrutura de governo de Aslareth. Risco: Com poder político alto, querem regência até o herdeiro de Misty provar "ser digno". Casa Nyel'Thoren – Os Sangues Ocultos Brasão: Um coração envolto por raízes e espinhos. Lema: *"A semente antiga ainda vive."* Região: Regiões montanhosas reclusas e vilarejos esquecidos. Relação com Misty: Quase destruída numa rebelião passada, mas perdoada por Misty. Risco: Recentemente, uma figura com os traços do próprio Misty foi vista entre eles — um bastardo oculto? Um impostor? |
-| :---- |
+|-------|
 
-# **LINHA DO TEMPO DE ASLARETH** {#linha-do-tempo-de-aslareth}
+# **LINHA DO TEMPO DE ASLARETH** 
 
 **\-1.001 anos — O Ressurreito**
 
@@ -14993,14 +14993,14 @@ Após perder sua sexta esposa, Misty abandona o trono. Deixa o poder nas mãos d
 A partir daqui o Império censura a história e nada se sabe o que aconteceu até Áureo I derrubar o que sobrou de Aslareth e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
 
 | 🜁 Guildas da Época de Aslareth ✦Ordem da Rosa Negra Nome completo: *Ordem Sibilina da Rosa Negra* Descrição: Uma ordem de assassinos, diplomatas e místicos, que cultuam o segredo como forma de poder. A rosa representa o silêncio — e o espinho, a punição. Serve a interesses obscuros da própria Casa As-La, mas jamais de forma declarada. ✦ Igreja do Sol Dourado Nome completo: *Sacrossanta Irmandade do Sol Dourado e das Chamas Eternas* Descrição: A religião oficial de Aslareth, prega a iluminação pelo sacrifício, a ordem e o controle. Seu dogma se baseia na "luz que purga", e vê com suspeita qualquer uso livre da magia não autorizada. ✦ O Círculo de Nevalkaar *(Grupo de magos profetas)* Descrição: Uma ordem secreta de arcanistas que acredita na reencarnação ou retorno transcendente de Misty As-La. Eles vivem reclusos, interpretando visões, sons do éter e fragmentos de realidade. São temidos por preverem quedas e renascimentos com precisão sombria. ✦ Lança de Orvath *(Cavaleiros sagrados dissidentes)* Descrição: Cavaleiros de elite que se rebelaram contra os excessos e a corrupção da Igreja do Sol Dourado. Veneram o Fogo Silente — uma interpretação do divino como chama sem luz. Agora atuam como juízes errantes, oferecendo justiça sem tribunal. ✦ O Sindicato da Árvore Alquebrada *(Maior guilda de comerciantes)* Descrição: Uma vasta organização comercial que controla desde rotas de especiarias até contratos de magia contratual. Seus líderes são chamados de Ramos, e sua sede é construída no tronco petrificado de uma árvore colossal caída nos tempos de Misty. ✦ Fratura Rubra *(Facção rebelde)* Descrição: Um movimento subversivo que busca destruir o sistema de castas, nobreza e influência da magia sobre o poder. Seu símbolo é um cristal rachado com sangue escorrendo. São considerados terroristas, mas crescem entre os oprimidos. ✦Legião Cinzenta Tipo: Exército Mercenário Descrição: Formada por veteranos de guerras esquecidas, desertores e exilados, a Legião Cinzenta é um exército profissional que jura lealdade apenas ao ouro. Seu brasão traz um elmo rachado sobre fundo de névoa. Embora atuem como mercenários, muitos acreditam que há uma estrutura de comando secreta, cultuando uma entidade guerreira do esquecimento. São temidos por sua disciplina implacável e táticas brutais. Lema: “Cinzas não têm pátria.” ✦Alquimistas de Roana Tipo: Conclave de estudiosos Descrição: Um dos grupos mais antigos do reino, os Alquimistas de Roana buscam a transmutação não apenas da matéria, mas da alma. Operam em laboratórios ocultos, e sua sede é um colégio esculpido dentro de uma cratera de vidro mágico. Falam em enigmas e são capazes de criar venenos indetectáveis, elixires de juventude e até armas que corrompem o ar ao redor. Símbolo: Um crânio sorridente com uma rosa de cobre saindo da boca. Lema: “Nada se perde. Tudo se transforma.” ✦Protetorado do Norte Tipo: Aliança militar-política Descrição: Criado após o colapso das Fronteiras de Ievorn, o Protetorado do Norte reúne casas nobres, ordens militares e pequenos regentes de fortaleza. Embora vassalos de Aslareth, possuem autonomia considerável. São liderados por um “Comandante-Patriarca” eleito entre os senhores da neve. Objetivo: Proteger o reino. Lema: “Antes a morte   do que a ruína.” ✦A Torre dos Juízes Tipo: Ordem de Paladinos inquisitoriais Descrição: A Torre ergue-se no centro de um vale silenciado por encantamentos. Os Juízes vestem branco e carregam espadas negras — as Lâminas da Sentença. Juram neutralidade absoluta e têm permissão de julgar até nobres. Muitos governantes temem o soar dos sinos da Torre, pois significam que um Juiz está a caminho. Tradição: Cada membro perde o nome ao ingressar, adotando títulos como *Juiz da Fenda*, *Juiz da Lâmina Clara*, etc. Lema: “A justiça não curva o joelho.” ✦Rosa do Fogo Tipo: Seita libertina e conspiratória Descrição: Uma organização que age nas sombras, infiltrando-se nas escolas de elite, cortes nobres e ordens religiosas. Ensinam aos jovens o prazer como forma de transcendência, mas manipulam mentes para fins políticos. Acreditam que a ruína da velha ordem é o caminho para libertar os deuses adormecidos. Símbolo: Uma rosa vermelha em chamas envolvendo um olho fechado. Lema: “Desperte pelo desejo.” ✦Ordem da Estigma Tipo: Ordem de fanáticos purificadores Descrição: Surgida após o Massacre de Laj-Nor, a Ordem acredita que o pecado mágico e a corrupção espiritual enfraquecem Aslareth. Seus membros são conhecidos por se marcarem com estigmas ardentes, queimando a própria pele em rituais de expiação. Perseguem bruxos, demônios e até nobres desviados. Símbolo: Um ferro em brasa em forma de espiral. Lema: “A dor é a prova da verdade.” |
-| :---- |
+|-------|
 
 | Outros Reinos Antigos antes do surgimento do Império Suas terras ficavam onde hoje se situa as terras do império. A maioria deles foram conquistados e absolvidos pelo próprio Império, outros foram se conquistando entre si e depois foram conquistados pelo Império. Como de costume sua cultura foi arrasada e substituída violentamente pelas leis  imperiais. Karundar, o Reino das Forjas Eternas Capital: Pedraltiva Reputação: Bélico, orgulhoso, militarizado. Especialidade: Minérios raros, forjas sagradas, aço rúnico. Relação com Aslareth: Antigo aliado de Misty que se voltou contra seu herdeiro por considerá-lo fraco. A fronteira é constantemente pressionada. Símbolo: Um martelo flamejante sobre pedra negra. Mistério: Suas armas parecem não quebrar — dizem que há pactos com entidades do subsolo. Local: Ficava onde hoje fica Ypy.  Ydrien, o Reino das Marés Capital: Azuréia Reputação: Diplomático, traiçoeiro, rico em comércio. Especialidade: Marinha poderosa, navios fantasmas, espiões. Relação com Aslareth: Rival econômico. Espiões de Ydrien minam alianças comerciais de Aslareth. Símbolo: Um tridente de prata atravessando uma onda invertida. Mistério: Reza a lenda que seu rei se casou com uma criatura do mar. Local: Ficava onde hoje fica Nambiquara. Tir Valmor, o Reino do Sol de Sangue Capital: Ar'Kael Reputação: Fanático, teocrático, expansionista. Especialidade: Exércitos religiosos, inquisidores, milagres sagrados. Relação com Aslareth: Considerava os descendentes de Misty como hereges profanos. Símbolo: Um sol vermelho com uma cruz negra em seu centro. Mistério: Dizem que seus sacerdotes recebem visões do próprio Sol — mas há rumores de possessão. Local: Ficava onde hoje fica Ypiturui. Hal'Zuun, o Império das Areias Ardentes Capital: Dun'Merah Reputação: Místico, enigmático, isolacionista. Especialidade: Magos do deserto, venenos raros, monstros domados. Relação com Aslareth: Aslareth tenta controlar rotas comerciais que cortam o deserto sagrado. Símbolo: Uma serpente dourada enrolada num obelisco. Mistério: Alguns dizem que os governantes de Hal'Zuun não envelhecem. Local: Ficava onde hoje fica Landé. Velherya, o Reino das Três Rainhas Capital: Lysmorren Reputação: Matriarcal, sedutora, perigosa. Especialidade: Alianças por casamento, manipulação, magia do sangue. Relação com Aslareth: Tentou casar uma princesa com o herdeiro de Misty, mas foi recusada. Desde então, busca vingança. Símbolo: Três rostos femininos cercando uma rosa com espinhos. Mistério: Dizem que nenhuma das três rainhas pode morrer antes das outras. Local: Ficava onde hoje fica Landé. Averion, o Reino Estilhaçado Capital: Não há capital única; o trono é móvel. Reputação: Fragmentado, em guerra civil, perigoso. Especialidade: Mercenários, rebeldes, senhores da guerra. Relação com Aslareth: Os senhores rebeldes vendem seus serviços a qualquer inimigo de Aslareth. Símbolo: Um escudo partido em quatro. Mistério: Algumas facções dizem descender do próprio Misty, mas com linhagens perdidas. Local: Ficava onde hoje ficam os reinos de Moacuba, Camuá, Kisé, Aratama e Ypy. Norvaen, o Reino das Cinzas Capital: Estel'Gris Reputação: Devastado por uma catástrofe mágica, mas ainda influente. Especialidade: Necromancia, alquimia proibida, pactos com mortos. Relação com Aslareth: Antigo vassalo destruído em guerras antigas com Misty. Seus sobreviventes odeiam a linhagem As-La. Símbolo: Uma torre em ruínas envolta em fumaça. Mistério: Alguns acreditam que Norvaen é apenas um pretexto — o verdadeiro poder jaz sob as ruínas. Local: Ficava onde hoje fica a Terra Selvagem. Reinos Muito Antigos quase Esquecidos Elvaraan Referesse à união de “elva” (luz ou sabedoria) e “raan” (soberania). Representava o reinado da sabedoria e dominação. Local: Onde é hoje Kisé, perto da Terra Selvagem.  Domínio de Sael’Tuun Motivo: *Sael* representa “sangue” ou “herança”, e *Tuun*, “trono” ou “vontade”.Reino do “Trono de Sangue” ou “Herança do Trono”. Reino antigo que conquistava violentamente a imposição do poder dos antigos. Local: Onde hoje é Aratama. Reino da Primeira Chama Refere-se à fundação como o início de uma nova era de domínio mágico. Seu Rei foi conhecido como portador da “Primeira Chama”, símbolo de revolução e renascimento. Local: Onde hoje se situa o levante Taurico. Thalmerith Reino do mistério e poder arcano, reino nascido sob domínio mágico e estratégico. Local: Onde hoje é a cidade de Vul. |
 | ----- |
 
-# **CIDADES PERDIDAS** {#cidades-perdidas}
+# **CIDADES PERDIDAS** 
 
-# **AS RUÍNAS DE RATANABA** {#as-ruínas-de-ratanaba}
+# **AS RUÍNAS DE RATANABA** 
 
 **Pontes Litúrgicas**
 
@@ -15294,7 +15294,7 @@ E a verdadeira pergunta não é como Ratanabá caiu.
 
 É se ela realmente terminou de cair.
 
-# **AMEAÇAS DE ARCANO** {#ameaças-de-arcano}
+# **AMEAÇAS DE ARCANO** 
 
 Vamos disponibilizar alguns espécies monstruosos e malignos que costumam atacar o povo civilizado de Airy.
 
@@ -15303,9 +15303,9 @@ Vamos disponibilizar alguns espécies monstruosos e malignos que costumam atacar
 São alguns NPCs que ameaçam todo o mundo quando surgem.
 
 | DEUSES MENORES DE ARCANO No panteão de Arcano, residem duas divindades supremas: Anhum e Tenemur, que dominam sobremaneira o cosmos com sua grandiosidade. Além deles, um mosaico de deuses menores engrandece a tapeçaria celestial, cada um zelando por diferentes facetas da existência. Essas entidades menores, protetoras dos diversos aspectos da vida, reúnem adoração e reverência através de cultos dedicados, que encontram-se dispersos pelas quatro direções do mundo. Esses cultos, embora isolados, tecem uma rede intrincada de fé e devoção, ligando os mortais às forças divinas que regem suas vidas. A proliferação desses grupos religiosos reflete a diversidade e riqueza do espectro espiritual em Arcano, onde cada divindade menor é honrada por sua singularidade e o papel vital que desempenha no equilíbrio do universo. AS ENTIDADES DO PLANO DA ORDEM Ehlonna, a Deusa Menor da Natureza  (cultuada em todo o mundo) Quen'are, o Soberano das Águas   Omnitheron, o Guardião Eterno do Tempo   Ishgar, a Protetora Arcana, Deusa Menor da Magia (venerada pelos Abaquar)   Aspen, o Luminar Celestial, Deus Menor do Sol   Zhoa, a Sussurrante Verde, Deusa Menor da Natureza (reverenciada pelos Elfos)   Shran, o Fluido Sagrado, Deus Menor das Águas   Nerull, o Senhor Escamoso, Deus Menor dos Dragões   Rei Ishaltar, o Baluarte da Equidade, Deus Menor da Justiça   Ithy, o Altivo, Deus Menor do Orgulho   Pelor, o Astuto Obscuro, Deus Menor dos Ladrões e da Arte da Enganação. AS ENTIDADES DO PLANO DO CAOS  Rei dos Demônios Asmagon, o Senhor das Sombrias Malfeitorias, Deus Menor da Maldade   Duque Demoníaco Kocabiel, o Fervor Espirrante, Deus Menor da Ira   Duquesa Demoníaca Tamiel, a Mente Ensurdecida, Deusa Menor da Insanidade   Duquesa Demoníaca Aesmas, a Sedutora Proibida, Deusa Menor da Luxúria   Duquesa Demoníaca Danjal, a Tecelã de Falsidades, Deusa Menor das Mentiras   Duque Demoníaco Abaddon, o Aniquilador, Deus Menor da Destruição (cultuado pelos Goblins)   Duque Demoníaco Nemat, o Que Faz Tremer o Mundo, Deus dos Monstros   Duque Demoníaco Sabnock, o Estrategista da Destruição, Deus Menor da Guerra (adorado pelos Orcs)   Duque Demoníaco Choronzon, o Delírio Encarnado, Deus Menor da Loucura   Duque Demoníaco Raum, o Ceifador de Almas, Deus Menor da Matança (cultuado pelos Gnóis)   Duque Demoníaco Zepar, o Portador da Agonia, Deus Menor da Dor   Duque Demoníaco Buer, o Propagador de Pestes, Deus Menor da Doença   Duque Demoníaco Furtur, o Espelho do Desejo, Deus Menor da Inveja   Duque Demoníaco Cramunhão, o Sopro Letárgico, Deus Menor da Preguiça   Duque Demoníaco Forneus, o Cofre Insaciável, Deus Menor da Avareza   Duque Demoníaco Ipogon, o Guardião dos Mistérios, Deus Menor dos Segredos   Duquesa Demoníaca Baba Yaga, o Véu da Noite Eterna, Deusa Menor das Trevas (celebrada pelas Bruxas)   Duque Demoníaco Tauro, o Monumento da Força Bruta, Deus Menor da Força (exaltado por Minotauros) |
-| :---- |
+|-------|
 
-# **MISTY AS-LA** {#misty-as-la}
+# **MISTY AS-LA** 
 
 Misty As-La nasceu há mais de mil anos, em uma tribo nômade do centro de Airy. Seu nascimento é considerado o marco da existência do primeiro Ressureito,um ser que transcende a morte. Sua lenda começa de forma trágica: morto em batalha aos 16 anos, ele retorna à vida após poucos dias, com o corpo mutilado, assombrando os rivais e assombrando o tempo.
 
@@ -15322,7 +15322,7 @@ A destruição causada levou à construção de muralhas colossais em volta dest
 Mesmo após séculos, a sombra de Mal paira sobre o mundo. A sua história é uma advertência eterna sobre os perigos do poder desmedido, das Trevas interiores e da vaidade de brincar de deus.
 
 | Considerando que Misty As-La é imortal, teve inúmeros filhos ao longo dos séculos, é de conhecimento geral que cada vez que ele escapou de seus grilhões teve amantes e consequentemente filhos — legítimos, bastardos, criados como peões políticos ou até resultado de rituais mágicos — aqui estão alguns filhos de Misty As'La. 🌟 Filhos legítimos (herdeiros diretos reconhecidos) Vaelyn As-La – *"O Cinzento":* herdeiro que ficou no trono após o exílio do pai; frio, racional, excelente estrategista, mas emocionalmente distante. Serenya As-La – *"Voz do Fogo":* mestra da retórica e encantamento. Lidera uma facção teocrática que venera Misty como deus vivo. Thandros As-La – "O Lobo de Sael": comandante das legiões do norte, marcado pela brutalidade e fidelidade inquebrantável à linhagem. Ilarien As-La – *"Espelho Partido":* gêmeo de Serenya, mas deformado por um feitiço fracassado. Tornou-se mestre das ilusões e do veneno. Maedral As-La – *"A Rosa Ferida":* a filha guerreira, perdeu um braço em combate. Conhecida por sua coragem, mas também por um ódio latente ao pai. Varion As-La – *"Portador do Silêncio":* nasceu mudo; se comunica por telepatia. Lidera uma ordem secreta de assassinos a serviço do trono. Yevana As-La – *"A Coroa que Não Queima":* sobrevivente de uma tentativa de assassinato mágico. É aclamada como imune ao fogo — ou ao destino. Serenna As-La, *a Voz Silenciosa –* Diplomata fria, influenciou  inúmeros reinos sem jamais levantar a voz. Kaedric As-La, *–o Forjador de Correntes:* Mestre da infraestrutura e espionagem; fundou a Rede Negra. Theras As-La, *–* *o Queimado:* Sobreviveu a um atentado com ácido; move-se coberto por véus. Conselheiro sombrio. Nyel As-La, o Pastor de Ossos – Criado entre os pastores das montanhas, liderou uma seita canibal. Ilyra As-La, *–* *a de Sete Promessas:* – Casou-se sete vezes com nobres rivais, todos morreram “misteriosamente”. Bramir As-La, *– o Último da Muralha:*  Defensor de uma fortaleza isolada, jamais rendeu sua bandeira. Saevan As-La, *– o Portador do Silêncio*: Nasceu mudo. Seu olhar bastava para fazer cortesãos tremerem. Helenna As-La, *–* *a de Rosto Alado* : General consagrada, pintava asas no rosto antes de cada batalha. Orun As-La, *– o Leal:* – Considerado o único filho sem ambição. Por isso, foi envenenado. 🐍 Filhos bastardos (comuns ou obscuros) Daevron – *"O Bastardo Escarlate"*: carismático, revoltado e ambicioso. Conduz uma revolta populista sob a bandeira da linhagem renegada. Nyraé – *"Sussurro nas Sombras":* espiã e mestre de disfarces, passou anos infiltrada na corte sob outra identidade. Raal – *"Dente Negro"*: temido pirata que alega ser filho de Misty. Ninguém o desmentiu — e talvez não devam. Felra – *"A Sangue-Curvo"*: alquimista que manipula sangue e controla criaturas. Vive exilada em pântanos, criando monstros. Zekiel – *"O Último Nome"*: ele mesmo se nomeou assim, tentando apagar o passado. É um monge guerreiro em auto imposto exílio. Myssin – *"A que Não Dorme"*: insone desde o nascimento; tornou-se vidente e oráculo, mas mentalmente instável. Koltra – *"Mariposa Negra"*: dançarina e envenenadora de nobres. Dirige um bordel-palácio que colhe segredos da aristocracia. Ethon – *"O Bastardo do Gelo"*: nascido de uma mãe do extremo norte. Manipula magia gélida e controla guardiões congelados. Yaris – *"Filha da Estrela Caída"*: supostamente nasceu durante uma chuva de meteoros. Seus olhos brilham no escuro. Garrin – *"Chaga Viva"*: afetado por uma doença mágica que o impede de morrer. Vive em dor, odiando o sangue que o criou. Rhyxar Névoa, *o Cão Negro* – Guerreiro brutal, serviu como mercenário. Desconfiava-se que fosse o mais parecido com o pai. Vessa Cinzenta, *a Lâmina de Bruma* – Assassina silenciosa que serviu a três reis sem ser notada. Dareth Brumino, *o Duas-Vezes Traído* – Tentou tomar o trono, foi traído por ambos os lados da guerra. Myrrien da Névoa, *a de Olhos Frios* – Alquimista e conspiradora, temida em todos os círculos do poder. Calven Bruma, *o Estripador de Toth* – Comandou um massacre sangrento e desapareceu no deserto. Elrie Brumas, *a Prometida ao Vento* – Desapareceu ainda jovem; surgem boatos de que lidera uma tribo além-mar. *Nohr Brumado*, *o Pastor de Traidores* – Bastardo que reunia espiões e desertores como família. Iskar das Sombras, *o que Nega Sangue* – Recusou o nome As-La. Tentou fundar sua própria dinastia. Yvelle Névoa, *a Tecevenenos* – Desenvolveu venenos lentos, usados por rainhas e espiões durante séculos. Harven dos Lamentos – *Guerreiro atormentado por vozes*; dizia-se que ouvia Misty sussurrando em seus sonhos. 🐉 Outros descendentes enigmáticos ou lendários Eviros – *"O que Nunca Envelhece"*: igual ao pai, é imortal. Mas perdeu a sanidade ao longo dos séculos. Melyra – *"A Lágrima de Névolis"*: desapareceu no mar com 7 anos. Mas poetas dizem que ela vive nas marés, como espírito. Azel – *"O Coração Rachado"*: foi dividido em dois pela própria mãe para evitar a profecia de que trairia todos os irmãos. Elyen *“Cinza-Pálido”* – Possui olhos iguais aos de Misty. Vive recluso em uma torre cheia de corvos. Tharn das Rochas – Vagabundo e bêbado, mas sobreviveu a duelos com cavaleiros sem treinar com armas. Selira de Olho Dourado – Tem um olho com brilho sobrenatural; profetizou a queda de três reis. Marnor, *o Filho Incontestado* – Nunca foi reconhecido oficialmente, mas todos agem como se ele fosse. Zynath, *a do Sopro Frio* – Bruxa do norte; dizem que sua respiração mata plantas e congela água. Kaer, *o Sem Nome* – Apareceu do nada e já possuía um exército. Venceu sete batalhas seguidas. Vaesha, *a Cega que Vê* – Nascida cega, mas diz “enxergar as intenções”. Temido nos tribunais. Oren, *o Três-Vezes Morto* – Foi dado como morto três vezes. Cada retorno mais cruel que o anterior. Iridal, *a Cinza Sem Sombra* – Seus passos não fazem som. Espiã pessoal de um alto sacerdote. Durell, *o Filho do Último Suspiro* – Nasceu no exato momento da partida de Misty. Alguns dizem que ele roubou parte da alma do pai. 🦉 Filhos políticos (adotivos, pactuados ou "marionetes") Velrus – "O Escudo Vazio": adotado por Misty para fins de fachada, agora exige seu direito ao trono. Cira As-La – "A Coroa Falsa": criada como princesa, mas todos sussurram que é filha de um servo. Ainda assim, governa uma província. Halien – "O Filho da Paz": fruto de união com o reino inimigo. Vive entre duas culturas e odeia ambas. Saran – "A Dama do Desprezo": exilada por não aceitar casamentos arranjados. Montou uma rede de nobres fugitivos. Khael – "Espinho Dourado": Adotado por Misty em uma campanha militar, foi nomeado cavaleiro com 8 anos, e Duque aos 12\. Louco por guerra, ambiciona depor os irmãos. |
-| :---- |
+|-------|
 
 **MOTIVAÇÕES PARA Misty As'La CAIR NA MAGIA DAS TREVAS**
 
@@ -15470,7 +15470,7 @@ Misty havia presenciado muitos episódios como esse, mas aquele foi a gota d’�
 
 Eligos lhe mostrou visões. Revelou o destino do império se a corrupção seguisse seu curso. Mostrou civilizações ruindo, campos estéreis, multidões consumidas pela fome, pelo fanatismo e pela guerra. Mas também lhe ofereceu um caminho. Um pacto. Um meio de quebrar o ciclo.
 
-# **ELIGOS O PRIMEIRO DUQUE DO INFERNO** {#eligos-o-primeiro-duque-do-inferno}
+# **ELIGOS O PRIMEIRO DUQUE DO INFERNO** 
 
 Das profundezas insondáveis dos Planos Inferiores, ele o aguarda. Sua presença se ergue diante de você — não como a visão grotesca e repulsiva que se esperaria de um demônio, mas com a aparência enganosa de um ser celestial. A figura possui uma beleza quase divina: feições serenas, simétricas, envoltas por uma aura dourada... mas suas asas ardem em chamas, e seus olhos são fornalhas vivas. Um sorriso enviesado se abre em seu rosto.
 
@@ -15510,7 +15510,7 @@ E agora... ele o observa.
 
 "Vamos negociar, mortal?"
 
-# **VLAD DRACUL O MAGO DAS TREVAS VAMPIRO** {#vlad-dracul-o-mago-das-trevas-vampiro}
+# **VLAD DRACUL O MAGO DAS TREVAS VAMPIRO** 
 
 Vlad Dracul não nasceu monstro. Ele foi, antes de tudo, um mago brilhante — orgulhoso demais para aceitar que até os maiores talentos morrem. Em Arcano, onde a magia corrompe e a ambição tem dentes, isso sempre termina em tragédia.
 
@@ -15547,13 +15547,13 @@ A única certeza é que ele foi o primeiro.
 E Airy aprendeu tarde demais que pactos com o Inferno nunca terminam com o que se desejava — apenas com o que o Caos precisa.
 
 | MIHANGEL O ÚLTIMO ANJO CAÍDO A Saga Contínua de Mihangel: O Arcanjo Entre os Mortais Após a tumultuada Era dos Demônios, a maioria dos anjos que optou por permanecer no Plano Material perderam sua divindade, transformando-se em anjos caídos e dando origem à nobre Espécie dos Abaquar. Porém, alguns arcanjos, possuidores de poderes excepcionais, mantiveram suas dádivas celestiais e continuam a proteger o mundo. Entre eles destaca-se o Arcanjo Mihangel, cuja vigilância se desdobra de maneira singular. Enquanto seus pares mantêm seu posto em reclusão, observando os acontecimentos globais, Mihangel adota uma abordagem mais terrena. Ele transita entre os mortais, compartilhando sua sabedoria, oferecendo bênçãos e realizando milagres. Sob a aparência de um homem simples e desprovido de bens, Mihangel é um farol de esperança, pronto a ressuscitar um aliado caído ou guiar um grupo de aventureiros em um momento crítico, deixando um rastro de mistério e compaixão por onde passa. No entanto, a luta contra as forças infernais nunca descansa. Detectando a iminente ameaça de invasões demoníacas por meio de portais desconexos da Antessala do Inferno, Mihangel organiza cruzadas sagradas. Ele encontra e reúne uma ordem de cavaleiros fiéis a Anhum, moldando-os em um esquadrão de elite sob a promessa de conferir-lhes poderes além da compreensão. Rapidamente a notícia de sua congregação ecoa pelo mundo, atraindo Clérigos, Paladinos e Guerreiros determinados a fortalecer suas habilidades e a abraçar a causa celeste. Quando as hordas estão prontas e o exército celestial suficientemente robusto, Mihangel escolhe os mais valentes para se tornarem Generais, abençoando-os com a transfiguração em meio-anjos. (a Técnica Forma de Anjo, apresentada no capítulo de Técnicas é uma versão mais fraca desta de Mihangel, talvez criada espelhada nela).  Embora notável, transformar um mortal em Meio-Anjo é apenas uma sombra do verdadeiro poder que Mihangel é capaz de despertar em seus escolhidos. Juntos, avançam para o inferno, levando a batalha até as entranhas do inimigo em uma cruzada sagrada. A habilidade de Mihangel de alterar sua forma permite-lhe manter um véu de mistério sobre sua verdadeira identidade, tornando-o um enigma para aqueles não dotados de um poder excepcional. Há mais de trinta anos não se registra o início de uma nova cruzada liderada por Mihangel em Airy, mas rumores ainda circulam. Mas as vezes circula notícias pelo mundo de alguém que faz atos de bondade e orienta as pessoas em lugares onde há necessitados,  perpetuando a lenda de Mihangel, o Arcanjo que caminha entre nós, e concedendo uma centelha de esperança em meio às sombras de um mundo em contínua batalha.  |
-| :---- |
+|-------|
 
 # **PERIGOS REGIONAIS**
 
 Alguns perigos da Terra Selvagem.
 
-# **A LEGIÃO GOBLINÓIDE** {#a-legião-goblinóide}
+# **A LEGIÃO GOBLINÓIDE** 
 
 A **Legião Goblinóide** é estruturada como uma força militar temporária, impulsionada por fanatismo religioso e uma hierarquia rígida imposta pelos Hobgoblins.
 
@@ -15660,7 +15660,7 @@ Varags, os goblins selvagens, são primitivos e impulsivos, quase incapazes de p
 
 No conjunto, essas diferentes linhagens goblinóides formam uma tapeçaria de selvageria e astúcia: bugbears para força e surpresa, koalinth para disciplina e adaptação aquática, e varags para selvageria imprevisível, cada qual cumprindo seu papel no caos que define o mundo goblinóide.
 
-# **A HORDA DE ORCS** {#a-horda-de-orcs}
+# **A HORDA DE ORCS** 
 
 A **Horda de Orcs** é uma facção militarista e territorial fundamentada na lei do mais forte e no ódio ancestral à humanidade.
 
@@ -15826,7 +15826,7 @@ Ainda assim, a Horda da Cidade de Prata não é fraca. Sua imprevisibilidade é 
 
 A Cidade de Prata, portanto, é tanto lar quanto prisão: lar para aqueles que prosperam no conflito e na imprevisibilidade, prisão para aqueles que procuram ordem e propósito. Cada Horda que surge e desaparece deixa cicatrizes no próprio tecido da cidade — e cada líder que cai garante que a fúria da próxima ascensão será ainda mais selvagem. Neste lugar, a morte é constante, o poder é volátil, e a instabilidade é a lei que rege a Horda da Cidade de Prata.
 
-# **O LEVANTE TÁURICO** {#o-levante-táurico}
+# **O LEVANTE TÁURICO** 
 
 O **Levante Táurico** é estruturado como uma facção de clãs territoriais isolacionistas, composta por minotauros que valorizam a força bruta e a precisão tática.
 
@@ -15940,7 +15940,7 @@ O culto gira em torno de sacrifícios, sempre no coração de labirintos, adorna
 
 A morte, na sociedade minotauro, não é temida. Pelo contrário: é sagrada. A boa morte é rápida, limpa, conquistada em batalha. Honra e sangue definem o destino. Cada vida terminada pela lâmina ou pelo impacto de um chifre é celebração de força, parte do credo que sustenta toda a cultura minotauro.
 
-# **A ALCATÉIA GNÓL** {#a-alcatéia-gnól}
+# **A ALCATÉIA GNÓL** 
 
 A **Alcatéia Gnól** é estruturada como uma facção predatória, nômade e movida por uma sede de sangue de origem demoníaca.
 
@@ -16113,11 +16113,11 @@ Dracorex
 
 Tinha, em média, 3 m de comprimento e 230 kg, Esse herbívoro tinha um focinho longo e achatado e, na cabeça, numerosos chifres pontiagudos e engrossamentos ósseos, que serviam para proteção ou simplesmente exibição.
 
-# **ARTEFATOS DE ARCANO** {#artefatos-de-arcano}
+# **ARTEFATOS DE ARCANO** 
 
 Airy tem alguns artefatos únicos espalhados pelo mundo.
 
-# **Aliados Conjurados** {#aliados-conjurados}
+# **Aliados Conjurados** 
 
 Eternizados pelos Summons de Final Fantasy, esses Aliados são na verdade um tipo de magia. Quando utilizada, invoca uma criatura mágica que manifesta algum tipo de poder especial. Esse poder vai desde um ataque devastador, que atinge um ou mais alvos, a uma magia de cura ou proteção.
 
@@ -16189,7 +16189,7 @@ Obviamente me baseei nos espers de Final fantasy pra criar esses Espers de Arcan
 
 Basicamente o mestre pode determinar que os Kui só podem ser pegos durante as aventuras, seja comprando com PEs ou de outra forma em Aventura. A outra forma pode ser como em Final Fantasy, onde o grupo vence o Esper em combate e anexando à sua lista de poderes simples assim, para isso o mestre pode criar uma ficha com a pontuação total do grupo para o Esper.
 
-# **As Armaduras Lendárias** {#as-armaduras-lendárias}
+# **As Armaduras Lendárias** 
 
 Em Airy existem muitos objetos mágicos poderosos, os mais poderosos conhecidos são objetos que cobrem o corpo de seus usuários e lhe dão enorme poder, elas são conhecidas como armaduras, mas geralmente são armas muito poderosas que protegem seus usuários, abaixo iremos falar de alguns dos mais conhecidos. Vale ressaltar que esses objetos não distinguem o bem e o mal (apenas alguns considerados puros que apenas aceitam seu usado por seres bondosos).
 
@@ -16271,7 +16271,7 @@ São a versão mais fraca das Armaduras Celestiais, alguns estudiosos acreditam 
 
 **Poderes:** A princípio diminui pela metade o custo em PMs para usar magias, depois quando a armadura toma totalmente o corpo e o controle sobre seu usuário ele sobe em uma escala de poder. Quando o usuário gastar 100 PMs usando a armadura, ela assume totalmente o controle sobre ele.
 
-# **Veículos** {#veículos}
+# **Veículos** 
 
 Agora iremos apresentar os meios de locomoção em Airy, desde já adianto que os meio mais seguros de locomoção de Airy são Barcos e Mecanaus. Viajar pelas estradas com se já a pé ou a cavalo é muito perigoso, a forma mais comum de viajar por terra pelo mundo é através de caravanas muito bem guarnecidas por equipes especializadas nesse trabalho. Outra forma de viajar entre as capitais é o linha férrea e as vezes as viagens entre uma capital e outra pode demorar dias de trem, nesse grande trem, há várias categorias de vagões, desde primeira classe onde há quartos individuais (camarotes) para quem tem mais recursos para pagar na viagem, até a terceira classe onde há um vagão leito cheio de beliches. No trem também existem vagões, cozinha,  restaurante, bares e até cassino, claro todos separados entre 1ª e 3ª classe.
 
@@ -16373,7 +16373,7 @@ F0, H0, R4, A5, PdF5, 50 PVs, Mecha, Abalroar, Aríete, Tiro Longo, Ataque Espec
 
 Grunts de um Encouraçado: Mecanaus de Reconhecimento(2S): F0, H0, R1, A0, PdF1, 50 PVs, Vôo, Bateria, Munição Limitada.
 
-# **LISTA DE MAGIAS** {#lista-de-magias}
+# **LISTA DE MAGIAS** 
 
 Ataque Básico	É usado para causar dano e destruir vários objetos frágeis.
 
@@ -16435,11 +16435,11 @@ Dor que causa dano aos inimigos ao longo do tempo.
 
 Força o inimigo a lutar ao teu lado temporariamente.
 
-# **Magias** {#magias}
+# **Magias** 
 
-# **Escola Física** {#escola-física}
+# **Escola Física** 
 
-## **K / X — Impacto, ação direta e manipulação física** {#k-/-x-—-impacto,-ação-direta-e-manipulação-física}
+## **K / X — Impacto, ação direta e manipulação física** 
 
 **Básicas**
 
@@ -16663,7 +16663,7 @@ Aravor supressão ou controle volumétrico do ar
 
 Aravon  vórtice ou fluxo rotacional de ar 
 
-# **EN / ON — Movimento e fluxo** {#en-/-on-—-movimento-e-fluxo}
+# **EN / ON — Movimento e fluxo** 
 
 **Acceron**
 
@@ -16827,7 +16827,7 @@ Nome técnico: Compressão Gravitacional Rotacional
 
 Descrição: Gera um poderoso campo gravitacional giratório ao redor do conjurador, atraindo e esmagando tudo em sua proximidade.
 
-# **KUN — Explosões** {#kun-—-explosões}
+# **KUN — Explosões** 
 
 **Brakun**
 
@@ -16901,7 +16901,7 @@ Nome técnico: Combustão de Purificação Absoluta
 
 Descrição: Queima corrupção, magia sombria e estruturas energéticas negativas.
 
-# **IR —  Persistentes/Sustentados** {#ir-—-persistentes/sustentados}
+# **IR —  Persistentes/Sustentados** 
 
 **Armorir**
 
@@ -16975,9 +16975,9 @@ Nome técnico: Revelação de Fluxo de Magia
 
 Descrição: Revela fontes mágicas, artefatos e seres energizados através da emissão luminosa perceptível apenas ao conjurador, inclusive através de superfícies sólidas finas.
 
-# **Escola Alquímica** {#escola-alquímica}
+# **Escola Alquímica** 
 
-# **ETH — Transformação** {#eth-—-transformação}
+# **ETH — Transformação** 
 
 **Angeleth**
 
@@ -17089,7 +17089,7 @@ Nome técnico: Transmutação Estrutural Parcial ou Reconfiguração Material Tr
 
 Descrição: Altera temporariamente a forma física de criaturas ou objetos ou Modifica propriedades físicas e formas de objetos.
 
-# **ESH — Conjuração e manifestação** {#esh-—-conjuração-e-manifestação}
+# **ESH — Conjuração e manifestação** 
 
 **Eshar**
 
@@ -17131,9 +17131,9 @@ Nome técnico: Emissão Fotônica Contínua
 
 Descrição: Cria uma fonte constante de iluminação mágica.
 
-# **Escola Natural** {#escola-natural}
+# **Escola Natural** 
 
-# **AYA — Vida, biologia e regeneração** {#aya-—-vida,-biologia-e-regeneração}
+# **AYA — Vida, biologia e regeneração** 
 
 **Ayalen**
 
@@ -17325,7 +17325,7 @@ Nome técnico: Comunicação Biológica por Rede Natural
 
 Descrição: Transmite intenções e necessidades através de conexão espiritual entre seres vivos.
 
-# **VOK — Invocações** {#vok-—-invocações}
+# **VOK — Invocações** 
 
 **Emetvok** 
 
@@ -17367,9 +17367,9 @@ Nome técnico: Invocação Vinculada de Entidade Destrutiva
 
 Descrição: Invoca Ophiucus para realizar um ataque devastador de enorme poder ofensivo.
 
-# **Escola Abstrata** {#escola-abstrata}
+# **Escola Abstrata** 
 
-# **ECH — Ondas, informação e mente** {#ech-—-ondas,-informação-e-mente}
+# **ECH — Ondas, informação e mente** 
 
 **Lumirechon**
 
@@ -17445,7 +17445,7 @@ Nome Técnico: Transmigração de Informação Telepática por Ruptura.
 
 Descrição: Transfere a consciência, memórias e padrões mentais de um organismo vivo para outro. Por ser um Anti-Fonema, o processo é traumático e exige que o conjurador manipule a mana de forma "dissonante", podendo causar danos cerebrais ou exaustão mágica severa se não houver um sacrifício vivo para alimentar o fluxo.
 
-# **OR — Espaço e deslocamento** {#or-—-espaço-e-deslocamento}
+# **OR — Espaço e deslocamento** 
 
 **Crior**
 
@@ -17515,7 +17515,7 @@ Nome técnico: Ruptura Temporária Neurocinética
 
 Descrição: Libera uma descarga de energia que interrompe temporariamente os impulsos motores do alvo, causando atordoamento.
 
-# **EL — Ilusão e percepção** {#el-—-ilusão-e-percepção}
+# **EL — Ilusão e percepção** 
 
 **Nulel**
 
@@ -17577,7 +17577,7 @@ Descrição: Cria uma distorção visual ou uma imagem ilusória capaz de engana
 
 Por ser um fonema curto, é considerada uma magia fundamental, ensinada para iniciantes e utilizada para criar efeitos visuais simples, como o "véu" ou a "percepção falsa" característicos de sua família fonética.
 
-# **THAR — Tempo** {#thar-—-tempo}
+# **THAR — Tempo** 
 
 **Lumirthar**
 
@@ -17591,7 +17591,7 @@ Descrição: Permite visualizar registros residuais deixados pelo fluxo temporal
 
 ---
 
-# **Anti-Fonemas** {#anti-fonemas}
+# **Anti-Fonemas** 
 
 **Aravhor**
 

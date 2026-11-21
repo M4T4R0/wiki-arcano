@@ -33,12 +33,4 @@
 
 ---
 
-## 🔗 Links Úteis
-
-- **Repositório do Segundo Cérebro**: [M4T4R0/r2d2-brain](https://github.com/M4T4R0/r2d2-brain)
-- **ARCANO.md Completo**: [2.8 MB](ARCANO_COMPLETO.md)
-- **Visão Geral Completa**: [visao-geral.md](visao-geral.md)
-
----
-
 > **Dica:** Use a busca (tecla `/`) ou a navegação lateral para explorar.
