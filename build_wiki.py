@@ -2,7 +2,7 @@
 """
 build_wiki.py — reconstrói a Wiki Arcano & Airy a partir do documento de origem.
 
-Fonte única de verdade: fonte/ARCANO_Só_Cenário.json  (campo "content")
+Fonte única de verdade: fonte/ARCANO.md
 Saída: docs/  (páginas .md)  +  mkdocs.yml
 
 Rode sempre que o documento de origem mudar:
@@ -18,15 +18,16 @@ Regras:
   * Uma página por seção da fonte. Nada de arquivos duplicados nem páginas só com template.
   * Para mudar a organização (pastas, nomes, ordem), edite apenas ESTRUTURA abaixo.
 """
-import json, re, shutil, sys, unicodedata
+import os, re, shutil, sys, unicodedata
 from pathlib import Path
 
 import crosslink_seguro
 import pos_processamento
 
 RAIZ = Path(__file__).parent
-FONTE = RAIZ / "fonte" / "ARCANO_Só_Cenário.json"
+FONTE = RAIZ / "fonte" / "ARCANO.md"
 DOCS = RAIZ / "docs"
+IMAGENS = RAIZ / "fonte" / "imagens"   # imagens do ARCANO.md: ![descrição](imagens/arquivo.png)
 
 # ---------------------------------------------------------------------------
 # ESTRUTURA — (título na fonte, arquivo, título no menu)
@@ -163,11 +164,11 @@ ESTRUTURA = [
         ("Origens e Propósito", "origens-e-proposito", "Origens e Propósito"),
         ("2. Rito do Selo da Alma", "rito-do-selo-da-alma", "Rito do Selo da Alma"),
         ("Regimento da Vigília Escarlate", "vigilia-escarlate", "Regimento da Vigília Escarlate"),
-        ("Regimento da Ossaria Silenciosa", "ossaria-silenciosa", "Regimento da Ossaria Silenciosa"),
-        ("Regimento do Fôlego Infernal", "folego-infernal", "Regimento do Fôlego Infernal"),
-        ("Regimento do Limiar Abissal", "limiar-abissal", "Regimento do Limiar Abissal"),
-        ("Regimento da Aurora Fendida", "aurora-fendida", "Regimento da Aurora Fendida"),
-        ("Regimento dos Intendentes de Ossavermelha", "intendentes-de-ossavermelha", "Regimento dos Intendentes de Ossavermelha"),
+        ("Regimento da Ossaria", "ossaria-silenciosa", "Regimento da Ossaria Silenciosa"),
+        ("Regimento Cavaleiros do Fôlego Infernal", "folego-infernal", "Regimento do Fôlego Infernal"),
+        ("Regimento Cavaleiros do Limiar Abissal", "limiar-abissal", "Regimento do Limiar Abissal"),
+        ("Regimento Cavaleiros da Aurora", "aurora-fendida", "Regimento da Aurora Fendida"),
+        ("Regimento dos Intendentes", "intendentes-de-ossavermelha", "Regimento dos Intendentes de Ossavermelha"),
         ("Treinamento dos Cavaleiros", "treinamento", "Treinamento dos Cavaleiros"),
     ]),
     ("Ameaças", "ameacas", [
@@ -289,11 +290,35 @@ def monta_pagina(secs, fontes, titulo_menu):
     return "\n".join(partes)
 
 
+def ajusta_imagens(docs):
+    """Copia fonte/imagens/ para docs/imagens/ e acerta o caminho das imagens em cada página.
+
+    No ARCANO.md a imagem é escrita como  ![texto](imagens/arquivo.png)  (caminho relativo ao próprio
+    ARCANO.md, que é como o preview do VS Code a encontra). Cada página do site fica numa profundidade
+    diferente de docs/, então o prefixo "../" é calculado página a página, no resultado final.
+    """
+    if IMAGENS.exists():
+        shutil.copytree(IMAGENS, docs / "imagens")
+    padrao = re.compile(r'(\]\(|src=")imagens/')
+    faltando = set()
+    for arq in docs.rglob("*.md"):
+        rel = os.path.relpath(docs / "imagens", arq.parent).replace("\\", "/")
+        txt = arq.read_text(encoding="utf-8")
+        novo = padrao.sub(lambda m: f"{m.group(1)}{rel}/", txt)
+        if novo != txt:
+            arq.write_text(novo, encoding="utf-8", newline="\n")
+        for nome in re.findall(r'(?:\]\(|src=")[./]*imagens/([^)"\s]+)', novo):
+            if not (docs / "imagens" / nome).exists():
+                faltando.add(nome)
+    if faltando:
+        print(f"AVISO: imagens citadas no ARCANO.md que não existem em fonte/imagens/: {sorted(faltando)}")
+    return len(list((docs / "imagens").rglob("*"))) if (docs / "imagens").exists() else 0
+
+
 def main():
     if not FONTE.exists():
         sys.exit(f"Fonte não encontrada: {FONTE}")
-    dados = json.loads(FONTE.read_text(encoding="utf-8"))
-    secs = parse_secoes(dados["content"])
+    secs = parse_secoes(FONTE.read_text(encoding="utf-8-sig"))
 
     if DOCS.exists():
         shutil.rmtree(DOCS)
@@ -449,8 +474,11 @@ nav:
     # ---- links cruzados (seguros: só envolvem texto existente em link) ----------
     crosslink_seguro.executa(DOCS)
 
+    # ---- imagens (por último, para o caminho refletir o lugar final de cada página) ---
+    n_img = ajusta_imagens(DOCS)
+
     n = sum(1 for _ in DOCS.rglob("*.md"))
-    print(f"OK: {n} páginas geradas em docs/ a partir de {len(secs)} seções da fonte.")
+    print(f"OK: {n} páginas geradas em docs/ a partir de {len(secs)} seções da fonte ({n_img} imagens copiadas).")
 
 
 if __name__ == "__main__":

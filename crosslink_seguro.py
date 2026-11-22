@@ -155,6 +155,8 @@ def linhas_puladas(l, em_bloco):
         return True
     if s.startswith("---") or s.startswith("```"):
         return True
+    if s.startswith("![") or "<img" in s:
+        return True
     if NEGRITO_SO.match(l):
         return True
     return False

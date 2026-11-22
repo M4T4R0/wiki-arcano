@@ -462,7 +462,7 @@ Nome técnico: Combustão de Purificação Absoluta
 
 Descrição: Queima corrupção, magia sombria e estruturas energéticas negativas.
 
-## IR —  Persistentes/Sustentados
+## IR — Persistentes/Sustentados
 
 **Armorir**
 

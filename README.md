@@ -6,7 +6,9 @@ Site: https://M4T4R0.github.io/wiki-arcano/
 ## Como funciona
 
 ```
-fonte/ARCANO_Só_Cenário.json   ← documento de origem (única fonte de verdade)
+fonte/ARCANO.md                ← documento de origem (única fonte de verdade)
+gera_indice.py                 ← refaz o índice (com links) no topo do ARCANO.md
+fonte/imagens/                 ← imagens do ARCANO.md (o build copia para docs/imagens/)
 build_wiki.py                  ← gera docs/ e mkdocs.yml a partir da fonte
 pos_processamento.py           ← (chamado pelo build) tira personagens e guildas de dentro dos reinos
 crosslink_seguro.py            ← (chamado pelo build) links cruzados que não alteram o texto
@@ -16,14 +18,21 @@ _arquivo/                      ← material fora do site (só os scripts antigos
 
 Para atualizar a wiki:
 
-1. Edite o texto em `fonte/ARCANO_Só_Cenário.json` (campo `content`) — ou troque o arquivo por uma versão nova.
-2. `python build_wiki.py`
-3. `mkdocs serve` para conferir, depois `git push` (o GitHub Actions publica).
+1. Edite o texto em `fonte/ARCANO.md` — ou troque o arquivo por uma versão nova (exportada do Google Docs, por exemplo).
+2. `python gera_indice.py` (refaz o índice do topo do ARCANO.md e deixa os links funcionando)
+3. `python build_wiki.py`
+4. `mkdocs serve` para conferir, depois `git push` (o GitHub Actions publica).
 
 **Atenção:** `build_wiki.py` apaga e recria `docs/` a cada execução. Edição manual em `docs/` se perde.
 Se preferir editar as páginas direto, pare de rodar o script e trate `docs/` como a fonte.
 
 Para mudar pastas, nomes ou ordem do menu, edite só a lista `ESTRUTURA` no início do `build_wiki.py`.
+
+## Imagens
+
+1. Coloque o arquivo em `fonte/imagens/` (nomes sem espaço e sem acento).
+2. No `ARCANO.md`, escreva `![descrição](imagens/arquivo.png)` onde ela deve aparecer (o preview do VS Code já mostra).
+3. `python build_wiki.py` copia a pasta para `docs/imagens/` e acerta o caminho em cada página. Nunca coloque imagens direto em `docs/`: o build apaga a pasta.
 
 ## Seções
 
