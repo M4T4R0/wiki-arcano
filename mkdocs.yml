@@ -19,14 +19,38 @@ nav:
   - Visão Geral: visao-geral.md
   - Lore:
     - Criação: lore/criacao.md
+  - Geografia:
+    - Regiões: geografia/regioes/index.md
+    - Mapa Mundi: geografia/mapa-mundi.md
+  - História:
+    - Eras: history/timeline.md
+    - Timeline: history/eras.md
   - Raças:
     - Todas as Raças: races/todas-racas.md
+    - Os Povos: races/individual/os-povos.md
+    - Icamiabas: races/individual/as-icamiabas.md
+    - Gnól: races/individual/gnól.md
+    - Goblinoides: races/individual/goblinoides.md
+    - Licantropos: races/individual/licantropos.md
+    - Meio-Anão: races/individual/meio-anão.md
+    - Meio-Elfos: races/individual/meio-elfos.md
+    - Meio-Orc: races/individual/meio-orc.md
+    - Minotauros: races/individual/minotauros.md
+    - Os Abaquar: races/individual/os-abaquar.md
+    - Os Anões Akitã: races/individual/os-anões-akitã.md
+    - Os Auçás: races/individual/os-auçá-1-ponto.md
+    - Os Elfos Abaré: races/individual/os-elfos-abaré.md
+    - Os Gnomos Piquira: races/individual/os-gnomos-piquira.md
+    - Os Halflings Kaapora: races/individual/os-halflings-kaapora.md
+    - Os Humanos Aba: races/individual/os-humanos-aba.md
+    - Os Kemonos Yawara: races/individual/os-kemonos-yawara-1-ponto.md
+    - Os Meio-Gigantes Anaiti: races/individual/os-meio-gigantes-anaiti.md
+    - Os Orcs Abaité: races/individual/os-orcs-abaité.md
+    - Reptantes: races/individual/reptantes.md
   - Magia:
+    - Sistema de Magia: magic/sistema-de-magia.md
     - Mana: magic/mana.md
     - Trevas: magic/trevas.md
-  - Facções:
-    - Império Aba: factions/imperio-aba.md
-    - Ordem dos Arcanos: factions/ordem-arcanos-imperiais.md
   - Reinos:
     - Ypy: locations/ypy.md
     - Kisé: locations/kise.md
@@ -57,12 +81,52 @@ nav:
     - Avista: locations/avista.md
     - Araxá: locations/araxa.md
     - Irundyna: locations/irundyna.md
-  - Geografia:
-    - Mapa Mundi: geografia/mapa-mundi.md
-  - História:
-    - Timeline: history/timeline.md
-    - Eras: history/eras.md
+  - Facções:
+    - Império Aba: factions/imperio-aba.md
+    - Ordem dos Arcanos: factions/ordem-arcanos-imperiais.md
+    - Ordem dos Senhores do Escudo: factions/ordem-senhores-escudo.md
+    - Guilda da Era: factions/guilda-era.md
+    - Estados Tampões: factions/estados-tampoees.md
+    - Cavaleiros:
+      - Visão Geral dos Cavaleiros: factions/cavaleiros.md
+      - Cavaleiros de Aurora: factions/Regimentos/aurora.md
+      - Cavaleiros do Fôlego Infernal: factions/Regimentos/folego.md
+      - Intendentes: factions/Regimentos/intendentes.md
+      - Cavaleiros do Limiar: factions/Regimentos/limiar.md
+      - Ossaria Silenciosa: factions/Regimentos/ossaria.md
+      - Cavaleiros da Vigília: factions/Regimentos/vigília.md
+  - Personagens:
+    - Visão Geral (NPCs): npcs/index.md
+    - Índice Individual: npcs/individual/index.md
+    - Arthur Áureo: npcs/individual/arthur-áureo-general-imperador.md
+    - Áureo I: npcs/individual/áureo-i-fundador-do-império.md
+    - Baley Ell: npcs/individual/baley-ell-curandeiro-do-imperador.md
+    - Belero Leroy: npcs/individual/belero-leroy-oráculo-de-moá-mago-vidente.md
+    - Casa Agar: npcs/individual/casa-agar.md
+    - Casa Kalan: npcs/individual/casa-kalan.md
+    - Dragnovith Uller: npcs/individual/dragnovith-uller-arquimago-imperial.md
+    - Elros Palantír: npcs/individual/elros-palantír-mago-glacial-abaré.md
+    - Escuridão: npcs/individual/escuridão-entidade-da-infestação.md
+    - Faraós de Ybi: npcs/individual/faraós-de-ybi.md
+    - Guarda Açã: npcs/individual/guarda-açã.md
+    - Homem-Leão: npcs/individual/homem-leão.md
+    - Huck Hor: npcs/individual/huck-hor-comandante-da-cavalaria.md
+    - Imperador Deziel Áureo: npcs/individual/imperador-deziel-áureo.md
+    - Karnos Minor: npcs/individual/karnos-minor-arquimago-faraó-de-ybi.md
+    - Luna Lin: npcs/individual/luna-lin-amazona.md
+    - Mal: npcs/individual/mal-mago-da-torre-de-obsidiana.md
+    - Meio-Elfos Caçadores: npcs/individual/meio-elfos-caçadores-de-magos-arcanos.md
+    - Misty As-La: npcs/individual/misty-as-la-arquimago-possível-mal.md
+    - Paladinos de Aisó: npcs/individual/paladinos-de-aisó.md
+    - Purpleskull Arc: npcs/individual/purpleskull-arc-mestre-das-sombras.md
+    - Rei Mictian: npcs/individual/rei-mictian-auçá.md
+    - Ror: npcs/individual/ror-general-auçá-fundador-de-naurus.md
+    - Sidius: npcs/individual/sidius-acemira-dos-auçá.md
+    - Stigin Nato: npcs/individual/stigin-nato-taverneiro-fundador.md
+    - Sucelus: npcs/individual/sucelus.md
+    - Vlad Dracul: npcs/individual/vlad-dracul.md
+  - Livro: ARCANO_COMPLETO.md
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/M4T4R0/r2d2-brain
+      link: https://blogspot.com
