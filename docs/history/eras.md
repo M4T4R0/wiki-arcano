@@ -107,5 +107,5 @@ Após perder sua sexta esposa, Misty abandona o trono. Deixa o poder nas mãos d
 
 **\-100 anos — Era do Esquecimento**
 
-A partir daqui o Império censura a história e nada se sabe o que aconteceu até [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) derrubar o que sobrou de Aslareth e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
+A partir daqui o Império censura a história e nada se sabe o que aconteceu até [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) derrubar o que sobrou de [aslareth](../factions/aslareth.md) e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
 

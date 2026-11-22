@@ -16,7 +16,7 @@
 |---|---|
 | **Mana** | Energia vital, finita, extraída do Éter. Uso excessivo atrai Trevas. |
 | **Trevas** | Força corruptora, antítese da Mana. Corrompe carne, mente, alma. |
-| **Éter** | Substância primordial, fonte da Mana. Existe no "Mundo Interior". |
+| **Éter** | Substância primordial, fonte da Mana. Existe no "[mundo interior](factions/mundo-interior.md)". |
 | **Muralha** | Barreira física+mágica que separa o Império da Área da Infestação. |
 | **Área da Infestação** | Região além da Muralha onde as Trevas vazam livremente. Monstros, mutações, ruínas. |
 | **Cavaleiros de Cenferum** | Elite da Ordem dos Arcanos. Guerreiros que usam Mana controlada para combater Trevas. |

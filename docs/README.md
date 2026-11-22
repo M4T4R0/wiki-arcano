@@ -18,7 +18,7 @@
 | **Facções & Organizações** | `factions/` | Impérios, ordens, guildas, seitas |
 | **História & Política** | `history/` | Linha do tempo, impérios, guerras, tratados |
 | **Artefatos & Itens** | `artifacts/` | Armas lendárias, relíquias, itens mágicos |
-| **Locais Notáveis** | `locations/` | Cidades, ruínas, masmorras, pontos de interesse |
+| **[locais notáveis](factions/locais-notaveis-ordem.md)** | `locations/` | Cidades, ruínas, masmorras, pontos de interesse |
 | **NPCs Notáveis** | `npcs/` | Personagens-chave, estatísticas 3D&T |
 | **Sistemas de Jogo** | `systems/` | Regras 3D&T adaptadas, house rules |
 
@@ -180,7 +180,7 @@ R2, lê worldbuilding/arcano/lore/deuses.md
 | Arquivo Original | Tamanho | Local Atual |
 |------------------|---------|-------------|
 | `ARCANO.md` | 2.8 MB | `projects/Literatura/knowledge/doc_61ebceebf2e5_ARCANO.md` |
-| `Nimbus e os Cavaleiros de Cenferum.md` | 546 KB | `projects/Literatura/knowledge/doc_b267...` |
+| `Nimbus e [os cavaleiros](factions/os-cavaleiros.md) de Cenferum.md` | 546 KB | `projects/Literatura/knowledge/doc_b267...` |
 | `Nimbus Tradução Inglês` | 513 KB | `projects/Literatura/knowledge/doc_4ad...` |
 | `Especialista em Roteiro` | 383 KB | `projects/Literatura/knowledge/doc_7d1...` |
 

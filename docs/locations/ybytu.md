@@ -73,13 +73,13 @@ Conectores geográficos condicionados pelo clima e ferramentas de transporte.
 * **Caminho Condicional:** **Rio Grande de Ferrovel**. Exige barcos de pele de baleia e pode ser **Bloqueado por Rocha Gigante** ou gelo maciço.  
 * **Características de Caminho:** Marcados pela característica de que o clima **Torna-se Extremamente Frio** rapidamente e a presença de **Névoa Noturna Espessa**.
 
-Ybytu é uma aldeia localizada no coração dos Montes Brancos, território gelado marcado por rios cristalinos que serpenteiam entre montanhas e planícies cobertas de neve. Originalmente habitada por nômades das neves, a região passou por séculos de conflitos entre tribos rivais em busca de territórios de caça. Após um acordo de paz duradouro, essas tribos se uniram, formando gradualmente o povoado que hoje é considerado uma pequena nação. O crescimento da aldeia foi lento e penoso, mas resultou em uma comunidade resiliente, adaptada ao frio extremo e à escassez de recursos.
+Ybytu é uma aldeia localizada no coração dos [montes brancos](../factions/montes-brancos.md), território gelado marcado por rios cristalinos que serpenteiam entre montanhas e planícies cobertas de neve. Originalmente habitada por nômades das neves, a região passou por séculos de conflitos entre tribos rivais em busca de territórios de caça. Após um acordo de paz duradouro, essas tribos se uniram, formando gradualmente o povoado que hoje é considerado uma pequena nação. O crescimento da aldeia foi lento e penoso, mas resultou em uma comunidade resiliente, adaptada ao frio extremo e à escassez de recursos.
 
 Os Ybytuis vivem essencialmente da caça e pesca, utilizando roupas feitas de couro de suas presas, com o pelo voltado para dentro, garantindo conforto e isolamento térmico mesmo nos invernos mais rigorosos. Suas armas preferidas são lanças, fáceis de fabricar e versáteis, usadas tanto para arremesso quanto para combate corpo a corpo, servindo também como apoio em terrenos escorregadios e acidentados. Outra arma de destaque é o arpão, essencial para a caça de criaturas marinhas e animais de grande porte.
 
-Apesar de serem considerados “bárbaros” por alguns, os Ybytuis são um povo amigável e cooperativo. Muitos aprenderam línguas estrangeiras em contato com viajantes, comerciantes ou aventureiros, e frequentemente são contratados como guias para explorar os Montes Brancos.
+Apesar de serem considerados “bárbaros” por alguns, os Ybytuis são um povo amigável e cooperativo. Muitos aprenderam línguas estrangeiras em contato com viajantes, comerciantes ou aventureiros, e frequentemente são contratados como guias para explorar os [montes brancos](../factions/montes-brancos.md).
 
-A sociedade Ybytui mantém uma relação profunda com cães adaptados ao frio, usados para puxar tobogãs — veículos de madeira que deslizam sobre o gelo, facilitando o transporte de cargas e pessoas. Os filhotes crescem junto às crianças, formando laços fortes de compreensão mútua e cooperação, essenciais para a sobrevivência na região.
+A sociedade Ybytui mantém uma relação profunda com cães adaptados ao frio, usados para puxar tobogãs — [veículos](../factions/veiculos.md) de madeira que deslizam sobre o gelo, facilitando o transporte de cargas e pessoas. Os filhotes crescem junto às crianças, formando laços fortes de compreensão mútua e cooperação, essenciais para a sobrevivência na região.
 
 Na cosmogonia Ybytui, o Bem se manifesta de diversas formas: uma mulher feliz em trajes brancos (Ya), um ancião de rosto amigável (Bêri) ou um caçador sorridente (Yanu). O Mal, chamado de Supay, aparece em seres distorcidos de rosto maléfico ou mulheres sedutoras e perversas, representando perigos físicos e espirituais.
 
@@ -87,15 +87,15 @@ O comércio em Ybytu é baseado no escambo: trocas de objetos ou serviços equiv
 
 Os perigos naturais e sobrenaturais são constantes: ursos polares, monstros nativos como os Glacioll, gigantes das montanhas, tribos humanas hostis (bárbaros saqueadores ou canibais), e acidentes naturais como avalanches, testando continuamente a resistência e coragem dos Ybytuis.
 
-Ybytu nasceu do sangue e da resiliência de nômades que vagavam pelos Montes Brancos há séculos. Tribos rivais lutavam por territórios de caça, rios e áreas férteis, mas com o tempo, sob a liderança de Parmuk “Raposa Careca”, ancião sábio e diplomata, consolidaram uma paz duradoura. A aldeia começou como um simples povoado à beira do grande rio glacial, servindo como ponto de encontro para troca de peles, pesca e caça.
+Ybytu nasceu do sangue e da resiliência de nômades que vagavam pelos [montes brancos](../factions/montes-brancos.md) há séculos. Tribos rivais lutavam por territórios de caça, rios e áreas férteis, mas com o tempo, sob a liderança de Parmuk “Raposa Careca”, ancião sábio e diplomata, consolidaram uma paz duradoura. A aldeia começou como um simples povoado à beira do grande rio glacial, servindo como ponto de encontro para troca de peles, pesca e caça.
 
-Com os anos, a aldeia cresceu, absorvendo influências de aventureiros perdidos e comerciantes errantes, tornando-se um centro estratégico para exploração dos Montes Brancos. O povoado prosperou lentamente, superando invernos rigorosos e criaturas selvagens, até se tornar uma pequena nação organizada, conhecida por sua disciplina, cooperação e sabedoria.
+Com os anos, a aldeia cresceu, absorvendo influências de aventureiros perdidos e comerciantes errantes, tornando-se um centro estratégico para exploração dos [montes brancos](../factions/montes-brancos.md). O povoado prosperou lentamente, superando invernos rigorosos e criaturas selvagens, até se tornar uma pequena nação organizada, conhecida por sua disciplina, cooperação e sabedoria.
 
-Os Ybytuis contam histórias de ancestrais que enfrentaram gigantes e espíritos do gelo, lendas que ainda inspiram os jovens a respeito da coragem, astúcia e sobrevivência. É dito que os Montes Brancos escondem segredos antigos, incluindo ruínas de civilizações anteriores, cristais mágicos enterrados e criaturas de poder extraordinário.
+Os Ybytuis contam histórias de ancestrais que enfrentaram gigantes e espíritos do gelo, lendas que ainda inspiram os jovens a respeito da coragem, astúcia e sobrevivência. É dito que os [montes brancos](../factions/montes-brancos.md) escondem segredos antigos, incluindo ruínas de civilizações anteriores, cristais mágicos enterrados e criaturas de poder extraordinário.
 
 **Geografia**
 
-Ybytu está localizada no coração dos Montes Brancos, rodeada por picos cobertos de neve, vales glaciares e rios de águas cristalinas que se mantêm líquidos mesmo no frio extremo. O terreno varia entre colinas de gelo polido, florestas de coníferas resistentes ao frio e planícies congeladas onde apenas os mais resistentes conseguem atravessar.
+Ybytu está localizada no coração dos [montes brancos](../factions/montes-brancos.md), rodeada por picos cobertos de neve, vales glaciares e rios de águas cristalinas que se mantêm líquidos mesmo no frio extremo. O terreno varia entre colinas de gelo polido, florestas de coníferas resistentes ao frio e planícies congeladas onde apenas os mais resistentes conseguem atravessar.
 
 O clima é severo: ventos cortantes, nevascas repentinas e temperaturas que despencam para abaixo de \-30°C. Apesar disso, há locais estratégicos que oferecem abrigo natural, como cavernas aquecidas por fontes geotérmicas e oásis de gelo, onde a vida se concentra.
 
@@ -131,7 +131,7 @@ Além de servir de base para atividades econômicas, o rio é campo de treino: j
 
 Grutas Geotérmicas: Formadas por atividade vulcânica residual, essas cavernas emitem calor natural e vapores que derretem neve em sua entrada, criando refúgios essenciais durante tempestades e invernos rigorosos. São utilizadas como abrigos temporários, laboratórios de estudos de cristais e ervas, e locais de rituais de proteção e consagração de armas e equipamentos mágicos.
 
-A presença de pedras cristalinas incandescentes cria um ambiente surreal, e as grutas também guardam passagens secretas para áreas perigosas dos Montes Brancos, usadas apenas pelos mais experientes.
+A presença de pedras cristalinas incandescentes cria um ambiente surreal, e as grutas também guardam passagens secretas para áreas perigosas dos [montes brancos](../factions/montes-brancos.md), usadas apenas pelos mais experientes.
 
 Torre dos Observadores: Localizada no topo do Monte Brilho, a torre é um posto avançado de vigilância. Guardas especializados monitoram movimentos de bestas, tribos rivais e avalanches, usando telescópios, encantamentos de percepção e cristais mágicos que ampliam a visão através de nevascas densas.
 
@@ -165,9 +165,9 @@ Ordem do Escudo de Gelo: Guardiões da aldeia, especialistas em balistas de gelo
 
 Guilda dos Construtores de Gelo: Arquitetos, engenheiros e mestres artesãos que mantêm Ybytu resistente a avalanches, tempestades e mudanças de terreno. Criam muralhas reforçadas, torres de observação e armadilhas estratégicas, além de edifícios residenciais e templos adaptados ao frio extremo. São responsáveis também por pontes de gelo e canais de água, garantindo logística e transporte dentro da aldeia.
 
-Confraria da Lança Glacial: Exploradores e arqueólogos que buscam relíquias antigas, cavernas ocultas e tesouros esquecidos nos Montes Brancos. Cada expedição enfrenta riscos extremos: avalanches, monstros glaciais e tribos hostis. Seus membros também documentam histórias e mapas secretos, permitindo à aldeia conhecer caminhos seguros e recursos escondidos na neve eterna.
+Confraria da Lança Glacial: Exploradores e arqueólogos que buscam relíquias antigas, cavernas ocultas e tesouros esquecidos nos [montes brancos](../factions/montes-brancos.md). Cada expedição enfrenta riscos extremos: avalanches, monstros glaciais e tribos hostis. Seus membros também documentam histórias e mapas secretos, permitindo à aldeia conhecer caminhos seguros e recursos escondidos na neve eterna.
 
-Irmandade do Véu Branco: Diplomatas secretos e negociadores que lidam com aldeias vizinhas, tribos nômades e aventureiros que atravessam os Montes Brancos. Mantêm alianças, comércio seguro e tratados de paz, sempre em sigilo absoluto. Seus agentes utilizam disfarces, feitiços de ilusão e códigos secretos para garantir que informações estratégicas não vazem para inimigos ou predadores.
+Irmandade do Véu Branco: Diplomatas secretos e negociadores que lidam com aldeias vizinhas, tribos nômades e aventureiros que atravessam os [montes brancos](../factions/montes-brancos.md). Mantêm alianças, comércio seguro e tratados de paz, sempre em sigilo absoluto. Seus agentes utilizam disfarces, feitiços de ilusão e códigos secretos para garantir que informações estratégicas não vazem para inimigos ou predadores.
 
 ---
 

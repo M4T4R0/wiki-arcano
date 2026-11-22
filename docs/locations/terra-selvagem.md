@@ -14,7 +14,7 @@ A Terra Selvagem é uma região onde o passado de impérios gloriosos foi substi
 
 * **Cultura:**  
   * **Caráter:** **Resiliente**, **Belicoso** e **Xenofóbico**. A população (predominantemente Abaité, Goblinóides e Anaití) é forjada em conflitos incessantes e na desconfiança extrema de forasteiros, especialmente humanos do Império.  
-  * **Ambição:** **Dominância** e **Independência**. Os povos locais buscam expandir seus territórios e provar seu valor através da força e da honra militar, vivendo sob a lei do mais forte.  
+  * **Ambição:** **Dominância** e **Independência**. [os povos](../races/individual/os-povos.md) locais buscam expandir seus territórios e provar seu valor através da força e da honra militar, vivendo sob a lei do mais forte.  
 * **Recursos:**  
   * **Abundância:** **Armas** e **Minério**. Como um antigo centro das civilizações Abaré e Akitã, a região é um cemitério de batalhas repleto de itens mágicos de heróis caídos e acesso a minérios como o Aço Akitã.  
   * **Escassez:** **Paz** e **Fidelidade**. É um campo de batalha perpétuo onde alianças são efêmeras, baseadas na necessidade imediata ou em sinais divinos passageiros.
@@ -43,7 +43,7 @@ O terreno é uma mistura de belezas arcaicas e perigos naturais extremos.
 * **Terreno Dominante:** **Difícil** (Florestas densas e Colinas) e **Perigoso** (Montanhas e Pântanos traiçoeiros).  
 * **Marcos (Landmarks):**  
   * **Cidades de Prata:** Ruínas élficas com torres de cristal quebradas que refletem a luz e ecoam cânticos.  
-  * **Monte Rocca:** O local onde Vulcazar foi selado, um pico marcado por cataclismos geológicos.  
+  * **Monte Rocca:** O local onde [vulcazar](../npcs/individual/vulcazar.md) foi selado, um pico marcado por cataclismos geológicos.  
   * **Rio do Trovão (Tupã):** A barreira natural que separa a barbárie do Império.
 
 **4\. Pontos de Interesse (PDIs)**
@@ -65,7 +65,7 @@ Conectores marcados pela destruição e pela natureza selvagem.
 
 As terras além do Rio do Trovão, entre os alagados dos Auçá e os gelados Montes Brancos, carregam o nome de Terra Selvagem. Um lugar onde o passado sussurra entre ruínas e florestas densas, onde o vento uiva sobre pedras gastas e o eco de civilizações desaparecidas ainda parece respirar nos vales.
 
-Séculos atrás, estas terras foram palco de dois grandes impérios. Ao norte, as Cidades de Prata dos Abaré erguiam torres delicadas e pontes de cristal que refletiam a luz do sol como se o próprio céu tivesse sido moldado em pedra. Ao sul, os engenhosos Akitã construíam fortalezas de ferro e pedra, labirintos subterrâneos e máquinas que giravam em um ritmo impossível, demonstrando a perícia de seus artesãos. Mas a ambição e o medo acenderam a Guerra da Bigorna e do Martelo. Cidades brilhantes viraram cinzas, subterrâneos se tornaram cemitérios silenciosos, e o sangue derramado marcou o solo com histórias de traição, heroísmo e catástrofe. Ao fim do conflito, ambos os povos partiram, deixando suas cidades ao abandono, presas apenas à memória do tempo.
+Séculos atrás, estas terras foram palco de dois grandes impérios. Ao norte, as Cidades de Prata dos Abaré erguiam torres delicadas e pontes de cristal que refletiam a luz do sol como se o próprio céu tivesse sido moldado em pedra. Ao sul, os engenhosos Akitã construíam fortalezas de ferro e pedra, labirintos subterrâneos e máquinas que giravam em um ritmo impossível, demonstrando a perícia de seus artesãos. Mas a ambição e o medo acenderam a Guerra da Bigorna e do Martelo. Cidades brilhantes viraram cinzas, subterrâneos se tornaram cemitérios silenciosos, e o sangue derramado marcou o solo com histórias de traição, heroísmo e catástrofe. Ao fim do conflito, ambos [os povos](../races/individual/os-povos.md) partiram, deixando suas cidades ao abandono, presas apenas à memória do tempo.
 
 Milênios depois, as ruínas foram ocupadas pelos Abaité — os Orcs guerreiros — e pelos Anaití — meio-gigantes de força descomunal. Fortalezas improvisadas surgiram entre corredores quebrados e torres desmoronadas, ainda ressoando ecos de magia esquecida. O som de martelos e cantos prateados deu lugar a gritos de batalha e marchas pesadas. A Terra Selvagem tornou-se um território de perigos constantes, onde apenas os fortes sobrevivem, e onde o passado se mistura ao presente em um mosaico de ruínas, florestas densas e planícies selvagens.
 
@@ -77,11 +77,11 @@ Hoje, a Terra Selvagem não pertence apenas aos Abaité e Anaití. É lar de cri
 
 A Legião Goblinóide: Goblins, hobgoblins e bugbears que vivem em constante rivalidade, unindo-se apenas quando interpretam sinais divinos. Em campanhas temporárias, hobgoblins impõem disciplina militar rígida, comandando hordas caóticas que espalham destruição. Mas a lealdade é efêmera; quando a missão divina termina, a Horda se dissolve, retornando cada espécie às intrigas internas.
 
-O Levante Táurico: Minotauros colossais, metade homem, metade boi, que disputam território com outras feras. Com ombros largos como muralhas e braços esculpidos em pedra viva, caçam, lutam e perseguem com ferocidade.
+O Levante Táurico: [minotauros](../races/individual/minotauros.md) colossais, metade homem, metade boi, que disputam território com outras feras. Com ombros largos como muralhas e braços esculpidos em pedra viva, caçam, lutam e perseguem com ferocidade.
 
-A Alcatéia Gnól: Humanóides altos e magros, híbridos de gente e hiena, velozes e predatórios, marcados por traços demoníacos em seus corpos. Crescem e envelhecem rapidamente, vivendo pouco, mas em intensidade cruel. Movem-se como sombras, caçam em grupos coordenados e não hesitam em matar por instinto ou fome.
+A Alcatéia [gnól](../races/individual/gnól.md): Humanóides altos e magros, híbridos de gente e hiena, velozes e predatórios, marcados por traços demoníacos em seus corpos. Crescem e envelhecem rapidamente, vivendo pouco, mas em intensidade cruel. Movem-se como sombras, caçam em grupos coordenados e não hesitam em matar por instinto ou fome.
 
-Reptantes: Humanóides reptilianos de várias espécies, desde homens-lagarto até homens-dinossauro, cobertos de escamas, fortes e resistentes, adaptados ao combate e à vida aquática. Não acumulam riquezas ou conhecimento inútil; seu mundo é regido pelo instinto de sobrevivência e pelo valor da comida. Embora não sejam intrinsecamente malignos, sua selvageria os torna perigosos para viajantes e aldeões.
+[reptantes](../races/individual/reptantes.md): Humanóides reptilianos de várias espécies, desde homens-lagarto até homens-dinossauro, cobertos de escamas, fortes e resistentes, adaptados ao combate e à vida aquática. Não acumulam riquezas ou conhecimento inútil; seu mundo é regido pelo instinto de sobrevivência e pelo valor da comida. Embora não sejam intrinsecamente malignos, sua selvageria os torna perigosos para viajantes e aldeões.
 
 Os Abaité carregam a fúria de mil gerações, descendentes de soldados-demônio purificados pelo fogo do Duque Sabnock, Deus Menor da Guerra. Em noites de tormenta, os mais velhos podem invocar os espíritos de antigos guerreiros Abaré e Akitã para batalhas impossíveis.
 
@@ -93,7 +93,7 @@ A Terra Selvagem surge para além do Rio do Trovão, entre os alagados traiçoei
 
 A Guerra da Bigorna e do Martelo consumiu tudo. Cidades brilhantes tornaram-se cinzas, subterrâneos transformaram-se em cemitérios silenciosos, e o sangue derramado gravou lendas de heroísmo, traição e catástrofe. Ao final, nenhum dos antigos povos permaneceu: os Abaré desapareceram nas florestas e montanhas distantes, os Akitã se perderam entre suas criações, deixando apenas ruínas para os ventos do tempo carregarem.
 
-Milênios depois, Abaité (Orcs) e Anaití (Meio-Gigantes) tomaram posse das ruínas. Fortalezas improvisadas emergiram sobre velhos templos e corredores quebrados, e a magia esquecida ainda sussurra entre pedras gastas. No entanto, a Terra Selvagem não é apenas território humano ou semi-humano: hordas goblinóides, minotauros, gnóis hiena e reptantes fazem dela um inferno vivo, hostil à humanidade e a qualquer incursão do Império. Cada vale, pedra e árvore carrega a memória de antigos impérios e de guerreiros mortos, e as histórias contadas pelos ventos avisam que apenas os fortes sobrevivem.
+Milênios depois, Abaité (Orcs) e Anaití (Meio-Gigantes) tomaram posse das ruínas. Fortalezas improvisadas emergiram sobre velhos templos e corredores quebrados, e a magia esquecida ainda sussurra entre pedras gastas. No entanto, a Terra Selvagem não é apenas território humano ou semi-humano: hordas goblinóides, [minotauros](../races/individual/minotauros.md), gnóis hiena e [reptantes](../races/individual/reptantes.md) fazem dela um inferno vivo, hostil à humanidade e a qualquer incursão do Império. Cada vale, pedra e árvore carrega a memória de antigos impérios e de guerreiros mortos, e as histórias contadas pelos ventos avisam que apenas os fortes sobrevivem.
 
 **Geografia**
 
@@ -109,9 +109,9 @@ As hordas goblinóides — goblins, hobgoblins e bugbears — vivem em permanent
 
 No horizonte, ergue-se o Levante Táurico, colossos musculosos metade homem, metade boi. Cada minotauro é uma torre viva, moldada para guerra, perseguição e domínio territorial. Sua presença impõe silêncio e medo; eles caminham como muralhas, punindo qualquer intruso com força bruta e precisão silenciosa.
 
-A Alcatéia Gnól, híbridos de humano e hiena, move-se entre florestas e pântanos como sombras famintas. Altos, magros, de olhos que ardem como brasa úmida, caçam com velocidade e precisão incomparáveis. Crescem rápido, vivem pouco, e a pressa da vida corre em suas veias como um decreto cruel: vigor absoluto num dia, ruína no outro.
+A Alcatéia [gnól](../races/individual/gnól.md), híbridos de humano e hiena, move-se entre florestas e pântanos como sombras famintas. Altos, magros, de olhos que ardem como brasa úmida, caçam com velocidade e precisão incomparáveis. Crescem rápido, vivem pouco, e a pressa da vida corre em suas veias como um decreto cruel: vigor absoluto num dia, ruína no outro.
 
-Entre rios e alagados, os Reptantes deslizam como predadores perfeitos. Humanóides escamosos, fortes, resistentes e precisos, guiados pelo instinto e pela sobrevivência. Suas caudas equilibram, suas garras cortam, e suas mentes seguem uma lógica selvagem: valor apenas ao que se pode comer ou usar, indiferença ao resto. Não são maliciosos, mas o mundo civilizado é para eles um território estranho, cheio de perigos e ofensas, e poucas vezes tentam conviver.
+Entre rios e alagados, os [reptantes](../races/individual/reptantes.md) deslizam como predadores perfeitos. Humanóides escamosos, fortes, resistentes e precisos, guiados pelo instinto e pela sobrevivência. Suas caudas equilibram, suas garras cortam, e suas mentes seguem uma lógica selvagem: valor apenas ao que se pode comer ou usar, indiferença ao resto. Não são maliciosos, mas o mundo civilizado é para eles um território estranho, cheio de perigos e ofensas, e poucas vezes tentam conviver.
 
 Costumes comuns atravessam essas raças como um fio invisível. Rituais de caça, cerimônias lunares, demonstrações de força e honra militar marcam a passagem de gerações. Alianças são raras e efêmeras, nascidas do medo, da oportunidade ou da necessidade; enquanto a Terra Selvagem permanecer, cada grupo mantém seus territórios, suas tradições e suas próprias lendas.
 
@@ -127,7 +127,7 @@ Os Anaití seguem uma hierarquia diferente. Entre esses meio-gigantes, o poder �
 
 As hordas goblinóides conhecem a ordem apenas quando a fé ou a oportunidade exigem. Durante campanhas sagradas ou em missões divinas, os hobgoblins impõem disciplina militar: cada goblin, bugbear e hobgoblin segue ordens precisas, com estratégia e rigor, como peças de uma engrenagem cruel. Fora dessas campanhas, porém, a unidade se desfaz. Cada clã retorna às rivalidades antigas, às disputas por território, poder e alimento, lembrando que a ordem nunca é natural entre eles — apenas temporária.
 
-Para o Levante Táurico, a Alcatéia Gnól e os Reptantes, a liderança emerge do instinto e da necessidade. Chefes tribais ou clãs dominam pelo respeito que impõem, pelo medo que inspiram e pela habilidade de caçar e sobreviver. O mais forte e o mais astuto guiam seus grupos; a lealdade é conquistada, e a traição punida com rigor. Nenhum pacto escrito ou juramento é mais sólido que o sangue derramado ou a vitória obtida.
+Para o Levante Táurico, a Alcatéia [gnól](../races/individual/gnól.md) e os [reptantes](../races/individual/reptantes.md), a liderança emerge do instinto e da necessidade. Chefes tribais ou clãs dominam pelo respeito que impõem, pelo medo que inspiram e pela habilidade de caçar e sobreviver. O mais forte e o mais astuto guiam seus grupos; a lealdade é conquistada, e a traição punida com rigor. Nenhum pacto escrito ou juramento é mais sólido que o sangue derramado ou a vitória obtida.
 
 Diplomacia com o mundo exterior, seja humano ou o Império, é rara e sempre precária. Trocas, encontros ou cessar-fogos acontecem apenas quando a necessidade ou a oportunidade surgem, nunca por lealdade ou confiança. Ataques, invasões e defesas ocorrem conforme a tradição, a vingança ou a conveniência — a Terra Selvagem jamais negocia, apenas impõe.
 

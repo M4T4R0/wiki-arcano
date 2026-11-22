@@ -1,6 +1,6 @@
 # Irundyna — Epicentro da Infestação
 
-> **Antiga Aslareth** — Cidade gêmea de [kisé](kise.md), agora epicentro da corrupção. Solo pulsante, torre de obsidiana viva, realidade distorcida.
+> **Antiga [aslareth](../aslareth.md)** — Cidade gêmea de [kisé](kise.md), agora epicentro da corrupção. Solo pulsante, torre de obsidiana viva, realidade distorcida.
 
 ---
 

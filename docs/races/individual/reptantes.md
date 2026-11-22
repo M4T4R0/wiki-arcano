@@ -1,6 +1,6 @@
 # **Reptantes** 
 
-Reptantes ou Escamados como são popularmente conhecidos são uma variedade grande de humanóides reptilianos de vários espécies diferentes, desde Homens Lagartos até Homens Dinossauros, que habitam todo o mundo desde o Deserto Açu até a [terra selvagem](../../factions/reinos/terra-selvagem.md). Sua pele é coberta de escamas e variava de cor entre verde escuro a tons de marrom e cinza. Mais altos e robustos do que os humanos, Reptantes têm caudas musculares usadas para equilibrar. Eles também têm garras e dentes afiados.
+Reptantes ou Escamados como são popularmente conhecidos são uma variedade grande de humanóides reptilianos de vários espécies diferentes, desde Homens Lagartos até Homens Dinossauros, que habitam todo o mundo desde o [deserto açu](../../factions/deserto-acuc.md) até a [terra selvagem](../../factions/reinos/terra-selvagem.md). Sua pele é coberta de escamas e variava de cor entre verde escuro a tons de marrom e cinza. Mais altos e robustos do que os humanos, Reptantes têm caudas musculares usadas para equilibrar. Eles também têm garras e dentes afiados.
 
 Os Reptantes são seres fortes e resistentes, e suas grossas peles escamosas protegem contra ataques. Eles podem prender a respiração por muito mais tempo do que os humanos, até duas vezes mais tempo do que um ser humano equivalente. Esta capacidade permite-lhes operar debaixo d'água em suas casas pantanosas.
 

@@ -35,7 +35,7 @@ Moacuba é definida por sua identidade como o centro intelectual do Império, a 
 
 A região é influenciada por grupos com agendas de preservação e segredo.
 
-* **A Ordem dos Senhores do Escudo:**  
+* **A [ordem dos senhores do escudo](../factions/ordem-senhores-escudo.md):**  
   * **Tipo/Agente:** **Militares / Lorde**.  
   * **Traços:** **Disciplinado** e **Tenaz**.  
   * **Vantagens:** **Posição** e **Recursos** (especialistas em defesa).  
@@ -70,7 +70,7 @@ Moacuba situa-se em uma região de transição com florestas e redes de cavernas
 * **Caminho Oculto:** Trilhas secretas pela floresta usadas por aqueles que buscam o Oráculo, frequentemente **Confusas para Navegar**.  
 * **Caminho Condicional:** Portais mágicos que ligam à cidade de **Portal**, exigindo taxas ou chaves específicas para uso.
 
-A mais de Mil anos atrás quando o Reino foi criado, o seu fundador era Belero um dos estrategistas militares do Grande Áureo I o Conquistador, que unificou todas as tribos humanas em um enorme exército.
+A mais de Mil anos atrás quando o Reino foi criado, o seu fundador era Belero um dos estrategistas militares do Grande [áureo i](../npcs/individual/aureo-i-fundador.md) o Conquistador, que unificou todas as tribos humanas em um enorme exército.
 
 Belero por sua incrível contribuição ao império de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md), “ganhou” um reino para si, e foi Moacuba o reino que ele ganhou. Quando chegou o reino não era mais que uma aldeia, dizem que um dia chutou uma pedra onde hoje é o parque de de Mocuba e dela surgiu uma fonte, conhecida hoje como Belerofonte. Muitos dizem, quem dela bebesse, tornar-se-ia poeta, não se sabe se isso é real, mas todos os anos milhares de Bardos vêm a essa fonte para “beber dela”.
 

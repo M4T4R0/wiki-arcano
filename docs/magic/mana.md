@@ -82,7 +82,7 @@ Custo Social: O uso prolongado causa o "Efeito Pensador" — perda gradual de fr
 
 **"Pó de Atã" (ou Brilho Azul)**
 
-Atã é a energia que alimenta a magia e mantém as ilhas voadoras no céu.
+Atã é a energia que alimenta a magia e mantém [as ilhas](../factions/as-ilhas.md) voadoras no céu.
 
 A Ideia: Um subproduto industrial refinado ilegalmente a partir das raspas de cristais de Flutuum (usados na tecnologia Piquira).
 

@@ -12,9 +12,9 @@
 | Propriedade | Detalhe |
 |-------------|---------|
 | **Tipo** | Anel (preto; runas douradas) |
-| **Poder** | **Imune a magias de controle mental** (ECH, EL, THAR) |
+| **Poder** | **Imune a [magias](../factions/magias.md) de controle mental** (ECH, EL, THAR) |
 | **Secundário** | **+1 em testes de Resistência contra magia** |
-| **Criador** | Vulcazar (Meio-Dragão/Meio-Orc; líder de horda) |
+| **Criador** | [vulcazar](../npcs/individual/vulcazar.md) (Meio-Dragão/Meio-Orc; líder de horda) |
 | **Maldição** | Quem usa por > 1 ano → **escamas começam a aparecer** (lento; irreversível) |
 
 ---

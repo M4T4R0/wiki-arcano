@@ -5,7 +5,7 @@
 ---
 
 ## 📍 Localização
-- **Capital**: Andirá
+- **Capital**: [andirá](../andira.md)
 - **Terreno**: **Cavernas** (Perigoso) e **Montanhas** (Andirá situa-se em uma montanha que se estende para baixo).
 
 ---

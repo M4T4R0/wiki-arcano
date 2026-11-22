@@ -5,7 +5,7 @@
 ---
 
 ## 📍 Localização
-- **Capital**: Tamaya
+- **Capital**: [tamaya](../tamaya.md)
 
 ---
 

@@ -22524,35 +22524,35 @@ Não satisfeito, Azeron ordenou que o vento impulsionasse seus movimentos um fei
 
 Os olhos de Azeron brilhavam intensamente enquanto ele se preparava para o confronto iminente, sua visão fixa em Vicenti. A combinação dos feitiços lançados criava um halo mágico ao seu redor, anunciando sua preparação para a batalha que estava prestes a começar.
 
-Azeron, com sua Detecção Mágica ativada, percebeu imediatamente o halo pulsante de energia que envolvia Vicenti, um sinal claro de que seu adversário também estava completamente preparado para o confronto iminente. O halo mágico era uma miríade de cores vibrantes que oscilavam entre tons de azul profundo e violeta intenso, irradiando uma aura de poder concentrado que contrastava com a serenidade aparente de Vicenti quase deitado no trono com a cocha apoiada no braço do trono de pedra. Cada pulsar do halo parecia ecoar no ar ao redor, criando um ambiente eletrizante que alertava Azeron para a formidável habilidade mágica de seu oponente.
+[azeron](npcs/individual/azeron.md), com sua Detecção Mágica ativada, percebeu imediatamente o halo pulsante de energia que envolvia Vicenti, um sinal claro de que seu adversário também estava completamente preparado para o confronto iminente. O halo mágico era uma miríade de cores vibrantes que oscilavam entre tons de azul profundo e violeta intenso, irradiando uma aura de poder concentrado que contrastava com a serenidade aparente de Vicenti quase deitado no trono com a cocha apoiada no braço do trono de pedra. Cada pulsar do halo parecia ecoar no ar ao redor, criando um ambiente eletrizante que alertava [azeron](npcs/individual/azeron.md) para a formidável habilidade mágica de seu oponente.
 
 — Vejo que está preparado para nosso confronto —  Vicenti falou enquanto se levantava.
 
-Azeron observou que atrás do trono sem nenhuma proteção estava a lança com o estandarte verde dos Quimeras.
+[azeron](npcs/individual/azeron.md) observou que atrás do trono sem nenhuma proteção estava a lança com o estandarte verde dos Quimeras.
 
 — Isto? —  ele apontou para a lança com o polegar. —  Não me interessa, pode pegar se quiser, mas depois de nos enfrentarmos, você sabe muito bem que eu estou aqui somente para enfrentar você, não me interessa nem um pouco esta competição idiota.
 
-— Vamos começar? —  Azeron se pôs em posição de combate, seu cajado preparado mirando seu oponente.
+— Vamos começar? —  [azeron](npcs/individual/azeron.md) se pôs em posição de combate, seu cajado preparado mirando seu oponente.
 
 — Imediatamente\!
 
-Vicenti lançou um raio de chamas intensas que dançaram ferozmente pelo ar, mas Azeron respondeu com igual ferocidade, utilizando uma magia de vento criando redemoinhos de ar cortante para dissipar as chamas do oponente.
+Vicenti lançou um raio de chamas intensas que dançaram ferozmente pelo ar, mas [azeron](npcs/individual/azeron.md) respondeu com igual ferocidade, utilizando uma magia de vento criando redemoinhos de ar cortante para dissipar as chamas do oponente.
 
 — Interessante, você parece ser um bom dobrador de vento.
 
-Azeron ficou quieto e lançou uma bola de vento sobre seu inimigo com intuito de testar suas defesas. Imediatamente Vicenti bateu com seu cajado no chão e uma parede de pedra se levantou na sua frente dissipando a explosão de vento.
+[azeron](npcs/individual/azeron.md) ficou quieto e lançou uma bola de vento sobre seu inimigo com intuito de testar suas defesas. Imediatamente Vicenti bateu com seu cajado no chão e uma parede de pedra se levantou na sua frente dissipando a explosão de vento.
 
-Vicenti deu um passo ao lado da parede e desta vez lançou uma gigantesca bola de fogo contra Azeron que habilmente se ajoelhou e cravou a ponta do seu cajado no chão para conseguir apoio e a bola de fogo simplesmente se dissipou no ar na sua frente.
+Vicenti deu um passo ao lado da parede e desta vez lançou uma gigantesca bola de fogo contra [azeron](npcs/individual/azeron.md) que habilmente se ajoelhou e cravou a ponta do seu cajado no chão para conseguir apoio e a bola de fogo simplesmente se dissipou no ar na sua frente.
 
 — Incrível, uma parede de vácuo. —  Vicenti falou surpreso. — Acho que meus ataques de fogo não vão ser efetivos contra você.
 
-— Parece que sim —  Azeron respondeu. — Defesas de vácuo são infalíveis contra ataques de fogo, sem ar sem fogo.
+— Parece que sim —  [azeron](npcs/individual/azeron.md) respondeu. — Defesas de vácuo são infalíveis contra ataques de fogo, sem ar sem fogo.
 
 — Infalíveis até certo ponto, existem formas de contornar isso. Mas agora não é hora de discutirmos isso. Se você é tão bom com vento, que tal tentarmos uma luta de vento contra vento? Não é minha especialidade, mas acredito que vamos dar um ótimo espetáculo para a plateia —  Vicenti apontou para as arquibancadas ao longe.
 
 Com os dois se atacando com lufadas de vento pressurizadas, logo a arena se transformou em um campo de batalha tumultuado, com fortes rajadas de vento colidindo e entrelaçando-se em um espetáculo impressionante.
 
-Os embates eram intensos. Cada movimento de Azeron e Vicente criava ondas de energia que faziam o ar vibrar. Os ventos uivavam, levantando poeira e detritos, obscurecendo a visão dos espectadores. Azeron mostrava sua maestria, movendo-se com uma graça letal e usando correntes de ar para desviar os ataques de Vicente e lançar contra-ataques precisos.
+Os embates eram intensos. Cada movimento de [azeron](npcs/individual/azeron.md) e Vicente criava ondas de energia que faziam o ar vibrar. Os ventos uivavam, levantando poeira e detritos, obscurecendo a visão dos espectadores. [azeron](npcs/individual/azeron.md) mostrava sua maestria, movendo-se com uma graça letal e usando correntes de ar para desviar os ataques de Vicente e lançar contra-ataques precisos.
 
 Então após alguns embates de vento contra vento os dois magos se viram ambos preparando seus ataques mais poderosos. Apos alguns segundos com os cajados de ambos dançando no ar criando arcos de energia os dois, ao mesmo tempo lançaram uma bola de vento gigantesca que colidiram e no mesmo instante lançaram uma onda de vento tão poderosa pela arena que fez todos nas arquibancadas procurarem abrigo.
 
@@ -22564,9 +22564,9 @@ Mack estava ao lado de Lincy no meio do seu caminho perto da esquina que dava pa
 
 — Puta merda que foi isso? —  Lincy falou enquanto tentava se levantar, Mask a ajudou e ambos bateram a poeira das roupas.
 
-— Só pode ser o Azeron e o Vicenti —  ele falou.
+— Só pode ser o [azeron](npcs/individual/azeron.md) e o Vicenti —  ele falou.
 
-— O link que a gente tinha com o grupo caiu. Será que o Azeron está inconsciente? 
+— O link que a gente tinha com o grupo caiu. Será que o [azeron](npcs/individual/azeron.md) está inconsciente? 
 
 Outra explosão de vento veio da direção da base inimiga e Mack falou:
 
@@ -22576,7 +22576,7 @@ Eles caminharam calmamente pelo caminho até próximo da base inimiga e viram al
 
 — Acho que ninguém mais vai lutar hoje.
 
-Mais à esquerda, encostados em um pilar, estavam Sani, Tom e Yasmim que parecia bem preocupada.
+Mais à esquerda, encostados em um pilar, estavam [sani](npcs/individual/sani.md), Tom e Yasmim que parecia bem preocupada.
 
 — Que luta —  Tom falou enquanto observava atentamente os dois em batalha.
 
@@ -22584,19 +22584,19 @@ A arena parecia viva com a energia dos dois combatentes, o chão tremendo sob a 
 
 \*\*\*
 
-Vicenti após lançar outra bola de vento e Azeron a rebater com outra explosão de Vento falou:
+Vicenti após lançar outra bola de vento e [azeron](npcs/individual/azeron.md) a rebater com outra explosão de Vento falou:
 
-— Acho que não vamos ir a lugar nenhum com explosões de energia como esta. Que tal um combate a moda antiga, sem magias somente espada.
+— Acho que não vamos ir a lugar nenhum com explosões de energia como esta. Que tal um combate a moda antiga, sem [magias](factions/magias.md) somente espada.
 
-Vicenti sacou a espada de treino que carregava na cintura. Azeron fez o mesmo.
+Vicenti sacou a espada de treino que carregava na cintura. [azeron](npcs/individual/azeron.md) fez o mesmo.
 
 — Não sou o melhor em luta com espadas mas acho que podemos brincar um pouco.
 
-Os dois magos avançaram um na direção do outro com uma velocidade sobrenatural, seus movimentos se tornando um borrão aos olhos humanos normais. Azeron e Vicenti desferiram golpes velozes de suas espadas, cada ataque acompanhado por um brilho de energia mágica. Azeron, habilmente, desviava dos ataques precisos de Vicenti, cuja técnica era quase uma dança de destreza e controle.
+Os dois magos avançaram um na direção do outro com uma velocidade sobrenatural, seus movimentos se tornando um borrão aos olhos humanos normais. [azeron](npcs/individual/azeron.md) e Vicenti desferiram golpes velozes de suas espadas, cada ataque acompanhado por um brilho de energia mágica. [azeron](npcs/individual/azeron.md), habilmente, desviava dos ataques precisos de Vicenti, cuja técnica era quase uma dança de destreza e controle.
 
-Azeron, confiante em sua preparação impulsionada com feitiços de velocidade e reflexos aprimorados, tornando seus movimentos tão rápidos quanto os de seu inimigo. Vicenti, por sua vez, defletia cada ataque de seu inimigo com arcos de energia mágica da sua espada de treino numa defesa quase  impenetrável.
+[azeron](npcs/individual/azeron.md), confiante em sua preparação impulsionada com feitiços de velocidade e reflexos aprimorados, tornando seus movimentos tão rápidos quanto os de seu inimigo. Vicenti, por sua vez, defletia cada ataque de seu inimigo com arcos de energia mágica da sua espada de treino numa defesa quase  impenetrável.
 
-Após uma troca rápida de golpes, Azeron com precisão raspou sua espada na perna de Vicenti. A armadura mágica de treino de Vicenti imobilizou sua perna quase que imediatamente, cumprindo as regras do duelo simulado. A frustração de Vicenti ficou visível, seu rosto contorcido pela determinação de vencer a qualquer custo.
+Após uma troca rápida de golpes, [azeron](npcs/individual/azeron.md) com precisão raspou sua espada na perna de Vicenti. A armadura mágica de treino de Vicenti imobilizou sua perna quase que imediatamente, cumprindo as regras do duelo simulado. A frustração de Vicenti ficou visível, seu rosto contorcido pela determinação de vencer a qualquer custo.
 
 — Isso é absurdo\! Na vida real, seria apenas um arranhão\! Não me impediria de me mexer — exclamou Vicenti, arrastando-se com dificuldade, sua perna imobilizada pela armadura.
 
@@ -22604,37 +22604,37 @@ Após uma troca rápida de golpes, Azeron com precisão raspou sua espada na per
 
 — RIDÍCULO\! — Vicenti soltou as fivelas da armadura, e a arrancou do corpo com pouca dificuldade. —  Em um combate real isso não iria acontecer. Lembra que a gente combinou sem se segurar e sem restrições?
 
-Azeron, mantendo-se calmo, assentiu em concordância.
+[azeron](npcs/individual/azeron.md), mantendo-se calmo, assentiu em concordância.
 
 — Cara eu tava me sentindo preso dentro daquela armadura, tu não sabe o quanto ela restringia os meus movimentos. —  Agora sem a armadura Vicenti começou a movimentar os braços e pernas.
 
-Azeron permaneceu quieto observando seu inimigo. Vendo que Azeron não se mexeu Vicenti olhou para a espada na sua mão e a soltou no chão.
+[azeron](npcs/individual/azeron.md) permaneceu quieto observando seu inimigo. Vendo que [azeron](npcs/individual/azeron.md) não se mexeu Vicenti olhou para a espada na sua mão e a soltou no chão.
 
-— Isso aqui não serve pra nada. — Ele olhou para Azeron e sorriu depois continuou. — Sabe Azeron, desde que eu nasci, e depois quando comecei a andar. A primeira coisa que meu pai me deu para segurar foi uma arma, eu aprendi tudo sobre elas, como usar cada uma, seus prós e contras, mas sabe qual foi a que eu mais curti usar?
+— Isso aqui não serve pra nada. — Ele olhou para [azeron](npcs/individual/azeron.md) e sorriu depois continuou. — Sabe [azeron](npcs/individual/azeron.md), desde que eu nasci, e depois quando comecei a andar. A primeira coisa que meu pai me deu para segurar foi uma arma, eu aprendi tudo sobre elas, como usar cada uma, seus prós e contras, mas sabe qual foi a que eu mais curti usar?
 
 Vicenti fez alguns movimentos com seu cajado e o calçou no chão, as pedras ao seu redor se ergueram formando uma pesada marreta que parecia pesar centenas de quilos.
 
 — Isto aqui\! Uma enorme marreta. O problema é que não tenho força suficiente para balançar algo deste tamanho — lamentou Vicenti, enquanto a marreta desequilibrava-se e caía ao seu lado sem que conseguisse segurá-la.
 
-Erguendo seu cajado alto acima da cabeça, Vicenti o empunhou como se fosse uma arma de duas mãos, imitando o movimento de uma marreta. Instantaneamente, a marreta se desmanchou de onde estava e se materializou novamente no ar acima dele, e com um esforço concentrado, ele a lançou com toda a força em direção a Azeron, que estava à sua frente.
+Erguendo seu cajado alto acima da cabeça, Vicenti o empunhou como se fosse uma arma de duas mãos, imitando o movimento de uma marreta. Instantaneamente, a marreta se desmanchou de onde estava e se materializou novamente no ar acima dele, e com um esforço concentrado, ele a lançou com toda a força em direção a [azeron](npcs/individual/azeron.md), que estava à sua frente.
 
 — Aprendi que se você criar uma marreta imensa em um lugar bem alto, você pode usar a força da gravidade somada a sua própria força para desferir golpes devastadores — explicou Vicenti com um sorriso torto no rosto enquanto batia.
 
-Azeron, antevendo o golpe devastador, ergueu com dificuldade um escudo de pedras para se defender. No entanto, o impacto foi tão poderoso que o escudo se desfez em pó e a marreta atingiu em cheio no peito, derrubando-o ao chão. Se não fosse por sua Armadura Arcana, que se despedaçou com o impacto, ele estaria gravemente ferido.
+[azeron](npcs/individual/azeron.md), antevendo o golpe devastador, ergueu com dificuldade um escudo de pedras para se defender. No entanto, o impacto foi tão poderoso que o escudo se desfez em pó e a marreta atingiu em cheio no peito, derrubando-o ao chão. Se não fosse por sua Armadura Arcana, que se despedaçou com o impacto, ele estaria gravemente ferido.
 
 — Menos uma armadura — zombou Vicenti, com um olhar de desafio.
 
-Novamente empunhando seu cajado, Vicenti invocou outra marreta mágica. Com um movimento arqueado, como se estivesse jogando golfe, ele golpeou Azeron mais uma vez. Desta vez, o impacto foi tão intenso que Azeron foi lançado vários metros para trás e para cima, sua segunda Armadura Arcana também despedaçada.
+Novamente empunhando seu cajado, Vicenti invocou outra marreta mágica. Com um movimento arqueado, como se estivesse jogando golfe, ele golpeou [azeron](npcs/individual/azeron.md) mais uma vez. Desta vez, o impacto foi tão intenso que [azeron](npcs/individual/azeron.md) foi lançado vários metros para trás e para cima, sua segunda Armadura Arcana também despedaçada.
 
-— Sabe o problema de nós que podemos dominar todas as escolas de magia? — provocou Vicenti enquanto caminhava calmamente em direção a Azeron. — É que podemos facilmente cair na armadilha de nos tornarmos generalistas como você.  Ficar disperso em vários campos de estudo, sem uma verdadeira especialização. Eu me especializei em Fogo e Pedra, Ataques devastadores de grande amplitude e defesas poderosas… Acho que você não.
+— Sabe o problema de nós que podemos dominar todas as escolas de magia? — provocou Vicenti enquanto caminhava calmamente em direção a [azeron](npcs/individual/azeron.md). — É que podemos facilmente cair na armadilha de nos tornarmos generalistas como você.  Ficar disperso em vários campos de estudo, sem uma verdadeira especialização. Eu me especializei em Fogo e Pedra, Ataques devastadores de grande amplitude e defesas poderosas… Acho que você não.
 
-Percebendo que Azeron foi acertado pra valer, Tom exclamou alarmado:
+Percebendo que [azeron](npcs/individual/azeron.md) foi acertado pra valer, Tom exclamou alarmado:
 
-— O cara ta dando uma surra no Azeron, ele não pode com todos nós —  gritou e correu em direção a Vicenti.
+— O cara ta dando uma surra no [azeron](npcs/individual/azeron.md), ele não pode com todos nós —  gritou e correu em direção a Vicenti.
 
-Tom avançou na direção de Vicenti, mas antes que pudesse atacar, com apenas uma das mãos, Vicenti apontou seu cajado contra Tom e uma torrente de chamas foi lançada em sua direção. Sani interveio, erguendo seu escudo de gelo mais poderoso, que começou a derreter sob o intenso calor das chamas.
+Tom avançou na direção de Vicenti, mas antes que pudesse atacar, com apenas uma das mãos, Vicenti apontou seu cajado contra Tom e uma torrente de chamas foi lançada em sua direção. [sani](npcs/individual/sani.md) interveio, erguendo seu escudo de gelo mais poderoso, que começou a derreter sob o intenso calor das chamas.
 
-— Faz o que tu ia fazer logo, Tom. Não consigo segurar isso por muito tempo — alertou Sani,  atrás dele já estavam Mack e Lincy.
+— Faz o que tu ia fazer logo, Tom. Não consigo segurar isso por muito tempo — alertou [sani](npcs/individual/sani.md),  atrás dele já estavam Mack e Lincy.
 
 Quando Tom começou a preparar seu ataque mais poderoso, Vicente aumentou a potência do fogo que lançava contra eles e fez o escudo do homem de gelo derreter. Sem alternativa, Tom ergueu uma barreira de pedras para proteger o grupo, mas rapidamente a barreira começou a derreter sob o calor extremo, transformando-se em lava incandescente que os cercou.
 
@@ -22646,33 +22646,33 @@ Logo as chamas de Lincy começaram a superar as de Vicenti e quando ele notou qu
 
 Instantaneamente, seus uniformes de treino endureceram, paralisando-os no lugar diante do poder avassalador de Vicenti.
 
-Vicenti caminhava despreocupadamente em direção a Azeron, um sorriso de desprezo estampado em seu rosto. Seus passos eram confiantes, cada um ecoando na arena silenciosa, ninguém nas arquibancadas se atrevia a dar um pio esperando escutar o garoto iria dizer. No entanto, ele tropeçou na espada de treino que ele mesmo havia descartado minutos antes, forçando-o a parar abruptamente. Ele lançou um olhar irritado para a espada caída, e voltou a caminhar.
+Vicenti caminhava despreocupadamente em direção a [azeron](npcs/individual/azeron.md), um sorriso de desprezo estampado em seu rosto. Seus passos eram confiantes, cada um ecoando na arena silenciosa, ninguém nas arquibancadas se atrevia a dar um pio esperando escutar o garoto iria dizer. No entanto, ele tropeçou na espada de treino que ele mesmo havia descartado minutos antes, forçando-o a parar abruptamente. Ele lançou um olhar irritado para a espada caída, e voltou a caminhar.
 
-Azeron, por sua vez, lutava para se levantar. Seus músculos estavam exaustos, e sua visão um tanto turva. Quando finalmente conseguiu ficar de pé, notou que as magias que havia lançado sobre si mesmo estavam se dissipando, como um vapor etéreo que se esvaía no ar.
+[azeron](npcs/individual/azeron.md), por sua vez, lutava para se levantar. Seus músculos estavam exaustos, e sua visão um tanto turva. Quando finalmente conseguiu ficar de pé, notou que as magias que havia lançado sobre si mesmo estavam se dissipando, como um vapor etéreo que se esvaía no ar.
 
 — Isso é tudo? Já chegou ao seu limite? — Vicenti zombou, com sua voz cheia de desdém.
 
-Azeron olhou para suas mãos, percebendo que a perda de concentração havia feito suas magias se desvanecerem. Um sentimento de frustração e desespero tomou conta de seu ser, mas ele sabia que não podia desistir.
+[azeron](npcs/individual/azeron.md) olhou para suas mãos, percebendo que a perda de concentração havia feito suas magias se desvanecerem. Um sentimento de frustração e desespero tomou conta de seu ser, mas ele sabia que não podia desistir.
 
 — Já estou cansado dessa brincadeira infantil. Lance sua melhor magia. Eu espero — declarou Vicenti, cruzando os braços e adotando uma postura desafiadora.
 
-A arena parecia vibrar com a tensão entre os dois. O vento soprava suavemente, carregando o pó da destruição das magias anteriores. Azeron sentiu o peso do momento, cada batida de seu coração ecoando em seus ouvidos. Ele sabia que essa era sua última chance. Com um esforço final, concentrou todas as suas forças, seus olhos brilharam com uma determinação renovada. Ele começou a se concentrar em todas as pedras presentes no seu cajado novamente, o lampejo súbito fez o ar ao seu redor vibrar com o poder. As pedras sob seus pés começaram a tremer e pequenas faíscas de energia mágica surgiram ao seu redor, dançando como fogos-fátuos em um balé mortal.
+A arena parecia vibrar com a tensão entre os dois. O vento soprava suavemente, carregando o pó da destruição das magias anteriores. [azeron](npcs/individual/azeron.md) sentiu o peso do momento, cada batida de seu coração ecoando em seus ouvidos. Ele sabia que essa era sua última chance. Com um esforço final, concentrou todas as suas forças, seus olhos brilharam com uma determinação renovada. Ele começou a se concentrar em todas as pedras presentes no seu cajado novamente, o lampejo súbito fez o ar ao seu redor vibrar com o poder. As pedras sob seus pés começaram a tremer e pequenas faíscas de energia mágica surgiram ao seu redor, dançando como fogos-fátuos em um balé mortal.
 
-Vicenti observava confiante, acreditando que nada que Azeron pudesse fazer seria suficiente para desafiá-lo.
+Vicenti observava confiante, acreditando que nada que [azeron](npcs/individual/azeron.md) pudesse fazer seria suficiente para desafiá-lo.
 
 \*\*\*
 
 # 11
 
-Azeron estava se recuperando do torpor causado pelos golpes devastadores que havia recebido há pouco tempo. Ele mal conseguia acreditar que havia perdido a concentração a ponto de não conseguir sustentar as magias que conjurara sobre si mesmo. Vicenti, com um sorriso desdenhoso, lançou seu desafio. A humilhação corroeu Azeron, que já havia utilizado seus ataques mais poderosos contra seu oponente sem sucesso. Agora, ele se via encurralado, com apenas uma opção restante: o raio de luz.
+[azeron](npcs/individual/azeron.md) estava se recuperando do torpor causado pelos golpes devastadores que havia recebido há pouco tempo. Ele mal conseguia acreditar que havia perdido a concentração a ponto de não conseguir sustentar as magias que conjurara sobre si mesmo. Vicenti, com um sorriso desdenhoso, lançou seu desafio. A humilhação corroeu [azeron](npcs/individual/azeron.md), que já havia utilizado seus ataques mais poderosos contra seu oponente sem sucesso. Agora, ele se via encurralado, com apenas uma opção restante: o raio de luz.
 
-O raio de luz branca, fino e de alta intensidade, era uma magia que Azeron usava como bisturi em suas cirurgias mágicas. Era uma técnica de precisão, não de poder bruto. No entanto, ele sempre se perguntara o que aconteceria se utilizasse essa magia em um oponente? Embora ele já tivesse testado o "bisturi laser" em objetos, a magia se dissipava rapidamente, mostrando-se fraca e limitada a poucos metros. Mas e se ele amplificasse essa energia centenas de vezes? O que aconteceria?
+O raio de luz branca, fino e de alta intensidade, era uma magia que [azeron](npcs/individual/azeron.md) usava como bisturi em suas cirurgias mágicas. Era uma técnica de precisão, não de poder bruto. No entanto, ele sempre se perguntara o que aconteceria se utilizasse essa magia em um oponente? Embora ele já tivesse testado o "bisturi laser" em objetos, a magia se dissipava rapidamente, mostrando-se fraca e limitada a poucos metros. Mas e se ele amplificasse essa energia centenas de vezes? O que aconteceria?
 
-— Você sabe que isso é suicídio, não é? — alertou Azeron, a voz carregada de preocupação e desafio.
+— Você sabe que isso é suicídio, não é? — alertou [azeron](npcs/individual/azeron.md), a voz carregada de preocupação e desafio.
 
 — Considerando seu retrospecto, tenho certeza de que você não vai me surpreender — respondeu Vicenti com um sorriso sarcástico.
 
-Azeron retribuiu o sorriso. Ele ergueu as mãos e um círculo mágico brilhou sob seus pés, crescendo em intensidade. Raios de luz emanavam de suas palmas, tecendo um feitiço de complexidade e poder imensos.
+[azeron](npcs/individual/azeron.md) retribuiu o sorriso. Ele ergueu as mãos e um círculo mágico brilhou sob seus pés, crescendo em intensidade. Raios de luz emanavam de suas palmas, tecendo um feitiço de complexidade e poder imensos.
 
 Vicenti continuou de braços cruzados, mas seus olhos agora mostravam um leve sinal de preocupação.
 
@@ -22680,7 +22680,7 @@ Ele apontou seu cajado em direção a Vicenti, se concentrou em não apenas cria
 
 Vicenti, por sua vez, viu o feixe de luz se aproximar com uma velocidade e intensidade que ele não esperava. Seus olhos se arregalaram por um momento, reconhecendo o perigo real e imediato que aquele ataque representava. Em um movimento desesperado, Vicenti conjurou não uma, mas três paredes de pedra à sua frente.
 
-O impacto foi imediato e devastador. O feixe de luz atingiu as três paredes com uma força avassaladora, deixando um buraco em cada camada em seu caminho. A magia de Azeron não perdeu sua intensidade e, ultrapassando as defesas improvisadas, atingiu Vicenti no ombro. Imediatamente as várias armaduras arcanas que ele havia conjurado sobre si mesmo se estilhacaram. Mesmo com seus reflexos sobrenaturais, Vicenti não conseguiu desviar completamente, e o feixe o acertou de raspão.
+O impacto foi imediato e devastador. O feixe de luz atingiu as três paredes com uma força avassaladora, deixando um buraco em cada camada em seu caminho. A magia de [azeron](npcs/individual/azeron.md) não perdeu sua intensidade e, ultrapassando as defesas improvisadas, atingiu Vicenti no ombro. Imediatamente as várias armaduras arcanas que ele havia conjurado sobre si mesmo se estilhacaram. Mesmo com seus reflexos sobrenaturais, Vicenti não conseguiu desviar completamente, e o feixe o acertou de raspão.
 
 O ombro de Vicenti foi instantaneamente queimado e perfurado pela luz intensa, arrancando um grito de dor que ecoou pela arena. Ele cambaleou para trás, o braço pendendo inutilmente ao seu lado. A expressão de arrogância desapareceu de seu rosto, substituída por uma máscara de dor e surpresa.
 

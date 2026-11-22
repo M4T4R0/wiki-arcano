@@ -102,7 +102,7 @@ Situado próximo à Floresta Proibida, o terreno reflete o poder arcano.
 
 * **Caminho Oculto:** **Túneis da Rilícia / Passagens das Catacumbas.** Rotas para atos ilícitos que são **Confusas para Navegar** e **Preenchidas por Fumaça/Umidade**.
 
-O Fundador de Jurubatiba foi o Arquimago do Imperador Áureo I, Dragnovith Uller, quando lhe foi perguntado onde ele preferia suas terras, ele não teve dúvida, ele queria ficar perto da Floresta Proíbida onde os míticos Abaré (Elfos) viviam. Chegando no local Dragnovith não criou um castelo mas sim uma Torre , a torre do Mago, a maior construção de Airy, dizem que o mago construiu a sua torre com a pedras mágicas retiradas das montanhas Atã, por isso conseguiu criar uma torre com mais de um quilômetro de de altura.
+O Fundador de Jurubatiba foi o Arquimago do Imperador [áureo i](../npcs/individual/aureo-i-fundador.md), [dragnovith uller](../npcs/individual/dragnovith-uller-arquimago-imperial.md), quando lhe foi perguntado onde ele preferia suas terras, ele não teve dúvida, ele queria ficar perto da Floresta Proíbida onde os míticos Abaré (Elfos) viviam. Chegando no local Dragnovith não criou um castelo mas sim uma Torre , a torre do Mago, a maior construção de Airy, dizem que o mago construiu a sua torre com a pedras mágicas retiradas das montanhas Atã, por isso conseguiu criar uma torre com mais de um quilômetro de de altura.
 
 Quando Dragnovith ocupou suas terras não era eu objetivo criar uma cidade, mas foi inevitável, com o tempo pessoas foram criando casas sobre a proteção do Arquimago do Imperador e vários pretensos aprendizes para Dragnovith surgiram. Tanto que o mago optou por criar a primeira escola de magia de Airy, A Academia Imperial de Magia situada na sua torre mesmo, em pouco tempo sua escola se tornou muito famosa e tinha centenas de aprendizes e professores que o mago convocou de todo o mundo.
 
@@ -118,7 +118,7 @@ Qualquer vantagem mágica para você custa 1 Ponto a menos, OU torna seu persona
 
 Estudioso (+1 Ponto)
 
-Você recebe \+1 em todos os testes de perícia para aprender ou identificar uma magia ou um objeto mágico. E você gasta 1 PE para cada 2 magias novas que aprender.
+Você recebe \+1 em todos os testes de perícia para aprender ou identificar uma magia ou um objeto mágico. E você gasta 1 PE para cada 2 [magias](../factions/magias.md) novas que aprender.
 
 Patrono: Jurubatiba
 
@@ -130,11 +130,11 @@ Eu Fiz Isso?: seu Patrono conjurou sobre você (ou alguém de seu grupo) um efei
 
 Academia Imperial de Magia de Jurubatiba
 
-Escola de Magia de Kisé, filhos de nobres frequentam essa escola para se tornar magos, alguns "plebeus bem relacionados" ou excepcionalmente talentosos podem se tornar bolsistas.
+Escola de Magia de [kisé](../factions/reinos/kise.md), filhos de nobres frequentam essa escola para se tornar magos, alguns "plebeus bem relacionados" ou excepcionalmente talentosos podem se tornar bolsistas.
 
 Essa escola é considerada a melhor Escola de formação de Utilizadores de Magia do Mundo tem mais de 1000 alunos e dezenas de professores. Supera inclusive a escola de Ypy a Capital do reino (Bom talvez não em tamanho).
 
-O Diretor da Escola é nada menos que o Gnomo Graffiacane um dos magos mais poderosos de Airy, sendo comparado até aos Arquimagos Abaquar de Araxá em poder mágico e conhecimento.
+O Diretor da Escola é nada menos que o Gnomo Graffiacane um dos magos mais poderosos de Airy, sendo comparado até aos Arquimagos Abaquar de [araxá](../factions/reinos/araxa.md) em poder mágico e conhecimento.
 
 Graffiacane Arquimago e diretor da Academia Imperial de Magia de Jurubatiba
 
@@ -145,41 +145,41 @@ A escola é muito concorrida e alunos de todo o mundo (que possam pagar é claro
 
 **Yasmim**
 
-Yasmim é uma das amigas mais próximas de Azeron, descrita como uma menina de cabelos negros, lábios grossos e olhos claros. Ela tinha grande talento, mas não queria seguir carreira médica, optando por Agromagia. Ela era frequentemente explorada por colegas de classe, que a forçavam a fazer trabalhos de escola. Yasmim era leal a Azeron, ajudando-o a montar um laboratório clandestino para tentar remover seu braço mecânico e olho de dragão. Ela também usava suas habilidades de medimaga para prestar assistência médica gratuita na periferia de Carnago. Tragicamente, ela foi assassinada pela Guilda Rilícia por tentar proteger a filha de um homem endividado.
+Yasmim é uma das amigas mais próximas de [azeron](../npcs/individual/azeron.md), descrita como uma menina de cabelos negros, lábios grossos e olhos claros. Ela tinha grande talento, mas não queria seguir carreira médica, optando por Agromagia. Ela era frequentemente explorada por colegas de classe, que a forçavam a fazer trabalhos de escola. Yasmim era leal a [azeron](../npcs/individual/azeron.md), ajudando-o a montar um laboratório clandestino para tentar remover seu braço mecânico e olho de dragão. Ela também usava suas habilidades de medimaga para prestar assistência médica gratuita na periferia de Carnago. Tragicamente, ela foi assassinada pela Guilda Rilícia por tentar proteger a filha de um homem endividado.
 
 **Mack**
 
-Mack é um dos poucos garotos pobres na escola e Mago Alquimista, que se especializou em Farmácia com o objetivo de criar remédios para sua comunidade. Ele é o melhor amigo de Azeron, demonstrando grande talento, sendo o único a notar que a garçonete Meri era uma "Intocável". Mack é o cérebro da equipe, fornecendo informações valiosas sobre os adversários e ajudando Azeron a consertar e aprimorar seu Mecanar. Ele se dedicou a pesquisar a condição draconiana de Azeron e seus poderes, sendo o único a não recuar com medo da transformação. Ele foi fundamental para orquestrar a fuga de Azeron da cripta.
+Mack é um dos poucos garotos pobres na escola e Mago Alquimista, que se especializou em Farmácia com o objetivo de criar remédios para sua comunidade. Ele é o melhor amigo de [azeron](../npcs/individual/azeron.md), demonstrando grande talento, sendo o único a notar que a garçonete [meri](../npcs/individual/meri.md) era uma "Intocável". Mack é o cérebro da equipe, fornecendo informações valiosas sobre os adversários e ajudando [azeron](../npcs/individual/azeron.md) a consertar e aprimorar seu Mecanar. Ele se dedicou a pesquisar a condição draconiana de [azeron](../npcs/individual/azeron.md) e seus poderes, sendo o único a não recuar com medo da transformação. Ele foi fundamental para orquestrar a fuga de [azeron](../npcs/individual/azeron.md) da cripta.
 
 **Tom**
 
-Tom é o brincalhão do grupo, conhecido por sua forma irreverente e por suas "piadas sem graça". Ele é um Mago Físico talentoso, especializado em Construção Mágica, e foi o campeão dos jogos da escola com o Time do Drago. Tom é caracterizado por sua coragem e ideias malucas, como quando ele quebrou o padrão de humilhação de Elvira na festa. Ele é um amigo extremamente leal a Azeron, demonstrando otimismo mesmo nas piores situações, e esteve presente no plano de fuga final.
+Tom é o brincalhão do grupo, conhecido por sua forma irreverente e por suas "piadas sem graça". Ele é um Mago Físico talentoso, especializado em Construção Mágica, e foi o campeão dos jogos da escola com o Time do Drago. Tom é caracterizado por sua coragem e ideias malucas, como quando ele quebrou o padrão de humilhação de Elvira na festa. Ele é um amigo extremamente leal a [azeron](../npcs/individual/azeron.md), demonstrando otimismo mesmo nas piores situações, e esteve presente no plano de fuga final.
 
 **Lincy**
 
-Lincy é a namorada de Sani, ruiva com olhos pintados de negro e lábios grossos, com um olhar intimidador. Ela é especialista em Termomancia, usando muito fogo e calor em seus ataques, e escolheu a Magia Culinária. Lincy tem uma personalidade forte e selvagem, gostando de estar no comando. Embora namorasse Sani, ela beijou Azeron durante uma festa, o que gerou grande tensão. Ela demonstrou profunda lealdade a Azeron, chorando copiosamente após sua fuga e dedicando-lhe um afetuoso "Adeus bobinha".
+Lincy é a namorada de [sani](../npcs/individual/sani.md), ruiva com olhos pintados de negro e lábios grossos, com um olhar intimidador. Ela é especialista em Termomancia, usando muito fogo e calor em seus ataques, e escolheu a Magia Culinária. Lincy tem uma personalidade forte e selvagem, gostando de estar no comando. Embora namorasse [sani](../npcs/individual/sani.md), ela beijou [azeron](../npcs/individual/azeron.md) durante uma festa, o que gerou grande tensão. Ela demonstrou profunda lealdade a [azeron](../npcs/individual/azeron.md), chorando copiosamente após sua fuga e dedicando-lhe um afetuoso "Adeus bobinha".
 
 **Darius**
 
-Darius é um Arcano Imperial, mestre de Talon, descrito como um homem negro, alto, de porte militar e semblante austero. Seu codinome anterior era Arcano da Destruição, e ele é o líder da Ordem dos Arcanos Imperiais. Darius liderou a operação na cripta de Hardenvul, tentando parar Gorgo e Mordigueiro/Capelobo. Ele usou a magia proibida "Chaga Furor do Coração" em si mesmo, Talon e Vicenti para ganhar poder, mas foi gravemente ferido por Gorgo. Ele deu a Azeron uma chance de redenção, pedindo que o ajudasse a enfrentar Gorgo, mesmo sabendo que Azeron seria condenado por seus crimes.
+Darius é um Arcano Imperial, mestre de Talon, descrito como um homem negro, alto, de porte militar e semblante austero. Seu codinome anterior era Arcano da Destruição, e ele é o líder da Ordem dos Arcanos Imperiais. Darius liderou a operação na cripta de Hardenvul, tentando parar Gorgo e [mordigueiro](../npcs/individual/mordigueiro.md)/[capelobo](../npcs/individual/capelobo.md). Ele usou a magia proibida "Chaga Furor do Coração" em si mesmo, Talon e Vicenti para ganhar poder, mas foi gravemente ferido por Gorgo. Ele deu a [azeron](../npcs/individual/azeron.md) uma chance de redenção, pedindo que o ajudasse a enfrentar Gorgo, mesmo sabendo que [azeron](../npcs/individual/azeron.md) seria condenado por seus crimes.
 
 **Talon**
 
-Talon é o aprendiz de Darius, um Noviço de Arcano Imperial, que usa óculos estranhos com várias lentes coloridas sobrepostas. Ele é responsável por medir o nível de poder mágico (Escala Lor) e tem uma mente clínica e científica. Talon estava presente na investigação em Adremalech e na batalha na cripta. Apesar de seu dever de seguir a lei imperial, a lealdade a Darius e o reconhecimento do sacrifício de Azeron o levaram a permitir que o jovem mago fugisse, assumindo a culpa por sua evasão.
+Talon é o aprendiz de Darius, um Noviço de Arcano Imperial, que usa óculos estranhos com várias lentes coloridas sobrepostas. Ele é responsável por medir o nível de poder mágico (Escala Lor) e tem uma mente clínica e científica. Talon estava presente na investigação em Adremalech e na batalha na cripta. Apesar de seu dever de seguir a lei imperial, a lealdade a Darius e o reconhecimento do sacrifício de [azeron](../npcs/individual/azeron.md) o levaram a permitir que o jovem mago fugisse, assumindo a culpa por sua evasão.
 
 **Vicenti Vega**
 
-Vicenti Vega é um estudante transferido da capital, alto e forte, especializado em magias de destruição. Ele nutre uma rivalidade com Azeron e foi expulso da escola por quase tê-lo matado na arena. Vicenti ambiciona se tornar um Noviço de Arcano Imperial e acompanhou Darius e Talon em sua missão em Adremalech. Na cripta, ele recebeu a "Chaga Furor do Coração" e lutou ao lado de Talon contra o Capelobo. Apesar de sua rivalidade, ele se juntou a Azeron e Darius na missão de deter Gorgo, mas após a fuga de Azeron, ele o condenou veementemente, afirmando que ele deveria pagar por seus crimes.
+Vicenti Vega é um estudante transferido da capital, alto e forte, especializado em [magias](../factions/magias.md) de destruição. Ele nutre uma rivalidade com [azeron](../npcs/individual/azeron.md) e foi expulso da escola por quase tê-lo matado na arena. Vicenti ambiciona se tornar um Noviço de Arcano Imperial e acompanhou Darius e Talon em sua missão em Adremalech. Na cripta, ele recebeu a "Chaga Furor do Coração" e lutou ao lado de Talon contra o [capelobo](../npcs/individual/capelobo.md). Apesar de sua rivalidade, ele se juntou a [azeron](../npcs/individual/azeron.md) e Darius na missão de deter Gorgo, mas após a fuga de [azeron](../npcs/individual/azeron.md), ele o condenou veementemente, afirmando que ele deveria pagar por seus crimes.
 
 **Professora Mirtha Calvess**
 
-Mirtha Calvess é a Docente Sênior de Controle Mágico, que votou contra a promoção de Azeron a Magister por sentir "algo obscuro" nele e uma "pressa perigosa". Ela se mostrou curiosa e discreta ao questionar Azeron sobre seu acidente, sendo a escolha mais sensata para o garoto buscar respostas sobre o transplante de olho.
+Mirtha Calvess é a Docente Sênior de Controle Mágico, que votou contra a promoção de [azeron](../npcs/individual/azeron.md) a Magister por sentir "algo obscuro" nele e uma "pressa perigosa". Ela se mostrou curiosa e discreta ao questionar [azeron](../npcs/individual/azeron.md) sobre seu acidente, sendo a escolha mais sensata para o garoto buscar respostas sobre o transplante de olho.
 
 **Professor Fonseca**
 
-Fonseca é o renomado Professor Sênior de Medimagia, que votou a favor da promoção de Azeron a Magister. Ele é descrito como meticuloso e inquisitivo, e Azeron o evitou para que ele não descobrisse a verdade sobre seu olho e braço transplantados.
+Fonseca é o renomado Professor Sênior de Medimagia, que votou a favor da promoção de [azeron](../npcs/individual/azeron.md) a Magister. Ele é descrito como meticuloso e inquisitivo, e [azeron](../npcs/individual/azeron.md) o evitou para que ele não descobrisse a verdade sobre seu olho e braço transplantados.
 
-Lecionava a aula de cirurgia mágica e que supervisionou a tarefa de Azeron com o microraptor. Ele aparentava ter seus quarenta anos e com os primeiros cabelos começando a branquear. Ele ficou surpreso por Azeron ter terminado uma tarefa que levaria três aulas em pouco tempo.
+Lecionava a aula de cirurgia mágica e que supervisionou a tarefa de [azeron](../npcs/individual/azeron.md) com o microraptor. Ele aparentava ter seus quarenta anos e com os primeiros cabelos começando a branquear. Ele ficou surpreso por [azeron](../npcs/individual/azeron.md) ter terminado uma tarefa que levaria três aulas em pouco tempo.
 
 **Facções**
 
@@ -324,11 +324,11 @@ Pode-se imaginar Jurubatiba como uma fortaleza mágica e resplandecente, como um
 
 ## 📜 História e Menções no Livro
 
-> **\- 5 anos:** Jurubatiba é fundada pelo Arquimago do exército de Áureo I, Dragnovith Uller, no mesmo ano Kaluana é fundada pelo comandante da Cavalaria de Áureo I, Huck Hor.
+> **\- 5 anos:** Jurubatiba é fundada pelo Arquimago do exército de [áureo i](../npcs/individual/aureo-i-fundador.md), [dragnovith uller](../npcs/individual/dragnovith-uller-arquimago-imperial.md), no mesmo ano [kaluana](../factions/reinos/kaluana.md) é fundada pelo comandante da Cavalaria de [áureo i](../npcs/individual/aureo-i-fundador.md), [huck hor](../npcs/individual/huck-hor.md).
 
 > Embora geralmente sejam bem recebidos em cidades humanas, a presença de meio-elfos em cidades élficas costuma ser menos bem-vinda. Contudo, em Jurubatiba, onde a convivência entre elfos e humanos é mais habitual, meio-elfos constituem uma comunidade substancial, ocupando um bairro inteiro, encontrando conforto e compreensão mútua. Para eles, a companhia de outros meio-elfos oferece um raro entendimento sobre os desafios e as belezas de viver entre dois mundos.
 
-> Neste mesmo ano, os políticos de cada localidade do império se reuniram e em um ano de muita politicagem, “encontraram” um garoto estranhamente parecido com Áureo I, Arthur Áureo, um suposto filho bastardo desconhecido de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md), que era totalmente aliado da classe política do império. Com anos Arthur iniciou uma campanha militar que durou toda a sua vida contra uma horda de orcs da [terra selvagem](../factions/reinos/terra-selvagem.md). Nesta campanha sua notoriedade como líder militar foi confirmada e ele ficou muito conhecido por ...
+> Neste mesmo ano, os políticos de cada localidade do império se reuniram e em um ano de muita politicagem, “encontraram” um garoto estranhamente parecido com [áureo i](../npcs/individual/aureo-i-fundador.md), [arthur áureo](../npcs/individual/arthur-áureo-general-imperador.md), um suposto filho bastardo desconhecido de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md), que era totalmente aliado da classe política do império. Com anos Arthur iniciou uma campanha militar que durou toda a sua vida contra uma horda de orcs da [terra selvagem](../factions/reinos/terra-selvagem.md). Nesta campanha sua notoriedade como líder militar foi confirmada e ele ficou muito conhecido por ...
 
 > Nos anos anteriores a 1014, [ypiturui](../factions/reinos/ypiturui.md) procurava um motivo para se rebelar contra Ypy, por considerar que a capital não representava mais os valores do império, e por considerar o imperador indigno devido aos rumores de que ele seria um clone recriado por magia à séculos e apenas um fantoche do governo da capital. O estopim para [ypiturui](../factions/reinos/ypiturui.md) se rebelar foi quando o príncipe Áureo XV, futuro imperador (e talvez o clone número 15 do Áureo I), tem um caso com Selphie Kull, princesa de [kisé](../factions/reinos/kise.md) prometida em c...
 

@@ -16,7 +16,7 @@ Os melhores Guerreiros do Império podem ser encontrados aqui, e também as melh
 
 **Capital:** Cidade Estado Ypiturui
 
-**Regente:** Rei Mictian Guerra
+**Regente:** Rei [mictian](../npcs/individual/rei-mictian-auçá.md) Guerra
 
 **Fundação:** Ano \-11
 
@@ -46,7 +46,7 @@ O poder em Ypiturui é centralizado na linhagem de generais e em ordens especial
 
 * **A Casa Guerra (Realeza):**
 
-  * **Tipo/Agente:** **Governantes / Lorde (Rei Mictian Guerra)**.
+  * **Tipo/Agente:** **Governantes / Lorde (Rei [mictian](../npcs/individual/rei-mictian-auçá.md) Guerra)**.
 
   * **Traços:** **Disciplinado** e **Tenaz**. Seguem o sangue guerreiro do fundador Nergal Guerra, mantendo o controle total sobre o Condestável e as forças armadas.
 
@@ -60,7 +60,7 @@ O poder em Ypiturui é centralizado na linhagem de generais e em ordens especial
 
   * **Agenda:** **Expurgar a Terra**.
 
-* **A Guarda Açã:**
+* **A [guarda açã](../npcs/individual/guarda-açã.md):**
 
   * **Tipo/Agente:** **Militares / Guarda (Condenados)**.
 
@@ -84,7 +84,7 @@ Distribuídos conforme a Tabela de PDIs do guia:
 
 * **Coração (H):** **Cidade-Estado de Ypiturui.** Um assentamento que funciona como **Baluarte** administrativo e industrial.
 
-* **Entreposto:** **Os Fortes da Muralha.** Três fortificações (como o Forte da Ponte) que servem de **Torre de Vigia** e quartéis para a Guarda Açã.
+* **Entreposto:** **Os Fortes da Muralha.** Três fortificações (como o Forte da Ponte) que servem de **Torre de Vigia** e quartéis para a [guarda açã](../npcs/individual/guarda-açã.md).
 
 * **Masmorra:** **Borda da Área da Infestação.** Um local **Tóxico** e **Deturpado**, onde portais para outros planos surgem aleatoriamente.
 
@@ -100,7 +100,7 @@ As rotas de Ypiturui são estritamente controladas e perigosas fora das áreas f
 
 * **Caminho Oculto:** **Trilhas de Caça Yaotzin**, rotas secretas usadas para incursões na Área da Infestação, frequentemente **Confusas para Navegar** e **Preenchidas por Fumaça**.
 
-O Fundador de Ypiturui foi Nergal Guerra, o principal General de Áureo I e seu mais leal seguidor, e o povo de sua terra também tem esse sangue guerreiro, tanto que o exército Auçá parou de avançar quando chegou nas terras  de Ypiturui, isso dá muito prestígio ao reino como sendo o mais competente na guerra contra os Auçá e o única barreira capaz de  mantê-los longe.
+O Fundador de Ypiturui foi Nergal Guerra, o principal General de [áureo i](../npcs/individual/aureo-i-fundador.md) e seu mais leal seguidor, e o povo de sua terra também tem esse sangue guerreiro, tanto que o exército Auçá parou de avançar quando chegou nas terras  de Ypiturui, isso dá muito prestígio ao reino como sendo o mais competente na guerra contra [os auçá](../races/individual/os-auçá-1-ponto.md) e o única barreira capaz de  mantê-los longe.
 
 Ypiturui também é o reino mais assolado pelos males da Área Infestada, todos os monstros que vem para o império primeiro passam pelo reino, logo q a área surgiu a população do reino quase foi extinta, mas loco o povo de adaptou e hoje em dia os monstros são caçados por grupos especialmente treinados para isso nos arredores da Área Infestada, com isso novamente o orgulhoso reino se julga responsável pela segurança de todo o império divulgando nos meios de comunicação os números de monstros que impedem de aterrorizar império.
 
@@ -118,13 +118,13 @@ Em Ypiturui a tradição militar é extremamente importante, cada criança, desd
 
 **A grande Muralha**
 
-Ypiturui é o reino pais próximo a Área Infestada, e para manter os monstros e criaturas oriundas de outros planos que saem de lá foi construída a Grande Muralha com mais de 1500 quilômetros de extensão, e mais de 100 metros de altura, ela mantém as inúmeras criaturas que  estão no local lá dentro. e para tal no lado de Ypiturui foram construídos 3 fortes com cada um com uma guarnição de 500 guardas que patrulham constantemente do topo da muralha e são encarregados de manter essas criaturas lá dentro e se chamam Guarda Açã (Guarda dos Gritos) e  Guilda Yaotzin .
+Ypiturui é o reino pais próximo a Área Infestada, e para manter os monstros e criaturas oriundas de outros planos que saem de lá foi construída a Grande Muralha com mais de 1500 quilômetros de extensão, e mais de 100 metros de altura, ela mantém as inúmeras criaturas que  estão no local lá dentro. e para tal no lado de Ypiturui foram construídos 3 fortes com cada um com uma guarnição de 500 guardas que patrulham constantemente do topo da muralha e são encarregados de manter essas criaturas lá dentro e se chamam [guarda açã](../npcs/individual/guarda-açã.md) (Guarda dos Gritos) e  Guilda Yaotzin .
 
 Mas não é somente a barreira física do local que impede esses monstros de saírem de lá. Sabe-se que os Arcanos Imperiais a muito tempo criaram barreiras místicas que impedem as criaturas de transpor a barreira, e pelo menos 1 Arcano Imperial em cada guarnição é encarregado de avisar a ordem se algo poderoso demais está tentando escapar do lugar.
 
 A guarnição da muralha, apesar de estar no reino de Ypiturui é internacional seus integrantes durante seu tempo de vigília juram neutralidade em quaisquer questões políticas, e onde um Oficial não fica mais do que um ano montando guarda no local devido às altas chances de enlouquecer devido a proximidade com tal poder sombrio. É uma tradição informal em Ypiturui que um cidadão do reino sirva como guarda na muralha pelo menos uma vez na vida para estar ciente dos perigos que o mundo corre caso a muralha caia. Mas o grosso dos soldados montando guarda nos fortes são prisioneiros sentenciados à morte que optam em ir para lá ao invés de serem executados, a maioria deles enlouquece em poucos anos de servidão e alguns consideram isso pior do que a morte.
 
-A muralha é dividida entre o lado imperial e o lado Auçá, que possui 5 fortes no seu lado da muralha. Há até uma divisão física no topo da muralha para delimitar a parte Imperial e Auçá. Mas mesmo assim essa divisão é apenas simbólica, pois várias vezes todas as guarnições tiveram de cooperar para defender um ponto específico da muralha. A Grande Muralha é um dos poucos locais onde pode-se encontrar os Auçá e os Aba cooperando juntos.
+A muralha é dividida entre o lado imperial e o lado Auçá, que possui 5 fortes no seu lado da muralha. Há até uma divisão física no topo da muralha para delimitar a parte Imperial e Auçá. Mas mesmo assim essa divisão é apenas simbólica, pois várias vezes todas as guarnições tiveram de cooperar para defender um ponto específico da muralha. A Grande Muralha é um dos poucos locais onde pode-se encontrar [os auçá](../races/individual/os-auçá-1-ponto.md) e os Aba cooperando juntos.
 
 Mestre Armeiro (Ypiturui)
 
@@ -150,7 +150,7 @@ Conterrâneo (+1 ponto)
 
 Ypiturui passa a ser sua Arena e, com o acréscimo de \+1 PM por turno, você poderá invocá-la em qualquer lugar que quiser\!
 
-| CALENDÁRIO CALENDÁRIO IMPERIAL: Um ano em Airy tem 358 dias, esse é o tempo que os astrônomos, de Moacuba determinaram que o único sol de Airy demora para fazer os seu ciclo e com ele mudar o mundo, através das estações do ano. Este calendário foi instituído próximo do ano 115 após os reinos serem fundados. Com o estudo das Fazes da lua e o ciclo do sol os astrônomos criaram 12 meses em Airy, em homenagem aos heróis da criação do império foi dado a cada mês o nome dos Heróis de Guerra. Os meses definidos foram: Araúti (janeiro), Potykuã (Fevereiro), Pindorã (Março), Tupanera (Abril), Ybytyra (Maio), Iporanga (Junho), Kaaporu (Julho), Karumã (Agosto), Pyatãra (Setembro), Guaricé (Outubro), Pyrangara (Novembro), Porã: (Dezembro). Aqui estão 12 nomes de meses criados com base em palavras do idioma Tupi-Guarani, inspirando-se em elementos da natureza e da cultura indígena: Araúti: Mês dos ventos (ara: céu, uti: vento) remetendo ao início do ano e à chegada de novas energias. Potykuã: Mês das flores (poty: flor, kuã: época) simbolizando renovação e o florescer de novas ideias. Pindorã: Mês das árvores (pindó: árvore, rã: semelhante a) época que marca o final do verão e a preparação para a mudança de estação. Tupanera: Mês do trovão (tupan: trovão, era: tempo) associado ao período de chuvas fortes e trovoadas em algumas regiões. Ybytyra: Mês das montanhas (ybyty: montanha, ra: lugar de) evocando a sensação de estabilidade e o início do outono. Iporanga: Mês das águas bonitas (iporã: bonito, gûa: água) celebrando a clareza e tranquilidade, possivelmente ligadas ao início do inverno. Kaaporu: Mês das matas densas (kaa: mato, poru: denso) associando-se ao inverno e à ideia de quietude e recolhimento. Karumã: Mês da fertilidade (karu: alimento, mã: época) evocando a preparação da terra e a chegada de novos ciclos. Pyatãra: Mês do fogo forte (pyatã: fogo, ra: tempo de) ligado ao calor do final do inverno e à chegada da primavera. Guaricé: Mês dos frutos (guari: fruta, ce: grande) celebrando a plenitude da primavera e a abundância da natureza. Pyrangara: Mês da luz vermelha (pyranga: vermelho, ra: luz) associado às cores vibrantes do final da primavera e início do verão. Porã: Mês da beleza (porã: bonito, beleza) simbolizando a beleza harmonia e a positividade, encerrando o ano com a energia renovada.  AS ESTAÇÕES DO ANO Araúti – Janeiro: Verão Potykuã – Fevereiro: Verão Pindorã – Março: Verão/Início do Outono Tupanera – Abril: Outono Ybytyra – Maio: Outono Iporanga – Junho: Inverno Kaaporu – Julho: Inverno Karumã – Agosto: Inverno Pyatãra – Setembro: Inverno/Início da Primavera Guaricé – Outubro: Primavera Pyrangara – Novembro: Primavera/Início do Verão Porã – Dezembro: Verão OS SIGNOS Em Aiy há 12 constelações mais conhecidas que dão nome aos signos. Cada constelação rege um ano e quem nasce nesse ano é desse signo, no momento é o ano do Pégaso, ano que vem será o ano da Hidra. HIDRA: Ano 957, Ano 969, Ano 981, Ano 993... GRIFO: Ano 958, Ano 970, Ano 982, Ano 994... DRAGÃO: Ano 959, Ano 971, Ano 983, Ano 995... LOBO: Ano 960, Ano 972, Ano 984, Ano 996... LEÃO: Ano 961, Ano 973, Ano 985, Ano 997... ENTE: Ano 962, Ano 974, Ano 986, Ano 998... KRAKEN: Ano 963, Ano 975, Ano 987, Ano 999... MEDUSA: Ano 964, Ano 976, Ano 988, Ano 1000... GORILA: Ano 965, Ano 977, Ano 989, Ano 1001... HARPIA: Ano 966, Ano 978, Ano 990, Ano 1002... BASILISCO: Ano 967, Ano 979, Ano 991, Ano 1003... PÉGASO: Ano 968, Ano 980, Ano 992, Ano 1004... |
+| CALENDÁRIO CALENDÁRIO IMPERIAL: Um ano em Airy tem 358 dias, esse é o tempo que os astrônomos, de [moacuba](../factions/reinos/moacuba.md) determinaram que o único sol de Airy demora para fazer os seu ciclo e com ele mudar o mundo, através das estações do ano. Este calendário foi instituído próximo do ano 115 após os reinos serem fundados. Com o estudo das Fazes da lua e o ciclo do sol os astrônomos criaram 12 meses em Airy, em homenagem aos heróis da criação do império foi dado a cada mês o nome dos Heróis de Guerra. Os meses definidos foram: Araúti (janeiro), Potykuã (Fevereiro), Pindorã (Março), Tupanera (Abril), Ybytyra (Maio), Iporanga (Junho), Kaaporu (Julho), Karumã (Agosto), Pyatãra (Setembro), Guaricé (Outubro), Pyrangara (Novembro), Porã: (Dezembro). Aqui estão 12 nomes de meses criados com base em palavras do idioma Tupi-Guarani, inspirando-se em elementos da natureza e da cultura indígena: Araúti: Mês dos ventos (ara: céu, uti: vento) remetendo ao início do ano e à chegada de novas energias. Potykuã: Mês das flores (poty: flor, kuã: época) simbolizando renovação e o florescer de novas ideias. Pindorã: Mês das árvores (pindó: árvore, rã: semelhante a) época que marca o final do verão e a preparação para a mudança de estação. Tupanera: Mês do trovão (tupan: trovão, era: tempo) associado ao período de chuvas fortes e trovoadas em algumas regiões. Ybytyra: Mês das montanhas (ybyty: montanha, ra: lugar de) evocando a sensação de estabilidade e o início do outono. Iporanga: Mês das águas bonitas (iporã: bonito, gûa: água) celebrando a clareza e tranquilidade, possivelmente ligadas ao início do inverno. Kaaporu: Mês das matas densas (kaa: mato, poru: denso) associando-se ao inverno e à ideia de quietude e recolhimento. Karumã: Mês da fertilidade (karu: alimento, mã: época) evocando a preparação da terra e a chegada de novos ciclos. Pyatãra: Mês do fogo forte (pyatã: fogo, ra: tempo de) ligado ao calor do final do inverno e à chegada da primavera. Guaricé: Mês dos frutos (guari: fruta, ce: grande) celebrando a plenitude da primavera e a abundância da natureza. Pyrangara: Mês da luz vermelha (pyranga: vermelho, ra: luz) associado às cores vibrantes do final da primavera e início do verão. Porã: Mês da beleza (porã: bonito, beleza) simbolizando a beleza harmonia e a positividade, encerrando o ano com a energia renovada.  AS ESTAÇÕES DO ANO Araúti – Janeiro: Verão Potykuã – Fevereiro: Verão Pindorã – Março: Verão/Início do Outono Tupanera – Abril: Outono Ybytyra – Maio: Outono Iporanga – Junho: Inverno Kaaporu – Julho: Inverno Karumã – Agosto: Inverno Pyatãra – Setembro: Inverno/Início da Primavera Guaricé – Outubro: Primavera Pyrangara – Novembro: Primavera/Início do Verão Porã – Dezembro: Verão OS SIGNOS Em Aiy há 12 constelações mais conhecidas que dão nome aos signos. Cada constelação rege um ano e quem nasce nesse ano é desse signo, no momento é o ano do Pégaso, ano que vem será o ano da Hidra. HIDRA: Ano 957, Ano 969, Ano 981, Ano 993... GRIFO: Ano 958, Ano 970, Ano 982, Ano 994... DRAGÃO: Ano 959, Ano 971, Ano 983, Ano 995... LOBO: Ano 960, Ano 972, Ano 984, Ano 996... LEÃO: Ano 961, Ano 973, Ano 985, Ano 997... ENTE: Ano 962, Ano 974, Ano 986, Ano 998... KRAKEN: Ano 963, Ano 975, Ano 987, Ano 999... MEDUSA: Ano 964, Ano 976, Ano 988, Ano 1000... GORILA: Ano 965, Ano 977, Ano 989, Ano 1001... HARPIA: Ano 966, Ano 978, Ano 990, Ano 1002... BASILISCO: Ano 967, Ano 979, Ano 991, Ano 1003... PÉGASO: Ano 968, Ano 980, Ano 992, Ano 1004... |
 |-------|
 
 **Facções**
@@ -210,7 +210,7 @@ A organização é dividida por mérito e experiência em combate sobrenatural:
 
 *A Guilda dos Yaotzin é a organização que é responsável por manter a Barreira da Área da Infestação em pé.* 
 
-A muito tempo no ano de 256 passados mais de um ano de estranhos acontecimentos no local da Batalha contra Misty As-La (Mal), surgi a Área Infestada  e os Mortos-Vivos e Mutações oriundos de lá começam a aterrorizar o mundo, o governo da Nação guerreira de Ypiturui criou uma força especial especializada em caçar esses monstros. Nas primeiras décadas a organização se mostrou um fracasso (tanto que o Governo Imperial Criou os Arcanos Imperiais), aparentemente a organização foi extinta, mas foi apenas um engodo do governo de Ypiturui que a tornou secreta.
+A muito tempo no ano de 256 passados mais de um ano de estranhos acontecimentos no local da Batalha contra [misty as-la](../npcs/individual/misty-as-la-arquimago.md) (Mal), surgi a Área Infestada  e os Mortos-Vivos e Mutações oriundos de lá começam a aterrorizar o mundo, o governo da Nação guerreira de Ypiturui criou uma força especial especializada em caçar esses monstros. Nas primeiras décadas a organização se mostrou um fracasso (tanto que o Governo Imperial Criou os Arcanos Imperiais), aparentemente a organização foi extinta, mas foi apenas um engodo do governo de Ypiturui que a tornou secreta.
 
 Secretamente os pesquisadores da organização procuraram indivíduos em todo o mundo com capacidade de se comunicar com espíritos, mortos-vivos e afins e começaram a treiná-los no combate contra as aberrações da Área Infestada. Após mais algumas décadas, a sede da Ordem foi transferida da Capital para a Grande Muralha que estava em construção, sempre mantida em segredo a ordem se tornou muito poderosa seus membros se tornaram muito bons no que fazem e seus pesquisadores (os mais antigos do mundo a estudarem a Área), desenvolveram uma série de técnicas especialmente desenvolvidas para enfrentar Mortos-Vivos, e daí surgiu uma classe de guerreiros especializados em Enfrentar as Aberrações da Área Infestada  os Yaotzin.
 
@@ -248,9 +248,9 @@ Yaotzin Secreto: seu Patrono conjurou sobre você (ou alguém de seu grupo) um e
 
 Canção da Batalha: um bardo surge e entoa uma Marcha de Batalha para você e seu grupo (Manual 3D\&T Alpha, pág. 102\) até o fim do combate com efeito mínimo, ou por dois turnos em efeito máximo.
 
-**Guarda Açã**
+**[guarda açã](../npcs/individual/guarda-açã.md)**
 
-A **Guarda Açã** (ou Guarda dos Gritos) é estruturada como uma facção militar de sacrifício, encarregada da defesa mais perigosa do mundo conhecido.
+A **[guarda açã](../npcs/individual/guarda-açã.md)** (ou Guarda dos Gritos) é estruturada como uma facção militar de sacrifício, encarregada da defesa mais perigosa do mundo conhecido.
 
 Abaixo está a determinação de sua configuração oficial:
 
@@ -269,7 +269,7 @@ Os traços refletem a natureza desesperada e violenta dos seus membros:
 
 **3\. Vantagens**
 
-A Guarda Açã possui vantagens derivadas de sua posição estratégica e composição:
+A [guarda açã](../npcs/individual/guarda-açã.md) possui vantagens derivadas de sua posição estratégica e composição:
 
 * **Posição:** Ocupam a **Grande Muralha de Ypiturui**, uma estrutura inexpugnável com mais de 100 metros de altura e 1500 quilômetros de extensão.  
 * **Membros:** Contam com um efetivo massivo de cerca de **500 guardas por forte** (totalizando 1.500 no lado imperial de Ypiturui).  
@@ -277,7 +277,7 @@ A Guarda Açã possui vantagens derivadas de sua posição estratégica e compos
 
 **4\. Agenda e Objetivos**
 
-A agenda central da Guarda Açã é **Defender Algo** (a barreira física entre a civilização e o caos).
+A agenda central da [guarda açã](../npcs/individual/guarda-açã.md) é **Defender Algo** (a barreira física entre a civilização e o caos).
 
 1. **Garantir a vigilância ininterrupta** do topo da muralha contra incursões da Infestação.  
 2. **Reter aberrações e criaturas** extraplanares (como Kaijus) que tentam transpor a barreira.  
@@ -287,7 +287,7 @@ A agenda central da Guarda Açã é **Defender Algo** (a barreira física entre 
 **5\. Obstáculos**
 
 * **Inimigo Poderoso:** Enfrentam hordas intermináveis de infestados mortos-vivos retorcidos e magos das trevas que buscam romper a "Cortina".  
-* **Muitos devem morrer:** A morte é o destino quase certo; ser enviado para a Guarda Açã é considerado uma das piores penitências do Império.  
+* **Muitos devem morrer:** A morte é o destino quase certo; ser enviado para a [guarda açã](../npcs/individual/guarda-açã.md) é considerado uma das piores penitências do Império.  
 * **Cisma Interno:** Existe um risco constante de **motins**, como o ocorrido em 325, quando prisioneiros da guarda se uniram a rebeldes para tomar Ypiturui.
 
 **6\. Características Adicionais (Efeito de Cenário)**

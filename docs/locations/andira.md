@@ -47,7 +47,7 @@ O poder em Andirá é exercido por especialistas que equilibram o progresso téc
 
 3**. Topografia e Marcos**
 
-O Mundo Interior é uma rede labiríntica de cavernas titânicas que corta todo o continente por baixo da superfície.
+O [mundo interior](../factions/mundo-interior.md) é uma rede labiríntica de cavernas titânicas que corta todo o continente por baixo da superfície.
 
 * **Terreno Dominante:** **Cavernas** (Perigoso) e **Montanhas** (Andirá situa-se em uma montanha que se estende para baixo).  
 * **Marcos (Landmarks):**  

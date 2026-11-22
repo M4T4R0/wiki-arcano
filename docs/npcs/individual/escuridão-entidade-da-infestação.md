@@ -75,7 +75,7 @@ Mesmo preso, Escuridão continua sendo considerado um dos mais poderosos guerrei
 
 ## 🎒 Equipamento e Itens Notáveis
 
-- **Grimório Pessoal**: Contém magias exclusivas; valor inestimável
+- **Grimório Pessoal**: Contém [magias](../../factions/magias.md) exclusivas; valor inestimável
 - **Foco Arcano (Cajado/Orbe)**: +1 PdF; reduz custo de PM de uma escola
 - **Armadura de Placas Mestra**: Armadura +3; sem penalidade de Movimento
 - **Arma de Família/Lendária**: Espada/Machado +2; propriedade única (ex: Acerto Crítico)

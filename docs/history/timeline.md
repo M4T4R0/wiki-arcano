@@ -1,6 +1,6 @@
 # **A ERA DO ESQUECIMENTO**
 
-Nenhum historiador do Império discorda sobre um ponto: os cem anos que separam a queda de Aslareth da ascensão de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) são os mais bem guardados segredos da história de Airy. O que diverge, e diverge com violência entre os poucos estudiosos que ainda ousam tocar no assunto, é o motivo.
+Nenhum historiador do Império discorda sobre um ponto: os cem anos que separam a queda de [aslareth](../factions/aslareth.md) da ascensão de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) são os mais bem guardados segredos da história de Airy. O que diverge, e diverge com violência entre os poucos estudiosos que ainda ousam tocar no assunto, é o motivo.
 
 A versão oficial, ensinada em cada escola do Culto Imperial, é simples e conveniente: foi uma época de barbárie, de fragmentação tribal, de guerra sem propósito entre senhores menores disputando os escombros de um reino que já não existia. Nada digno de registro, dizem os manuais. Nada que merecesse sobreviver à transição para uma era mais civilizada.
 
@@ -185,5 +185,5 @@ Após perder sua sexta esposa, Misty abandona o trono. Deixa o poder nas mãos d
 
 **\-100 anos — Era do Esquecimento**
 
-A partir daqui o Império censura a história e nada se sabe o que aconteceu até [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) derrubar o que sobrou de Aslareth e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
+A partir daqui o Império censura a história e nada se sabe o que aconteceu até [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) derrubar o que sobrou de [aslareth](../factions/aslareth.md) e fundar o Império como conhecemos hoje. Durante esses 100 anos somente informações aprovadas são divulgadas.
 

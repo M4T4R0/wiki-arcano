@@ -96,7 +96,7 @@ O terreno reflete a natureza defensiva e obscura do reino.
 
 * **Caminho Condicional:** **Passagens das Falésias.** Atalhos marítimos perigosos, frequentemente **Bloqueados por Portões** controlados pela marinha real.
 
-O imperador tinha um homem que era seu especialista em infiltração e inteligência, ele era Purpleskull Arc, um homem de passado duvidoso, e odiado por muitos como um ladrão. Purpleskull, nunca iria receber um título de Nobreza, mas através de meios obscuros  conseguiu isso. Quando construiu o seu castelo Purpleskull o fez no final de um labirinto contra o mar e a própria construção do castelo é caótica o suficiente, para que somente alguém que conheça muito bem o castelo possa transitar facilmente.
+O imperador tinha um homem que era seu especialista em infiltração e inteligência, ele era [purpleskull arc](../npcs/individual/purpleskull-arc-mestre-das-sombras.md), um homem de passado duvidoso, e odiado por muitos como um ladrão. Purpleskull, nunca iria receber um título de Nobreza, mas através de meios obscuros  conseguiu isso. Quando construiu o seu castelo Purpleskull o fez no final de um labirinto contra o mar e a própria construção do castelo é caótica o suficiente, para que somente alguém que conheça muito bem o castelo possa transitar facilmente.
 
 O Povo de Nambiquara sempre quer levar vantagem em relação a outras pessoas e são adeptos de sempre dar um jeitinho para tudo, não deu pra fazer alguma coisa, vamos dar um jeitinho, estragou algo, vamos dar um jeitinho, enfim um povo que sempre quer levar vantagem.
 
@@ -275,7 +275,7 @@ Uma teia clandestina que se espalha por Airy como fungo em madeira podre — sil
 
 *"Entrar na Rede das Trevas é receber uma chave que abre portas que você nem deveria saber que existem. Cada porta leva a um desejo que você nunca admitiu em voz alta. A maioria teme esse tipo de liberdade; prefere correntes, regras, muros — coisas que fingem proteger.*
 
-*A Rede dá ferramentas para atravessar reinos que fariam mentes comuns implodirem. É lá, no que os outros chamam de escuridão, que encontramos magia capaz de enfrentar criaturas que ignoram tempo, dor e misericórdia. Você pode não gostar dos métodos, mas quando algo sair do Abismo para devorar sua casa, vai agradecer que eu caminhei onde ninguém mais ousou."*
+*A Rede dá ferramentas para atravessar reinos que fariam mentes comuns implodirem. É lá, no que os outros chamam de [escuridão](../npcs/individual/escuridão-entidade-da-infestação.md), que encontramos magia capaz de enfrentar criaturas que ignoram tempo, dor e misericórdia. Você pode não gostar dos métodos, mas quando algo sair do Abismo para devorar sua casa, vai agradecer que eu caminhei onde ninguém mais ousou."*
 
 — Ianna Vharakel, agente veterana da Rede
 
@@ -369,7 +369,7 @@ Espadachim e ladina de reputação fulminante. É conhecida por assumir disfarce
 
  Acha ser um deus caído na terra , ignorando qualquer perigo, ou respeito pelos o que lhe cercam. Fará de tudo para retornar ao seu posto de Deus.. Realmente acredita na sua imortalidade e poder... Cabelos Loiro Claro , Olhos azuis , Roupa branca com detalhes vermelhos e dourado, Idade 22 anos Altura 1,73 , Usa um cordão com uma cruz. 
 
-No final da aventura se aliou a Vulcazar e está atualmente vagando pelo Mundo Interior a série de cavernas que existem abaixo de todo o continente. Phry-Dhon se aventura no submundo de Arcano , um lugar pouco explorado e cheio de perigos ...
+No final da aventura se aliou a [vulcazar](../npcs/individual/vulcazar.md) e está atualmente vagando pelo Mundo Interior a série de cavernas que existem abaixo de todo o continente. Phry-Dhon se aventura no submundo de Arcano , um lugar pouco explorado e cheio de perigos ...
 
 Em pouco tempo Phry-Dhon percebe ser um lugar cheio de monstros e muitos perigos .... Ele usa de todas suas habilidades e perícias para se manter vivo neste lugar . Foram tempos difíceis, manter-se sempre preparado para um ataque , poucas horas para o descanso , uma solidão grande.... Uma solidão que só fez aumentar a sua insanidade . A dúvida sobre seus poderes divinos , o pq de ninguém lembrar se dele , onde estão os outros deuses....
 
@@ -387,13 +387,13 @@ Depois desse longo período Phry-Dhon volta para superfície de Airy junto com s
 
 ## 📜 História e Menções no Livro
 
-> * **Nambiquara**, controlada por *Purpleskull Arc*, mestre das sombras, que teria vencido o domínio da cidade em uma aposta de cartas contra o próprio Áureo.
+> * **Nambiquara**, controlada por *[purpleskull arc](../npcs/individual/purpleskull-arc-mestre-das-sombras.md)*, mestre das sombras, que teria vencido o domínio da cidade em uma aposta de cartas contra o próprio Áureo.
 
-> **\- 7 anos:** Nambiquara é fundada pelo especialista em infiltração de Áureo I, Purpleskull Arc, dizem que ele “ganhou” o reino em uma aposta contra o Imperador.
+> **\- 7 anos:** Nambiquara é fundada pelo especialista em infiltração de [áureo i](../npcs/individual/aureo-i-fundador.md), [purpleskull arc](../npcs/individual/purpleskull-arc-mestre-das-sombras.md), dizem que ele “ganhou” o reino em uma aposta contra o Imperador.
 
-> > Boatos apontam que a **Casa Nambiquara**, aliada a cultistas vampíricos de Moacuba, está infiltrando impostores nas fileiras paladinas para desacreditar a fé e fomentar guerras religiosas.
+> > Boatos apontam que a **Casa Nambiquara**, aliada a cultistas vampíricos de [moacuba](../factions/reinos/moacuba.md), está infiltrando impostores nas fileiras paladinas para desacreditar a fé e fomentar guerras religiosas.
 
-> Nos anos anteriores a 1014, Ypiturui procurava um motivo para se rebelar contra Ypy, por considerar que a capital não representava mais os valores do império, e por considerar o imperador indigno devido aos rumores de que ele seria um clone recriado por magia à séculos e apenas um fantoche do governo da capital. O estopim para [ypiturui](../factions/reinos/ypiturui.md) se rebelar foi quando o príncipe Áureo XV, futuro imperador (e talvez o clone número 15 do Áureo I), tem um caso com Selphie Kull, princesa de [kisé](../factions/reinos/kise.md) prometida em c...
+> Nos anos anteriores a 1014, [ypiturui](../factions/reinos/ypiturui.md) procurava um motivo para se rebelar contra Ypy, por considerar que a capital não representava mais os valores do império, e por considerar o imperador indigno devido aos rumores de que ele seria um clone recriado por magia à séculos e apenas um fantoche do governo da capital. O estopim para [ypiturui](../factions/reinos/ypiturui.md) se rebelar foi quando o príncipe Áureo XV, futuro imperador (e talvez o clone número 15 do Áureo I), tem um caso com Selphie Kull, princesa de [kisé](../factions/reinos/kise.md) prometida em c...
 
 > **Nambiquara, O Reino da Ganância**: Um reino impulsionado pela ganância, onde o ouro é o verdadeiro governante. Nambiquara é próspero e tem uma obsessão com o acúmulo de riquezas, com minas e bancos que nunca dormem. A desigualdade social, a corrupção e a burocracia são evidentes, mas sua prosperidade atrai comerciantes e nobres ambiciosos de todo o império.
 

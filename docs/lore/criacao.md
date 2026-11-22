@@ -120,7 +120,7 @@ Assim, o ciclo da existência e da divindade se mantém: almas mortais alimentam
 
 No coração do Império, a religião oficial é o Culto Imperial, uma instituição tão vasta e inflada quanto o próprio estado. Serve tanto para inspirar fé quanto para exercer controle absoluto sobre a população, legitimando a autoridade imperial e mantendo a burocracia inchada, corrupta e opressora. É a religião oficial do Império onde mais nenhuma é tolerada.
 
-Os Arcanos Imperiais agentes da Ordem e os Cavaleiros Imperiais — descendentes dos antigos Cavaleiros de Aslareth — são os grandes paladinos desse culto, proclamando-se Defensores do Plano Material. Em sua retórica, a proteção do mundo mortal se dá pela união de dois conceitos da Verdade Imutável: a superioridade do modo de vida imperial e o perigo representado pelos hereges e dissidentes e usuários da Trevas.
+Os Arcanos Imperiais agentes da Ordem e [os cavaleiros](../factions/os-cavaleiros.md) Imperiais — descendentes dos antigos Cavaleiros de [aslareth](../factions/aslareth.md) — são os grandes paladinos desse culto, proclamando-se Defensores do Plano Material. Em sua retórica, a proteção do mundo mortal se dá pela união de dois conceitos da Verdade Imutável: a superioridade do modo de vida imperial e o perigo representado pelos hereges e dissidentes e usuários da Trevas.
 
 A fé no Culto Imperial é apresentada como escudo contra os poderes do Caos, mas, na prática, serve para manter o império inchado, burocrático e corrupto, intacto por gerações. Entre os preceitos inabaláveis do culto, destacam-se:
 
@@ -132,7 +132,7 @@ A fé no Culto Imperial é apresentada como escudo contra os poderes do Caos, ma
 
 **Obediência absoluta:** a autoridade imperial e seus superiores não podem ser questionados, e o cumprimento das ordens é considerado ato de fé.
 
-**A partir desses princípios, surgiu a Inquisição Imperial:** a cruzada oficial do Império, utilizando os preceitos do culto para manter a unidade do estado e eliminar toda resistência. Ela atua como a mão armada da fé, transformando crença em medo e fé em controle. Seus executores são principalmente os Arcanos Imperiais, que perseguem inimigos de natureza mágica e os Cavaleiros Imperiais que perseguem inimigos mundanos. As duas Ordens são na pratica inquisidores, embora não sejam chamados assim.
+**A partir desses princípios, surgiu a Inquisição Imperial:** a cruzada oficial do Império, utilizando os preceitos do culto para manter a unidade do estado e eliminar toda resistência. Ela atua como a mão armada da fé, transformando crença em medo e fé em controle. Seus executores são principalmente os Arcanos Imperiais, que perseguem inimigos de natureza mágica e [os cavaleiros](../factions/os-cavaleiros.md) Imperiais que perseguem inimigos mundanos. As duas Ordens são na pratica inquisidores, embora não sejam chamados assim.
 
 Por trás da fachada do culto, o Imperador é apenas um fantoche, uma criatura sem vontade própria, símbolo vazio que legitima a dominação do Estado. Assim, enquanto o povo se curva à fé, o império continua a expandir territórios, acumular poder e enriquecer suas elites, mantendo o ciclo de opressão, corrupção e fanatismo religioso intacto.
 

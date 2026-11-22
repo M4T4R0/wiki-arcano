@@ -1,10 +1,10 @@
 # **Os Kemonos Yawara (1 ponto)** 
 
-O Espécie dos Yawara, conhecido por sua variedade de humanóides antropomórficos com traços animais, habita o pequeno continente a nordeste de Airy, chamado de Lauré. Lá, os Kemonos, como são chamados, desenvolveram uma sociedade semelhante à humana, com estruturas de governo, cidades bem organizadas e uma diversidade de ocupações entre seus habitantes.
+O Espécie dos Yawara, conhecido por sua variedade de humanóides antropomórficos com traços animais, habita o pequeno continente a nordeste de Airy, chamado de [lauré](../../factions/laure.md). Lá, os Kemonos, como são chamados, desenvolveram uma sociedade semelhante à humana, com estruturas de governo, cidades bem organizadas e uma diversidade de ocupações entre seus habitantes.
 
-O principal reino em Lauré é Tupãsununga, governado por uma realeza composta por Grandes Felinos, como Leões, Tigres, Leopardos, Onças e Linces. Essa nobreza felina lidera a sociedade com sabedoria e autoridade, enquanto a população comum, composta principalmente por gatos comuns e cães, desfruta de uma vida pacífica e próspera sob seu governo.
+O principal reino em [lauré](../../factions/laure.md) é [tupãsununga](../../factions/tupa-sununga.md), governado por uma realeza composta por Grandes Felinos, como Leões, Tigres, Leopardos, Onças e Linces. Essa nobreza felina lidera a sociedade com sabedoria e autoridade, enquanto a população comum, composta principalmente por gatos comuns e cães, desfruta de uma vida pacífica e próspera sob seu governo.
 
-Apesar da existência desse reino distante, a maioria dos habitantes de Airy desconhece sua existência. Quando Kemonos de Lauré são avistados, são frequentemente confundidos como humanos amaldiçoados ou [licantropos](licantropos.md), devido aos seus traços animais. A verdadeira natureza e origem desses seres são um segredo bem guardado, conhecido apenas por poucos.
+Apesar da existência desse reino distante, a maioria dos habitantes de Airy desconhece sua existência. Quando Kemonos de [lauré](../../factions/laure.md) são avistados, são frequentemente confundidos como humanos amaldiçoados ou [licantropos](licantropos.md), devido aos seus traços animais. A verdadeira natureza e origem desses seres são um segredo bem guardado, conhecido apenas por poucos.
 
 Aqueles Kemonos que decidem estabelecer-se fora de Lauré vivem entre os habitantes de Airy como pessoas comuns. Muitos se tornam aventureiros destemidos, dedicando suas vidas a explorar o mundo e enfrentar seus perigos. Alguns se estabelecem em cidades, onde contribuem com seus talentos e habilidades para a comunidade local, enquanto outros preferem o comércio ou a vida nômade.
 

@@ -22,7 +22,7 @@
 
 ## 📜 Lore e História
 
-A oportunidade, ou a tragédia, dependendo de quem narra, surgiu com o assassinato de **Vaelyn** As-La.
+A oportunidade, ou a tragédia, dependendo de quem narra, surgiu com o assassinato de **[vaelyn](vaelyn.md)** As-La.
 
 * **Camuá**, fundada por *Stigin Nato*, o taverneiro que salvou Áureo de um atentado e ganhou terras pela amizade.
 

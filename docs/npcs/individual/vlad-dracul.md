@@ -1,89 +1,65 @@
-# Vlad Dracul
+# VLAD DRACUL O MAGO DAS TREVAS VAMPIRO
 
-> **Primeiro Vampiro de Airy / Mago das Trevas** — Vampiro (ex-Humano Aba) | Mago das Trevas / Vampiro Lorde | Desconhecido / [moacuba](../../factions/reinos/moacuba.md) (rumores) | Seita de Dracul / Trevas
-
----
-
-## ⚔️ Ficha 3D&T Alpha Sugerida
-
-**Kit Base**: Mago Completo (Escola: conforme lore) + Aristocrata (se nobre)
-
-### Atributos Base (Sugeridos)
-
-| Atributo | Valor |
-|----------|-------|
-| **Força** | 2 |
-| **Habilidade** | 3 |
-| **Resistência** | 2 |
-| **Armadura** | 1 |
-| **Poder de Fogo** | 4 |
-
-### Vantagens Sugeridas
-
-- **Imortalidade**
-- **Regeneração (Sangue)**
-- **Sentidos Aguçados**
-- **Mana Extra**
-- **Escola de Magia**
-- **Concentração**
-
-### Desvantagens Sugeridas
-
-- **Fraqueza: Sol/Luz**
-- **Sede de Sangue**
-- **Vulnerável a Prata/Madeira**
+> **NPC de Arcano** — VLAD DRACUL O MAGO DAS TREVAS VAMPIRO
 
 ---
 
 ## 📜 Lore e História
 
-[VLAD DRACUL O MAGO DAS TREVAS VAMPIRO](#vlad-dracul-o-mago-das-trevas-vampiro)
-
-Vlad Dracul, M\]ago das Trevas Aba, realiza pactos com demônios dos Planos Inferiores em busca da imortalidade. O preço é alto: ele torna-se o primeiro vampiro de Airy, amaldiçoado a viver nas sombras e nutrir-se de sangue. Seu paradeiro torna-se um mistério, e seu nome um sussurro temido nas noites sem lua.
-
-* **Vlad Dracul** pode ter retornado — e há rumores de uma seita que o cultua nas sombras de Moacuba.
-
-* **Moacuba** sussurra sobre a volta de **Dracul** e cultos secretos ligados à imortalidade.
-
-Vlad Dracul não nasceu monstro. Ele foi, antes de tudo, um mago brilhante — orgulhoso demais para aceitar que até os maiores talentos morrem. Em Arcano, onde a magia corrompe e a ambição tem dentes, isso sempre termina em tragédia.
+*Conteúdo a extrair do ARCANO_COMPLETO.md*
 
 ---
 
-## 🔗 Conexões e Relacionamentos
+## 👤 Ficha do Personagem
 
-- **Líder de Seita de Dracul / Trevas**: Relacionamento direto com a hierarquia
-- **Desconhecido / Moacuba (rumores)**: Base de operações / Origem
-- **Karnos Minor**: Contemporâneo imortalidade
-- **Moacuba**: Seita/rumores
-- **Primeiro Vampiro**: Pacto demoníaco
+| Atributo | Valor |
+|----------|-------|
+| **Nome** | VLAD DRACUL O MAGO DAS TREVAS VAMPIRO |
+| **Raça** | [A DEFINIR] |
+| **Classe/Kit** | [A DEFINIR] |
+| **Origem** | [A DEFINIR] |
+| **Afiliação** | [A DEFINIR] |
+| **Nível Sugerido** | [A DEFINIR] |
+
+---
+
+## ⚔️ Mecânicas 3D&T Sugeridas
+
+### Atributos Base
+
+| Atributo | Valor |
+|----------|-------|
+| **Força** | [A DEFINIR] |
+| **Habilidade** | [A DEFINIR] |
+| **Resistência** | [A DEFINIR] |
+| **Armadura** | [A DEFINIR] |
+| **Poder de Fogo** | [A DEFINIR] |
+
+### Vantagens Sugeridas
+- [A DEFINIR]
+
+### Desvantagens Sugeridas
+- [A DEFINIR]
+
+---
+
+## 🎒 Equipamento Notável
+- [A DEFINIR]
 
 ---
 
 ## 🎯 Ganchos de Aventura
-
-1. **Artefato Perdido — Vlad Dracul procura item poderoso; PCs recuperam/roubam**
-2. **Magia Proibida — Vlad Dracul usa Trevas; Arcanos Imperiais caçam; PCs escolhem lado**
-3. **Caça ao Vampiro — Vlad Dracul se alimenta de inocentes; PCs caçam ou negociam**
-4. **Pacto Sombrio — Vlad Dracul oferece poder imortal; preço: alma/serviço**
-5. **Encontro Casual — PCs cruzam com Vlad Dracul em Seita de Dracul / Trevas; conversa revela segredo**
-
----
-
-## 🎒 Equipamento e Itens Notáveis
-
-- **Grimório Pessoal**: Contém magias exclusivas; valor inestimável
-- **Foco Arcano (Cajado/Orbe)**: +1 PdF; reduz custo de PM de uma escola
-- **Anel de Proteção Solar**: Permite andar ao sol por 1 hora/dia
-- **Adaga de Prata/Madeira**: Dano dobrado contra vampiros; arma de último recurso
+1. **Encontro** — PCs cruzam com VLAD DRACUL O MAGO DAS TREVAS VAMPIRO; conversa revela segredo
+2. **Missão** — VLAD DRACUL O MAGO DAS TREVAS VAMPIRO contrata PCs para tarefa perigosa
+3. **Conflito** — VLAD DRACUL O MAGO DAS TREVAS VAMPIRO é antagonista/aliado central
+4. **Segredo** — VLAD DRACUL O MAGO DAS TREVAS VAMPIRO guarda informação vital
+5. **Legado** — Após morte/desaparecimento, herança cai nas mãos dos PCs
 
 ---
 
 ## 🔗 Links Relacionados
-
 - [Índice de NPCs](index.md) — Volta ao índice
-- [Seita de Dracul / Trevas](../../factions/ordem-arcanos-imperiais.md) — Facção relacionada
-- [Desconhecido / [moacuba](../../factions/reinos/moacuba.md) (rumores)](../../factions/reinos/moacuba.md) — Localização relacionada
 
 ---
 
-> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete (Prioridade: Baixa)*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

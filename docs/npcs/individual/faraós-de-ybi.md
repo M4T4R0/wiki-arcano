@@ -37,7 +37,7 @@
 
 ## 📜 Lore e História
 
-O contato com os Abaré e Abaquar permite aos Aba aprender magia. Magos poderosos surgem entre as tribos, mas os considerados malignos são exilados. Muitos destes se refugiam no Deserto Açu, onde rapidamente ascendem ao poder, fundando as linhagens dos Faraós, conhecidos no Império como Lordes Caídos.
+O contato com os Abaré e Abaquar permite aos Aba aprender magia. Magos poderosos surgem entre as tribos, mas os considerados malignos são exilados. Muitos destes se refugiam no [deserto açu](../../factions/deserto-acuc.md), onde rapidamente ascendem ao poder, fundando as linhagens dos Faraós, conhecidos no Império como Lordes Caídos.
 
 O arquimago [karnos minor](karnos-minor-arquimago-faraó-de-ybi.md) conquista a imortalidade por meio da mumificação ritual e se torna Faraó eterno da cidade de Ybi. Nas décadas seguintes, os demais Faraós aprendem seu segredo e tornam-se mortos-vivos, estabelecendo dinastias eternas no deserto.
 

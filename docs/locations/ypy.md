@@ -404,41 +404,41 @@ Sir Habbor é um Cavaleiro da Guarda Real, com voz firme como granito. Ele acomp
 
 O Capelobo é a forma monstruosa que Mordigueiro assumiu após ser transformado por Gorgo nas noites de lua cheia. É um licantropo quimera, descrito como uma aberração que é duas vezes maior do que Gorgo, com crânio alongado como o de um tamanduá, presas de lobo, e um olho reptiliano gigantesco. O monstro ataca com agilidade e força física natural e é a segunda maior criação de Gorgo.
 
-**Durell Azeron**
+**[durell azeron](../npcs/individual/durell-azeron.md)n](../npcs/individual/azeron.md)**
 
-Durell Azeron era o avô de Rasyl Azeron, também chamado Rasyl Azeron, que morreu há muitos anos. Ele deixou um legado de heroísmo, e seu cetro foi herdado por Azeron.
+[durell](../npcs/individual/durell.md)l azeron](../npcs/individual/durell-azeron.md)n](../npcs/individual/azeron.md) era o avô de Rasyl [azeron](../npcs/individual/azeron.md), também chamado Rasyl [azeron](../npcs/individual/azeron.md), que morreu há muitos anos. Ele deixou um legado de heroísmo, e seu cetro foi herdado por [azeron](../npcs/individual/azeron.md).
 
-**Carolaine Azeron Dellarier**
+**[carolaine](../npcs/individual/carolaine.md)e azeron](../npcs/individual/carolaine-azeron.md)n](../npcs/individual/azeron.md) Dellarier**
 
-Carolaine é a mãe de Azeron, uma mulher elegante e bonita, mas com uma "frieza subjacente". Ela, juntamente com o pai de Azeron, negou o pedido de clonagem de um novo braço e olho para o filho, como forma de puni-lo por seu comportamento perigoso e desordenado.
+[carolaine](../npcs/individual/carolaine.md) é a mãe de [azeron](../npcs/individual/azeron.md), uma mulher elegante e bonita, mas com uma "frieza subjacente". Ela, juntamente com o [pai de azeron](../npcs/individual/pai-de-azeron.md)n](../npcs/individual/azeron.md), negou o pedido de clonagem de um novo braço e olho para o filho, como forma de puni-lo por seu comportamento perigoso e desordenado.
 
-**Pai de Azeron**
+**[pai de azeron](../npcs/individual/pai-de-azeron.md)n](../npcs/individual/azeron.md)**
 
-O pai de Azeron é um medimago que dirige uma clínica. Ele obrigou Azeron a estudar e se referiu ao filho como "a vergonha da família" se ele tentasse fugir para se tornar um mago aventureiro. Ele, juntamente com a mãe, negou a clonagem de um novo braço e olho para o filho.
+O [pai de azeron](../npcs/individual/pai-de-azeron.md)n](../npcs/individual/azeron.md) é um medimago que dirige uma clínica. Ele obrigou [azeron](../npcs/individual/azeron.md) a estudar e se referiu ao filho como "a vergonha da família" se ele tentasse fugir para se tornar um mago aventureiro. Ele, juntamente com a mãe, negou a clonagem de um novo braço e olho para o filho.
 
-**Avô de Azeron**
+**[avô de azeron](../npcs/individual/avo-de-azeron.md)n](../npcs/individual/azeron.md)**
 
-Durell, o Filho do Último Suspiro, é poderosa e rica em mitologia, e usá-la de forma sutil, deixando o peso do nome "no ar", é uma excelente maneira de construir mistério.
+[durell](../npcs/individual/durell.md), o Filho do Último Suspiro, é poderosa e rica em mitologia, e usá-la de forma sutil, deixando o peso do nome "no ar", é uma excelente maneira de construir mistério.
 
-A alcunha "Último Suspiro" está diretamente ligada ao momento crucial na história de Airy: o exílio voluntário de Misty As-La (M.A.L.), que ocorreu depois de ele ter perdido sua sexta esposa. Durell é listado entre os descendentes enigmáticos e lendários de Misty.
+A alcunha "Último Suspiro" está diretamente ligada ao momento crucial na história de Airy: o exílio voluntário de [misty as-la](../npcs/individual/misty-as-la-arquimago.md) (M.A.L.), que ocorreu depois de ele ter perdido sua sexta esposa. [durell](../npcs/individual/durell.md) é listado entre os descendentes enigmáticos e lendários de Misty.
 
 O que as fontes revelam sobre a origem deste nome e o personagem:
 
-1\. Momento de Nascimento: Durell nasceu no exato momento da partida de Misty. A "partida" de Misty As-La foi um evento de grande significado, onde ele abandonou o trono e desapareceu do mundo, viajando por planos de existência desconhecidos. Este evento marcou uma ruptura e o momento exato do fim de sua regência em Airy.
+1\. Momento de Nascimento: [durell](../npcs/individual/durell.md) nasceu no exato momento da partida de Misty. A "partida" de [misty as-la](../npcs/individual/misty-as-la-arquimago.md) foi um evento de grande significado, onde ele abandonou o trono e desapareceu do mundo, viajando por planos de existência desconhecidos. Este evento marcou uma ruptura e o momento exato do fim de sua regência em Airy.
 
-2\. O Roubo da Alma: Um boato acrescenta que Durell "roubou parte da alma do pai". Esta é a informação mais intrigante, pois sugere que Durell não é apenas um descendente, mas carrega um fragmento da essência de Misty, um ser imortal dotado de poderes colossais.
+2\. O Roubo da Alma: Um boato acrescenta que [durell](../npcs/individual/durell.md) "roubou parte da alma do pai". Esta é a informação mais intrigante, pois sugere que [durell](../npcs/individual/durell.md) não é apenas um descendente, mas carrega um fragmento da essência de Misty, um ser imortal dotado de poderes colossais.
 
-Portanto, "Durell" é um nome que carrega o peso de um legado de poder, traição e o trauma da fundação do Império. Se o avô de Azeron for Durell, ele representaria o filho nascido no momento da máxima desilusão de Misty com a humanidade, o que liga perfeitamente a linhagem de Azeron à busca por um poder que transcenda a corrupção e a mediocridade, temas centrais na história de M.A.L..
+Portanto, "[durell](../npcs/individual/durell.md)" é um nome que carrega o peso de um legado de poder, traição e o trauma da fundação do Império. Se o avô de [azeron](../npcs/individual/azeron.md) for [durell](../npcs/individual/durell.md), ele representaria o filho nascido no momento da máxima desilusão de Misty com a humanidade, o que liga perfeitamente a linhagem de [azeron](../npcs/individual/azeron.md) à busca por um poder que transcenda a corrupção e a mediocridade, temas centrais na história de M.A.L..
 
-**Vekann**
+**[vekann](../npcs/individual/vekann.md)**
 
-Vekann é um Lich (mago desmorto) e o Arquivista Cego, tido como morto desde a queda da Torre Rubra há novecentos anos. Ele é o criador do ritual que gera o clone do Imperador, mas foi escravizado pelo Senado, que guarda o receptáculo de sua alma. Ele ajudou Misty a obter os pergaminhos do ritual original, que revelam que o Imperador é um clone de seu filho e que fragmentos da alma original de seu filho estão presos no Espelho Sangral.
+[vekann](../npcs/individual/vekann.md) é um Lich (mago desmorto) e o Arquivista Cego, tido como morto desde a queda da Torre Rubra há novecentos anos. Ele é o criador do ritual que gera o clone do Imperador, mas foi escravizado pelo Senado, que guarda o receptáculo de sua alma. Ele ajudou Misty a obter os pergaminhos do ritual original, que revelam que o Imperador é um clone de seu filho e que fragmentos da alma original de seu filho estão presos no Espelho Sangral.
 
-**Irial**
+**[irial](../npcs/individual/irial.md)**
 
-Irial é a Alta-Maga, Conselheira do Senador Cássio Longino e guardiã dos Registros Vivos, com pele cor de cobre e olhos âmbar. Ela não participou dos primeiros rituais, mas vigiava e documentava a memória da rebelião. Irial foi manipulada por Misty para conseguir a chave da cripta sob o Salão da Memória, onde estavam os arquivos do ritual de clonagem, um ato que a deixou esgotada.
+[irial](../npcs/individual/irial.md) é a Alta-Maga, Conselheira do Senador Cássio Longino e guardiã dos Registros Vivos, com pele cor de cobre e olhos âmbar. Ela não participou dos primeiros rituais, mas vigiava e documentava a memória da rebelião. [irial](../npcs/individual/irial.md) foi manipulada por Misty para conseguir a chave da cripta sob o Salão da Memória, onde estavam os arquivos do ritual de clonagem, um ato que a deixou esgotada.
 
-**Imperador (Clone/Deziel Áureo XIV)**
+**Imperador (Clone/[deziel áureo](../npcs/individual/deziel-aureo.md) XIV)**
 
 O Imperador atual é um clone (Deziel Áureo XIV) do filho que Misty As'La deixou para trás, repetido a cada geração por um ritual. Ele é jovem, simétrico demais, e suas feições não envelhecem. Ele é uma marionete nas mãos do Senado, e é um homem egoísta e sem antipatia, cuja armadura e espada são apenas "enfeites".
 
@@ -448,15 +448,15 @@ Vahr Droskin é um professor que acompanhou Darius e Talon na linha de frente da
 
 **Sírio Filaucioso**
 
-Sírio Filaucioso é o nome inventado de um homem magro e sombrio, que se apresenta como um lutador implacável, embora fosse visivelmente mais frágil que Azeron. Ele é um recrutador da guilda ERA e abordou Azeron (sob o nome de Beneplácito Cuntatário) em Adremalech para recrutá-lo, afirmando que o jovem mago era o mais forte que ele havia encontrado. Ele desaparece rapidamente após cumprir sua missão.
+Sírio Filaucioso é o nome inventado de um homem magro e sombrio, que se apresenta como um lutador implacável, embora fosse visivelmente mais frágil que [azeron](../npcs/individual/azeron.md). Ele é um recrutador da [guilda era](../factions/guilda-era.md) e abordou [azeron](../npcs/individual/azeron.md) (sob o nome de Beneplácito Cuntatário) em Adremalech para recrutá-lo, afirmando que o jovem mago era o mais forte que ele havia encontrado. Ele desaparece rapidamente após cumprir sua missão.
 
 **Joane**
 
-Joane é uma curandeira que trabalhava no centro de tratamento em Adremalech, usando um avental emborrachado e uma máscara de bico curvado. Ela ajudou Belmonte (Azeron) a se ambientar e esteve presente quando Dalibor reconheceu a técnica de cura de Azeron, que ela chamou de "o garoto novo".
+Joane é uma curandeira que trabalhava no centro de tratamento em Adremalech, usando um avental emborrachado e uma máscara de bico curvado. Ela ajudou Belmonte (Azeron) a se ambientar e esteve presente quando Dalibor reconheceu a técnica de cura de [azeron](../npcs/individual/azeron.md), que ela chamou de "o garoto novo".
 
 **Dalibor**
 
-Dalibor é o medimago que coordenava o tratamento da praga em Adremalech. Ele se corrompeu pelas Trevas e estava alterando a praga para torná-la mais letal. Suas veias ficaram negras e seus olhos brilhavam com fúria insana. Ele foi derrotado por Azeron e seu corpo foi incinerado.
+Dalibor é o medimago que coordenava o tratamento da praga em Adremalech. Ele se corrompeu pelas Trevas e estava alterando a praga para torná-la mais letal. Suas veias ficaram negras e seus olhos brilhavam com fúria insana. Ele foi derrotado por [azeron](../npcs/individual/azeron.md) e seu corpo foi incinerado.
 
 **Victor Frankenstein**
 
@@ -472,7 +472,7 @@ Elara Arken é uma cientista que participou do simpósio. Ela tentou intimidar V
 
 > Foi nesse momento, não antes, não como parte de um plano arquitetado desde os tempos de Aslareth, mas como resposta improvisada a uma crise concreta, que a classe política reunida em Ypy se voltou para os arquivos que vinham sendo escavados, com variável sucesso e considerável desastre, durante o século sem nome que se seguira à queda do antigo reino.
 
-> Arthur Áureo surgiu em Ypy meses depois, reivindicando ser filho bastardo de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) com [luna lin](../npcs/individual/luna-lin-amazona.md), a amazona que a história lembra, com conveniente ambiguidade, como possível amante do antigo general. A nobreza da capital o reconheceu sem hesitação. Parte do povo o recebeu como salvador. Outros, mais cautelosos, sussurraram desde o início que aquele garoto era marionete de facções ocultas, sem imaginar o quão literal aquela suspeita seria.
+> [arthur áureo](../npcs/individual/arthur-áureo-general-imperador.md) surgiu em Ypy meses depois, reivindicando ser filho bastardo de [áureo i](../npcs/individual/áureo-i-fundador-do-império.md) com [luna lin](../npcs/individual/luna-lin-amazona.md), a amazona que a história lembra, com conveniente ambiguidade, como possível amante do antigo general. A nobreza da capital o reconheceu sem hesitação. Parte do povo o recebeu como salvador. Outros, mais cautelosos, sussurraram desde o início que aquele garoto era marionete de facções ocultas, sem imaginar o quão literal aquela suspeita seria.
 
 > > Áureo declara a criação da cidade de **Ypy**, planejada para ser a joia do novo império. Construída às margens do grande Rio Pindaré, ela torna-se símbolo da unificação. É ali que será forjado o destino de Airy.
 

@@ -6,13 +6,13 @@
 
 ## 📍 Localização
 - **Região**: Cordilheiras Atã
-- **Tipo**: Reino dos Abaquar (Ilhas Voadoras)
+- **Tipo**: [reino dos abaquar](../reino-dos-abaquar.md) (Ilhas Voadoras)
 - **Descrição**: Cidade mítica situada em ilhas voadoras ligadas por escadas de corda. Território neutro onde povos em guerra convivem pacificamente sob a vigilância de Arquimagos poderosos.
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Reino dos Abaquar (Ilhas Voadoras)
+- **Tipo**: [reino dos abaquar](../reino-dos-abaquar.md) (Ilhas Voadoras)
 - **Lealdade**: Variada (Império, Independente, ou própria facção)
 - **Estrutura**: Governança adaptada à cultura local
 

@@ -201,7 +201,7 @@ Vantagens Regionais
 
 Bushidô (Yu)
 
-Você recebe gratuitamente as Especializações Conhecimento: Nobreza e Realeza (de Ciências) e Diplomacia (de Manipulação) e testes nesses campos são considerados fáceis para você. Além disso, você recebe um bônus de \+1 em testes para resistir a magias e efeitos de medo. Mas deve seguir o Bushidô que prega, Justiça, coragem, compaixão, respeito, honestidade, honra e lealdade.
+Você recebe gratuitamente as Especializações Conhecimento: Nobreza e Realeza (de Ciências) e Diplomacia (de Manipulação) e testes nesses campos são considerados fáceis para você. Além disso, você recebe um bônus de \+1 em testes para resistir a [magias](../factions/magias.md) e efeitos de medo. Mas deve seguir o Bushidô que prega, Justiça, coragem, compaixão, respeito, honestidade, honra e lealdade.
 
  Arma de Família (+1 Ponto)
 

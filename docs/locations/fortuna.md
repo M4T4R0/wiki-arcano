@@ -81,7 +81,7 @@ O pequeno arquipélago de Fortuna (que não tinha esse nome quando ainda era des
 
 Os piratas Or’cery Aw’is, Euste Estbur, Rakdan Nasem, e Bral Ingtor que formavam a Guilda pirata conhecida como Ondeies estavam a fugindo de uma armada imperial especialmente criada para capturá-los. Eles foram perseguidos pela extensão dos mares de quase todo o mundo conhecido, com os cascos dos navios quase vazios de suprimentos, e numa medida desesperada optam por ir para o pequeno arquipélago chamado de  Amaldiçoado (como era chamada Fortuna antes da colonização). Um Arquipélago que nunca havia sido navegado por nenhuma grande embarcação.
 
-Com sua grande destreza em navegação, Or’cery Aw’is Casco de Aço, considerado o melhor na condução de navio do mundo, foi na vanguarda dessa empreitada quase impossível. Depois de vários dias de navegação entre os recifes de coral, vários navios imperiais já haviam naufragado tentando abater os piratas, devido a isso desistiram de persegui-los imaginando que logo iriam naufragar também, felizmente Or’cery Aw’is tinha habilidades quase sobrenaturais para a navegação e algumas horas depois conseguiu chegar nas imediações da ilha principal, com o tempo começaram a explorar as ilhas, e mapear os locais navegáveis entre os recifes de coral, depois disso criaram um pequeno porto pirata, Conhecido como porto Amaldiçoado.
+Com sua grande destreza em navegação, Or’cery Aw’is Casco de Aço, considerado o melhor na condução de navio do mundo, foi na vanguarda dessa empreitada quase impossível. Depois de vários dias de navegação entre os recifes de coral, vários navios imperiais já haviam naufragado tentando abater os piratas, devido a isso desistiram de persegui-los imaginando que logo iriam naufragar também, felizmente Or’cery Aw’is tinha habilidades quase sobrenaturais para a navegação e algumas horas depois conseguiu chegar nas imediações da ilha principal, com o tempo começaram a explorar [as ilhas](../factions/as-ilhas.md), e mapear os locais navegáveis entre os recifes de coral, depois disso criaram um pequeno porto pirata, Conhecido como porto Amaldiçoado.
 
 Com o tempo mais piratas foram se juntando a guilda e o porto foi crescendo, e os 4 piratas fundadores resolveram então fundar um pequeno porto particular para cada um, e foram um para cada extremidade do arquipélago, onde constituíram família e aumentaram suas frotas de navios piratas, nesse meio tempo o império tentou várias vezes invadir o lugar mas devido a sua geografia onde só um navio por vez pode passar pelos caminhos entre os recifes de coral a sua defesa torna-se muito simples.
 
@@ -181,7 +181,7 @@ Formada por cavernas de coral e rochas submersas, a Caverna do Tesouro é um lab
 
 Torre de Vigia da Névoa
 
-Construída na ponta da ilha norte, onde a névoa marítima é mais densa, esta torre serve como ponto de observação avançado. Magos e vigias especializados monitoram a entrada de navios e patrulham rotas seguras entre as ilhas. A torre também funciona como estação de comunicação, usando sinais de fumaça e luz para alertar sobre ataques, tempestades ou eventos importantes no arquipélago. A posição estratégica da torre garante que os piratas possam antecipar qualquer tentativa de invasão.
+Construída na ponta da ilha norte, onde a névoa marítima é mais densa, esta torre serve como ponto de observação avançado. Magos e vigias especializados monitoram a entrada de navios e patrulham rotas seguras entre [as ilhas](../factions/as-ilhas.md). A torre também funciona como estação de comunicação, usando sinais de fumaça e luz para alertar sobre ataques, tempestades ou eventos importantes no arquipélago. A posição estratégica da torre garante que os piratas possam antecipar qualquer tentativa de invasão.
 
 **Facções**
 
@@ -274,7 +274,7 @@ Vigias especializados em monitorar rotas entre recifes e possíveis invasões.
 
 A Guilda dos Assassinos é uma das organizações mais obscuras em todo o mundo e resolveu instalar a sua sede aqui em Fortuna, só são aceitos aqueles que se mostrarem que são capazes de matar sem serem vistos, o ritual para ingressar na guilda é matar uma personalidade local e fazer parecer um acidente. Conta-se lendas que os membros mais poderosos da Guilda adquirem capacidades sobrenaturais para matar sem serem vistos com um só golpe certeiro.
 
-Patrono: Guilda Assassinos/ REINO DOS ABARÉ
+Patrono: Guilda Assassinos/ [reino dos abaré](../factions/reino-dos-abare.md)
 
 Veneno Oportuno: esse líquido escuro quando aplicado em armas causa dano dobrado em personagens que estejam Perto da Morte.
 
@@ -302,7 +302,7 @@ Demografia: Assassinos Competentes, Guerreiros Treinados em combate corpo à cor
 
 Personagens Importantes: Don Roke Barborossa, Capo Patriarca Xantelas.
 
-**Cargos da Organização**
+**[cargos da organização](../factions/cargos-da-ordem.md)**
 
 **Don:** 1 Membro : O manda-chuva, aquele que está acima de tudo e todos. Têm grandes amigos na política, são homens de métodos, muito respeitados, sendo o cargo supremo da família. Não se envolve em confrontos armados e é alvo de muitos atentados. O Chefe da Família, normalmente controlando-a como um ditador, a palavra final sempre é dele.
 

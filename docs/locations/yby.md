@@ -22,7 +22,7 @@
 
 1\. Pessoas (Cultura e Recursos)
 
-Ybytu é definida pela resiliência e cooperação em um ambiente de sobrevivência extrema.
+[ybytu](../factions/reinos/ybytu.md) é definida pela resiliência e cooperação em um ambiente de sobrevivência extrema.
 
 * **Cultura:**  
   * **Caráter:** **Resiliente** e **Estoico**. O povo é adaptado a temperaturas de até \-45°C e valoriza a disciplina e o trabalho coletivo.  
@@ -59,7 +59,7 @@ Situada no coração das montanhas mais frias de Airy, o terreno é classificado
 
 Distribuídos conforme a Tabela de PDIs do Guia do Guardião:
 
-* **Coração (H):** **Vila de Ybytu**. Assentamento **Imerso em Tradição**, construído com pedra e madeira adaptadas à neve.  
+* **Coração (H):** **Vila de [ybytu](../factions/reinos/ybytu.md)**. Assentamento **Imerso em Tradição**, construído com pedra e madeira adaptadas à neve.  
 * **Entreposto:** **Casa do Sábio Parmuk**. Um **Arquivo** e centro de conselhos que guarda mapas de rotas de caça e segredos arcanos.  
 * **Curiosidade:** **Rio Gelado**. Um local de águas cristalinas líquidas apesar do frio, onde a **Gravidade Irregular** ou magia permite o degelo parcial.  
 * **Masmorra:** **Gruta do Rei da Neve**. Um local **Remoto** e **Selado**, antigo covil de dragão repleto de mortos-vivos e tesouros.  
@@ -73,7 +73,7 @@ Conectores geográficos condicionados pelo clima e ferramentas de transporte.
 * **Caminho Condicional:** **Rio Grande de Ferrovel**. Exige barcos de pele de baleia e pode ser **Bloqueado por Rocha Gigante** ou gelo maciço.  
 * **Características de Caminho:** Marcados pela característica de que o clima **Torna-se Extremamente Frio** rapidamente e a presença de **Névoa Noturna Espessa**.
 
-Ybytu é uma aldeia localizada no coração dos Montes Brancos, território gelado marcado por rios cristalinos que serpenteiam entre montanhas e planícies cobertas de neve. Originalmente habitada por nômades das neves, a região passou por séculos de conflitos entre tribos rivais em busca de territórios de caça. Após um acordo de paz duradouro, essas tribos se uniram, formando gradualmente o povoado que hoje é considerado uma pequena nação. O crescimento da aldeia foi lento e penoso, mas resultou em uma comunidade resiliente, adaptada ao frio extremo e à escassez de recursos.
+[ybytu](../factions/reinos/ybytu.md) é uma aldeia localizada no coração dos Montes Brancos, território gelado marcado por rios cristalinos que serpenteiam entre montanhas e planícies cobertas de neve. Originalmente habitada por nômades das neves, a região passou por séculos de conflitos entre tribos rivais em busca de territórios de caça. Após um acordo de paz duradouro, essas tribos se uniram, formando gradualmente o povoado que hoje é considerado uma pequena nação. O crescimento da aldeia foi lento e penoso, mas resultou em uma comunidade resiliente, adaptada ao frio extremo e à escassez de recursos.
 
 Os Ybytuis vivem essencialmente da caça e pesca, utilizando roupas feitas de couro de suas presas, com o pelo voltado para dentro, garantindo conforto e isolamento térmico mesmo nos invernos mais rigorosos. Suas armas preferidas são lanças, fáceis de fabricar e versáteis, usadas tanto para arremesso quanto para combate corpo a corpo, servindo também como apoio em terrenos escorregadios e acidentados. Outra arma de destaque é o arpão, essencial para a caça de criaturas marinhas e animais de grande porte.
 
@@ -83,11 +83,11 @@ A sociedade Ybytui mantém uma relação profunda com cães adaptados ao frio, u
 
 Na cosmogonia Ybytui, o Bem se manifesta de diversas formas: uma mulher feliz em trajes brancos (Ya), um ancião de rosto amigável (Bêri) ou um caçador sorridente (Yanu). O Mal, chamado de Supay, aparece em seres distorcidos de rosto maléfico ou mulheres sedutoras e perversas, representando perigos físicos e espirituais.
 
-O comércio em Ybytu é baseado no escambo: trocas de objetos ou serviços equivalentes, muitas vezes envolvendo armas, peles e equipamentos. Objetos raros, incluindo itens mágicos, podem ser encontrados no gelo ou nos pertences de aventureiros perdidos. Os Ybytuis aproveitam essas oportunidades para trocar suprimentos por peles de raposa e urso, aumentando a sobrevivência de forasteiros no frio extremo.
+O comércio em [ybytu](../factions/reinos/ybytu.md) é baseado no escambo: trocas de objetos ou serviços equivalentes, muitas vezes envolvendo armas, peles e equipamentos. Objetos raros, incluindo itens mágicos, podem ser encontrados no gelo ou nos pertences de aventureiros perdidos. Os Ybytuis aproveitam essas oportunidades para trocar suprimentos por peles de raposa e urso, aumentando a sobrevivência de forasteiros no frio extremo.
 
 Os perigos naturais e sobrenaturais são constantes: ursos polares, monstros nativos como os Glacioll, gigantes das montanhas, tribos humanas hostis (bárbaros saqueadores ou canibais), e acidentes naturais como avalanches, testando continuamente a resistência e coragem dos Ybytuis.
 
-Ybytu nasceu do sangue e da resiliência de nômades que vagavam pelos Montes Brancos há séculos. Tribos rivais lutavam por territórios de caça, rios e áreas férteis, mas com o tempo, sob a liderança de Parmuk “Raposa Careca”, ancião sábio e diplomata, consolidaram uma paz duradoura. A aldeia começou como um simples povoado à beira do grande rio glacial, servindo como ponto de encontro para troca de peles, pesca e caça.
+[ybytu](../factions/reinos/ybytu.md) nasceu do sangue e da resiliência de nômades que vagavam pelos Montes Brancos há séculos. Tribos rivais lutavam por territórios de caça, rios e áreas férteis, mas com o tempo, sob a liderança de Parmuk “Raposa Careca”, ancião sábio e diplomata, consolidaram uma paz duradoura. A aldeia começou como um simples povoado à beira do grande rio glacial, servindo como ponto de encontro para troca de peles, pesca e caça.
 
 Com os anos, a aldeia cresceu, absorvendo influências de aventureiros perdidos e comerciantes errantes, tornando-se um centro estratégico para exploração dos Montes Brancos. O povoado prosperou lentamente, superando invernos rigorosos e criaturas selvagens, até se tornar uma pequena nação organizada, conhecida por sua disciplina, cooperação e sabedoria.
 
@@ -95,7 +95,7 @@ Os Ybytuis contam histórias de ancestrais que enfrentaram gigantes e espíritos
 
 **Geografia**
 
-Ybytu está localizada no coração dos Montes Brancos, rodeada por picos cobertos de neve, vales glaciares e rios de águas cristalinas que se mantêm líquidos mesmo no frio extremo. O terreno varia entre colinas de gelo polido, florestas de coníferas resistentes ao frio e planícies congeladas onde apenas os mais resistentes conseguem atravessar.
+[ybytu](../factions/reinos/ybytu.md) está localizada no coração dos Montes Brancos, rodeada por picos cobertos de neve, vales glaciares e rios de águas cristalinas que se mantêm líquidos mesmo no frio extremo. O terreno varia entre colinas de gelo polido, florestas de coníferas resistentes ao frio e planícies congeladas onde apenas os mais resistentes conseguem atravessar.
 
 O clima é severo: ventos cortantes, nevascas repentinas e temperaturas que despencam para abaixo de \-30°C. Apesar disso, há locais estratégicos que oferecem abrigo natural, como cavernas aquecidas por fontes geotérmicas e oásis de gelo, onde a vida se concentra.
 

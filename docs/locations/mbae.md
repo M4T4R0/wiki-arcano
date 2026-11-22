@@ -20,7 +20,7 @@
 
 **1\. Pessoas (Cultura e Recursos)**
 
-Mbaê é um oásis de contrastes, servindo como um dos portos mais movimentados do mundo, atraindo mercadores de Lauré e piratas de [fortuna](../factions/reinos/fortuna.md).
+Mbaê é um oásis de contrastes, servindo como um dos portos mais movimentados do mundo, atraindo mercadores de [lauré](../factions/laure.md) e piratas de [fortuna](../factions/reinos/fortuna.md).
 
 * **Cultura:**  
   * **Caráter:** **Resiliente** e **Desconfiado**. O povo é moldado pela aridez extrema e pelo risco constante de monstros e saqueadores.  
