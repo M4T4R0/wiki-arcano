@@ -1,0 +1,408 @@
+{
+ "_leia-me": "Áreas clicáveis do mapa. 'caixa' = [x1,y1,x2,y2] em pixels da imagem original; 'alvo' = título da seção no ARCANO.md.",
+ "imagem": "Mapa_de_Airy_2025.png",
+ "largura": 984,
+ "altura": 1049,
+ "regioes": [
+  {
+   "nome": "Floresta Ka’aqwy",
+   "alvo": "FLORESTA KA’AQWY",
+   "caixa": [
+    198,
+    83,
+    454,
+    125
+   ]
+  },
+  {
+   "nome": "Elfin",
+   "alvo": "Elfin",
+   "caixa": [
+    333,
+    151,
+    387,
+    182
+   ]
+  },
+  {
+   "nome": "Deserto Açu",
+   "alvo": "DESERTO AÇU",
+   "caixa": [
+    546,
+    170,
+    666,
+    254
+   ]
+  },
+  {
+   "nome": "Ybi",
+   "alvo": "Ybi",
+   "caixa": [
+    605,
+    17,
+    650,
+    48
+   ]
+  },
+  {
+   "nome": "Lauré",
+   "alvo": "Lauré",
+   "caixa": [
+    716,
+    132,
+    783,
+    166
+   ]
+  },
+  {
+   "nome": "Reino Submerso",
+   "alvo": "O Reino Submerso",
+   "caixa": [
+    379,
+    317,
+    461,
+    362
+   ]
+  },
+  {
+   "nome": "Acuba",
+   "alvo": "Acuba",
+   "caixa": [
+    608,
+    307,
+    680,
+    338
+   ]
+  },
+  {
+   "nome": "Mbaê",
+   "alvo": "Mbaê",
+   "caixa": [
+    674,
+    361,
+    740,
+    393
+   ]
+  },
+  {
+   "nome": "Andirá",
+   "alvo": "Andirá",
+   "caixa": [
+    464,
+    435,
+    539,
+    467
+   ]
+  },
+  {
+   "nome": "Jurubatiba",
+   "alvo": "Jurubatiba",
+   "caixa": [
+    324,
+    462,
+    435,
+    493
+   ]
+  },
+  {
+   "nome": "Terra dos Auçá",
+   "alvo": "As Terras dos Auçás",
+   "caixa": [
+    101,
+    493,
+    204,
+    554
+   ]
+  },
+  {
+   "nome": "Anama",
+   "alvo": "Anama",
+   "caixa": [
+    712,
+    488,
+    787,
+    517
+   ]
+  },
+  {
+   "nome": "Fortuna",
+   "alvo": "Fortuna",
+   "caixa": [
+    875,
+    480,
+    959,
+    511
+   ]
+  },
+  {
+   "nome": "Ypiturui",
+   "alvo": "Ypiturui",
+   "caixa": [
+    298,
+    514,
+    384,
+    547
+   ]
+  },
+  {
+   "nome": "Nambiquara",
+   "alvo": "Nambiquara",
+   "caixa": [
+    389,
+    521,
+    512,
+    554
+   ]
+  },
+  {
+   "nome": "Área da Infestação",
+   "alvo": "A Área da Infestação",
+   "caixa": [
+    204,
+    561,
+    291,
+    612
+   ]
+  },
+  {
+   "nome": "Kaluana",
+   "alvo": "Kaluana",
+   "caixa": [
+    284,
+    661,
+    373,
+    692
+   ]
+  },
+  {
+   "nome": "Área Pacificada",
+   "alvo": "Território Pacificado",
+   "caixa": [
+    216,
+    667,
+    272,
+    702
+   ]
+  },
+  {
+   "nome": "Camuá",
+   "alvo": "Camuá",
+   "caixa": [
+    468,
+    680,
+    546,
+    712
+   ]
+  },
+  {
+   "nome": "Ypy",
+   "alvo": "Ypy",
+   "caixa": [
+    401,
+    702,
+    451,
+    735
+   ]
+  },
+  {
+   "nome": "Moacuba",
+   "alvo": "Moacuba",
+   "caixa": [
+    586,
+    718,
+    685,
+    749
+   ]
+  },
+  {
+   "nome": "Levante Táurico",
+   "alvo": "O LEVANTE TÁURICO",
+   "caixa": [
+    57,
+    686,
+    125,
+    731
+   ]
+  },
+  {
+   "nome": "Alcatéia Gnol",
+   "alvo": "A ALCATÉIA GNÓL",
+   "caixa": [
+    141,
+    750,
+    211,
+    795
+   ]
+  },
+  {
+   "nome": "Cidade Livre de Vul",
+   "alvo": "Vul",
+   "caixa": [
+    236,
+    745,
+    297,
+    810
+   ]
+  },
+  {
+   "nome": "Aratama",
+   "alvo": "Aratama",
+   "caixa": [
+    319,
+    758,
+    410,
+    789
+   ]
+  },
+  {
+   "nome": "Tibá",
+   "alvo": "Tibá",
+   "caixa": [
+    40,
+    820,
+    96,
+    852
+   ]
+  },
+  {
+   "nome": "A Horda",
+   "alvo": "A HORDA DE ORCS",
+   "caixa": [
+    201,
+    827,
+    267,
+    852
+   ]
+  },
+  {
+   "nome": "Poranga",
+   "alvo": "Poranga",
+   "caixa": [
+    581,
+    842,
+    673,
+    875
+   ]
+  },
+  {
+   "nome": "Yu",
+   "alvo": "Yu",
+   "caixa": [
+    741,
+    843,
+    781,
+    874
+   ]
+  },
+  {
+   "nome": "Kisé",
+   "alvo": "Kisé",
+   "caixa": [
+    314,
+    867,
+    369,
+    899
+   ]
+  },
+  {
+   "nome": "Aisó",
+   "alvo": "Aisó",
+   "caixa": [
+    508,
+    891,
+    563,
+    923
+   ]
+  },
+  {
+   "nome": "Sobá",
+   "alvo": "Sobá",
+   "caixa": [
+    613,
+    917,
+    676,
+    949
+   ]
+  },
+  {
+   "nome": "Terra de Ninguém",
+   "alvo": "A Terra de Ninguém",
+   "caixa": [
+    284,
+    922,
+    357,
+    968
+   ]
+  },
+  {
+   "nome": "Arani",
+   "alvo": "Arani",
+   "caixa": [
+    338,
+    989,
+    402,
+    1020
+   ]
+  },
+  {
+   "nome": "Ybytu",
+   "alvo": "Ybytu",
+   "caixa": [
+    414,
+    978,
+    480,
+    1011
+   ]
+  },
+  {
+   "nome": "Avistá",
+   "alvo": "Reino dos Piquira",
+   "caixa": [
+    205,
+    147,
+    275,
+    179
+   ]
+  },
+  {
+   "nome": "Araxá",
+   "alvo": "Reino dos Abaquar",
+   "caixa": [
+    242,
+    313,
+    310,
+    345
+   ]
+  },
+  {
+   "nome": "Mar Imperial",
+   "alvo": "IMPÉRIO",
+   "caixa": [
+    393,
+    418,
+    464,
+    461
+   ]
+  },
+  {
+   "nome": "Landé",
+   "alvo": "Tupãsununga",
+   "caixa": [
+    699,
+    606,
+    769,
+    638
+   ]
+  },
+  {
+   "nome": "Yunorte",
+   "alvo": "Yu",
+   "caixa": [
+    746,
+    728,
+    814,
+    753
+   ]
+  }
+ ]
+}

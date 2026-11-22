@@ -3,6 +3,7 @@
 gera_indice.py — recria o índice do topo de fonte/ARCANO.md com links que funcionam.
 
 O que faz (e só isso):
+  0. Coloca no topo o mapa de Airy com os nomes clicáveis (dados em fonte/mapa-interativo.json).
   1. Troca o sumário antigo do Google Docs (links "#heading=" quebrados) por um índice novo,
      organizado como a wiki (Lore, Mundo, História, Povos, Império, Reinos, Facções, Ameaças...).
   2. Tira dos títulos o sufixo "{#id}" do Google Docs, que impede o link de funcionar no GitHub/VS Code,
@@ -23,6 +24,7 @@ import unicodedata
 from pathlib import Path
 
 import build_wiki as B
+import mapa_interativo as M
 
 RAIZ = Path(__file__).parent
 INI, FIM = "<!-- INDICE:INICIO -->", "<!-- INDICE:FIM -->"
@@ -152,7 +154,10 @@ def main():
     assert not faltam, f"títulos fora do índice: {faltam}"
     assert len(usados) == len(set(usados)), "título repetido no índice"
 
-    topo = ["# Índice", "", INI, "", *indice, "", FIM, ""]
+    por_titulo = {B.chave(s["titulo"]): s for s in secs}
+    mapa = M.html_mapa(lambda alvo: "#" + por_titulo[B.chave(alvo)]["ancora"])
+
+    topo = ["# Índice", "", mapa, "", INI, "", *indice, "", FIM, ""]
     arq.write_text("\n".join(topo + corpo), encoding="utf-8", newline="\n")
     print(f"OK: índice com {len(usados)} links gravado em {arq}")
 

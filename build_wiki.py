@@ -22,11 +22,13 @@ import os, re, shutil, sys, unicodedata
 from pathlib import Path
 
 import crosslink_seguro
+import mapa_interativo
 import pos_processamento
 
 RAIZ = Path(__file__).parent
 FONTE = RAIZ / "fonte" / "ARCANO.md"
 DOCS = RAIZ / "docs"
+MARCADOR_MAPA = "<!--MAPA-INTERATIVO-->"   # na home; vira o mapa clicável depois dos links cruzados
 IMAGENS = RAIZ / "fonte" / "imagens"   # imagens do ARCANO.md: ![descrição](imagens/arquivo.png)
 
 # ---------------------------------------------------------------------------
@@ -290,6 +292,26 @@ def monta_pagina(secs, fontes, titulo_menu):
     return "\n".join(partes)
 
 
+def insere_mapa(docs, paginas_por_alvo):
+    """Troca o marcador da home pelo mapa clicável (links para as páginas do site)."""
+    home = docs / "index.md"
+    txt = home.read_text(encoding="utf-8")
+    if MARCADOR_MAPA not in txt:
+        return 0
+
+    def href_de(alvo):
+        rel = paginas_por_alvo.get(chave(alvo))
+        if rel is None or not (docs / rel).exists():
+            sys.exit(f"ERRO (mapa interativo): '{alvo}' não corresponde a nenhuma página da wiki")
+        # use_directory_urls: reinos/elfin.md -> reinos/elfin/ ; imperio/index.md -> imperio/
+        return rel[:-len("index.md")] if rel.endswith("/index.md") else rel[:-3] + "/"
+
+    legenda = "*Clique no nome de um reino ou região para abrir a página.*"
+    bloco = mapa_interativo.html_mapa(href_de, "imagens/") + "\n\n" + legenda
+    home.write_text(txt.replace(MARCADOR_MAPA, bloco), encoding="utf-8", newline="\n")
+    return len(mapa_interativo.carrega()["regioes"])
+
+
 def ajusta_imagens(docs):
     """Copia fonte/imagens/ para docs/imagens/ e acerta o caminho das imagens em cada página.
 
@@ -383,7 +405,7 @@ def main():
     topo = [("Lore e Cosmologia", "lore"), ("O Mundo", "mundo"), ("História", "historia"), ("Povos", "povos"),
             ("O Império", "imperio"), ("Reinos e Cidades fora do Império", "reinos"), ("Facções", "faccoes"),
             ("Personagens", "personagens"), ("Ameaças", "ameacas"), ("Artefatos", "artefatos"), ("Magia", "magia")]
-    home = ["# Wiki Arcano & Airy\n", arcano["corpo"], "\n---\n", "[Introdução](introducao.md)\n"]
+    home = ["# Wiki Arcano & Airy\n", arcano["corpo"], "\n" + MARCADOR_MAPA + "\n", "\n---\n", "[Introdução](introducao.md)\n"]
     for nome, pasta in topo:
         destino = f"{pasta}/index.md" if (DOCS / pasta / "index.md").exists() else f"{pasta}/"
         home.append(f"- [{nome}]({destino})")
@@ -474,11 +496,19 @@ nav:
     # ---- links cruzados (seguros: só envolvem texto existente em link) ----------
     crosslink_seguro.executa(DOCS)
 
+    # ---- mapa clicável na home (depois dos links cruzados, para não mexerem no HTML) -----
+    por_alvo = {}
+    for _n, pasta, itens in ESTRUTURA:
+        for fonte, arq, _t in itens:
+            primeiro = fonte if isinstance(fonte, str) else fonte[0]
+            por_alvo[chave(primeiro)] = f"{pasta}/{arq}.md"
+    n_mapa = insere_mapa(DOCS, por_alvo)
+
     # ---- imagens (por último, para o caminho refletir o lugar final de cada página) ---
     n_img = ajusta_imagens(DOCS)
 
     n = sum(1 for _ in DOCS.rglob("*.md"))
-    print(f"OK: {n} páginas geradas em docs/ a partir de {len(secs)} seções da fonte ({n_img} imagens copiadas).")
+    print(f"OK: {n} páginas geradas em docs/ a partir de {len(secs)} seções da fonte ({n_img} imagens copiadas, {n_mapa} áreas clicáveis no mapa).")
 
 
 if __name__ == "__main__":
