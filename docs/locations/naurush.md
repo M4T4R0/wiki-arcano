@@ -1,39 +1,54 @@
 # Naur'Ush
 
-> **Região**: Pântanos Sudoeste (Terra Selvagem) | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Região**: [A DEFINIR] | **Fundação**: [A DEFINIR] | **Clima**: [A DEFINIR]
+
+---
+
+## 📜 Lore e História
+
+*Conteúdo a extrair do ARCANO_COMPLETO.md*
+
+---
+
+## 📜 História e Menções no Livro
+
+> **Ano 310 – A Separação dos Auçá:** Ror, o general dos Auçá, rompe relações com os Arcanos Imperiais após descobrir que sua espécie está sendo secretamente manipulada por rituais mágicos que limitam sua autonomia. Uma ala rebelde dos Auçá abandona a Muralha e funda uma cidade subterrânea nos pântanos chamada **Naur'Ush**, onde passam a acolher todos [os auçá](../races/individual/os-auçá-1-ponto.md) que desejam se libertar do controle imperial. Ror desaparece misteriosamente, e rumores indicam que foi assassinado por um agente da Ordem d...
+
+> * **Coração (H):** **Murketh (ou Esparcian).** Um assentamento de **Alta Densidade Populacional** e **Inexpugnável**, capital do reino. * **Assentamento:** **Fazendas de Peixe-boi.** Locais de produção econômica **Famosos por seus artesãos** (casta Bafão). * **Entreposto:** **Torres de Vigia da Muralha.** Locais **Conhecidos por suas defesas elaboradas** e guarnecidos pela [guarda açã](../npcs/individual/guarda-açã.md). * **Curiosidade:** **Área da Infestação.** Um território de **Névoa Perpétua** e realidade distorcida, adjacente...
 
 ---
 
 ## 📍 Localização
-- **Região**: Pântanos Sudoeste (Terra Selvagem)
-- **Tipo**: Auçá Livres (Subterrânea)
-- **Descrição**: Cidade subterrânea dos Auçá Livres nos pântanos a sudoeste da Infestação. População Auçá que rompeu com o Império mas mantém o dever de conter a Infestação.
+- **Região**: [A DEFINIR]
+- **Coordenadas**: [A DEFINIR]
+- **Clima**: [A DEFINIR]
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Auçá Livres (Subterrânea)
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: [A DEFINIR]
+- **Regente**: [A DEFINIR]
+- **Gentílico**: [A DEFINIR]
+- **População**: [A DEFINIR]
+- **Espécies**: [A DEFINIR]
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- Militarista e independente.
-- Vivem em túneis e cavernas, organizados em clãs guerreiros.
-- Leais apenas a si mesmos e ao dever sagrado..
-- **Layout**: Adaptado ao terreno e cultura
-- **Atmosfera**: Única à região e povo
+- **Características**: [A DEFINIR]
+- **Layout**: [A DEFINIR]
+- **Atmosfera**: [A DEFINIR]
 
 ---
 
 ## 💰 Economia e Recursos
-Abundância: Ferro de pântano, venenos, conhecimento de túneis. Escassez: Luz solar, comércio externo, aliados.
+- **Base**: [A DEFINIR]
+- **Especializações**: [A DEFINIR]
 
 ---
 
 ## 🌟 Vantagem Regional
-> **Personagens nascidos em [naur'ush](naurush.md)**: *Subterrâneo Nato (Infravisão; +1 Furtividade em túneis; imune a gases de pântano)*.
+> **Personagens nascidos em [naur'ush]**(naurush.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -41,19 +56,17 @@ Abundância: Ferro de pântano, venenos, conhecimento de túneis. Escassez: Luz 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **General dos Livres** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Mestre dos Túneis** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Xamã do Pântano** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Líder Local** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Figura Notável** | Papel-chave | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **O Poço (Capital)** | Característica única da região |
-| **Túneis de Defesa** | Característica única da região |
-| **Fábrica de Armas** | Característica única da região |
-| **Altar da Liberdade** | Característica única da região |
+| **Centro Principal** | Coração político/cultural/econômico |
+| **Marco Geográfico** | Característica única da região |
+| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
@@ -67,14 +80,14 @@ Abundância: Ferro de pântano, venenos, conhecimento de túneis. Escassez: Luz 
 ---
 
 ## 📜 História Recente
-- **Fundação/Origem**: Antiga ou expansão imperial
+- **Fundação/Origem**: [A DEFINIR]
 - **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
 - **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
 ## 🌟 Vantagem Regional
-> **Personagens nascidos em [naur'ush](naurush.md)**: *Subterrâneo Nato (Infravisão; +1 Furtividade em túneis; imune a gases de pântano)*.
+> **Personagens nascidos em [naur'ush]**(naurush.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -85,4 +98,4 @@ Abundância: Ferro de pântano, venenos, conhecimento de túneis. Escassez: Luz 
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

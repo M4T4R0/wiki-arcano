@@ -1,40 +1,56 @@
-# Terras dos Auçá
+# Terras dos Auçás
 
-> **Região**: Além da Infestação (Oeste) | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Região**: [A DEFINIR] | **Fundação**: [A DEFINIR] | **Clima**: [A DEFINIR]
+
+---
+
+## 📜 Lore e História
+
+*Conteúdo a extrair do ARCANO_COMPLETO.md*
+
+---
+
+## 📜 História e Menções no Livro
+
+> Uma Volta pelo mundo. No coração do continente fica o Império Aba, onde o Espécie dos Aba (os humanos deste mundo) vivem em toda a sua plenitude e de cadência. Ao Norte ficam as Montanhas Beniti, lar do último refúgio dos orgulhosos Akitã (Anões), mais além fica a Floresta Proibida lar dos Abaré (Elfos), que vivem na sua cidade nas copas das árvores [elfin](../factions/reinos/elfin.md). A Leste fica o deserto, onde homens e monstros disputam os poucos recursos, seus principais Reinos são [landé](../factions/reinos/lande.md), o Reino Portuário, Yby, reino d...
+
+> No ano de 568 [os auçá](../races/individual/os-auçá-1-ponto.md) declaram sua independência e se declaram como um novo povo, reivindicando as terras além da área da infestação para a sua espécie. Lá eles criam as [terras dos auçá](../factions/reinos/terras-auca.md), com uma cidade Capital chamada de O poço e várias cidades menores, eles continuam seu trabalho de defender o mundo da infestação, mas não recebem mais ordens de ninguém.
+
+> Thibaut cresceu em uma das grandes cidades das [terras dos auçá](../factions/reinos/terras-auca.md), órfão sempre foi oprimido pelas castas superiores, então ele se tornou um ladrão e assassino, até que conseguiu fugir para o império juntamente com seus amigos.
 
 ---
 
 ## 📍 Localização
-- **Região**: Além da Infestação (Oeste)
-- **Tipo**: Auçá Imperiais / Nação Militarista
-- **Descrição**: Terras a oeste da Infestação, concedidas aos Auçá pelo tratado de paz do Ano 392. Nação de homens com exoesqueleto natural, extremamente militaristas, que continuam defendendo o mundo civilizado na Grande Muralha.
+- **Região**: [A DEFINIR]
+- **Coordenadas**: [A DEFINIR]
+- **Clima**: [A DEFINIR]
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Auçá Imperiais / Nação Militarista
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: [A DEFINIR]
+- **Regente**: [A DEFINIR]
+- **Gentílico**: [A DEFINIR]
+- **População**: [A DEFINIR]
+- **Espécies**: [A DEFINIR]
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- Totalmente militarizada.
-- Sociedade organizada em castas de guerra.
-- Dever sagrado: conter a Infestação.
-- Crescimento populacional explosivo (maior espécie de Airy)..
-- **Layout**: Adaptado ao terreno e cultura
-- **Atmosfera**: Única à região e povo
+- **Características**: [A DEFINIR]
+- **Layout**: [A DEFINIR]
+- **Atmosfera**: [A DEFINIR]
 
 ---
 
 ## 💰 Economia e Recursos
-Abundância: Guerreiros, exoesqueleto natural, minérios, armas. Escassez: Diplomacia, magia arcana, liberdade civil.
+- **Base**: [A DEFINIR]
+- **Especializações**: [A DEFINIR]
 
 ---
 
 ## 🌟 Vantagem Regional
-> **Personagens nascidos em [terras dos auçá](terras-auca.md)**: *Exoesqueleto Natural (Armadura +2 natural; Regeneração 1 PV/rodada; imune a Infestação; Fraqueza: Obsidiana)*.
+> **Personagens nascidos em [terras dos auçás]**(terras-auca.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -42,20 +58,17 @@ Abundância: Guerreiros, exoesqueleto natural, minérios, armas. Escassez: Diplo
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Comandante Supremo** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Mestre da Muralha** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Rainha das Ninhadas** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Líder Local** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Figura Notável** | Papel-chave | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Grande Muralha** | Característica única da região |
-| **O Poço** | Característica única da região |
-| **Ninhadas Centrais** | Característica única da região |
-| **Fábricas de Guerra** | Característica única da região |
-| **Campos de Treinamento** | Característica única da região |
+| **Centro Principal** | Coração político/cultural/econômico |
+| **Marco Geográfico** | Característica única da região |
+| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
@@ -69,14 +82,14 @@ Abundância: Guerreiros, exoesqueleto natural, minérios, armas. Escassez: Diplo
 ---
 
 ## 📜 História Recente
-- **Fundação/Origem**: Antiga ou expansão imperial
+- **Fundação/Origem**: [A DEFINIR]
 - **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
 - **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
 ## 🌟 Vantagem Regional
-> **Personagens nascidos em [terras dos auçá](terras-auca.md)**: *Exoesqueleto Natural (Armadura +2 natural; Regeneração 1 PV/rodada; imune a Infestação; Fraqueza: Obsidiana)*.
+> **Personagens nascidos em [terras dos auçás]**(terras-auca.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -87,4 +100,4 @@ Abundância: Guerreiros, exoesqueleto natural, minérios, armas. Escassez: Diplo
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

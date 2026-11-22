@@ -1,113 +1,115 @@
-# Irundyna — Epicentro da Infestação
+# Irundyna
 
-> **Antiga Aslareth** — Cidade gêmea de [kisé](kise.md), agora epicentro da corrupção. Solo pulsante, torre de obsidiana viva, realidade distorcida.
+> **Região**: [A DEFINIR] | **Fundação**: [A DEFINIR] | **Clima**: [A DEFINIR]
+
+---
+
+## 📜 Lore e História
+
+*Conteúdo a extrair do ARCANO_COMPLETO.md*
+
+---
+
+## 📜 História e Menções no Livro
+
+> * **[kisé](../factions/reinos/kise.md)** (antigo Norvaen) e **Irundyna** (Antiga capital Aslareth) , cidades gêmeas da época de Aslareth são repovoadas e dispostas como postos militares estratégicos.
+
+> **Ano 253 – O Surgimento do Mal:** Surge um mago de poder inigualável, conhecido apenas como *Mal*. Seu verdadeiro nome foi esquecido — embora alguns estudiosos afirmem tratar-se de *[misty as-la](../npcs/individual/misty-as-la-arquimago-possível-mal.md)*, retornado de um exílio autoimposto. Nada é comprovado. Mal ergue uma torre de obsidiana viva em **Irundyna** cidade criada a partir das ruínas da antiga Aslareth, outrora capital cultural da região norte, agora um local amaldiçoado que marca o centro da futura *Área Infestada*. No Senado Imperial, come...
+
+> **Irundyna, A Antiga Capital:** Irundyna foi uma dos reinos pertencentes ao Império, até que em 253 a cidade cai por um ataque de Mal e de lá ele cria sua cidade chamada de Necrotropia. Hoje o reino não existe mais de forma formal e a cidade de Irundyna é o epicentro da Área da Infestação.
+
+> Tema: O Poder, o sucesso quando finalmente conquistado chega com gosto ruim de cinzas. Vencer é só uma das formas mais lentas de perder tudo que ama. Continuação: A traição de Eligos. Ficamos sabendo que ele é que cria os Arcanos Imperiais e orienta como derrotar Mal. M.A.L. 1- O Espelho no Fim do Caminho O mundo tinha uma cicatriz que ninguém ousava tocar, era uma linha fina, parecia um fio de cabelo incômodo de se olhar. Misty parou diante dela, num mundo que nem os deuses se davam ao trabalho...
+
+> Pequenas detecções por parte do governo. Os magos começam a ligar os pontos. No dia seguinte, cruzou a grande ponte que ligava o continente à cidade de Ypy. Temeu que os guardas o revistassem, e ter de fugir outra vez. Mas passou despercebido, dissolvido num grupo de pessoas que avançava na mesma direção. Do outro lado da ponte, a cidade ergueu-se diante dele. Se Irundyna dava a impressão de uma montanha erguida por homens, Ypy fora moldada por pura feitiçaria. Suas torres brotavam espremidas um...
+
+> Única pendência real antes de escrever a prosa final: a linha de eco com a decisão original de abandonar Airy, que mencionei acima. É pequena, mas acho que é o elo que transforma essa cena de "boa decisão tática" para "o momento que paga toda a construção emocional dos capítulos 1 a 5". 6-Memória, o feitiço que ninguém aprendeu a quebrar A névoa cobria a cidade como um véu velho e desbotado. Não escondia, mas sugeria demais. Não era natural. Era mágica, espessa, saindo em jorros lentos dos alçap...
+
+> 25-Lembranças do Massacre A cripta não tinha nome. Era o tipo de estrutura que existe perto de todas as cidades antigas, erguida por alguma razão que ninguém mais lembrava, criada para alguma função que foi substituída por outra, e depois abandonada com a naturalidade de quem abandona qualquer coisa que parou de ser útil. As pedras eram boas, as paredes resistiram ao tempo. Misty havia escolhido por isso. O espelho que trouxera não era o Sangral era um artefato menor, comprado num mercado de Ypy...
+
+> 30-O Preço que ninguém vê Na penumbra de uma câmara improvisada nos subterrâneos do Senado, espelhos cobriam as paredes de forma desordenada, como se tivessem sido trazidos às pressas. O ar parado sufocava tudo. Lector via seu reflexo múltiplo e distorcido nos espelhos, No centro da sala, Lector tinha feito um círculo rúnico, com símbolos antigos. Ele passou o dedo sobre os símbolos. Repetindo exatamente os mesmos desenhos no chão de pedra, mesmo sem entender nenhum deles. O símbolo estava desga...
+
+> 32-A Cidade Que Não Sabia Fugir O horizonte havia desaparecido, não existia mais uma linha entre o céu e a terra, apenas movimento. Os soldados estavam na muralha da pequena cidade, eram os últimos remanescentes de Irundyna, eles observavam o horizonte. Para quem não prestasse muita atenção poderia parecer um acontecimento natural qualquer. Mas quem olhasse com cuidado poderia ver movimento, o horizonte parecia vivo, onde antes existiam campos agora haviam corpos, tantos que já não era possível ...
 
 ---
 
 ## 📍 Localização
-- **Região**: Norte do Império Aba, **dentro da Área Infestada**
-- **Coordenadas**: 30 min a norte de [kisé](kise.md); margem leste do Rio Tupã
-- **Status**: **Zona de exclusão** — entrada proibida por Decreto Imperial
-- **Clima**: Anômalo — ar fede a éter, temperatura instável, chuva de cinzas
+- **Região**: [A DEFINIR]
+- **Coordenadas**: [A DEFINIR]
+- **Clima**: [A DEFINIR]
 
 ---
 
-## 🏛️ História
-- **Fundação**: -29 anos (repopulação de **Aslareth**, antiga capital cultural)
-- **Nome original**: Aslareth → renomeada [irundyna](irundyna.md) após corrupção
-- **Ano 253**: **Mal** ergue **torre de obsidiana viva** no centro da cidade
-- **Ano 256**: Barreira arcana falha; **Infestação desperta** em [irundyna](irundyna.md)
-- **Atual**: Cidade **condenada**; realidade distorcida; ninguém entra e sai são
+## 🏛️ Governo e Política
+- **Tipo**: [A DEFINIR]
+- **Regente**: [A DEFINIR]
+- **Gentílico**: [A DEFINIR]
+- **População**: [A DEFINIR]
+- **Espécies**: [A DEFINIR]
 
 ---
 
-## 🏙️ A Cidade Hoje
-- **População**: **Zero oficial** — apenas Infestados, Algozes, Feiticeiros Infestados
-- **Estruturas**: Torcidas, fundidas ao solo, "vivas" (pulso no concreto)
-- **Torre Central**: **Obsidiana viva** — cresce 1 metro/semana; pulsa com Trevas
-- **Ruído**: Baixo zumbido constante (som da corrupção)
-- **Luz**: Crepuscular permanente; sombras se movem sozinhas
+## 🏙️ Cidade/Assentamento
+- **Características**: [A DEFINIR]
+- **Layout**: [A DEFINIR]
+- **Atmosfera**: [A DEFINIR]
 
 ---
 
-## 🌪️ A Infestação em Irundyna
-| Aspecto | Detalhe |
-|---------|---------|
-| **Epicentro** | Torre de obsidiana — fonte da corrupção |
-| **Raio ativo** | ~50 km da torre (expande 1 km/mês) |
-| **Criaturas** | Infestados (mente coletiva), Algozes, Feiticeiros Infestados, Mortos-vivos rápidos |
-| **Efeitos mágicos** | Trevas dominantes; Mana instável; conjurar atrai atenção |
-| **Realidade** | Distorcida — distâncias mudam, portas levam a lugares errados, tempo não linear |
+## 💰 Economia e Recursos
+- **Base**: [A DEFINIR]
+- **Especializações**: [A DEFINIR]
 
 ---
 
-## ⚔️ Militar / Contenção
-- **Zona de Exclusão Imperial**: Decreto proíbe entrada; pena de morte
-- **Patrulhas de [kisé](kise.md)**: Monitoram fronteira (30 min ao sul); atiram para matar
-- **Barreira Arcana**: Erguida por Alarion + 3 Generais (Ano 256); **falhando**
-- **Arcanos Imperiais**: Monitoram à distância; tentam rituais de selamento (falharam)
-
----
-
-## 💀 Quem Habita (Oficiosamente)
-| Tipo | Descrição |
-|------|-----------|
-| **Infestados** | Mente coletiva; deformados pelas Trevas; expandem a Infestação |
-| **Algozes** | Guerreiros Infestados; imortais; lideram hordas |
-| **Feiticeiros Infestados** | Magia negra; imortalidade; corrompem realidade |
-| **Mortos-vivos** | Levantam rápido na área; servem a mente coletiva |
-| **Mal?** | Rumores: a entidade *Mal* ainda vive na torre |
-
----
-
-## 🌟 Vantagem Regional: **Nenhuma (Corrompida)**
-> **Personagens nascidos em [irundyna](irundyna.md) (antes da queda)**: *Memória da Muralha* — +1 em testes defensivos em ruínas.
-> **Nascer lá AGORA**: Impossível — zona morta.
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [irundyna]**(irundyna.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Mal** | Entidade da Torre | Poder inigualável; criou Infestação; derrotado? (Ano 256) |
-| **Feiticeiro-Chefe** | Líder Infestados | Ex-arcano imperial corrompido |
-| **Algoz-Mor** | General Infestado | Imortal; comanda hordas; ex-general imperial? |
+| **Líder Local** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Figura Notável** | Papel-chave | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Torre de Obsidiana Viva** | Coração da Infestação; cresce; pulsa; emite Trevas |
-| **Praça Central** | Onde Mal ergueu a torre; solo negro; nada cresce |
-| **Templo Corrompido** | Antigo templo da Mana; agora altar das Trevas |
-| **Ruínas do Palácio** | Onde governantes de Aslareth morreram; tesouros? |
-| **Fronteira Sul** | Onde barreira arcana falha; patrulhas de [kisé](kise.md) atiram |
+| **Centro Principal** | Coração político/cultural/econômico |
+| **Marco Geográfico** | Característica única da região |
+| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
 ## 🎯 Ganchos de Aventura
-1. **Ritual de Selamento** — Arcanos precisam de componentes raros + PCs para ritual na torre
-2. **Resgate Impossível** — Alguém importante foi levado para [irundyna](irundyna.md) vivo (refém dos Infestados)
-3. **Artefato na Torre** — Componente para selar Infestação está no topo da torre
-4. **Espião Infestado** — Alguém em [kisé](kise.md)/Ypy é secretamente Infestado; rastro leva à torre
-5. **Mal Ainda Vive** — Rumores: Mal não morreu; regenera na torre; precisa ser morto de verdade
+1. **Conflito Local** — Tensão política/racial/recursos na região
+2. **Ameaça Externa** — Inimigo se aproxima (Infestação, Abaité, Império, etc.)
+3. **Segredo Antigo** — Ruína/artefato/mistério descoberto na área
+4. **Sucessão/Disputa** — Poder em jogo; facções disputam controle
+5. **Recurso Vital** — Algo essencial (água, minério, magia) em risco
 
 ---
 
-## ⚠️ Regras Especiais (Para Mestre)
-| Regra | Efeito |
-|-------|--------|
-| **Entrar em [irundyna](irundyna.md)** | Teste de Resistência (Difícil) a cada hora — falha = 1 Ponto de Trevas |
-| **Magia na cidade** | Custo -1 PM (Trevas subsidiam) + **1 Ponto de Trevas** automático por conjuração |
-| **Dormir na cidade** | Pesadelos; não recupera PM; teste de Resistência ou ganha 1 Trevas |
-| **Sair da cidade** | Teste de Resistência (Muito Difícil) — falha = carrega Infestação (doença) |
+## 📜 História Recente
+- **Fundação/Origem**: [A DEFINIR]
+- **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
+- **Atual**: Situação política/militar atual; tensões ativas
+
+---
+
+## 🌟 Vantagem Regional
+> **Personagens nascidos em [irundyna]**(irundyna.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
+> *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
 
 ## 🔗 Links Relacionados
-- [Kisé](kise.md) — Cidade gêmea (30 min sul; base de contenção)
-- [Ypy](ypy.md) — Capital (2h sul; comando imperial)
-- [Área Infestada](../geografia/area-infestada.md) — Visão geral da região
-- [Mal / Escuridão](../../npcs/index.md#mal-entidade-da-torre) — NPC principal
-- [Trevas](../../magic/trevas.md) — Mecânica de corrupção
+- [Índice dos Reinos](../factions/reinos/index.md) — Volta ao índice mestre
+- [Império de Aba](../factions/imperio-aba.md) — Contexto imperial (se aplica)
+
+---
+
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*

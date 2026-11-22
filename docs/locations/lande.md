@@ -1,38 +1,58 @@
 # Landé
 
-> **Região**: Deserto Leste | **Fundação**: Antiga/Variada | **Clima**: Variado
+> **Região**: [A DEFINIR] | **Fundação**: [A DEFINIR] | **Clima**: [A DEFINIR]
+
+---
+
+## 📜 Lore e História
+
+*Conteúdo a extrair do ARCANO_COMPLETO.md*
+
+---
+
+## 📜 História e Menções no Livro
+
+> Uma Volta pelo mundo. No coração do continente fica o Império Aba, onde o Espécie dos Aba (os humanos deste mundo) vivem em toda a sua plenitude e de cadência. Ao Norte ficam as Montanhas Beniti, lar do último refúgio dos orgulhosos Akitã (Anões), mais além fica a Floresta Proibida lar dos Abaré (Elfos), que vivem na sua cidade nas copas das árvores [elfin](../factions/reinos/elfin.md). A Leste fica o deserto, onde homens e monstros disputam os poucos recursos, seus principais Reinos são Landé, o Reino Portuário, Yby, reino d...
+
+> | Outros Reinos Antigos antes do surgimento do Império Suas terras ficavam onde hoje se situa as terras do império. A maioria deles foram conquistados e absolvidos pelo próprio Império, outros foram se conquistando entre si e depois foram conquistados pelo Império. Como de costume sua cultura foi arrasada e substituída violentamente pelas leis imperiais. Karundar, o Reino das Forjas Eternas Capital: Pedraltiva Reputação: Bélico, orgulhoso, militarizado. Especialidade: Minérios raros, forjas sagr...
+
+> Os Arquimagos de Yu ocupavam seu espaço em silêncio contemplativo, envoltos em quimonos de seda ornamentados com símbolos ancestrais. Os homens-animais de Landé exibiam uma variedade de formas antropomórficas, dos ágeis homens felinos aos robustos homens ursos, cada um trazendo consigo algo da natureza que representava.
+
+> Por fim, os homens-animais de Landé ocupavam seu lugar na assembleia, exibindo uma variedade impressionante de formas antropomórficas que refletiam a diversidade e a riqueza da vida selvagem. Dos ágeis felinos aos robustos ursos, cada um trazia consigo uma conexão profunda com as forças da natureza e um instinto de proteção em relação ao mundo que compartilhavam.
 
 ---
 
 ## 📍 Localização
-- **Região**: Deserto Leste
-- **Tipo**: Reino Portuário
-- **Descrição**: Reino portuário no deserto leste, porta de entrada marítima para as terras áridas. Conhecido pelo comércio marítimo e como ponto de passagem para o interior do deserto.
+- **Região**: [A DEFINIR]
+- **Coordenadas**: [A DEFINIR]
+- **Clima**: [A DEFINIR]
 
 ---
 
 ## 🏛️ Governo e Política
-- **Tipo**: Reino Portuário
-- **Lealdade**: Variada (Império, Independente, ou própria facção)
-- **Estrutura**: Governança adaptada à cultura local
+- **Tipo**: [A DEFINIR]
+- **Regente**: [A DEFINIR]
+- **Gentílico**: [A DEFINIR]
+- **População**: [A DEFINIR]
+- **Espécies**: [A DEFINIR]
 
 ---
 
 ## 🏙️ Cidade/Assentamento
-- Comerciante e adaptada ao deserto.
-- A vida gira em torno do porto, das rotas de caravanas e do comércio de especiarias, tecidos e água..
-- **Layout**: Adaptado ao terreno e cultura
-- **Atmosfera**: Única à região e povo
+- **Características**: [A DEFINIR]
+- **Layout**: [A DEFINIR]
+- **Atmosfera**: [A DEFINIR]
 
 ---
 
 ## 💰 Economia e Recursos
-Abundância: Comércio marítimo, sal, peixes, rotas de caravanas. Escassez: Água doce, terras aráveis.
+- **Base**: [A DEFINIR]
+- **Especializações**: [A DEFINIR]
 
 ---
 
 ## 🌟 Vantagem Regional
-> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo (+1 Negociação; conhece rotas e taxas portuárias)*.
+> **Personagens nascidos em [landé]**(lande.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -40,17 +60,17 @@ Abundância: Comércio marítimo, sal, peixes, rotas de caravanas. Escassez: Ág
 ## 👥 NPCs Notáveis
 | Nome | Papel | Detalhes |
 |------|-------|----------|
-| **Governador Portuário** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
-| **Mestre de Caravanas** | Papel-chave | Detalhes a extrair do ARCANO_COMPLETO.md |
+| **Líder Local** | Governante | Detalhes no ARCANO_COMPLETO.md |
+| **Figura Notável** | Papel-chave | Detalhes no ARCANO_COMPLETO.md |
 
 ---
 
 ## 🗺️ Pontos de Interesse
 | Local | Descrição |
 |-------|-----------|
-| **Porto Principal** | Característica única da região |
-| **Mercado das Caravanas** | Característica única da região |
-| **Farol do Deserto** | Característica única da região |
+| **Centro Principal** | Coração político/cultural/econômico |
+| **Marco Geográfico** | Característica única da região |
+| **Local Sagrado/Histórico** | Importância cultural/religiosa |
 
 ---
 
@@ -64,14 +84,14 @@ Abundância: Comércio marítimo, sal, peixes, rotas de caravanas. Escassez: Ág
 ---
 
 ## 📜 História Recente
-- **Fundação/Origem**: Antiga ou expansão imperial
+- **Fundação/Origem**: [A DEFINIR]
 - **Eventos-chave**: Guerras, tratados, cataclismos, mudanças de poder
 - **Atual**: Situação política/militar atual; tensões ativas
 
 ---
 
 ## 🌟 Vantagem Regional
-> **Personagens nascidos em [landé](lande.md)**: *Comércio Marítimo (+1 Negociação; conhece rotas e taxas portuárias)*.
+> **Personagens nascidos em [landé]**(lande.md): *Vantagem Regional* (detalhes a extrair do ARCANO_COMPLETO.md).
 > *Nascer aqui molda corpo e mente conforme a terra.*
 
 ---
@@ -82,4 +102,4 @@ Abundância: Comércio marítimo, sal, peixes, rotas de caravanas. Escassez: Ág
 
 ---
 
-> *Página base — complete com detalhes do ARCANO_COMPLETO.md*
+> *Página populada a partir do ARCANO_COMPLETO.md — revise e complete*
