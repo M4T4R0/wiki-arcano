@@ -1,0 +1,11 @@
+# Rocca, a Geomante
+
+*Origem: [Camuá](../../imperio/reinos-vassalos/camua.md)*
+
+Rocca é uma garota loira, cabelos longos, olhos sépia, 1,40m, 43kg, veste uma blusa de lã vermelha, short preto curto, e na cintura, uma bainha com sabre. Rocca era uma menina órfã que vivia com um velho geomante louco numa remota vila nas montanhas Atã. Este senhor era amigo dos pais dela. O pai dela havia morrido nas áreas Desmorta, e sua mãe morreu de tristeza alguns meses após Rocca nascer. O velho, chamado Kappa, cuidou de Rocca ensinando-a a arte da geomancia, mas como efeito colateral, ela cresceu louca como Kappa e seus treinamentos sempre causavam estragos na vila. Quando Kappa morreu, Rocca se viu sozinha em Airy e ficou morando nas ruas da vila. Um dia, ouvindo um bardo cantar, ficou sabendo dos [Arcanos Imperiais](../../faccoes/arcanos-imperiais/index.md) e a esperança de encontrar um arcano imperial capaz de ressuscitar Kappa brilhou no coração da jovem geomante, que hoje está pronta para encarar todo tipo de horror em busca de seus objetivos.
+
+Rocca se sacrificou nas Nas Montanhas Rocca (que foram batizadas com o nome dela após esse ato), para Selar Vulcazar nas entranhas da Montanha.
+
+Após usar seu poder da Terra para terminar a luta, Rocca saiu vitoriosa, mas essa vitória custou um alto preço: Sua vida.
+
+Rocca abre seus olhos, e se vê em um enorme vale sem vida cujo horizonte não se vê. Ela se levanta, e começa a andar. Por algum motivo, seu coração não bate e ela não sente cansaço algum. Mas depois de dois dias de caminhada, ela chega a um lugar com colinas cobertas de grama. Mais algumas horas e ela chega em um vilarejo, com várias pessoas aparentemente felizes e no fim da vila, um palácio. Quando ela entra na aldeia, as pessoas começam a olhar para ela e cochichar coisas umas com as outras, até que dois guardas do palácio chegam e vão até ela. Os guardas a levam para o palácio e a apresentam para o rei, um homem alto com cabelos brancos e longos e aparência de elfo. Ele a olha sério, mas Rocca não se assusta. O Deus a transforma em um anjo e da aela Sabre de Megaera  e a Paladina vai a procura de seu amigo Kappa. Rocca anda em direção à saída do palácio, na mão o Sabre de Megaera, no coração a alegria de uma nova aventura..

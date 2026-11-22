@@ -1,0 +1,7 @@
+# Holgar
+
+*Origem: [Fortuna](../../reinos/fortuna.md)*
+
+Um Meio-Abaité bárbaro Chamado Holgar que parece fazer o trabalho pesado do navio, ele é tão alto quanto SirKryiit, e não parece nem de longe o sujeito esperto que [Vulcazar](../terra-selvagem/vulcazar.md) era, aliás nenhum meio orc parece ser tão astuto quanto Vulcazar, todos são meio estúpidos e sem cultura, assim como Holgar, que se limita a contar vantagem de seus músculos poderosos e contar histórias da onde conseguiu suas cicatrizes de batalha. Rumores entre os marujos sugerem que Holgar é chamado de Morte aos Fracos, porque despreza seres mais fracos fisicamente que ele frequentemente olha para SirKryiit e parece rosnar para ele. Grrrrrrrrrrrrrrrrrrrrrrr
+
+Holgar é um meio-orc que foi criado em uma tribo humana Bárbara nos campos do sul, desde muito jovem optou por abandonar a sua comunidade onde sempre foi discriminado pela sua condição de ser MEIO do Espécie somente. Um pouco antes de ser considerado um adulto na tribo, pegou sua pesada clava, seu manto de couro e saiu para conhecer o mundo. Suas incríveis habilidades em combate o tornaram muito requisitado como mercenário em todo o reino, propiciando a ser conhecido por seu grito de guerra característico, “Morte aos Fracos” (pelo menos é isso que seus inimigos identificam porque ele não fala uma palavra de qualquer idioma). Hoje Holgar é conhecido em todo o mundo por sua intolerância a seres mais fracos que ele.

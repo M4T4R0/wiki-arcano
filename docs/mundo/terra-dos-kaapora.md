@@ -1,0 +1,3 @@
+# Terra dos Kaapora
+
+Muito longe das terras do império, nas longínquas Florestas e Colinas Icarú um pouca antes de o [Deserto Açu](deserto-acu.md) começar a deixar as terra áridadas, fica a terra dos Kaapora (Halfings), um povo pacífico que vive em suas casas integradas nas colinas da sua terra, isolados do mundo em sua própria realidade, tranquila, mas às vezes surge algum Kaapora disposto a se aventurar pelo mundo espalhando a sua cultura. As suas terras nas colinas Icarú são muito pacíficas, praticamente não há segurança contra estrangeiros e invasores mas isso não quer dizer que não haja ninguém para defendê-las, cada vila tem a sua milícia bem armada e treinada, e pronta para entrar em ação.

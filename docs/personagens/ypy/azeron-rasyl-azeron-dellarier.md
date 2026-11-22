@@ -1,0 +1,5 @@
+# Azeron (Rasyl Azeron Dellarier)
+
+*Origem: [Ypy](../../imperio/reinos-vassalos/ypy.md)*
+
+Azeron, também conhecido pelos pseudônimos Horripilus Belmonte e Benedito Salvador, é o neto de [Durell Azeron](durell-azeron.md) e o protagonista de várias narrativas no cenário de Arcano, inicialmente um estudante na escola de magia mais prestigiada do Império, embora fosse pressionado a seguir a carreira de medimago por seu pai. Ele era o melhor aluno em todas as matérias e o líder do Time do Drago. Após uma aventura fracassada com o Professor Gorgo em Hardenvul, Azeron perdeu seu braço, que foi substituído por um Mecanar, e seu olho direito, substituído por um "olho de dragão", o que o levou a ser suspenso das atividades da arena e a ter sua clonagem de membros negada por sua família. Ele é descrito como magro, sombrio, com a cabeça raspada no início, mas é um poderoso Mago dos Ventos que consegue impulsionar sua velocidade com magia. Após ser manipulado por [Gorgo](../ybi/gorgo.md) para devastar Carnago, ele se tornou um fugitivo caçado pelos [Arcanos Imperiais](../../faccoes/arcanos-imperiais/index.md).

@@ -1,0 +1,25 @@
+# Introdução
+
+O Império é uma vasta e decadente nação, governada por uma elite política imperial que se agarra ao poder com unhas e dentes. Esse regime opressor mantém sua soberania por meio de uma combinação sufocante de estagnação científica e tecnológica, regressão intelectual e uma profunda xenofobia, mergulhando sua população na ignorância. A sociedade é mantida sob controle através da manipulação da informação, onde todas as notícias do império é rigidamente controlada, que reforça o poder e alimenta o culto às autoridades estatais.
+
+A humanidade, sob esse regime totalitário e corrompido, vive em um estado constante de medo e submissão. O Império, embora desmoronando por dentro devido à corrupção e à ineficácia de seus líderes, ainda mantém a ilusão de poder por meio da opressão brutal. A repressão é acompanhada de uma guerra de propaganda, onde o governo se posiciona como a única barreira entre a civilização e o caos representado por inimigos externos e internos. Nesse cenário, não há vilões "menores" ou "menos piores" — o Império e suas ameaças são duas faces de uma mesma moeda cruel e implacável.
+
+A força militar principal do Império é o Exército Imperial, uma organização massiva de soldados que defendem territórios estratégicos e respondem a crises nas fronteiras e além. Esses homens e mulheres são usados como bucha de canhão em guerras constantes pela sobrevivência humana, lutando contra espécies monstruosos, rebeldes e outras ameaças externas. Cada perda no campo de batalha tem um impacto profundo, pois a população já é duramente oprimida e enfraquecida por uma vida de servidão ao estado.
+
+Paralelamente ao Exército Imperial, existem os temidos [Arcanos Imperiais](faccoes/arcanos-imperiais/index.md), organização que funciona como uma polícia secreta do império. Sua missão é eliminar qualquer ameaça que possa desafiar a estabilidade do regime — sejam traidores, monstruosidades, demônios ou espécies monstruosos. Os Arcanos são especialistas em infiltração e controle social, operando nas sombras e instilando terror na população com sua autoridade ilimitada. Nenhuma autoridade, nem mesmo os reis subordinados ao Império, ousa questionar suas ações, pois eles respondem apenas ao próprio imperador.
+
+Apesar de seu aparato de controle militar e político, o Império enfrenta uma era de decadência e recessão. A inovação foi sufocada, a tecnologia estagnou e a cultura intelectual regrediu, tudo devido ao esmagador peso do estado sobre os indivíduos. Burocracia, corrupção e um senso paralisante de impotência permeiam todas as instituições, sufocando qualquer esperança de progresso ou renovação.
+
+Ao mesmo tempo, o Império luta desesperadamente contra forças externas e internas que ameaçam constantemente sua sobrevivência. As Terras Selvagens, um território habitado por espécies monstruosos xenofóbicos, lançam ataques incessantes na tentativa de destruir o que resta da humanidade. Além dessas ameaças, há criaturas infernais e demônios vindos dos Planos Inferiores, corrompendo tudo o que tocam, trazendo as Trevas para infectar o mundo dos homens em troca de poder.
+
+Por mais que o Império seja brutal e decadente, ele é a última linha de defesa da humanidade. Apesar de todas as suas falhas, sua burocracia sufocante e sua corrupção desenfreada, ele ainda se apresenta como o único bastião contra a extinção iminente. Enquanto o Império resiste, ele mantém a humanidade à beira do abismo, enfrentando o caos com um sistema de controle tão tirânico quanto às ameaças que o cercam.
+
+**Airy: Um Mundo de Perigos Inimagináveis**
+
+Em Airy, um mundo dominado pela selvageria, a existência de cidades e vilas é uma façanha, protegidas apenas por suas imponentes e fortificadas muralhas. Aventurar-se além destas barreiras representa um desafio mortal; somente os excepcionalmente valentes ou incrivelmente insensatos ousam tal empreitada. Aberrantes monstros e implacáveis saqueadores percorrem as vastas planícies, caçando viajantes incautos, enquanto perigos indizíveis espreitam aqueles que possuem a audácia de explorar.
+
+Vocês podem se questionar sobre a razão de tamanha periculosidade além das muralhas. A resposta jaz na [Área da Infestação](imperio/estados-tampoes/area-da-infestacao.md), epicentro de onde emanam horrores sem fim – monstros, aberrações e entidades sobrenaturais que assolam Airy. Dessa zona nefasta surgem criaturas grotescas, fruto da corrupção pelas Trevas, que antes eram seres comuns deste mundo.
+
+Contudo, o perigo em Airy não se limita apenas às ameaças externas. Dentro das muralhas, monstros de outra natureza: oportunistas gananciosos, soberanos déspotas obcecados por poder, comerciantes inescrupulosos e funcionários públicos corruptos. Neste lugar, todos buscam tirar vantagem — desde o mendigo na esquina até o próprio governante. Virtudes como caridade, bondade e compaixão, embora ainda presentes, tornaram-se raridades, tesouros escondidos que não são encontrados sem uma busca diligente.
+
+Airy é um mundo onde o perigo une-se à corrupção, desafiando seus habitantes a encontrar esperança em meio ao caos.

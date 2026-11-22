@@ -1,0 +1,11 @@
+# O Senado
+
+O Senado Imperial é o verdadeiro núcleo de poder do Império Aba, funcionando como uma máquina de enriquecimento pessoal e opressão sistemática sob a fachada de uma democracia. Embora seja apresentado como um órgão "eleito pelo povo", as eleições são completamente manipuladas por meio de processos propositalmente confusos e contagens de votos baseadas em regras obscuras. Apenas candidatos previamente aprovados pelos próprios senadores conseguem ocupar cadeiras, consolidando um círculo fechado de poder que se perpetua por gerações.
+
+Os senadores utilizam o Senado para desviar impostos e tributos opressivos diretamente para seus cofres, criando leis e decretos calculados exclusivamente para reforçar seus privilégios e aumentar o controle sobre recursos vitais. Esse corpo político mantém o controle absoluto sobre Airy ao utilizar o Imperador como uma marionete de carne, um clone desprovido de vontade própria que serve apenas para legitimar a burocracia estatal e a dominação da elite.
+
+A relação entre o Senado e a nobreza tradicional é descrita como um "casamento de conveniência" ou "equilíbrio de podridões". Enquanto os nobres fornecem o prestígio dos títulos e o mito da tradição, os senadores controlam o dinheiro, os decretos e as leis. Através de uma burocracia sufocante, o Senado despoja lentamente as casas nobres de sua autonomia, tornando-as dependentes de verbas, licenças e favores do Estado.
+
+Historicamente, o embrião do Senado surgiu da elite política de [Ypy](reinos-vassalos/ypy.md), que redescobriu o Espelho Sangral nos arquivos esquecidos de [Aslareth](../reinos/aslareth.md) para fabricar uma linhagem imperial fictícia (os Áureo) e garantir que o poder nunca saísse de suas mãos após a morte do fundador Áureo I. Para garantir a estabilidade desse regime e o silêncio da população, o Senado conta com o aparato da [Ordem dos Arcanos Imperiais](../faccoes/arcanos-imperiais/index.md), que atua como uma polícia secreta protegendo os segredos do Estado e eliminando dissidentes sob a justificativa de manter a ordem.
+
+Em última análise, o Senado transformou o governo em uma ferramenta de manutenção de privilégios, onde a corrupção é o combustível e a população é doutrinada a aceitar a opressão como normalidade divina, servindo como "massa de manobra" para sustentar uma elite parasitária.

@@ -1,0 +1,7 @@
+# Raquel Amarati Soldado do Exército de Poranga
+
+*Origem: [Poranga](../../imperio/reinos-vassalos/poranga.md)*
+
+Raquel Aramati pertence a linhagem daqueles que um dia foram agraciados pelos espíritos vivos desconhecidos das miríades, uma combatente nascida em um reino matriarcal, contudo os Ní-guarás são tradicionalmente patriarcais sendo raro suas exceções, mas como o povo Ní-guará mesmo diz “A guerra torna todos iguais” então sua educação como guerreira do exército pacifico lhe foi garantida. De natureza forte mas ainda sim feminina. Veste-se geralmente de fardas pretas ou verdes, nunca usou véu sobre seu rosto pois nunca teve um noivo. Sua vida não possui tragédias, com exceção das pessoas que pedem socorro ao reino de Poranga. Relatos de Abaités criminosos e membros do crime organizado lhe fazem ouriçar os pelos, mas além deles tem a terrível ameaça dos Auças mas nunca chegou a lutar com um até hoje, mas ultimamente ela teve que se aprimorar nos seus treinos noturnos e locais onde o Sol não pode chegar facilmente, Mortos-Vivos preferem o escuro, apesar da vantagem diurna, sua missão passada exigiu que se prepara-se para um ataque preventivo ou em situações onde fosse necessário entrar no reduto dos Mortos-Vivos.
+
+Raquel tem pouca paciência com a Nobreza pois os Clãs dos Mortos se consideravam maiores do que as Tribos Vivas, mas ela nem sempre é hostil com bons nobres (embora seja desconfiada a princípio).

@@ -1,0 +1,7 @@
+# Antonius Guerra “Marechal do Exército Imperial”
+
+*Origem: [Ypy](../../imperio/reinos-vassalos/ypy.md)*
+
+Aristocrata que cresceu na corte do imperador desde cedo foi treinado para liderar exércitos em batalha como é de costume na sua família. Conhecido como Toni Guerra, é Marechal do Exército Imperial em tempos de guerra e controla as forças do império contra inimigos poderosos. O Príncipe de Ypy, futuro imperador, teve um caso e um filho com Selphie KULL (de [Kisé](../../imperio/reinos-vassalos/kise.md)) prometida em casamento para Haddes Guerra, futuro senhor de YPITURUY. O Reino declarou guerra contra Ypy e o Império, se uniu a eles KALUANA, que não estavam satisfeitos com a política do império em relação aos produtos do reino e NAMBIQUARA por interesse de aumentar as suas terras., teve início a Guerra contra Ypy. No mesmo instante o povo de  [Aisó](../../imperio/reinos-vassalos/aiso.md), [Camuá](../../imperio/reinos-vassalos/camua.md) e [Poranga](../../imperio/reinos-vassalos/poranga.md), fartos em serem explorados pelo império a ceder sua produção de comida e produção de armas para abastecer a guerra, se rebelaram e ocorreu uma guerra do povo contra os reis que permitiram isso, é a guerra civil.
+
+Esse é o panorama que Tony Guerra tem que lidar atualmente liderando o Exército de Ypy, defendendo seu juramento e lutando contra sua própria nação e ainda lidando com a guerra civil contra o seu exército.

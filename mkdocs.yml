@@ -1,132 +1,395 @@
 site_name: Wiki Arcano & Airy
+site_description: Cenário de RPG, HQs e romances — Arcano & Airy, por Rodrigo Mataro
 site_url: https://M4T4R0.github.io/wiki-arcano/
+docs_dir: docs
 theme:
   name: material
+  language: pt-BR
   palette:
     - scheme: default
       primary: indigo
+      toggle: {icon: material/weather-night, name: Modo escuro}
     - scheme: slate
       primary: indigo
+      toggle: {icon: material/weather-sunny, name: Modo claro}
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - navigation.path
     - search.highlight
     - search.suggest
+    - toc.follow
     - content.code.copy
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - tables
+  - toc:
+      permalink: true
 nav:
-  - Início: index.md
-  - Visão Geral: visao-geral.md
-  - Lore:
-    - Criação: lore/criacao.md
-  - Geografia:
-    - Regiões: geografia/regioes/index.md
-    - Mapa Mundi: geografia/mapa-mundi.md
-  - História:
-    - Eras: history/timeline.md
-    - Timeline: history/eras.md
-  - Raças:
-    - Todas as Raças: races/todas-racas.md
-    - Os Povos: races/individual/os-povos.md
-    - Icamiabas: races/individual/as-icamiabas.md
-    - Gnól: races/individual/gnól.md
-    - Goblinoides: races/individual/goblinoides.md
-    - Licantropos: races/individual/licantropos.md
-    - Meio-Anão: races/individual/meio-anão.md
-    - Meio-Elfos: races/individual/meio-elfos.md
-    - Meio-Orc: races/individual/meio-orc.md
-    - Minotauros: races/individual/minotauros.md
-    - Os Abaquar: races/individual/os-abaquar.md
-    - Os Anões Akitã: races/individual/os-anões-akitã.md
-    - Os Auçás: races/individual/os-auçá-1-ponto.md
-    - Os Elfos Abaré: races/individual/os-elfos-abaré.md
-    - Os Gnomos Piquira: races/individual/os-gnomos-piquira.md
-    - Os Halflings Kaapora: races/individual/os-halflings-kaapora.md
-    - Os Humanos Aba: races/individual/os-humanos-aba.md
-    - Os Kemonos Yawara: races/individual/os-kemonos-yawara-1-ponto.md
-    - Os Meio-Gigantes Anaiti: races/individual/os-meio-gigantes-anaiti.md
-    - Os Orcs Abaité: races/individual/os-orcs-abaité.md
-    - Reptantes: races/individual/reptantes.md
-  - Magia:
-    - Sistema de Magia: magic/sistema-de-magia.md
-    - Mana: magic/mana.md
-    - Trevas: magic/trevas.md
-  - Reinos:
-    - Ypy: locations/ypy.md
-    - Kisé: locations/kise.md
-    - Moacuba: locations/moacuba.md
-    - Aratama: locations/aratama.md
-    - Aisó: locations/aiso.md
-    - Camuá: locations/camua.md
-    - Jurubatiba: locations/jurubatiba.md
-    - Kaluana: locations/kaluana.md
-    - Nambiquara: locations/nambiquara.md
-    - Ypiturui: locations/ypiturui.md
-    - Sam-Mael: locations/sam-mael.md
-    - Elfin: locations/elfin.md
-    - Andirá: locations/andira.md
-    - Fortuna: locations/fortuna.md
-    - Naur'Ush: locations/naurush.md
-    - Terra Selvagem: locations/terra-selvagem.md
-    - Terras dos Auçá: locations/terras-auca.md
-    - Tiba: locations/tiba.md
-    - Ybi: locations/ybi.md
-    - Yby: locations/yby.md
-    - Ybytu: locations/ybytu.md
-    - Yu: locations/yu.md
-    - Acag: locations/acag.md
-    - Landé: locations/lande.md
-    - Mbaê: locations/mbae.md
-    - Arani: locations/arani.md
-    - Avista: locations/avista.md
-    - Araxá: locations/araxa.md
-    - Irundyna: locations/irundyna.md
-  - Facções:
-    - Império Aba: factions/imperio-aba.md
-    - Ordem dos Arcanos: factions/ordem-arcanos-imperiais.md
-    - Ordem dos Senhores do Escudo: factions/ordem-senhores-escudo.md
-    - Guilda da Era: factions/guilda-era.md
-    - Estados Tampões: factions/estados-tampoees.md
-    - Cavaleiros:
-      - Visão Geral dos Cavaleiros: factions/cavaleiros.md
-      - Cavaleiros de Aurora: factions/Regimentos/aurora.md
-      - Cavaleiros do Fôlego Infernal: factions/Regimentos/folego.md
-      - Intendentes: factions/Regimentos/intendentes.md
-      - Cavaleiros do Limiar: factions/Regimentos/limiar.md
-      - Ossaria Silenciosa: factions/Regimentos/ossaria.md
-      - Cavaleiros da Vigília: factions/Regimentos/vigília.md
-  - Personagens:
-    - Visão Geral (NPCs): npcs/index.md
-    - Índice Individual: npcs/individual/index.md
-    - Arthur Áureo: npcs/individual/arthur-áureo-general-imperador.md
-    - Áureo I: npcs/individual/áureo-i-fundador-do-império.md
-    - Baley Ell: npcs/individual/baley-ell-curandeiro-do-imperador.md
-    - Belero Leroy: npcs/individual/belero-leroy-oráculo-de-moá-mago-vidente.md
-    - Casa Agar: npcs/individual/casa-agar.md
-    - Casa Kalan: npcs/individual/casa-kalan.md
-    - Dragnovith Uller: npcs/individual/dragnovith-uller-arquimago-imperial.md
-    - Elros Palantír: npcs/individual/elros-palantír-mago-glacial-abaré.md
-    - Escuridão: npcs/individual/escuridão-entidade-da-infestação.md
-    - Faraós de Ybi: npcs/individual/faraós-de-ybi.md
-    - Guarda Açã: npcs/individual/guarda-açã.md
-    - Homem-Leão: npcs/individual/homem-leão.md
-    - Huck Hor: npcs/individual/huck-hor-comandante-da-cavalaria.md
-    - Imperador Deziel Áureo: npcs/individual/imperador-deziel-áureo.md
-    - Karnos Minor: npcs/individual/karnos-minor-arquimago-faraó-de-ybi.md
-    - Luna Lin: npcs/individual/luna-lin-amazona.md
-    - Mal: npcs/individual/mal-mago-da-torre-de-obsidiana.md
-    - Meio-Elfos Caçadores: npcs/individual/meio-elfos-caçadores-de-magos-arcanos.md
-    - Misty As-La: npcs/individual/misty-as-la-arquimago-possível-mal.md
-    - Paladinos de Aisó: npcs/individual/paladinos-de-aisó.md
-    - Purpleskull Arc: npcs/individual/purpleskull-arc-mestre-das-sombras.md
-    - Rei Mictian: npcs/individual/rei-mictian-auçá.md
-    - Ror: npcs/individual/ror-general-auçá-fundador-de-naurus.md
-    - Sidius: npcs/individual/sidius-acemira-dos-auçá.md
-    - Stigin Nato: npcs/individual/stigin-nato-taverneiro-fundador.md
-    - Sucelus: npcs/individual/sucelus.md
-    - Vlad Dracul: npcs/individual/vlad-dracul.md
-  - Livro: ARCANO_COMPLETO.md
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://blogspot.com
+  - "Início": index.md
+  - "Introdução": introducao.md
+  - "Lore e Cosmologia":
+    - lore/index.md
+    - "O Mito da Criação": lore/criacao.md
+    - "Os Planos de Existência": lore/planos-de-existencia.md
+  - "O Mundo":
+    - mundo/index.md
+    - "O Mundo": mundo/o-mundo.md
+    - "Locais de Interesse": mundo/locais-de-interesse.md
+    - "O Templo do Conhecimento": mundo/templo-do-conhecimento.md
+    - "Floresta Ka’aqwy": mundo/floresta-kaaqwy.md
+    - "Mundo Interior": mundo/mundo-interior.md
+    - "Deserto Açu": mundo/deserto-acu.md
+    - "Montes Brancos": mundo/montes-brancos.md
+    - "Terra dos Kaapora": mundo/terra-dos-kaapora.md
+    - "Terra Selvagem": mundo/terra-selvagem.md
+    - "O Reino Submerso": mundo/reino-submerso.md
+    - "As Ruínas de Ratanaba": mundo/ruinas-de-ratanaba.md
+  - "História":
+    - historia/index.md
+    - "A Era do Esquecimento": historia/era-do-esquecimento.md
+    - "A Invenção de Arthur Áureo": historia/invencao-de-arthur-aureo.md
+    - "Linha do Tempo de Airy": historia/linha-do-tempo-de-airy.md
+    - "A Era do Império": historia/era-do-imperio.md
+    - "Linha do Tempo de Aslareth": historia/linha-do-tempo-de-aslareth.md
+  - "Povos":
+    - povos/index.md
+    - "Humanos Aba": povos/humanos-aba.md
+    - "Elfos Abaré": povos/elfos-abare.md
+    - "Meio-Elfos": povos/meio-elfos.md
+    - "Anões Akitã": povos/anoes-akita.md
+    - "Halflings Kaapora": povos/halflings-kaapora.md
+    - "Gnomos Piquira": povos/gnomos-piquira.md
+    - "Kemonos Yawara": povos/kemonos-yawara.md
+    - "Orcs Abaité": povos/orcs-abaite.md
+    - "Meio-Orc": povos/meio-orc.md
+    - "Licantropos": povos/licantropos.md
+    - "Meio-Gigantes Anaiti": povos/meio-gigantes-anaiti.md
+    - "Auçá": povos/auca.md
+    - "Abaquar": povos/abaquar.md
+    - "Icamiabas": povos/icamiabas.md
+    - "Reptantes": povos/reptantes.md
+    - "Minotauros": povos/minotauros.md
+    - "Gnól": povos/gnol.md
+    - "Goblinoides": povos/goblinoides.md
+  - "O Império":
+    - imperio/index.md
+    - "Os Símbolos Imperiais": imperio/simbolos-imperiais.md
+    - "A História do Império": imperio/historia-do-imperio.md
+    - "Organização Política": imperio/organizacao-politica.md
+    - "O Imperador": imperio/o-imperador.md
+    - "A Corte": imperio/a-corte.md
+    - "Relação dos Nobres com a Política": imperio/nobres-e-politica.md
+    - "Democracia": imperio/democracia.md
+    - "Ministérios": imperio/ministerios.md
+    - "Política do Império": imperio/politica-do-imperio.md
+    - "O Senado": imperio/o-senado.md
+    - "O Plenário do Senado Imperial": imperio/plenario-do-senado.md
+    - "O Paralelo Histórico": imperio/paralelo-historico.md
+    - "A Máquina de Propaganda Estatal": imperio/maquina-de-propaganda.md
+    - "Cargos Públicos mais Importantes": imperio/cargos-publicos.md
+    - "O Trabalho no Império": imperio/trabalho.md
+    - "A Educação no Império": imperio/educacao.md
+    - "Estados Tampões":
+      - imperio/estados-tampoes/index.md
+      - "A Área da Infestação": imperio/estados-tampoes/area-da-infestacao.md
+      - "A Terra dos Pistoleiros": imperio/estados-tampoes/terra-dos-pistoleiros.md
+      - "A Terra de Ninguém": imperio/estados-tampoes/terra-de-ninguem.md
+      - "Território Pacificado": imperio/estados-tampoes/territorio-pacificado.md
+      - "Vale dos Condenados": imperio/estados-tampoes/vale-dos-condenados.md
+    - "Reinos Vassalos":
+      - imperio/reinos-vassalos/index.md
+      - "Ypy": imperio/reinos-vassalos/ypy.md
+      - "Kisé": imperio/reinos-vassalos/kise.md
+      - "Moacuba": imperio/reinos-vassalos/moacuba.md
+      - "Aratama": imperio/reinos-vassalos/aratama.md
+      - "Aisó": imperio/reinos-vassalos/aiso.md
+      - "Camuá": imperio/reinos-vassalos/camua.md
+      - "Jurubatiba": imperio/reinos-vassalos/jurubatiba.md
+      - "Kaluana": imperio/reinos-vassalos/kaluana.md
+      - "Nambiquara": imperio/reinos-vassalos/nambiquara.md
+      - "Poranga": imperio/reinos-vassalos/poranga.md
+      - "Ypiturui": imperio/reinos-vassalos/ypiturui.md
+  - "Reinos e Cidades fora do Império":
+    - reinos/index.md
+    - "Reino dos Abaré": reinos/reino-dos-abare.md
+    - "Elfin": reinos/elfin.md
+    - "Reino dos Abaquar": reinos/reino-dos-abaquar.md
+    - "Reino dos Piquira": reinos/reino-dos-piquira.md
+    - "Andirá": reinos/andira.md
+    - "Aslareth": reinos/aslareth.md
+    - "As Cidades Livres": reinos/as-cidades-livres.md
+    - "Vul": reinos/vul.md
+    - "Os Magos das Trevas de Vul": reinos/magos-das-trevas-de-vul.md
+    - "Fortuna": reinos/fortuna.md
+    - "Ybytu": reinos/ybytu.md
+    - "Arani": reinos/arani.md
+    - "Tamaya": reinos/tamaya.md
+    - "Mbaê": reinos/mbae.md
+    - "Ybi": reinos/ybi.md
+    - "Acuba": reinos/acuba.md
+    - "Anama": reinos/anama.md
+    - "As Terras dos Auçás": reinos/terras-dos-aucas.md
+    - "Lauré": reinos/laure.md
+    - "Tupãsununga": reinos/tupasununga.md
+    - "Yu": reinos/yu.md
+    - "Tibá": reinos/tiba.md
+    - "Sobá": reinos/soba.md
+  - "Facções":
+    - faccoes/index.md
+    - "Outras Guildas e Facções": faccoes/outras-guildas.md
+    - "Ordem dos Arcanos Imperiais":
+      - faccoes/arcanos-imperiais/index.md
+      - "Cargos da Organização": faccoes/arcanos-imperiais/cargos.md
+      - "Títulos Honorários": faccoes/arcanos-imperiais/titulos-honorarios.md
+      - "Sam-Mael, o Quartel General": faccoes/arcanos-imperiais/sam-mael.md
+      - "Locais Notáveis": faccoes/arcanos-imperiais/locais-notaveis.md
+      - "Personalidades Notáveis": faccoes/arcanos-imperiais/personalidades-notaveis.md
+    - "Os Cavaleiros":
+      - faccoes/cavaleiros/index.md
+      - "Origens e Propósito": faccoes/cavaleiros/origens-e-proposito.md
+      - "Rito do Selo da Alma": faccoes/cavaleiros/rito-do-selo-da-alma.md
+      - "Regimento da Vigília Escarlate": faccoes/cavaleiros/vigilia-escarlate.md
+      - "Regimento da Ossaria Silenciosa": faccoes/cavaleiros/ossaria-silenciosa.md
+      - "Regimento do Fôlego Infernal": faccoes/cavaleiros/folego-infernal.md
+      - "Regimento do Limiar Abissal": faccoes/cavaleiros/limiar-abissal.md
+      - "Regimento da Aurora Fendida": faccoes/cavaleiros/aurora-fendida.md
+      - "Regimento dos Intendentes de Ossavermelha": faccoes/cavaleiros/intendentes-de-ossavermelha.md
+      - "Treinamento dos Cavaleiros": faccoes/cavaleiros/treinamento.md
+    - "Guildas e Facções dos Reinos":
+      - faccoes/guildas/index.md
+      - "Ypy":
+        - "A Guarda Real de Ypy": faccoes/guildas/ypy/a-guarda-real-de-ypy.md
+        - "Rede Telepática Imperial": faccoes/guildas/ypy/rede-telepatica-imperial.md
+      - "Kisé":
+        - "A Era": faccoes/guildas/kise/a-era.md
+      - "Moacuba":
+        - "A ordem dos Senhores do Escudo": faccoes/guildas/moacuba/a-ordem-dos-senhores-do-escudo.md
+      - "Aratama":
+        - "Rilícia": faccoes/guildas/aratama/rilicia.md
+      - "Aisó":
+        - "Templários de Aisó": faccoes/guildas/aiso/templarios-de-aiso.md
+      - "Camuá":
+        - "Organização Mundial do Livre comércio (OMLC)": faccoes/guildas/camua/organizacao-mundial-do-livre-comercio-omlc.md
+        - "Enclave do Ermo": faccoes/guildas/camua/enclave-do-ermo.md
+        - "União Airyana dos Mensageiros": faccoes/guildas/camua/uniao-airyana-dos-mensageiros.md
+      - "Jurubatiba":
+        - "A Ordem dos Estafetas Imperiais": faccoes/guildas/jurubatiba/a-ordem-dos-estafetas-imperiais.md
+        - "A Ordem dos Raxaxin": faccoes/guildas/jurubatiba/a-ordem-dos-raxaxin.md
+      - "Kaluana":
+        - "Aliança dos Lordes": faccoes/guildas/kaluana/alianca-dos-lordes.md
+        - "Ordem da Manopla": faccoes/guildas/kaluana/ordem-da-manopla.md
+      - "Nambiquara":
+        - "A Guilda dos Supay": faccoes/guildas/nambiquara/a-guilda-dos-supay.md
+        - "A Rede das Trevas": faccoes/guildas/nambiquara/a-rede-das-trevas.md
+      - "Poranga":
+        - "Guilda dos Caçadores": faccoes/guildas/poranga/guilda-dos-cacadores.md
+        - "B.O.T.E": faccoes/guildas/poranga/b-o-t-e.md
+        - "A Maré Sombria": faccoes/guildas/poranga/a-mare-sombria.md
+        - "OS AMERÊ": faccoes/guildas/poranga/os-amere.md
+      - "Ypiturui":
+        - "A Guida dos Yaotzin": faccoes/guildas/ypiturui/a-guida-dos-yaotzin.md
+        - "Guarda Açã": faccoes/guildas/ypiturui/guarda-aca.md
+        - "Iviturui (facção)": faccoes/guildas/ypiturui/iviturui-faccao.md
+      - "Elfin":
+        - "Purificadores": faccoes/guildas/elfin/purificadores.md
+        - "Moldadores": faccoes/guildas/elfin/moldadores.md
+      - "Reino dos Abaquar":
+        - "Ordem dos Ventos Eternos": faccoes/guildas/reino-dos-abaquar/ordem-dos-ventos-eternos.md
+        - "Irmandade das Lâminas de Cristal": faccoes/guildas/reino-dos-abaquar/irmandade-das-laminas-de-cristal.md
+        - "Círculo Arcano de Araxá": faccoes/guildas/reino-dos-abaquar/circulo-arcano-de-araxa.md
+        - "Observadores dos Abismos": faccoes/guildas/reino-dos-abaquar/observadores-dos-abismos.md
+        - "Confraria dos Viajantes Celestes": faccoes/guildas/reino-dos-abaquar/confraria-dos-viajantes-celestes.md
+      - "Reino dos Piquira":
+        - "Guilda dos Navegantes Celestes": faccoes/guildas/reino-dos-piquira/guilda-dos-navegantes-celestes.md
+      - "Andirá":
+        - "Ordem dos Ferreiros Eternos": faccoes/guildas/andira/ordem-dos-ferreiros-eternos.md
+      - "Fortuna":
+        - "Guilda Pirata Ondeies": faccoes/guildas/fortuna/guilda-pirata-ondeies.md
+        - "Guilda dos Assassinos": faccoes/guildas/fortuna/guilda-dos-assassinos.md
+      - "Mbaê":
+        - "Círculo das Sombras": faccoes/guildas/mbae/circulo-das-sombras.md
+      - "Ybi":
+        - "Círculo de Karnos": faccoes/guildas/ybi/circulo-de-karnos.md
+      - "Acuba":
+        - "Ordem da Areia Escarlate": faccoes/guildas/acuba/ordem-da-areia-escarlate.md
+        - "Conclave da Água Vital": faccoes/guildas/acuba/conclave-da-agua-vital.md
+  - "Personagens":
+    - personagens/index.md
+    - "Mundo Interior":
+      - "Mebad O Demônio": personagens/mundo-interior/mebad-o-demonio.md
+    - "Terra Selvagem":
+      - "Vulcazar": personagens/terra-selvagem/vulcazar.md
+      - "Monkruul O Orc": personagens/terra-selvagem/monkruul-o-orc.md
+      - "Nathea": personagens/terra-selvagem/nathea.md
+      - "SirKryiit Irayzorth": personagens/terra-selvagem/sirkryiit-irayzorth.md
+    - "Ypy":
+      - "Imperador Deziel Áureo XIV": personagens/ypy/imperador-deziel-aureo-xiv.md
+      - "Antonius Guerra “Marechal do Exército Imperial”": personagens/ypy/antonius-guerra-marechal-do-exercito-imperial.md
+      - "Fawkes": personagens/ypy/fawkes.md
+      - "Azeron (Rasyl Azeron Dellarier)": personagens/ypy/azeron-rasyl-azeron-dellarier.md
+      - "Sani Dellarier": personagens/ypy/sani-dellarier.md
+      - "Mordigueiro": personagens/ypy/mordigueiro.md
+      - "Senhora Marmana": personagens/ypy/senhora-marmana.md
+      - "Charles": personagens/ypy/charles.md
+      - "Meri": personagens/ypy/meri.md
+      - "Murilo": personagens/ypy/murilo.md
+      - "Razar e Dafar": personagens/ypy/razar-e-dafar.md
+      - "Sir Habbor": personagens/ypy/sir-habbor.md
+      - "Capelobo": personagens/ypy/capelobo.md
+      - "Durell Azeron": personagens/ypy/durell-azeron.md
+      - "Carolaine Azeron Dellarier": personagens/ypy/carolaine-azeron-dellarier.md
+      - "Pai de Azeron": personagens/ypy/pai-de-azeron.md
+      - "Avô de Azeron": personagens/ypy/avo-de-azeron.md
+      - "Vekann": personagens/ypy/vekann.md
+      - "Irial": personagens/ypy/irial.md
+      - "Imperador (Clone/Deziel Áureo XIV)": personagens/ypy/imperador-clone-deziel-aureo-xiv.md
+      - "Professor Vahr Droskin, Professor Quor, Professor Aldren Veynor": personagens/ypy/professor-vahr-droskin-professor-quor-professor-aldren-veynor.md
+      - "Sírio Filaucioso": personagens/ypy/sirio-filaucioso.md
+      - "Joane": personagens/ypy/joane.md
+      - "Dalibor": personagens/ypy/dalibor.md
+      - "Victor Frankenstein": personagens/ypy/victor-frankenstein.md
+      - "Elara Arken": personagens/ypy/elara-arken.md
+    - "Kisé":
+      - "Kei Tai Taekwon": personagens/kise/kei-tai-taekwon.md
+      - "Tenebroso": personagens/kise/tenebroso.md
+      - "Lauriel Lyunar, Guerreiro/Ladino": personagens/kise/lauriel-lyunar-guerreiro-ladino.md
+      - "Enzo Herói dos Ventos": personagens/kise/enzo-heroi-dos-ventos.md
+    - "Moacuba":
+      - "Cassaruman": personagens/moacuba/cassaruman.md
+      - "O Oráculo de Moa Acadêmico, Elementalista das Trevas 55S": personagens/moacuba/o-oraculo-de-moa-academico-elementalista-das-trevas-55s.md
+      - "Dante o Espadachim": personagens/moacuba/dante-o-espadachim.md
+      - "Hawke Stark": personagens/moacuba/hawke-stark.md
+      - "Vallem Ark": personagens/moacuba/vallem-ark.md
+    - "Aratama":
+      - "Caraça": personagens/aratama/caraca.md
+      - "Axym the Traveler’s Song": personagens/aratama/axym-the-travelers-song.md
+      - "Máscara da Morte": personagens/aratama/mascara-da-morte.md
+    - "Camuá":
+      - "Eryndor dos Ermos": personagens/camua/eryndor-dos-ermos.md
+      - "Velyra Folhassangue": personagens/camua/velyra-folhassangue.md
+      - "Kaelen Sombravigor": personagens/camua/kaelen-sombravigor.md
+      - "Rocca, a Geomante": personagens/camua/rocca-a-geomante.md
+    - "Jurubatiba":
+      - "Yasmim": personagens/jurubatiba/yasmim.md
+      - "Mack": personagens/jurubatiba/mack.md
+      - "Tom": personagens/jurubatiba/tom.md
+      - "Lincy": personagens/jurubatiba/lincy.md
+      - "Darius": personagens/jurubatiba/darius.md
+      - "Talon": personagens/jurubatiba/talon.md
+      - "Vicenti Vega": personagens/jurubatiba/vicenti-vega.md
+      - "Professora Mirtha Calvess": personagens/jurubatiba/professora-mirtha-calvess.md
+      - "Professor Fonseca": personagens/jurubatiba/professor-fonseca.md
+    - "Kaluana":
+      - "Dhalvar Ioreth, Senhor do Abismo de Verne": personagens/kaluana/dhalvar-ioreth-senhor-do-abismo-de-verne.md
+      - "Elmyra Heskain, Matriarca da Chama Trêmula": personagens/kaluana/elmyra-heskain-matriarca-da-chama-tremula.md
+      - "Karven do Sal Morto, Emissário das Rotas Setentrionais": personagens/kaluana/karven-do-sal-morto-emissario-das-rotas-setentrionais.md
+      - "Helyon da Lâmina Silente": personagens/kaluana/helyon-da-lamina-silente.md
+      - "Sorelia Cintilabruma": personagens/kaluana/sorelia-cintilabruma.md
+      - "Padre Kaer Harth, A Luz Queimada": personagens/kaluana/padre-kaer-harth-a-luz-queimada.md
+      - "Craven Darkwood": personagens/kaluana/craven-darkwood.md
+    - "Nambiquara":
+      - "Sahrak, o Inominado": personagens/nambiquara/sahrak-o-inominado.md
+      - "Vharos Kinraal": personagens/nambiquara/vharos-kinraal.md
+      - "Kyllen Dargash": personagens/nambiquara/kyllen-dargash.md
+      - "Phry-Dhon Mago do caos": personagens/nambiquara/phry-dhon-mago-do-caos.md
+    - "Poranga":
+      - "Raquel Amarati Soldado do Exército de Poranga": personagens/poranga/raquel-amarati-soldado-do-exercito-de-poranga.md
+      - "Amanda, Guerreira, Garras de Gaia": personagens/poranga/amanda-guerreira-garras-de-gaia.md
+    - "Ypiturui":
+      - "Rei Mictian Guerra": personagens/ypiturui/rei-mictian-guerra.md
+      - "Sir Sucelus": personagens/ypiturui/sir-sucelus.md
+      - "Shizoto Guerreiro Yaotzin": personagens/ypiturui/shizoto-guerreiro-yaotzin.md
+    - "A Terra dos Pistoleiros":
+      - "Os Coronéis": personagens/terra-dos-pistoleiros/os-coroneis.md
+      - "Procurados": personagens/terra-dos-pistoleiros/procurados.md
+    - "A Terra de Ninguém":
+      - "Abator": personagens/terra-de-ninguem/abator.md
+      - "O Duelista Arsenal": personagens/terra-de-ninguem/o-duelista-arsenal.md
+      - "A prefeita": personagens/terra-de-ninguem/a-prefeita.md
+      - "General do Exército imperial": personagens/terra-de-ninguem/general-do-exercito-imperial.md
+    - "Território Pacificado":
+      - "General Aurak Veylin": personagens/territorio-pacificado/general-aurak-veylin.md
+      - "Elder Kira": personagens/territorio-pacificado/elder-kira.md
+      - "Mestre Arcano Raelith": personagens/territorio-pacificado/mestre-arcano-raelith.md
+      - "Comandante Orvak": personagens/territorio-pacificado/comandante-orvak.md
+      - "Elder Ssyth": personagens/territorio-pacificado/elder-ssyth.md
+      - "Xalira do Vale do Eco": personagens/territorio-pacificado/xalira-do-vale-do-eco.md
+      - "Mestre Curandeiro Abeni": personagens/territorio-pacificado/mestre-curandeiro-abeni.md
+      - "Gnorak das Sombras": personagens/territorio-pacificado/gnorak-das-sombras.md
+    - "Elfin":
+      - "Thia, A Andarilha das Fronteiras": personagens/elfin/thia-a-andarilha-das-fronteiras.md
+      - "Caranthir, o Purificador": personagens/elfin/caranthir-o-purificador.md
+      - "Os Anciões": personagens/elfin/os-ancioes.md
+      - "O Grande Moldador": personagens/elfin/o-grande-moldador.md
+      - "Elros Palantír Mago Glacial": personagens/elfin/elros-palantir-mago-glacial.md
+    - "Reino dos Piquira":
+      - "Kale": personagens/reino-dos-piquira/kale.md
+    - "Andirá":
+      - "Blain Yumir": personagens/andira/blain-yumir.md
+    - "Os Magos das Trevas de Vul":
+      - "Uzir Wraek": personagens/magos-das-trevas-de-vul/uzir-wraek.md
+    - "Fortuna":
+      - "Yasara Barborossa": personagens/fortuna/yasara-barborossa.md
+      - "A Tripulação do Estafeta Voador": personagens/fortuna/a-tripulacao-do-estafeta-voador.md
+      - "Capitão do Estafeta Voador": personagens/fortuna/capitao-do-estafeta-voador.md
+      - "Baitazar, Primeiro Imediato": personagens/fortuna/baitazar-primeiro-imediato.md
+      - "Holgar": personagens/fortuna/holgar.md
+      - "Talo": personagens/fortuna/talo.md
+      - "Tomliriam": personagens/fortuna/tomliriam.md
+      - "Porradão": personagens/fortuna/porradao.md
+      - "Druuro": personagens/fortuna/druuro.md
+      - "Semente da Escuridão": personagens/fortuna/semente-da-escuridao.md
+      - "Burquem": personagens/fortuna/burquem.md
+    - "Ybi":
+      - "Karnos Minor Faraó Ybi": personagens/ybi/karnos-minor-farao-ybi.md
+      - "Gorgo": personagens/ybi/gorgo.md
+    - "Acuba":
+      - "Sultana Shareenah Yan": personagens/acuba/sultana-shareenah-yan.md
+    - "Anama":
+      - "Leafar, o pequeno ladrão": personagens/anama/leafar-o-pequeno-ladrao.md
+    - "As Terras dos Auçás":
+      - "Acemira Sidius": personagens/terras-dos-aucas/acemira-sidius.md
+      - "Rakrai O Herói Auçá": personagens/terras-dos-aucas/rakrai-o-heroi-auca.md
+      - "Farfa": personagens/terras-dos-aucas/farfa.md
+      - "O grupo Heróis Auçá": personagens/terras-dos-aucas/o-grupo-herois-auca.md
+      - "Thybaut Ladino": personagens/terras-dos-aucas/thybaut-ladino.md
+      - "Evelot Guerreiro": personagens/terras-dos-aucas/evelot-guerreiro.md
+      - "Frileif Guerreiro Glacial": personagens/terras-dos-aucas/frileif-guerreiro-glacial.md
+      - "Drylameia Maga de Combate": personagens/terras-dos-aucas/drylameia-maga-de-combate.md
+      - "Kroutrera Magoa": personagens/terras-dos-aucas/kroutrera-magoa.md
+    - "Ordem dos Arcanos Imperiais":
+      - "AHRIMAM Arqui Mestre dos Arcanos Imperiais": personagens/arcanos-imperiais/ahrimam-arqui-mestre-dos-arcanos-imperiais.md
+      - "ANTARIUS, Gram Mestre da Ordem dos Arcanos Imperiais": personagens/arcanos-imperiais/antarius-gram-mestre-da-ordem-dos-arcanos-imperiais.md
+      - "MORBIUS, O Lich": personagens/arcanos-imperiais/morbius-o-lich.md
+      - "IGNATIUS, o Arcano da Coragem, o Primeiro Necromecha": personagens/arcanos-imperiais/ignatius-o-arcano-da-coragem-o-primeiro-necromecha.md
+      - "A História dos Três Magos Mais Poderosos da Ordem dos Arcanos Imperiais": personagens/arcanos-imperiais/a-historia-dos-tres-magos-mais-poderosos-da-ordem-dos-arcanos-imperiais.md
+      - "Nimithileth e Fainithileth": personagens/arcanos-imperiais/nimithileth-e-fainithileth.md
+  - "Ameaças":
+    - ameacas/index.md
+    - "Misty As-La": ameacas/misty-as-la.md
+    - "Eligos, o Primeiro Duque do Inferno": ameacas/eligos.md
+    - "Vlad Dracul, o Mago das Trevas Vampiro": ameacas/vlad-dracul.md
+    - "Perigos Regionais": ameacas/perigos-regionais.md
+    - "A Legião Goblinóide": ameacas/legiao-goblinoide.md
+    - "A Horda de Orcs": ameacas/horda-de-orcs.md
+    - "O Levante Táurico": ameacas/levante-taurico.md
+    - "A Alcatéia Gnól": ameacas/alcateia-gnol.md
+    - "Fauna de Airy": ameacas/fauna-de-airy.md
+  - "Artefatos":
+    - artefatos/index.md
+    - "Aliados Conjurados": artefatos/aliados-conjurados.md
+    - "As Armaduras Lendárias": artefatos/armaduras-lendarias.md
+    - "Veículos": artefatos/veiculos.md
+  - "Magia":
+    - magia/index.md
+    - "Escola Física": magia/escola-fisica.md
+    - "Escola Alquímica": magia/escola-alquimica.md
+    - "Escola Natural": magia/escola-natural.md
+    - "Escola Abstrata": magia/escola-abstrata.md
+    - "Anti-Fonemas": magia/anti-fonemas.md
+    - "Novas Magias": magia/novas-magias.md

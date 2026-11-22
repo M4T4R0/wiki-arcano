@@ -2,15 +2,18 @@ name: Deploy Wiki
 on:
   push:
     branches: [main]
+permissions:
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: {python-version: '3.x'}
-      - run: pip install mkdocs mkdocs-material
-      - run: mkdocs build --site-dir site
+        with: {python-version: '3.12'}
+      # mkdocs<2: a versão 2.0 quebra plugins e temas do Material
+      - run: pip install "mkdocs<2" mkdocs-material
+      - run: mkdocs build --strict --site-dir site
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
