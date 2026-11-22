@@ -1,6 +1,6 @@
 # Belero Leroy
 
-> **Oráculo de Moá / Mago Vampiro** — Vampiro (ex-Humano) | Mago + Vampiro / Oráculo | Moacuba | Oráculo de Moá / Moacuba
+> **Oráculo de Moá / Mago Vampiro** — Vampiro (ex-Humano) | Mago + Vampiro / Oráculo | [moacuba](../../factions/reinos/moacuba.md) | Oráculo de Moá / [moacuba](../../factions/reinos/moacuba.md)
 
 ---
 
@@ -37,9 +37,9 @@
 
 ## 📜 Lore e História
 
-* **Moacuba**, domínio de *Belero Leroy*, mago transformado em vampiro, agora conhecido como *Oráculo de Moá*, que sussurra segredos que nem os mortos deveriam ouvir.
+* **[moacuba](../../factions/reinos/moacuba.md)**, domínio de *Belero Leroy*, mago transformado em vampiro, agora conhecido como *Oráculo de Moá*, que sussurra segredos que nem os mortos deveriam ouvir.
 
-**\-8 anos:** Moacuba é fundada por Belero Leroy (atualmente Mago Vampiro é conhecido como o Oráculo de Moá).
+**\-8 anos:** [moacuba](../../factions/reinos/moacuba.md) é fundada por Belero Leroy (atualmente Mago Vampiro é conhecido como o Oráculo de Moá).
 
 * **O Oráculo de Moá (Belero)** profetiza a volta de [misty as-la](misty-as-la-arquimago-possível-mal.md) para reivindicar o império, gerando temor entre os regentes.
 

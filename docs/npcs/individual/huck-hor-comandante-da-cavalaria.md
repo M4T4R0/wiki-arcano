@@ -1,6 +1,6 @@
 # Huck Hor
 
-> **Comandante da Cavalaria / Fundador de Kaluana** — Humano | Guerreiro (Cavaleiro) + Comandante | Kaluana | [kaluana](../../factions/reinos/kaluana.md) / Império
+> **Comandante da Cavalaria / Fundador de [kaluana](../../factions/reinos/kaluana.md)** — Humano | Guerreiro (Cavaleiro) + Comandante | [kaluana](../../factions/reinos/kaluana.md) | [kaluana](../../factions/reinos/kaluana.md) / Império
 
 ---
 

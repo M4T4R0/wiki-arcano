@@ -27,6 +27,36 @@ nav:
   - Facções:
     - Império Aba: factions/imperio-aba.md
     - Ordem dos Arcanos: factions/ordem-arcanos-imperiais.md
+  - Reinos:
+    - Ypy: locations/ypy.md
+    - Kisé: locations/kise.md
+    - Moacuba: locations/moacuba.md
+    - Aratama: locations/aratama.md
+    - Aisó: locations/aiso.md
+    - Camuá: locations/camua.md
+    - Jurubatiba: locations/jurubatiba.md
+    - Kaluana: locations/kaluana.md
+    - Nambiquara: locations/nambiquara.md
+    - Ypiturui: locations/ypiturui.md
+    - Sam-Mael: locations/sam-mael.md
+    - Elfin: locations/elfin.md
+    - Andirá: locations/andira.md
+    - Fortuna: locations/fortuna.md
+    - Naur'Ush: locations/naurush.md
+    - Terra Selvagem: locations/terra-selvagem.md
+    - Terras dos Auçá: locations/terras-auca.md
+    - Tiba: locations/tiba.md
+    - Ybi: locations/ybi.md
+    - Yby: locations/yby.md
+    - Ybytu: locations/ybytu.md
+    - Yu: locations/yu.md
+    - Acag: locations/acag.md
+    - Landé: locations/lande.md
+    - Mbaê: locations/mbae.md
+    - Arani: locations/arani.md
+    - Avista: locations/avista.md
+    - Araxá: locations/araxa.md
+    - Irundyna: locations/irundyna.md
   - Geografia:
     - Mapa Mundi: geografia/mapa-mundi.md
   - História:
