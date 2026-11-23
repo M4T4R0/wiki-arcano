@@ -28,20 +28,10 @@
    "nome": "Deserto Açu",
    "alvo": "DESERTO AÇU",
    "caixa": [
-    546,
-    170,
-    666,
-    254
-   ]
-  },
-  {
-   "nome": "Ybi",
-   "alvo": "Ybi",
-   "caixa": [
-    605,
-    17,
-    650,
-    48
+    535,
+    124,
+    655,
+    206
    ]
   },
   {
@@ -178,10 +168,10 @@
    "nome": "Área Pacificada",
    "alvo": "Território Pacificado",
    "caixa": [
-    216,
-    667,
-    272,
-    702
+    211,
+    652,
+    267,
+    687
    ]
   },
   {
@@ -402,6 +392,26 @@
     728,
     814,
     753
+   ]
+  },
+  {
+   "nome": "Ybi (lado do mar)",
+   "alvo": "Ybi",
+   "caixa": [
+    666,
+    150,
+    711,
+    181
+   ]
+  },
+  {
+   "nome": "Ybi (lado da cordilheira)",
+   "alvo": "Ybi",
+   "caixa": [
+    523,
+    206,
+    568,
+    235
    ]
   }
  ]
